@@ -1,0 +1,686 @@
+# Azerbaijani translation for noise
+# Copyright (c) 2013 Rosetta Contributors and Canonical Ltd 2013
+# This file is distributed under the same license as the noise package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: noise\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-01 10:32+0000\n"
+"PO-Revision-Date: 2015-12-21 13:46+0000\n"
+"Last-Translator: Daniel Fore <Unknown>\n"
+"Language-Team: Azerbaijani <az@li.org>\n"
+"Language: az\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Launchpad-Export-Date: 2017-03-07 05:51+0000\n"
+"X-Generator: Launchpad (build 18330)\n"
+
+#: src/Application.vala:92 src/Views/NowPlayingView.vala:18
+#: src/Views/NowPlayingView.vala:116
+msgid "Music"
+msgstr "Musiqi"
+
+#: src/MainWindow.vala:20
+msgid "Shuffle"
+msgstr ""
+
+#: src/MainWindow.vala:26
+msgid "Search titles in playlist"
+msgstr ""
+
+#: src/MainWindow.vala:45
+msgid "Queue is Empty"
+msgstr ""
+
+#: src/MainWindow.vala:46
+msgid "Audio files opened from Files will appear here"
+msgstr ""
+
+#: src/MainWindow.vala:63
+msgid "Open Files…"
+msgstr ""
+
+#: src/MainWindow.vala:167
+#, c-format
+msgid "%d invalid file was not added to the queue"
+msgid_plural "%d invalid files were not added to the queue"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/MainWindow.vala:215
+#, fuzzy
+#| msgid "All Years"
+msgid "All files"
+msgstr "Bütün İllər"
+
+#: src/MainWindow.vala:220
+#, fuzzy
+#| msgid "Music"
+msgid "Music files"
+msgstr "Musiqi"
+
+#: src/MainWindow.vala:229
+msgid "Open"
+msgstr ""
+
+#: src/MainWindow.vala:233
+msgid "Open audio files"
+msgstr ""
+
+#: src/MainWindow.vala:271
+#, fuzzy
+msgid "Repeat None"
+msgstr "Mahnını təkrarla"
+
+#: src/MainWindow.vala:275
+#, fuzzy
+msgid "Repeat All"
+msgstr "Albomu təkrarla"
+
+#: src/MainWindow.vala:279
+#, fuzzy
+msgid "Repeat One"
+msgstr "Mahnını təkrarla"
+
+#: src/PlaybackManager.vala:136
+#, c-format
+msgid "%d track was added to the queue"
+msgid_plural "%d tracks were added to the queue"
+msgstr[0] ""
+msgstr[1] ""
+
+#. Don't set artist for files without tags
+#: src/PlaybackManager.vala:196
+msgid "Unknown"
+msgstr "Naməlum"
+
+#: src/Views/NowPlayingView.vala:23 src/Views/NowPlayingView.vala:115
+#, fuzzy
+msgid "Not playing"
+msgstr "Yeni playlist"
+
+#: src/Views/NowPlayingView.vala:45
+msgid "Previous"
+msgstr ""
+
+#: src/Views/NowPlayingView.vala:68
+msgid "Next"
+msgstr ""
+
+#: src/Views/NowPlayingView.vala:93
+msgid "Play"
+msgstr ""
+
+#: src/Views/NowPlayingView.vala:96
+msgid "Pause"
+msgstr ""
+
+#~ msgid "Flat"
+#~ msgstr "Düz"
+
+#~ msgid "Classical"
+#~ msgstr "Klassik"
+
+#~ msgid "Club"
+#~ msgstr "Klub"
+
+#~ msgid "Dance"
+#~ msgstr "Rəqs"
+
+#~ msgid "Full Bass"
+#~ msgstr "Full Bass"
+
+#~ msgid "Headphones"
+#~ msgstr "Qulaqcıqlar"
+
+#~ msgid "Large Hall"
+#~ msgstr "Böyük Zal"
+
+#~ msgid "Live"
+#~ msgstr "Canlı"
+
+#~ msgid "Pop"
+#~ msgstr "Pop"
+
+#~ msgid "Reggae"
+#~ msgstr "Reqqi"
+
+#~ msgid "Rock"
+#~ msgstr "Rok"
+
+#~ msgid "Soft"
+#~ msgstr "Yumşaq"
+
+#~ msgid "Ska"
+#~ msgstr "Ska"
+
+#~ msgid "Soft Rock"
+#~ msgstr "Yumşaq Rok"
+
+#~ msgid "Techno"
+#~ msgstr "Texno"
+
+#~ msgid "%s (%d)"
+#~ msgstr "%s (%d)"
+
+#~ msgid "%s (%i)"
+#~ msgstr "%s (%i)"
+
+#~ msgid "Export Playlist"
+#~ msgstr "Playlisti ixrac et"
+
+#~ msgid "Cancel"
+#~ msgstr "Ləğv et"
+
+#~ msgid "Playlist"
+#~ msgstr "Playlist"
+
+#~ msgid "Unrecognized playlist file. Import failed."
+#~ msgstr "Tanınmamış playlist faylı. İdxal alınmadı"
+
+#~ msgid "Android Phone"
+#~ msgstr "Android Phone"
+
+#~ msgid "Import Complete"
+#~ msgstr "İdxal Tamamlandı"
+
+#~ msgid "Preferences"
+#~ msgstr "Xüsusiyyətlər"
+
+#~ msgid "No songs in Queue"
+#~ msgstr "Növbədə mahnı yoxdur"
+
+#~ msgid "No songs in History"
+#~ msgstr "Tarixçədə mahnı yoxdur"
+
+#~ msgid "Import Music"
+#~ msgstr "Musiqi idxal et"
+
+#~ msgctxt "Name of the playlist"
+#~ msgid "Queue"
+#~ msgstr "Növbə"
+
+#~ msgid "Remove Song"
+#~ msgstr "Mahnını sil"
+
+#~ msgid "Choose Music Folder"
+#~ msgstr "Musiqi Qovluğu seç"
+
+#, fuzzy
+#~ msgid "Disc:"
+#~ msgstr "Disk"
+
+#~ msgid "Ignore"
+#~ msgstr "Nəzərə alma"
+
+#~ msgid "Select Music Folder…"
+#~ msgstr "Musiqi Qovluğu seç..."
+
+#, fuzzy
+#~ msgid "Remove %d Song From Library?"
+#~ msgid_plural "Remove %d Songs From Library?"
+#~ msgstr[0] "Kolleksiyadan sil"
+#~ msgstr[1] "Kolleksiyadan sil"
+
+#, fuzzy
+#~ msgid "Remove \"%s\" From Library?"
+#~ msgstr "Kolleksiyadan sil"
+
+#~ msgid "Remove from Library"
+#~ msgstr "Kolleksiyadan sil"
+
+#~ msgid "Export Playlists"
+#~ msgstr "Playlistləri ixrac et"
+
+#~ msgid "all"
+#~ msgstr "hamısı"
+
+#~ msgid "Name of Playlist"
+#~ msgstr "Playlistin adı"
+
+#~ msgid "Rules"
+#~ msgstr "Qaydalar"
+
+#~ msgid "Smart Playlist Editor"
+#~ msgstr "Ağıllı Playlist Redaktoru"
+
+#~ msgid "Remove"
+#~ msgstr "Sil"
+
+#~ msgid "Album"
+#~ msgstr "Albom"
+
+#~ msgid "Artist"
+#~ msgstr "İfaçı"
+
+#~ msgid "Bitrate"
+#~ msgstr "Keyfiyyət"
+
+#~ msgid "Composer"
+#~ msgstr "Bəstəkar"
+
+#~ msgid "Genre"
+#~ msgstr "Janr"
+
+#~ msgid "Length"
+#~ msgstr "Uzunluq"
+
+#~ msgid "Rating"
+#~ msgstr "Reytinq"
+
+#~ msgid "Title"
+#~ msgstr "Başlıq"
+
+#~ msgid "Year"
+#~ msgstr "İl"
+
+#~ msgid "seconds"
+#~ msgstr "saniyə"
+
+#~ msgid "days ago"
+#~ msgstr "gün əvvəl"
+
+#~ msgid "kbps"
+#~ msgstr "kbps"
+
+#~ msgid "Import"
+#~ msgstr "İdxal Et"
+
+#~ msgid "Added to your queue:"
+#~ msgstr "Növbəyə əlavə olunub"
+
+#~ msgid "Favorite Songs"
+#~ msgstr "Sevimli Mahnılar"
+
+#~ msgid "History"
+#~ msgstr "Tarixçə"
+
+#~ msgid "Playlists"
+#~ msgstr "Playlistlər"
+
+#~ msgid "Device Name:"
+#~ msgstr "Cihazın Adı:"
+
+#~ msgid "Device Name"
+#~ msgstr "Cihazın Adı"
+
+#~ msgid "All Music"
+#~ msgstr "Bütün Musiqi"
+
+#~ msgid "Sync Failed"
+#~ msgstr "Sinxronlaşdırma Alınmadı"
+
+#, fuzzy
+#~ msgid "No Results"
+#~ msgstr "Reytinq yoxdur"
+
+#~ msgid "Genres"
+#~ msgstr "Janrlar"
+
+#~ msgid "Artists"
+#~ msgstr "İfaçılar"
+
+#~ msgid "Albums"
+#~ msgstr "Albomlar"
+
+#~ msgid "Years"
+#~ msgstr "İllər"
+
+#~ msgid "Ratings"
+#~ msgstr "Reytinqlər"
+
+#~ msgid "Composers"
+#~ msgstr "Bəstəkarlar"
+
+#~ msgid "All Genres"
+#~ msgstr "Bütün Janrlar"
+
+#~ msgid "All Artists"
+#~ msgstr "Bütün İfaçılar"
+
+#~ msgid "No Artists"
+#~ msgstr "İfaçı yoxdur"
+
+#~ msgid "All Albums"
+#~ msgstr "Bütün Albomlar"
+
+#~ msgid "No Albums"
+#~ msgstr "Albom yoxdur"
+
+#~ msgid "All Ratings"
+#~ msgstr "Bütün Reytinqlər"
+
+#~ msgid "No Ratings"
+#~ msgstr "Reytinq yoxdur"
+
+#~ msgid "All Composers"
+#~ msgstr "Bütün Bəstəkarlar"
+
+#~ msgid "No Composers"
+#~ msgstr "Bəstəkarlar yoxdur"
+
+#~ msgid "Automatic"
+#~ msgstr "Avtomatik"
+
+#~ msgid "Unrated"
+#~ msgstr "Reytinqsiz"
+
+#~ msgid "Never"
+#~ msgstr "Heç vaxt"
+
+#~ msgctxt "List column title"
+#~ msgid "Track"
+#~ msgstr "Parça"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Title"
+#~ msgstr "Başlıq"
+
+#~ msgctxt "List column title"
+#~ msgid "Length"
+#~ msgstr "Uzunluq"
+
+#~ msgctxt "List column title"
+#~ msgid "Artist"
+#~ msgstr "İfaçı"
+
+#~ msgctxt "List column title"
+#~ msgid "Album"
+#~ msgstr "Albom"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Album Artist"
+#~ msgstr "Albom İfaçısı"
+
+#~ msgctxt "List column title"
+#~ msgid "Composer"
+#~ msgstr "Bəstəkar"
+
+#~ msgctxt "List column title"
+#~ msgid "Genre"
+#~ msgstr "Janr"
+
+#~ msgctxt "List column title"
+#~ msgid "Year"
+#~ msgstr "İl"
+
+#~ msgctxt "List column title"
+#~ msgid "Bitrate"
+#~ msgstr "Keyfiyyət"
+
+#~ msgctxt "List column title"
+#~ msgid "Rating"
+#~ msgstr "Reytinq"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Plays"
+#~ msgstr "Playlist"
+
+#~ msgctxt "List column title (beats per minute)"
+#~ msgid "BPM"
+#~ msgstr "BPM"
+
+#, fuzzy
+#~ msgctxt "List column title (file location)"
+#~ msgid "Location"
+#~ msgstr "Yerini təyin et"
+
+#~ msgctxt "List column title"
+#~ msgid "File Size"
+#~ msgstr "Faylın Həcmi"
+
+#~ msgid "1234 kbps"
+#~ msgstr "1234 kbps"
+
+#~ msgid "Import your Music"
+#~ msgstr "Musiqini idxal et"
+
+#~ msgid "Select Music Folder"
+#~ msgstr "Musiqi Qovluğu seç"
+
+#~ msgid "No Songs"
+#~ msgstr "Mahnı yoxdur"
+
+#~ msgid "Edit Smart Playlist"
+#~ msgstr "Ağıılı Playlisti redaktə et"
+
+#, fuzzy
+#~ msgid "Other Actions"
+#~ msgstr "Başqa Fayllar"
+
+#~ msgctxt "Action item (verb)"
+#~ msgid "Queue"
+#~ msgstr "Növbə"
+
+#~ msgid "Add to Playlist"
+#~ msgstr "Playlistə əlavə et"
+
+#, fuzzy
+#~ msgid "Remove Song…"
+#~ msgstr "Mahnını sil"
+
+#~ msgid "Import to Library"
+#~ msgstr "Kolleksiyaya idxal et"
+
+#, fuzzy
+#~ msgid "Remove from Library…"
+#~ msgstr "Kolleksiyadan sil"
+
+#~ msgid "Remove from Device"
+#~ msgstr "Cihazdan sil"
+
+#~ msgid "Remove from Queue"
+#~ msgstr "Növbədən sil"
+
+#~ msgid "New Playlist…"
+#~ msgstr "Yeni Playlist..."
+
+#~ msgid "Import %i song"
+#~ msgid_plural "Import %i songs"
+#~ msgstr[0] "%i mahnı idxal et"
+#~ msgstr[1] "%i mahnı idxal et"
+
+#~ msgid "Rename"
+#~ msgstr "Yenidən Adlandır"
+
+#~ msgid "Edit…"
+#~ msgstr "Redaktə et..."
+
+#~ msgid "Save as Playlist"
+#~ msgstr "Playlist kimi saxla"
+
+#~ msgid "Export…"
+#~ msgstr "İxrac et..."
+
+#~ msgid "New Playlist"
+#~ msgstr "Yeni Playlist"
+
+#~ msgid "New Smart Playlist"
+#~ msgstr "Yeni Ağıllı Playlist"
+
+#~ msgid "Import Playlists"
+#~ msgstr "Playlistləri idxal et"
+
+#~ msgid "Library"
+#~ msgstr "Kolleksiya"
+
+#~ msgid "Devices"
+#~ msgstr "Cihazlar"
+
+#~ msgid "Network"
+#~ msgstr "Şəbəkə"
+
+#~ msgid "Add Playlist"
+#~ msgstr "Playlisti əlavə et"
+
+#~ msgid "Add Smart Playlist"
+#~ msgstr "Ağıllı Playlisti əlavə et"
+
+#, fuzzy
+#~| msgid "Add Playlist"
+#~ msgid "Add Playlist…"
+#~ msgstr "Playlisti əlavə et"
+
+#, fuzzy
+#~ msgid "View as list"
+#~ msgstr "Yeni playlist"
+
+#~ msgid "No similar songs found"
+#~ msgstr "Oxşar mahnılar tapılmadı"
+
+#~ msgid "Could not find Music Folder"
+#~ msgstr "Musiqi Qovluğu tapılmır"
+
+#~ msgid "No Albums Found."
+#~ msgstr "Albomlar Tapılmadı"
+
+#~ msgid "No Songs Found."
+#~ msgstr "Heç Bir Mahnı Tapılmadı"
+
+#~ msgid "%u second"
+#~ msgid_plural "%u seconds"
+#~ msgstr[0] "%u saniyə"
+#~ msgstr[1] "%u saniyə"
+
+#~ msgid "%u minute"
+#~ msgid_plural "%u minutes"
+#~ msgstr[0] "%u dəqiqə"
+#~ msgstr[1] "%u dəqiqə"
+
+#~ msgctxt "minutes and seconds"
+#~ msgid "%s and %s"
+#~ msgstr "%s və %s"
+
+#~ msgid "%u day"
+#~ msgid_plural "%u days"
+#~ msgstr[0] "%u gün"
+#~ msgstr[1] "%u gün"
+
+#~ msgid "%u hour"
+#~ msgid_plural "%u hours"
+#~ msgstr[0] "%u saat"
+#~ msgstr[1] "%u saat"
+
+#~ msgctxt "days, hours and minutes"
+#~ msgid "%s, %s and %s"
+#~ msgstr "%s, %s və %s"
+
+#~ msgctxt "days and hours"
+#~ msgid "%s and %s"
+#~ msgstr "%s və %s"
+
+#~ msgctxt "days and minutes"
+#~ msgid "%s and %s"
+#~ msgstr "%s və %s"
+
+#~ msgctxt "hours and minutes"
+#~ msgid "%s and %s"
+#~ msgstr "%s və %s"
+
+#~ msgid "Song"
+#~ msgstr "Mahnı"
+
+#~ msgid "Repeat Artist"
+#~ msgstr "İfaçını təkrarla"
+
+#~ msgid "Import from Device"
+#~ msgstr "Cihazdan idxal et"
+
+#~ msgid "Don't Import"
+#~ msgstr "İdxal etmə"
+
+#~ msgid "ID"
+#~ msgstr "ID"
+
+#~ msgid "Cannot Import"
+#~ msgstr "İdxal etmək alınmır"
+
+#~ msgid "%u album"
+#~ msgid_plural "%u albums"
+#~ msgstr[0] "%u albom"
+
+#~ msgid "%i track"
+#~ msgid_plural "%i tracks"
+#~ msgstr[0] "%i parça"
+#~ msgstr[1] "%i parça"
+
+#~ msgid "%u song"
+#~ msgid_plural "%u songs"
+#~ msgstr[0] "%u mahnı"
+#~ msgstr[1] "%u mahnı"
+
+#~ msgctxt "Format used on statusbar: $description, $total_duration"
+#~ msgid "%s, %s"
+#~ msgstr "%s, %s"
+
+#~ msgid "translator-credits"
+#~ msgstr ""
+#~ "Launchpad Contributions:\n"
+#~ "  Azad Hasanli https://launchpad.net/~azadscriptor\n"
+#~ "  Daniel Fore https://launchpad.net/~danrabbit\n"
+#~ "  Emin Mastizada https://launchpad.net/~emin25"
+
+#~ msgid "Radio Station"
+#~ msgstr "Radiostansiya"
+
+#~ msgid "%d second"
+#~ msgid_plural "%d seconds"
+#~ msgstr[0] "%d saniyə"
+#~ msgstr[1] "%d saniyə"
+
+#~ msgid "All Podcasts"
+#~ msgstr "Bütün Podkastlar"
+
+#~ msgid "Podcasts"
+#~ msgstr "Podkastlar"
+
+#~ msgid "Change your music folder."
+#~ msgstr "Musiqi qovluğunu dəyişdir"
+
+#~ msgid "%i kbps"
+#~ msgstr "%i kbps"
+
+#~ msgid "%i Star"
+#~ msgid_plural "%i Stars"
+#~ msgstr[0] "%i Ulduz"
+#~ msgstr[1] "%i Ulduz"
+
+#~ msgid "Music Folder Location:"
+#~ msgstr "Musiqi Qovluğun Yeri"
+
+#~ msgid "Lyrics"
+#~ msgstr "Mahnı Sözləri"
+
+#~ msgid "Podcast"
+#~ msgstr "Podkast"
+
+#~ msgid "Lyrics not found for %s"
+#~ msgstr "%s üçün Mahnı Sözləri tapılmadı"
+
+#~ msgid "Unknown Track"
+#~ msgstr "Naməlum Parça"
+
+#~ msgid "No songs on CD"
+#~ msgstr "Diskdə mahnı yoxdur"
+
+#~ msgid "Unknown Album"
+#~ msgstr "Naməlum Albom"
+
+#~ msgid "Unknown Artist"
+#~ msgstr "Naməlum İfaçı"
+
+#~ msgid "CD Import Complete"
+#~ msgstr "Disk İdxalı Tamamlandı"
+
+#~ msgid "Success!"
+#~ msgstr "Müvəffəqiyyət!"
+
+#~ msgid "Last.fm"
+#~ msgstr "Last.fm"

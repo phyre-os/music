@@ -1,0 +1,673 @@
+# Vietnamese translation for beat-box
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the beat-box package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: beat-box\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-01 10:32+0000\n"
+"PO-Revision-Date: 2017-12-28 18:44+0000\n"
+"Last-Translator: Hải Hồ <hochihai1997@gmail.com>\n"
+"Language-Team: Vietnamese <https://weblate.phyreos.io/projects/music/"
+"music/vi/>\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 2.18\n"
+"X-Launchpad-Export-Date: 2017-03-07 05:55+0000\n"
+
+#: src/Application.vala:92 src/Views/NowPlayingView.vala:18
+#: src/Views/NowPlayingView.vala:116
+msgid "Music"
+msgstr "Nhạc"
+
+#: src/MainWindow.vala:20
+#, fuzzy
+msgid "Shuffle"
+msgstr "Bật phát ngẫu nhiên"
+
+#: src/MainWindow.vala:26
+msgid "Search titles in playlist"
+msgstr ""
+
+#: src/MainWindow.vala:45
+msgid "Queue is Empty"
+msgstr ""
+
+#: src/MainWindow.vala:46
+msgid "Audio files opened from Files will appear here"
+msgstr ""
+
+#: src/MainWindow.vala:63
+msgid "Open Files…"
+msgstr ""
+
+#: src/MainWindow.vala:167
+#, c-format
+msgid "%d invalid file was not added to the queue"
+msgid_plural "%d invalid files were not added to the queue"
+msgstr[0] ""
+
+#: src/MainWindow.vala:215
+msgid "All files"
+msgstr ""
+
+#: src/MainWindow.vala:220
+#, fuzzy
+#| msgid "Music"
+msgid "Music files"
+msgstr "Nhạc"
+
+#: src/MainWindow.vala:229
+msgid "Open"
+msgstr "Mở"
+
+#: src/MainWindow.vala:233
+msgid "Open audio files"
+msgstr ""
+
+#: src/MainWindow.vala:271
+#, fuzzy
+msgid "Repeat None"
+msgstr "Lặp lại bài hát"
+
+#: src/MainWindow.vala:275
+#, fuzzy
+msgid "Repeat All"
+msgstr "Lặp lại Album"
+
+#: src/MainWindow.vala:279
+#, fuzzy
+msgid "Repeat One"
+msgstr "Lặp lại bài hát"
+
+#: src/PlaybackManager.vala:136
+#, c-format
+msgid "%d track was added to the queue"
+msgid_plural "%d tracks were added to the queue"
+msgstr[0] ""
+
+#. Don't set artist for files without tags
+#: src/PlaybackManager.vala:196
+msgid "Unknown"
+msgstr "Chưa rõ"
+
+#: src/Views/NowPlayingView.vala:23 src/Views/NowPlayingView.vala:115
+msgid "Not playing"
+msgstr ""
+
+#: src/Views/NowPlayingView.vala:45
+msgid "Previous"
+msgstr ""
+
+#: src/Views/NowPlayingView.vala:68
+msgid "Next"
+msgstr ""
+
+#: src/Views/NowPlayingView.vala:93
+msgid "Play"
+msgstr ""
+
+#: src/Views/NowPlayingView.vala:96
+msgid "Pause"
+msgstr ""
+
+#~ msgid "$NAME on $ALBUM"
+#~ msgstr "$NAME trong $ALBUM"
+
+#~ msgid "$NAME by $ARTIST"
+#~ msgstr "$NAME bởi $ARTIST"
+
+#~ msgid "$NAME by $ARTIST on $ALBUM"
+#~ msgstr "$NAME bởi $ARTIST trong $ALBUM"
+
+#~ msgid "Flat"
+#~ msgstr "Bằng phẳng"
+
+#~ msgid "Classical"
+#~ msgstr "Cổ điển"
+
+#~ msgid "Club"
+#~ msgstr "Câu lạc bộ"
+
+#~ msgid "Dance"
+#~ msgstr "Nhạc nhảy"
+
+#~ msgid "Full Bass"
+#~ msgstr "Đầy đủ Bass"
+
+#~ msgid "Full Treble"
+#~ msgstr "Đầy đủ Treble"
+
+#~ msgid "Full Bass + Treble"
+#~ msgstr "Đầy đủ Bass + Treble"
+
+#~ msgid "Headphones"
+#~ msgstr "Tai nghe"
+
+#~ msgid "Large Hall"
+#~ msgstr "Hội trường lớn"
+
+#~ msgid "Live"
+#~ msgstr "Live"
+
+#~ msgid "Party"
+#~ msgstr "Buổi tiệc"
+
+#~ msgid "Pop"
+#~ msgstr "Pop"
+
+#~ msgid "Reggae"
+#~ msgstr "Nhạc Reggae"
+
+#~ msgid "Rock"
+#~ msgstr "Nhạc Rock"
+
+#~ msgid "Soft"
+#~ msgstr "Nhạc êm dịu"
+
+#~ msgid "Ska"
+#~ msgstr "Nhạc Ska"
+
+#~ msgid "Soft Rock"
+#~ msgstr "Rock êm dịu"
+
+#~ msgid "Techno"
+#~ msgstr "Nhạc công nghệ"
+
+#~ msgid " (%d)"
+#~ msgstr " (%d)"
+
+#~ msgid "MPEG Version 3.0 Extended (*.m3u)"
+#~ msgstr "MPEG phiên bản 3.0 mở rộng (*.m3u)"
+
+#~ msgid "Export Playlist"
+#~ msgstr "Xuất danh sách phát"
+
+#~ msgid "Save"
+#~ msgstr "Lưu"
+
+#~ msgid "Cancel"
+#~ msgstr "Hủy bỏ"
+
+#~ msgid "Playlist"
+#~ msgstr "Danh sách phát"
+
+#~ msgid "Import %s"
+#~ msgstr "Nhập %s"
+
+#~ msgid "Unrecognized playlist file. Import failed."
+#~ msgstr ""
+#~ "Tập tin trong danh sách phát không được công nhận. Nhập không thành công."
+
+#~ msgid "Preferences"
+#~ msgstr "Thiết lập"
+
+#~ msgctxt "Name of the playlist"
+#~ msgid "Queue"
+#~ msgstr "Hàng đợi"
+
+#~ msgid "File not found"
+#~ msgstr "Không tìm thấy tập tin"
+
+#~ msgid "The music file for <b>%s</b> by <b>%s</b> could not be found."
+#~ msgstr "Tập tin nhạc cho <b>%s</b> bởi <b>%s</b> không tìm thấy."
+
+#, fuzzy
+#~| msgid "%i music files could not be found?"
+#~ msgid "%i music files could not be found."
+#~ msgstr "%i tập tin nhạc không tìm thấy?"
+
+#~ msgid "Rescan Library"
+#~ msgstr "Quét lại thư viện"
+
+#~ msgid "Remove Song"
+#~ msgstr "Xóa bỏ bài hát"
+
+#~ msgid "Find Song"
+#~ msgstr "Tìm kiếm bài hát"
+
+#~ msgid "Choose Music Folder"
+#~ msgstr "Chọn thư mục nhạc"
+
+#, fuzzy
+#~ msgid "Would you like to install the %s plugin?"
+#~ msgstr "Bạn có muốn cài đặt plugin %s không?\n"
+
+#, fuzzy
+#~ msgid ""
+#~ "This song cannot be played. The %s plugin is required to play the song."
+#~ msgstr ""
+#~ "\n"
+#~ "Bài hát này không thể phát. Cần phải có plugin %s để phát bài hát."
+
+#~ msgid "Install Plugin"
+#~ msgstr "Cài đặt Plugin"
+
+#~ msgid "Title:"
+#~ msgstr "Tiêu đề:"
+
+#~ msgid "Artist:"
+#~ msgstr "Nghệ sĩ:"
+
+#~ msgid "Album:"
+#~ msgstr "Album:"
+
+#~ msgid "Album Artist:"
+#~ msgstr "Album nghệ sĩ:"
+
+#~ msgid "Composer:"
+#~ msgstr "Tác giả:"
+
+#~ msgid "Grouping:"
+#~ msgstr "Nhóm:"
+
+#~ msgid "Genre:"
+#~ msgstr "Thể loại:"
+
+#~ msgid "Year:"
+#~ msgstr "Năm:"
+
+#~ msgid "Track:"
+#~ msgstr "Theo dấu:"
+
+#~ msgid "Rating:"
+#~ msgstr "Xếp hạng đánh giá:"
+
+#~ msgid "Comment:"
+#~ msgstr "Bình luận:"
+
+#~ msgid "Close"
+#~ msgstr "Đóng"
+
+#, fuzzy
+#~ msgid "Issues while importing from %s"
+#~ msgstr "Nhập phương tiện từ %s"
+
+#, fuzzy
+#~ msgid "Unable to import %d item. The file may be damaged."
+#~ msgid_plural "Unable to import %d items. The files may be damaged."
+#~ msgstr[0] "%s không thể nhập %d mục. Các tệp có thể bị hỏng."
+
+#~ msgid "Move all corrupted files to trash"
+#~ msgstr "Di chuyển tất cả các tập tin hỏng vào thùng rác"
+
+#~ msgid "del"
+#~ msgstr "del"
+
+#~ msgid "File Location"
+#~ msgstr "Vị trí tập tin"
+
+#~ msgid "Select individual files to move to trash:"
+#~ msgstr "Chọn từng tập tin riêng lẻ để chuyển vào thùng rác:"
+
+#~ msgid "Move to Trash"
+#~ msgstr "Di chuyển vào Thùng rác"
+
+#~ msgid "Ignore"
+#~ msgstr "Từ chối"
+
+#~ msgid "Select Music Folder…"
+#~ msgstr "Chọn thư mục nhạc…"
+
+#~ msgid "Music Folder Location"
+#~ msgstr "Vị trí thư mục nhạc"
+
+#~ msgid "Library Management"
+#~ msgstr "Quản lý thư viện"
+
+#~ msgid "Keep Music folder organized:"
+#~ msgstr "Giữ tổ chức Thư mục nhạc:"
+
+#~ msgid "Write metadata to file:"
+#~ msgstr "Viết siêu dữ liệu vào tập tin:"
+
+#~ msgid "Copy imported files to Library:"
+#~ msgstr "Sao chép tập tin được nhập vào Thư viện:"
+
+#~ msgid "Desktop Integration"
+#~ msgstr "Tích hợp máy tính để bàn"
+
+#~ msgid "Continue playback when closed:"
+#~ msgstr "Tiếp tục phát khi đóng:"
+
+#, fuzzy
+#~ msgid "Remove %d Song From Library?"
+#~ msgid_plural "Remove %d Songs From Library?"
+#~ msgstr[0] "Xóa %d bài hát khỏi %s?"
+
+#, fuzzy
+#~ msgid "Remove \"%s\" From Library?"
+#~ msgstr "Xóa \"%s\" khỏi %s?"
+
+#, fuzzy
+#~ msgid ""
+#~ "This will remove the song from your library and from any device synced "
+#~ "automatically."
+#~ msgid_plural ""
+#~ "This will remove the songs from your library and from any device synced "
+#~ "automatically."
+#~ msgstr[0] ""
+#~ "Thao tác này sẽ xóa các bài hát khỏi thư viện của bạn và từ bất kỳ thiết "
+#~ "bị nào tự động đồng bộ với %s."
+
+#~ msgid "Set Music Folder?"
+#~ msgstr "Đặt thư mục nhạc?"
+
+#~ msgid ""
+#~ "Are you sure you want to set the music folder to %s? This will reset your "
+#~ "library and remove your playlists."
+#~ msgstr ""
+#~ "Bạn có chắc muốn đặt thư mục nhạc thành %s không? Thao tác này sẽ đặt lại "
+#~ "thư viện của bạn và xóa danh sách phát của bạn."
+
+#~ msgid "Export Playlists"
+#~ msgstr "Xuất danh sách phát"
+
+#~ msgid "Set Music Folder"
+#~ msgstr "Đặt thư mục nhạc"
+
+#~ msgid "Remove"
+#~ msgstr "Xóa bỏ"
+
+#~ msgid "Album"
+#~ msgstr "Album"
+
+#~ msgid "Artist"
+#~ msgstr "Nghệ sĩ"
+
+#~ msgid "Title"
+#~ msgstr "Tiêu đề"
+
+#, fuzzy
+#~ msgid "Sync will remove %i item from %s"
+#~ msgid_plural "Sync will remove %i items from %s"
+#~ msgstr[0] "Nhập %i mục từ %s"
+
+#~ msgid "Continue Syncing"
+#~ msgstr "Tiếp tục đồng bộ hóa"
+
+#~ msgid "Import"
+#~ msgstr "Nhập"
+
+#~ msgid "Playlists"
+#~ msgstr "Danh sách phát"
+
+#~ msgid "Sync"
+#~ msgstr "Đồng bộ"
+
+#~ msgid "Automatic"
+#~ msgstr "Tự động"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Track"
+#~ msgstr "Theo dấu:"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Title"
+#~ msgstr "Tiêu đề"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Artist"
+#~ msgstr "Nghệ sĩ"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Album"
+#~ msgstr "Album"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Album Artist"
+#~ msgstr "Album nghệ sĩ:"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Composer"
+#~ msgstr "Tác giả:"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Genre"
+#~ msgstr "Thể loại:"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Year"
+#~ msgstr "Năm:"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Grouping"
+#~ msgstr "Nhóm:"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Rating"
+#~ msgstr "Xếp hạng đánh giá:"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Plays"
+#~ msgstr "Danh sách phát"
+
+#, fuzzy
+#~ msgctxt "List column title (file location)"
+#~ msgid "Location"
+#~ msgstr "Vị trí tập tin"
+
+#~ msgid "Save preset"
+#~ msgstr "Lưu giá trị đã đặt"
+
+#~ msgid "Off"
+#~ msgstr "Tắt"
+
+#~ msgid "%s (Custom)"
+#~ msgstr "%s (Tùy chọn)"
+
+#~ msgid "%s (Custom %i)"
+#~ msgstr "%s (Tùy chọn %i)"
+
+#~ msgid "Custom Preset"
+#~ msgstr "Tùy chọn giá trị đã đặt"
+
+#~ msgid "Custom Preset %i"
+#~ msgstr "Tùy chọn giá trị đặt trước %i"
+
+#, fuzzy
+#~ msgctxt "Action item (verb)"
+#~ msgid "Queue"
+#~ msgstr "Hàng đợi"
+
+#, fuzzy
+#~ msgid "Remove Song…"
+#~ msgstr "Xóa bỏ bài hát"
+
+#~ msgid "Import to Library"
+#~ msgstr "Nhập vào thư viện"
+
+#, fuzzy
+#~ msgid "Remove from Library…"
+#~ msgstr "Xóa bỏ từ %s"
+
+#~ msgid "Delete Current"
+#~ msgstr "Xóa hiện tại"
+
+#~ msgid "Rename"
+#~ msgstr "Đổi tên"
+
+#~ msgid "Edit…"
+#~ msgstr "Sửa…"
+
+#~ msgid "Save as Playlist"
+#~ msgstr "Lưu thành Danh sách phát"
+
+#~ msgid "Export…"
+#~ msgstr "Xuất…"
+
+#~ msgid "Eject"
+#~ msgstr "Tháo ra"
+
+#~ msgid "New Playlist"
+#~ msgstr "Danh sách phát mới"
+
+#~ msgid "New Smart Playlist"
+#~ msgstr "Danh sách phát thông minh mới"
+
+#~ msgid "Import Playlists"
+#~ msgstr "Nhập danh sách phát"
+
+#~ msgid "Library"
+#~ msgstr "Thư viện"
+
+#~ msgid "Devices"
+#~ msgstr "Các thiết bị"
+
+#~ msgid "Network"
+#~ msgstr "Mạng"
+
+#~ msgid "Add Playlist"
+#~ msgstr "Thêm danh sách phát"
+
+#~ msgid "Add Smart Playlist"
+#~ msgstr "Thêm danh sách phát thông minh"
+
+#, fuzzy
+#~| msgid "Add Playlist"
+#~ msgid "Add Playlist…"
+#~ msgstr "Thêm danh sách phát"
+
+#~ msgid "Equalizer: %s"
+#~ msgstr "Bộ điều chỉnh: %s"
+
+#~ msgid "Enable Repeat"
+#~ msgstr "Kích hoạt lặp lại"
+
+#~ msgid "Disable Repeat"
+#~ msgstr "Tắt lặp lại"
+
+#~ msgid "Disable Shuffle"
+#~ msgstr "Tắt phát ngẫu nhiên"
+
+#, fuzzy
+#~ msgid "View as albums"
+#~ msgstr "Xem dạng Albums"
+
+#, fuzzy
+#~ msgid "View as list"
+#~ msgstr "Xem dạng Danh sách"
+
+#, fuzzy
+#~ msgid "View in columns"
+#~ msgstr "Xem dạng Cột"
+
+#~ msgid "Disk:"
+#~ msgstr "Đĩa:"
+
+#~ msgid "Unable to import %d items from %s"
+#~ msgstr "Không thể nhập %d mục từ %s"
+
+#~ msgid "Song"
+#~ msgstr "Bài hát"
+
+#~ msgid "Repeat Artist"
+#~ msgstr "Lặp lại nghệ sĩ"
+
+#~ msgid "All"
+#~ msgstr "Tất cả"
+
+#~ msgid "Hide"
+#~ msgstr "Ẩn"
+
+#~ msgid "Show Info Panel"
+#~ msgstr "Hiển thị Thông tin bảng điều khiển"
+
+#~ msgid "Show"
+#~ msgstr "Hiện"
+
+#~ msgid "Hide Info Panel"
+#~ msgstr "Ẩn Thông tin bảng điều khiển"
+
+#~ msgid "Free"
+#~ msgstr "Miễn phí"
+
+#~ msgid "Using %s of %s (%.2f%)"
+#~ msgstr "Đang dùng %s của %s (%.2f%)"
+
+#~ msgid "General"
+#~ msgstr "Chung"
+
+#~ msgid "Import from Device"
+#~ msgstr "Nhập từ thiết bị"
+
+#~ msgid ""
+#~ "The following files were found on %s, but are not in your library. Check "
+#~ "all the files you would like to import."
+#~ msgstr ""
+#~ "Các tệp sau đã được tìm thấy trên %s, nhưng không có trong thư viện của "
+#~ "bạn. Kiểm tra tất cả các tập tin bạn muốn nhập."
+
+#~ msgid "Import all media"
+#~ msgstr "Nhập tất cả phương tiện"
+
+#~ msgid "Don't Import"
+#~ msgstr "Không nhập"
+
+#~ msgid "Import %s from %s"
+#~ msgstr "Nhập %s từ %s"
+
+#~ msgid "ID"
+#~ msgstr "ID"
+
+#~ msgid "Select individual media to import:"
+#~ msgstr "Chọn từng phương tiện để nhập:"
+
+#~ msgid "Check Item"
+#~ msgstr "Kiểm tra mục"
+
+#~ msgid "Check Album"
+#~ msgstr "Kiểm tra Album"
+
+#~ msgid "Check Artist"
+#~ msgstr "Kiểm tra nghệ sĩ"
+
+#~ msgid "Cannot Import"
+#~ msgstr "Không thể nhập"
+
+#~ msgid "Import media to Library"
+#~ msgstr "Nhập phương tiện đến thư viện"
+
+#~ msgid "Stop Syncing"
+#~ msgstr "Ngừng đồng bộ hóa"
+
+#~ msgid "translator-credits"
+#~ msgstr ""
+#~ "Launchpad Contributions:\n"
+#~ "  Daniel Fore https://launchpad.net/~danrabbit\n"
+#~ "  Minh Danh https://launchpad.net/~r00t3rvn\n"
+#~ "  Nam Pham https://launchpad.net/~pvnam95\n"
+#~ "  Tom Doan https://launchpad.net/~10basetom\n"
+#~ "  Victor Martinez https://launchpad.net/~victored\n"
+#~ "  Hải Hồ - https://l10n.phyreos.io/user/haiho/"
+
+#~ msgid "Add Podcast"
+#~ msgstr "Thêm Podcast"
+
+#~ msgid "Download new Episodes"
+#~ msgstr "Tải xuống các Chương mới"
+
+#~ msgid "Edit"
+#~ msgstr "Hiệu chỉnh"
+
+#~ msgid "Export..."
+#~ msgstr "Xuất..."
+
+#~ msgid "Radio Station"
+#~ msgstr "Đài phát thanh"

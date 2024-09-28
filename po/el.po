@@ -1,0 +1,1670 @@
+# Greek translation for noise
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the noise package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: noise\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-01 10:32+0000\n"
+"PO-Revision-Date: 2019-02-12 00:06+0000\n"
+"Last-Translator: Rico Tzschichholz <ricotz@ubuntu.com>\n"
+"Language-Team: Greek <https://weblate.phyreos.io/projects/music/music/el/"
+">\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.0.1\n"
+"X-Launchpad-Export-Date: 2017-03-07 05:52+0000\n"
+
+#: src/Application.vala:92 src/Views/NowPlayingView.vala:18
+#: src/Views/NowPlayingView.vala:116
+msgid "Music"
+msgstr "Μουσική"
+
+#: src/MainWindow.vala:20
+#, fuzzy
+msgid "Shuffle"
+msgstr "Ενεργοποίηση τυχαίας σειράς αναπαραγωγής"
+
+#: src/MainWindow.vala:26
+msgid "Search titles in playlist"
+msgstr ""
+
+#: src/MainWindow.vala:45
+msgid "Queue is Empty"
+msgstr ""
+
+#: src/MainWindow.vala:46
+msgid "Audio files opened from Files will appear here"
+msgstr ""
+
+#: src/MainWindow.vala:63
+#, fuzzy
+#| msgid "Other Files"
+msgid "Open Files…"
+msgstr "Άλλα αρχεία"
+
+#: src/MainWindow.vala:167
+#, c-format
+msgid "%d invalid file was not added to the queue"
+msgid_plural "%d invalid files were not added to the queue"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/MainWindow.vala:215
+#, fuzzy
+#| msgid "All Years"
+msgid "All files"
+msgstr "Όλες οι χρονολογίες"
+
+#: src/MainWindow.vala:220
+#, fuzzy
+#| msgid "Music Player"
+msgid "Music files"
+msgstr "Αναπαραγωγέας μουσικής"
+
+#: src/MainWindow.vala:229
+msgid "Open"
+msgstr "Άνοιγμα"
+
+#: src/MainWindow.vala:233
+msgid "Open audio files"
+msgstr ""
+
+#: src/MainWindow.vala:271
+#, fuzzy
+msgid "Repeat None"
+msgstr "Επανάληψη τραγουδιού"
+
+#: src/MainWindow.vala:275
+#, fuzzy
+msgid "Repeat All"
+msgstr "Επανάληψη άλμπουμ"
+
+#: src/MainWindow.vala:279
+#, fuzzy
+msgid "Repeat One"
+msgstr "Επανάληψη τραγουδιού"
+
+#: src/PlaybackManager.vala:136
+#, c-format
+msgid "%d track was added to the queue"
+msgid_plural "%d tracks were added to the queue"
+msgstr[0] ""
+msgstr[1] ""
+
+#. Don't set artist for files without tags
+#: src/PlaybackManager.vala:196
+msgid "Unknown"
+msgstr "Άγνωστο"
+
+#: src/Views/NowPlayingView.vala:23 src/Views/NowPlayingView.vala:115
+#, fuzzy
+msgid "Not playing"
+msgstr "Νέα λίστα αναπαραγωγής"
+
+#: src/Views/NowPlayingView.vala:45
+msgid "Previous"
+msgstr "Προηγούμενο"
+
+#: src/Views/NowPlayingView.vala:68
+msgid "Next"
+msgstr "Επόμενο"
+
+#: src/Views/NowPlayingView.vala:93
+msgid "Play"
+msgstr "Αναπαραγωγή"
+
+#: src/Views/NowPlayingView.vala:96
+msgid "Pause"
+msgstr "Παύση"
+
+#~ msgid "Importing <b>$NAME</b> by <b>$ARTIST</b> to library…"
+#~ msgstr ""
+#~ "Εισαγωγή του <b>$NAME</b> από τον/την <b>$ARTIST</b> στη βιβλιοθήκη…"
+
+#~ msgid "$NAME on $ALBUM"
+#~ msgstr "$NAME στο $ALBUM"
+
+#~ msgid "$NAME by $ARTIST"
+#~ msgstr "$NAME από τον/την $ARTIST"
+
+#~ msgid "$NAME by $ARTIST on $ALBUM"
+#~ msgstr "$NAME από τον/την $ARTIST στο $ALBUM"
+
+#~ msgid "Flat"
+#~ msgstr "Επίπεδο"
+
+#~ msgid "Classical"
+#~ msgstr "Κλασσική"
+
+#~ msgid "Club"
+#~ msgstr "Club"
+
+#~ msgid "Dance"
+#~ msgstr "Dance"
+
+#~ msgid "Full Bass"
+#~ msgstr "Πλήρη μπάσα"
+
+#~ msgid "Full Treble"
+#~ msgstr "Πλήρη πρίμα"
+
+#~ msgid "Full Bass + Treble"
+#~ msgstr "Πλήρη μπάσα και πρίμα"
+
+#~ msgid "Headphones"
+#~ msgstr "Ακουστικά"
+
+#~ msgid "Large Hall"
+#~ msgstr "Μεγάλη αίθουσα"
+
+#~ msgid "Live"
+#~ msgstr "Συναυλία"
+
+#~ msgid "Party"
+#~ msgstr "Πάρτυ"
+
+#~ msgid "Pop"
+#~ msgstr "Ποπ"
+
+#~ msgid "Reggae"
+#~ msgstr "Ρέγκε"
+
+#~ msgid "Rock"
+#~ msgstr "Ροκ"
+
+#~ msgid "Soft"
+#~ msgstr "Απαλό"
+
+#~ msgid "Ska"
+#~ msgstr "Σκα"
+
+#~ msgid "Soft Rock"
+#~ msgstr "Απαλό Ροκ"
+
+#~ msgid "Techno"
+#~ msgstr "Τέκνο"
+
+#~ msgid " (%d)"
+#~ msgstr " (%d)"
+
+#~ msgid "%s (%d)"
+#~ msgstr "%s (%d)"
+
+#~ msgid "%s (%i)"
+#~ msgstr "%s (%i)"
+
+#~ msgid "MPEG Version 3.0 Extended (*.m3u)"
+#~ msgstr "MPEG έκδοση 3.0 εκτεταμένη (*.m3u)"
+
+#~ msgid "Shoutcast Playlist Version 2.0 (*.pls)"
+#~ msgstr "Λίστα Αναπαραγωγής Shoutcast Έκδοση 2.0 (*.pls)"
+
+#~ msgid "Export Playlist"
+#~ msgstr "Εξαγωγή λίστας αναπαραγωγής"
+
+#~ msgid "Save"
+#~ msgstr "Αποθήκευση"
+
+#~ msgid "Cancel"
+#~ msgstr "Ακύρωση"
+
+#~ msgid "Playlist"
+#~ msgstr "Λίστα αναπαραγωγής"
+
+#~ msgid "Import %s"
+#~ msgstr "Εισαγωγή %s"
+
+#~ msgid "Unrecognized playlist file. Import failed."
+#~ msgstr "Μη αναγνωρίσιμο αρχείο λίστας αναπαραγωγής. Αποτυχία εισαγωγής."
+
+#~ msgid "%m/%e/%Y %l:%M %p"
+#~ msgstr "%m/%e/%Y %l:%M %p"
+
+#~ msgid "Empty device!"
+#~ msgstr "Άδεια συσκευή!"
+
+#~ msgid "This device does not contain any music."
+#~ msgstr "Αυτή η συσκευή δεν περιέχει μουσική."
+
+#~ msgid "Android Phone"
+#~ msgstr "Android τηλέφωνο"
+
+#~ msgid "Audio Player"
+#~ msgstr "Αναπαραγωγέας ήχου"
+
+#~ msgid "Adding <b>$NAME</b> by <b>$ARTIST</b> to $DEVICE"
+#~ msgstr "Προσθήκη του <b>$NAME</b> από τον/την <b>$ARTIST</b> στο $DEVICE"
+
+#~ msgid "Syncing <b>%s</b>…"
+#~ msgstr "Συγχρονισμός <b>%s</b>…"
+
+#~ msgid "Removing <b>$NAME</b> by <b>$ARTIST</b> from $DEVICE"
+#~ msgstr "Αφαίρεση του <b>$NAME</b> από τον/την <b>$ARTIST</b> από $DEVICE"
+
+#~ msgid "Removing from <b>%s</b>…"
+#~ msgstr "Αφαίρεση από <b>%s</b>..."
+
+#~ msgid "Finishing sync process…"
+#~ msgstr "Η διαδικασία συγχρονισμού τελειώνει..."
+
+#~ msgid "Cancelling Sync…"
+#~ msgstr "Ακύρωση συγχρονισμού..."
+
+#~ msgid "Import Complete"
+#~ msgstr "Η εισαγωγή ολοκληρώθηκε"
+
+#~ msgid "<b>Copying</b> files to <b>Music Folder</b>…"
+#~ msgstr "<b>Αντιγραφή</b> αρχείων στον <b>Φάκελο μουσικής</b>..."
+
+#~ msgid "Import to Library…"
+#~ msgstr "Εισαγωγή στη βιβλιοθήκη..."
+
+#~ msgid "Preferences"
+#~ msgstr "Προτιμήσεις"
+
+#~ msgid "Search Music"
+#~ msgstr "Αναζήτηση μουσικής"
+
+#~ msgid "No songs in Queue"
+#~ msgstr "Κανένα τραγούδι στην σειρά αναμονής"
+
+#~ msgid ""
+#~ "To add songs to the queue, use the <b>secondary click</b> on an item and "
+#~ "choose <b>Queue</b>. When a song finishes, the queued songs will be "
+#~ "played first before the next song in the currently playing list."
+#~ msgstr ""
+#~ "Για να προσθέσετε τραγούδια στη σειρά αναμονής, κάνετε <b>δεξί κλικ</b> "
+#~ "πάνω στο τραγούδι που επιθυμείτε να προσθέσετε και επιλέγετε <b>Σειρά "
+#~ "αναμονής</b>. Όταν τελειώνει ένα τραγούδι, τα τραγούδια που βρίσκονται "
+#~ "στη σειρά αναμονής θα αναπαραχθούν πριν από το επόμενο τραγούδι της "
+#~ "τρέχουσας λίστας αναπαραγωγής."
+
+#~ msgid "No songs in History"
+#~ msgstr "Κανένα τραγούδι στο ιστορικό"
+
+#~ msgid ""
+#~ "After a part of a song has been played, it is added to the history list.\n"
+#~ "You can use this list to see all the songs you have played during the "
+#~ "current session."
+#~ msgstr ""
+#~ "Αφού ένα μέρος ενός τραγουδιού έχει αναπαραχθεί, το τραγούδι προστίθεται "
+#~ "στη λίστα του ιστορικού.\n"
+#~ "Μπορείτε να χρησιμοποιήσετε αυτή τη λίστα για να δείτε όλα τα τραγούδια "
+#~ "που έχουν αναπαραχθεί στην τρέχουσα συνεδρία."
+
+#~ msgid "Import Music"
+#~ msgstr "Εισαγωγή μουσικής"
+
+#~ msgctxt "Name of the playlist"
+#~ msgid "Queue"
+#~ msgstr "Σειρά αναμονής"
+
+#~ msgid "File not found"
+#~ msgstr "Το αρχείο δεν βρέθηκε"
+
+#~ msgid "The music file for <b>%s</b> by <b>%s</b> could not be found."
+#~ msgstr ""
+#~ "Το αρχείο μουσικής για το <b>%s</b> από <b>%s</b> δεν μπόρεσε να βρεθεί."
+
+#, fuzzy
+#~| msgid "%i music files could not be found?"
+#~ msgid "%i music files could not be found."
+#~ msgstr "%i αρχεία μουσικής δεν μπόρεσαν να βρεθούν;"
+
+#~ msgid "Rescan Library"
+#~ msgstr "Νέα σάρωση βιβλιοθήκης"
+
+#~ msgid "Remove Song"
+#~ msgstr "Αφαίρεση τραγουδιού"
+
+#~ msgid "Find Song"
+#~ msgstr "Εύρεση Τραγουδιού"
+
+#~ msgid "Choose Music Folder"
+#~ msgstr "Διαλέξτε φάκελο μουσικής"
+
+#, fuzzy
+#~ msgid "Would you like to install the %s plugin?"
+#~ msgstr "Θα θέλατε να εγκαταστήσετε το πρόσθετο %s;"
+
+#~ msgid ""
+#~ "This song cannot be played. The %s plugin is required to play the song."
+#~ msgstr ""
+#~ "Αυτό το τραγούδι δεν μπορεί να αναπαραχθεί. Απαιτείται το πρόσθετο %s για "
+#~ "την αναπαραγωγή του τραγουδιού."
+
+#~ msgid "Install Plugin"
+#~ msgstr "Εγκατάσταση Πρόσθετου"
+
+#~ msgid "Title:"
+#~ msgstr "Τίτλος:"
+
+#~ msgid "Artist:"
+#~ msgstr "Καλλιτέχνης:"
+
+#~ msgid "Album:"
+#~ msgstr "Άλμπουμ:"
+
+#~ msgid "Album Artist:"
+#~ msgstr "Καλλιτέχνης Άλμπουμ:"
+
+#~ msgid "Composer:"
+#~ msgstr "Συνθέτης:"
+
+#~ msgid "Grouping:"
+#~ msgstr "Ομαδοποίηση:"
+
+#~ msgid "Genre:"
+#~ msgstr "Είδος:"
+
+#~ msgid "Year:"
+#~ msgstr "Έτος:"
+
+#~ msgid "Track:"
+#~ msgstr "Κομμάτι:"
+
+#, fuzzy
+#~ msgid "Disc:"
+#~ msgstr "Δίσκος"
+
+#~ msgid "Rating:"
+#~ msgstr "Αξιολόγηση:"
+
+#~ msgid "Comment:"
+#~ msgstr "Σχόλιο"
+
+#~ msgid "Close"
+#~ msgstr "Κλείσιμο"
+
+#, fuzzy
+#~ msgid "Issues while importing from %s"
+#~ msgstr "Εισαγωγή μουσικής από %s..."
+
+#, fuzzy
+#~ msgid "Unable to import %d item. The file may be damaged."
+#~ msgid_plural "Unable to import %d items. The files may be damaged."
+#~ msgstr[0] ""
+#~ "%s Αδύνατη η φόρτωση %d στοιχείων. Τα αρχεία μπορεί να είναι φθαρμένα."
+#~ msgstr[1] ""
+#~ "%s Αδύνατη η φόρτωση %d στοιχείων. Τα αρχεία μπορεί να είναι φθαρμένα."
+
+#~ msgid "Move all corrupted files to trash"
+#~ msgstr "Μετακίνιση των κατεστραμένων αρχείων στα απορρίματα"
+
+#~ msgid "del"
+#~ msgstr "διαγρ."
+
+#~ msgid "File Location"
+#~ msgstr "Τοποθεσία Αρχείου"
+
+#~ msgid "Select individual files to move to trash:"
+#~ msgstr "Επιλέξτε μεμονωμένα αρχεία για μετακίνηση στον κάδο:"
+
+#~ msgid "Move to Trash"
+#~ msgstr "Μετακίνηση στον Κάδο Απορριμμάτων"
+
+#~ msgid "Ignore"
+#~ msgstr "Αγνόηση"
+
+#~ msgid "Select Music Folder…"
+#~ msgstr "Επιλέξτε φάκελο μουσικής..."
+
+#~ msgid "Music Folder Location"
+#~ msgstr "Τοποθεσία Φακέλου Μουσικής"
+
+#~ msgid "Library Management"
+#~ msgstr "Διαχείριση Βιβλιοθήκης"
+
+#~ msgid "Keep Music folder organized:"
+#~ msgstr "Κρατήστε οργανωμένο τον φάκελο μουσικής σας:"
+
+#~ msgid "Write metadata to file:"
+#~ msgstr "Γράψτε τα μεταδεδομένα στο αρχείο:"
+
+#~ msgid "Copy imported files to Library:"
+#~ msgstr "Αντιγραφή αρχείων που έχουν εισαχθεί στη βιβλιοθήκη"
+
+#~ msgid "Desktop Integration"
+#~ msgstr "Ενσωμάτωση στην επιφάνεια εργασίας"
+
+#~ msgid "Continue playback when closed:"
+#~ msgstr "Συνέχεια αναπαραγωγής μετά το κλείσιμο:"
+
+#, fuzzy
+#~ msgid "Remove %d Song From Library?"
+#~ msgid_plural "Remove %d Songs From Library?"
+#~ msgstr[0] "Αφαίρεση %d τραγουδιών από το %s;"
+#~ msgstr[1] "Αφαίρεση %d τραγουδιών από το %s;"
+
+#, fuzzy
+#~ msgid "Remove \"%s\" From Library?"
+#~ msgstr "Κατάργηση από τη βιβλιοθήκη"
+
+#, fuzzy
+#~ msgid ""
+#~ "This will remove the song from your library and from any device synced "
+#~ "automatically."
+#~ msgid_plural ""
+#~ "This will remove the songs from your library and from any device synced "
+#~ "automatically."
+#~ msgstr[0] ""
+#~ "Αυτή η ενέργεια θα απομακρύνει το τραγούδι από την βιβλιοθήκη και από "
+#~ "κάθε άλλη συσκευή που συγχρονίζεται αυτόματα με το %s."
+#~ msgstr[1] ""
+#~ "Αυτή η ενέργεια θα απομακρύνει τα τραγούδια από την βιβλιοθήκη και από "
+#~ "κάθε άλλη συσκευή που συγχρονίζεται αυτόματα με το %s."
+
+#~ msgid "Remove from Library"
+#~ msgstr "Κατάργηση από τη βιβλιοθήκη"
+
+#~ msgid "Set Music Folder?"
+#~ msgstr "Ορισμός Φάκελου Μουσικής;"
+
+#~ msgid ""
+#~ "Are you sure you want to set the music folder to %s? This will reset your "
+#~ "library and remove your playlists."
+#~ msgstr ""
+#~ "Είστε σίγουροι ότι θέλετε να μετακινήσετε την μουσική σας στο %s; Αυτό θα "
+#~ "επαναφέρει τη βιβλιοθήκη σας και θα αφαιρέσει τις λίστες αναπαραγωγής σας."
+
+#~ msgid "Export Playlists"
+#~ msgstr "Εξαγωγή Λιστών Αναπαραγωγής"
+
+#~ msgid "Set Music Folder"
+#~ msgstr "Ορισμός Φακέλου Μουσικής"
+
+#~ msgid "Playlist Title"
+#~ msgstr "Τίτλος λίστας αναπαραγωγής"
+
+#~ msgid "any"
+#~ msgstr "οποιοδήποτε"
+
+#~ msgid "all"
+#~ msgstr "όλα"
+
+#~ msgid "Match"
+#~ msgstr "Αντιστοιχία"
+
+#~ msgid "of the following:"
+#~ msgstr "από τα παρακάτω:"
+
+#~ msgid "Add"
+#~ msgstr "Προσθήκη"
+
+#~ msgid "Limit to"
+#~ msgstr "Περιορισμός σε:"
+
+#~ msgid "items"
+#~ msgstr "αντικείμενα"
+
+#~ msgid "Name of Playlist"
+#~ msgstr "Όνομα λίστας αναπαραγωγής"
+
+#~ msgid "Rules"
+#~ msgstr "Κανόνες"
+
+#~ msgid "Options"
+#~ msgstr "Επιλογές"
+
+#~ msgid "Smart Playlist Editor"
+#~ msgstr "Επεξεργαστής έξυπνης λίστας αναπαραγωγής"
+
+#~ msgid "Remove"
+#~ msgstr "Αφαίρεση"
+
+#~ msgid "Album"
+#~ msgstr "Άλμπουμ"
+
+#~ msgid "Artist"
+#~ msgstr "Καλλιτέχνης"
+
+#~ msgid "Bitrate"
+#~ msgstr "Ρυθμός μετάδοσης"
+
+#~ msgid "Comment"
+#~ msgstr "Σχόλιο"
+
+#~ msgid "Composer"
+#~ msgstr "Συνθέτης"
+
+#~ msgid "Date Added"
+#~ msgstr "Ημερομηνία προσθήκης"
+
+#~ msgid "Genre"
+#~ msgstr "Είδος"
+
+#~ msgid "Grouping"
+#~ msgstr "Ομαδοποίηση"
+
+#~ msgid "Last Played"
+#~ msgstr "Τελευταία Αναπαραγωγή"
+
+#~ msgid "Length"
+#~ msgstr "Διάρκεια"
+
+#~ msgid "Playcount"
+#~ msgstr "Μετρητής εκτελέσεων"
+
+#~ msgid "Rating"
+#~ msgstr "Βαθμολογία"
+
+#~ msgid "Skipcount"
+#~ msgstr "Παράβλεψη καταμέτρησης"
+
+#~ msgid "Title"
+#~ msgstr "Τίτλος"
+
+#~ msgid "Year"
+#~ msgstr "Έτος"
+
+#~ msgid "is"
+#~ msgstr "είναι"
+
+#~ msgid "contains"
+#~ msgstr "περιέχει"
+
+#~ msgid "does not contain"
+#~ msgstr "δεν περιέχει"
+
+#~ msgid "is exactly"
+#~ msgstr "είναι ακριβώς"
+
+#~ msgid "is at most"
+#~ msgstr "είναι το πολύ"
+
+#~ msgid "is at least"
+#~ msgstr "είναι τουλάχιστον"
+
+#~ msgid "is within"
+#~ msgstr "είναι εντός"
+
+#~ msgid "is before"
+#~ msgstr "είναι πριν"
+
+#~ msgid "seconds"
+#~ msgstr "δευτερόλεπα"
+
+#~ msgid "days ago"
+#~ msgstr "ημέρες πριν"
+
+#~ msgid "kbps"
+#~ msgstr "kbps"
+
+#~ msgid "Sync will remove %i item from %s"
+#~ msgid_plural "Sync will remove %i items from %s"
+#~ msgstr[0] "Ο συγχρονισμός θα απομακρύνει %i αντικείμενο από το %s"
+#~ msgstr[1] "Ο συγχρονισμός θα απομακρύνει %i αντικείμενα από το %s"
+
+#~ msgid ""
+#~ "If you continue to sync, media will be removed from %s since they are not "
+#~ "on the sync list. Would you like to import them to your library first?"
+#~ msgstr ""
+#~ "Αν συνεχίσετε τον συγχρονισμό, τα αρχεία μεσων θα απομακρυνθούν από το %s "
+#~ "αφού δεν βρίσκονται στη λίστα συγχρονισμού. Θα θέλατε να τα εισάγεται "
+#~ "πρώτα στη βιβλιοθήκη σας;"
+
+#~ msgid "Continue Syncing"
+#~ msgstr "Συνέχεια Συγχρονισμού"
+
+#~ msgid "Import"
+#~ msgstr "Εισαγωγή"
+
+#~ msgid "Importing music from %s…"
+#~ msgstr "Εισαγωγή μουσικής από %s..."
+
+#~ msgid "Adding files to library…"
+#~ msgstr "Προσθήκη αρχείων στη βιβλιοθήκη..."
+
+#~ msgid "<b>Importing</b> music to library…"
+#~ msgstr "<b>Εισάγεται</b> μουσική στη βιβλιοθήκη…"
+
+#~ msgid "All music files are already in your library"
+#~ msgstr "Όλα τα αρχεία μουσικής βρίσκονται ήδη στη βιβλιοθήκη σας"
+
+#~ msgid "No files were imported."
+#~ msgstr "Δεν εισήχθησαν αρχεία"
+
+#~ msgid "Rescanning music for changes. This may take a while…"
+#~ msgstr "Σάρωση μουσικής για αλλαγές. Αυτό μπορεί να πάρει λίγο χρόνο..."
+
+#~ msgid "Added to your queue:"
+#~ msgstr "Προστέθηκε στη σειρά αναμονής"
+
+#~ msgid "%d Track"
+#~ msgid_plural "%d Tracks"
+#~ msgstr[0] "%d Κομμάτι"
+#~ msgstr[1] "%d Κομμάτια"
+
+#~ msgid "Favorite Songs"
+#~ msgstr "Αγαπημένα τραγούδια"
+
+#~ msgid "Recently Added"
+#~ msgstr "Προστέθηκαν πρόσφατα"
+
+#~ msgid "Recent Favorites"
+#~ msgstr "Πρόσφατα αγαπημένα"
+
+#~ msgid "Never Played"
+#~ msgstr "Δεν έχουν εκτελεστεί"
+
+#~ msgid "Over Played"
+#~ msgstr "Υπέρ-εκτελεσμένα"
+
+#~ msgid "Not Recently Played"
+#~ msgstr "Δεν έχουν εκτελεστεί πρόσφατα"
+
+#~ msgid "History"
+#~ msgstr "Ιστορικό"
+
+#~ msgid "Playlists"
+#~ msgstr "Λίστες αναπαραγωγής"
+
+#~ msgid "Device Name:"
+#~ msgstr "Όνομα συσκευής:"
+
+#~ msgid "Device Name"
+#~ msgstr "Όνομα συσκευής"
+
+#~ msgid "Automatically sync when plugged in:"
+#~ msgstr "Αυτόματος συγχρονισμός όταν συνδέεται στον υπολογιστή:"
+
+#~ msgid "Sync:"
+#~ msgstr "Συγχρονισμός:"
+
+#~ msgid "Sync"
+#~ msgstr "Συγχρονισμός"
+
+#~ msgid "All Music"
+#~ msgstr "Όλη η μουσική"
+
+#~ msgid "Sync Failed"
+#~ msgstr "Ο συγχρονισμός απέτυχε"
+
+#~ msgid ""
+#~ "The playlist named %s is used to sync device %s, but could not be found."
+#~ msgstr ""
+#~ "Η λίστα αναπαραγωγής %s χρησιμοποιείται για να συγχρονίσει τη συσκευή %s, "
+#~ "αλλά δεν μπορεί να βρεθεί."
+
+#~ msgid "Cannot Sync"
+#~ msgstr "Αδυναμία συγχρονισμού"
+
+#~ msgid ""
+#~ "Cannot sync device with selected sync settings. Not enough space on disk"
+#~ msgstr ""
+#~ "Αδυναμία συγχρονισμού της συσκευής με τις επιλεγμένες ρυθμίσεις. "
+#~ "Ανεπαρκής χώρος στο δίσκο"
+
+#~ msgid "Device is already doing an operation."
+#~ msgstr "Η συσκευή εκτελεί ήδη μια λειτουργία."
+
+#~ msgid "Cancelling…"
+#~ msgstr "Ακύρωση…"
+
+#~ msgid "Device operation has been cancelled and will stop after this media."
+#~ msgstr ""
+#~ "Η λειτουργία της συσκευής έχει ακυρωθεί και θα σταματήσει μετά από αυτό "
+#~ "το πολυμέσο."
+
+#, fuzzy
+#~ msgid "No Results"
+#~ msgstr "Καμία βαθμολογία"
+
+#~ msgid "Genres"
+#~ msgstr "Είδη"
+
+#~ msgid "Artists"
+#~ msgstr "Καλλιτέχνες"
+
+#~ msgid "Albums"
+#~ msgstr "Άλμπουμ"
+
+#~ msgid "Years"
+#~ msgstr "Έτη"
+
+#~ msgid "Ratings"
+#~ msgstr "Βαθμολογίες"
+
+#~ msgid "Composers"
+#~ msgstr "Συνθέτες"
+
+#~ msgid "Groupings"
+#~ msgstr "Ομαδοποιήσεις"
+
+#~ msgid "All Genres"
+#~ msgstr "Όλα τα είδη"
+
+#~ msgid "All %i Genres"
+#~ msgstr "Όλα τα %i είδη"
+
+#~ msgid "No Genres"
+#~ msgstr "Κανένα είδος"
+
+#~ msgid "All Artists"
+#~ msgstr "Όλοι οι καλλιτέχνες"
+
+#~ msgid "All %i Artists"
+#~ msgstr "Όλοι οι %i καλλιτέχνες"
+
+#~ msgid "No Artists"
+#~ msgstr "Κανένας καλλιτέχνης"
+
+#~ msgid "All Albums"
+#~ msgstr "Όλα τα άλμπουμ"
+
+#~ msgid "All %i Albums"
+#~ msgstr "Όλα τα %i άλμπουμ"
+
+#~ msgid "No Albums"
+#~ msgstr "Κανένα άλμπουμ"
+
+#~ msgid "All %i Years"
+#~ msgstr "Όλες οι %i χρονολογίες"
+
+#~ msgid "No Years"
+#~ msgstr "Καμία χρονολογία"
+
+#~ msgid "All Ratings"
+#~ msgstr "Όλες οι βαθμολογίες"
+
+#~ msgid "No Ratings"
+#~ msgstr "Καμία βαθμολογία"
+
+#~ msgid "All Groupings"
+#~ msgstr "Όλες οι ομαδοποιήσεις"
+
+#~ msgid "All %i Groupings"
+#~ msgstr "Όλες οι %i ομαδοποιήσεις"
+
+#~ msgid "No Groupings"
+#~ msgstr "Καμία ομαδοποίηση"
+
+#~ msgid "All Composers"
+#~ msgstr "Όλοι οι συνθέτες"
+
+#~ msgid "All %i Composers"
+#~ msgstr "Όλοι οι %i συνθέτες"
+
+#~ msgid "No Composers"
+#~ msgstr "Κανένας συνθέτης"
+
+#~ msgid "Automatic"
+#~ msgstr "Αυτόματα"
+
+#~ msgid "On Left"
+#~ msgstr "Στα αριστερά"
+
+#~ msgid "On Top"
+#~ msgstr "Στην κορυφή"
+
+#~ msgid "Unrated"
+#~ msgstr "Χωρίς αξιολόγηση"
+
+#~ msgid "%u Star"
+#~ msgid_plural "%u Stars"
+#~ msgstr[0] "%u Αστέρι"
+#~ msgstr[1] "%u Αστέρια"
+
+#~ msgid "%u kbps"
+#~ msgstr "%u kbps"
+
+#~ msgid "Never"
+#~ msgstr "Ποτέ"
+
+#~ msgctxt "List column title"
+#~ msgid "#"
+#~ msgstr "#"
+
+#~ msgctxt "List column title"
+#~ msgid "Track"
+#~ msgstr "Κομμάτι"
+
+#~ msgctxt "List column title"
+#~ msgid "Title"
+#~ msgstr "Τίτλος"
+
+#~ msgctxt "List column title"
+#~ msgid "Length"
+#~ msgstr "Διάρκεια"
+
+#~ msgctxt "List column title"
+#~ msgid "Artist"
+#~ msgstr "Καλλιτέχνης"
+
+#~ msgctxt "List column title"
+#~ msgid "Album"
+#~ msgstr "Άλμπουμ"
+
+#~ msgctxt "List column title"
+#~ msgid "Album Artist"
+#~ msgstr "Καλλιτέχνης άλμπουμ"
+
+#~ msgctxt "List column title"
+#~ msgid "Composer"
+#~ msgstr "Συνθέτης"
+
+#~ msgctxt "List column title"
+#~ msgid "Genre"
+#~ msgstr "Είδος"
+
+#~ msgctxt "List column title"
+#~ msgid "Year"
+#~ msgstr "Έτος"
+
+#~ msgctxt "List column title"
+#~ msgid "Grouping"
+#~ msgstr "Ομαδοποίηση"
+
+#~ msgctxt "List column title"
+#~ msgid "Bitrate"
+#~ msgstr "Ρυθμός μετάδοσης"
+
+#~ msgctxt "List column title"
+#~ msgid "Rating"
+#~ msgstr "Βαθμολογία"
+
+#~ msgctxt "List column title"
+#~ msgid "Plays"
+#~ msgstr "Αναπαραγωγές"
+
+#~ msgctxt "List column title"
+#~ msgid "Skips"
+#~ msgstr "Παραβλέψεις"
+
+#~ msgctxt "List column title"
+#~ msgid "Date Added"
+#~ msgstr "Ημερομηνία προσθήκης"
+
+#~ msgctxt "List column title"
+#~ msgid "Last Played"
+#~ msgstr "Τελευταία αναπαραγωγή"
+
+#~ msgctxt "List column title (beats per minute)"
+#~ msgid "BPM"
+#~ msgstr "Ρυθμός (BPM)"
+
+#~ msgctxt "List column title (file location)"
+#~ msgid "Location"
+#~ msgstr "Τοποθεσία αρχείου"
+
+#~ msgctxt "List column title"
+#~ msgid "File Size"
+#~ msgstr "Μέγεθος αρχείου"
+
+#~ msgid "Autosize Columns"
+#~ msgstr "Αυτόματη προσαρμογή μεγέθους των στηλών"
+
+#~ msgid "1234 kbps"
+#~ msgstr "1234 kbps"
+
+#~ msgid "Sample List String"
+#~ msgstr "Παράδειγμα μήκους κειμένου"
+
+#~ msgid "Get Some Tunes"
+#~ msgstr "Αποκτήστε μερικά τραγούδια"
+
+#~ msgid "Add music to your library."
+#~ msgstr "Προσθέστε μουσική στη βιβλιοθήκη σας."
+
+#~ msgid "Import music from a source into your library."
+#~ msgstr "Εισαγωγή μουσικής από κάποια πηγή στη βιβλιοθήκη σας."
+
+#~ msgid "Change Music Folder"
+#~ msgstr "Αλλαγή του φακέλου μουσικής"
+
+#~ msgid "Load music from a folder, a network or an external disk."
+#~ msgstr "Φορτώστε μουσική από έναν φάκελο, το δίκτυο ή έναν εξωτερικό δίσκο."
+
+#~ msgid "Import your Music"
+#~ msgstr "Εισάγετε τη μουσική σας"
+
+#~ msgid "Import all your Music from %s into your library."
+#~ msgstr "Εισάγετε όλα τα μουσικά σας κομμάτια από το %s στη βιβλιοθήκη σας."
+
+#~ msgid "Select Music Folder"
+#~ msgstr "Επιλέξτε φάκελο μουσικής"
+
+#~ msgid "No Songs"
+#~ msgstr "Κανένα τραγούδι"
+
+#~ msgid "Updating playlist. Please wait."
+#~ msgstr "Ενημέρωση λίστας αναπαραγωγής. Παρακαλώ περιμένετε."
+
+#~ msgid ""
+#~ "To add songs to this playlist, use the <b>secondary click</b> on an item "
+#~ "and choose <b>Add to Playlist</b>."
+#~ msgstr ""
+#~ "Για να εισάγετε τραγούδια σε αυτή την λίστα αναπαραγωγής, κάνετε <b>δεξί "
+#~ "κλικ</b> στο τραγούδι που επιθυμείτε και επιλέγετε <b>Προσθήκη στη λίστα "
+#~ "αναπαραγωγής</b>."
+
+#~ msgid "Edit Smart Playlist"
+#~ msgstr "Επεξεργασία έξυπνης λίστας αναπαραγωγής"
+
+#~ msgid ""
+#~ "This playlist will be automatically populated with songs that match its "
+#~ "rules. To modify these rules, use the <b>secondary click</b> on it in the "
+#~ "sidebar and click on <b>Edit</b>. Optionally, you can click on the button "
+#~ "below."
+#~ msgstr ""
+#~ "Αυτή η λίστα αναπαραγωγής θα συμπληρωθεί αυτομάτως με τραγούδια που "
+#~ "ταιριάζουν στις προϋποθέσεις της. Για να μεταβάλετε αυτές τις "
+#~ "προϋποθέσεις, κάνετε <b>δεξί κλικ</b> πάνω της στην πλάγια μπάρα και "
+#~ "επιλέγετε <b>Επεξεργασία</b>. Εναλλακτικά, μπορείτε να κάνετε κλικ στο "
+#~ "παρακάτω κουμπί."
+
+#~ msgid "No media"
+#~ msgstr "Κανένα μέσο"
+
+#~ msgid "Set new album cover"
+#~ msgstr "Ορίστε νέο εξώφυλλο για το άλμπουμ"
+
+#~ msgid "Image files"
+#~ msgstr "Αρχεία εικόνων"
+
+#~ msgid "_Open"
+#~ msgstr "_Άνοιγμα"
+
+#~ msgid "_Cancel"
+#~ msgstr "_Ακύρωση"
+
+#~ msgid "Save preset"
+#~ msgstr "Αποθήκευση ρύθμισης"
+
+#~ msgid "Off"
+#~ msgstr "Απενεργοποίηση"
+
+#~ msgid "%s (Custom)"
+#~ msgstr "%s (Προσαρμοσμένο)"
+
+#~ msgid "%s (Custom %i)"
+#~ msgstr "%s (Προσαρμοσμένο %i)"
+
+#~ msgid "Custom Preset"
+#~ msgstr "Προσαρμοσμένη προεπιλογή"
+
+#~ msgid "Custom Preset %i"
+#~ msgstr "Προσαρμοσμένη προεπιλογή %i"
+
+#~ msgid "Scroll to Current Song"
+#~ msgstr "Μεταβείτε στο τρέχον κομμάτι"
+
+#, fuzzy
+#~ msgid "Show in File Browser…"
+#~ msgstr "Εμφάνιση στον περιηγητή αρχείων"
+
+#, fuzzy
+#~ msgid "Edit Song Info…"
+#~ msgstr "Επεξεργασία πληροφοριών τραγουδιού"
+
+#, fuzzy
+#~ msgid "Other Actions"
+#~ msgstr "Άλλες ενέργειες"
+
+#~ msgctxt "Action item (verb)"
+#~ msgid "Queue"
+#~ msgstr "Σειρά αναμονής"
+
+#~ msgid "Add to Playlist"
+#~ msgstr "Προσθήκη στη λίστα αναπαραγωγής"
+
+#, fuzzy
+#~ msgid "Remove Song…"
+#~ msgstr "Αφαίρεση τραγουδιού"
+
+#~ msgid "Import to Library"
+#~ msgstr "Εισαγωγή στη βιβλιοθήκη"
+
+#, fuzzy
+#~ msgid "Remove from Library…"
+#~ msgstr "Κατάργηση από τη βιβλιοθήκη"
+
+#~ msgid "Remove from Device"
+#~ msgstr "Αφαίρεση από την συσκευή"
+
+#~ msgid "Remove from Queue"
+#~ msgstr "Αφαίρεση από την σειρά αναμονής"
+
+#~ msgid "New Playlist…"
+#~ msgstr "Νέα λίστα αναπαραγωγής..."
+
+#~ msgid "Import %i of %i selected songs"
+#~ msgstr "Εισαγωγή %i από τα %i επιλεγμένα τραγούδια"
+
+#~ msgid "Import %i song"
+#~ msgid_plural "Import %i songs"
+#~ msgstr[0] "Εισαγωγή %i τραγουδιού"
+#~ msgstr[1] "Εισαγωγή %i τραγουδιών"
+
+#~ msgid "Delete Current"
+#~ msgstr "Διαγραφή του τρέχοντος"
+
+#~ msgid "Rename"
+#~ msgstr "Μετονομασία"
+
+#~ msgid "Edit…"
+#~ msgstr "Επεξεργασία..."
+
+#~ msgid "Save as Playlist"
+#~ msgstr "Αποθήκευση ως λίστα αναπαραγωγής"
+
+#~ msgid "Export…"
+#~ msgstr "Εξαγωγή..."
+
+#~ msgid "Eject"
+#~ msgstr "Εξαγωγή"
+
+#~ msgid "New Playlist"
+#~ msgstr "Νέα λίστα αναπαραγωγής"
+
+#~ msgid "New Smart Playlist"
+#~ msgstr "Νέα έξυπνη λίστα αναπαραγωγής"
+
+#~ msgid "Import Playlists"
+#~ msgstr "Εισαγωγή λιστών αναπαραγωγής"
+
+#~ msgid "Library"
+#~ msgstr "Βιβλιοθήκη"
+
+#~ msgid "Devices"
+#~ msgstr "Συσκευές"
+
+#~ msgid "Network"
+#~ msgstr "Δίκτυο"
+
+#~ msgid "Add Playlist"
+#~ msgstr "Προσθήκη λίστας αναπαραγωγής"
+
+#~ msgid "Add Smart Playlist"
+#~ msgstr "Προσθήκη έξυπνης λίστας"
+
+#, fuzzy
+#~| msgid "Add Playlist"
+#~ msgid "Add Playlist…"
+#~ msgstr "Προσθήκη λίστας αναπαραγωγής"
+
+#~ msgid "Equalizer: %s"
+#~ msgstr "Εξισωτής: %s"
+
+#~ msgid "Enable Repeat"
+#~ msgstr "Ενεργοποίηση επανάληψης"
+
+#~ msgid "Disable Repeat"
+#~ msgstr "Ακύρωση Επανάληψης"
+
+#~ msgid "Disable Shuffle"
+#~ msgstr "Απενεργοποίηση τυχαίας σειράς αναπαραγωγής"
+
+#, fuzzy
+#~ msgid "View as albums"
+#~ msgstr "Προβολή σαν άλμπουμ"
+
+#, fuzzy
+#~ msgid "View as list"
+#~ msgstr "Προβολή ως λίστα"
+
+#, fuzzy
+#~ msgid "View in columns"
+#~ msgstr "Προβολή σε στήλες"
+
+#~ msgid "No similar songs found"
+#~ msgstr "Δε βρέθηκαν παρόμοια τραγούδια"
+
+#~ msgid ""
+#~ "There are no songs similar to the current song in your library. Make sure "
+#~ "all song info is correct and you are connected to the Internet. Some "
+#~ "songs may not have matches."
+#~ msgstr ""
+#~ "Δεν υπάρχουν τραγούδια παρόμοια με το τρέχον στην βιβλιοθήκη σας. "
+#~ "Σιγουρευτείτε ότι όλες οι πληροφορίες τραγουδιού είναι σωστές και ότι "
+#~ "είστε συνδεδεμένοι στο διαδίκτυο. Μερικά τραγούδια μπορεί να μην έχουν "
+#~ "αντιστοιχία."
+
+#~ msgid "Similar"
+#~ msgstr "Παρόμοιο"
+
+#~ msgid "media"
+#~ msgstr "πολυμέσα"
+
+#~ msgid "Similar Media"
+#~ msgstr "Παρόμοια πολυμέσα"
+
+#~ msgid "Audio CD Invalid"
+#~ msgstr "Άκυρο μουσικό CD"
+
+#~ msgid "Impossible to read the contents of this Audio CD"
+#~ msgstr "Αδύνατη η ανάγνωση δεδομένων του μουσικού CD"
+
+#~ msgid "Could not find Music Folder"
+#~ msgstr "Αδυναμία εύρεσης του φακέλου μουσικής"
+
+#~ msgid ""
+#~ "Please make sure that your music folder is accessible and mounted before "
+#~ "importing the CD."
+#~ msgstr ""
+#~ "Βεβαιωθείτε ότι ο φάκελος της μουσικής σας είναι προσβάσιμος και "
+#~ "προσαρτημένος πριν εισάγετε το CD."
+
+#~ msgid ""
+#~ "The Application could not find any songs on the CD. No songs can be "
+#~ "imported"
+#~ msgstr ""
+#~ "Η εφαρμογή δεν μπόρεσε να βρει τραγούδια στο CD. Δεν μπορούν να εισαχθούν "
+#~ "τραγούδια"
+
+#~ msgid "Importing track %u: %s"
+#~ msgstr "Εισαγωγή κομματιού %u: %s"
+
+#~ msgid "CD import will be <b>cancelled</b> after current import."
+#~ msgstr "Η εισαγωγή του CD θα <b>ακυρωθεί</b> μετά την τρέχουσα εισαγωγή."
+
+#, fuzzy
+#~ msgid "An Error Occurred"
+#~ msgstr "Προέκυψε ένα σφάλμα"
+
+#, fuzzy
+#~ msgid "Could not load this Audio CD."
+#~ msgstr "Προέκυψε ένα σφάλμα κατά τη φόρτωση του μουσικού CD"
+
+#~ msgid "Importation of a song from Audio CD finished."
+#~ msgstr "Η εισαγωγή ενός τραγουδιού από το μουσικό CD τελείωσε."
+
+#~ msgid "Importation of %i songs from Audio CD finished."
+#~ msgstr "Η εισαγωγή %i τραγουδιών από το CD ήχου ολοκληρώθηκε."
+
+#~ msgid "An error occured during the Import of this CD"
+#~ msgstr "Προέκυψε ένα σφάλμα κατά την εισαγωγή του CD"
+
+#~ msgid "Disk:"
+#~ msgstr "Δίσκος"
+
+#~ msgid "%s has imported your library."
+#~ msgstr "Το %s εισήχθη στη βιβλιοθήκη σας."
+
+#~ msgid "Unable to import %d items from %s"
+#~ msgstr "Δεν ήταν δυνατή η φόρτωση %d στοιχείων από %s"
+
+#~ msgid "Remove from %s"
+#~ msgstr "Αφαίρεση από το %s"
+
+#~ msgid "Remove \"%s\" From %s?"
+#~ msgstr "Αφαίρεση \"%s\" από το %s;"
+
+#~ msgid "No Albums Found."
+#~ msgstr "Δε βρέθηκαν άλμπουμ."
+
+#~ msgid "No Songs Found."
+#~ msgstr "Δε βρέθηκαν τραγούδια."
+
+#~ msgid "%u second"
+#~ msgid_plural "%u seconds"
+#~ msgstr[0] "%u δευτερόλεπτο"
+#~ msgstr[1] "%u δευτερόλεπτα"
+
+#~ msgid "%u minute"
+#~ msgid_plural "%u minutes"
+#~ msgstr[0] "%u λεπτό"
+#~ msgstr[1] "%u λεπτά"
+
+#~ msgctxt "minutes and seconds"
+#~ msgid "%s and %s"
+#~ msgstr "%s και %s"
+
+#~ msgid "%u day"
+#~ msgid_plural "%u days"
+#~ msgstr[0] "%u μέρα"
+#~ msgstr[1] "%u μέρες"
+
+#~ msgid "%u hour"
+#~ msgid_plural "%u hours"
+#~ msgstr[0] "%u ώρα"
+#~ msgstr[1] "%u ώρες"
+
+#~ msgctxt "days, hours and minutes"
+#~ msgid "%s, %s and %s"
+#~ msgstr "%s, %s και %s"
+
+#~ msgctxt "days and hours"
+#~ msgid "%s and %s"
+#~ msgstr "%s και %s"
+
+#~ msgctxt "days and minutes"
+#~ msgid "%s and %s"
+#~ msgstr "%s και %s"
+
+#~ msgctxt "hours and minutes"
+#~ msgid "%s and %s"
+#~ msgstr "%s και %s"
+
+#~ msgid "Song"
+#~ msgstr "Τραγούδι"
+
+#~ msgid "Repeat Artist"
+#~ msgstr "Επανάληψη καλλιτέχνη"
+
+#~ msgid "All"
+#~ msgstr "Όλα"
+
+#~ msgid "Hide"
+#~ msgstr "Απόκρυψη"
+
+#~ msgid "Show Info Panel"
+#~ msgstr "Προβολή πίνακα πληροφοριών"
+
+#~ msgid "Show"
+#~ msgstr "Προβολή"
+
+#~ msgid "Hide Info Panel"
+#~ msgstr "Απόκρυψη πίνακα πληροφοριών"
+
+#~ msgid "Free"
+#~ msgstr "Ελεύθερα"
+
+#~ msgid "Using %s of %s (%.2f%)"
+#~ msgstr "Χρησιμοποιώντας %s από %s (%.2f%)"
+
+#~ msgid "General"
+#~ msgstr "Γενικά"
+
+#~ msgid "Import from Device"
+#~ msgstr "Εισαγωγή από συσκευή"
+
+#~ msgid "Import media from %s"
+#~ msgstr "Εισαγωγή αρχείων αναπαραγωγής από %s"
+
+#~ msgid "Import all media"
+#~ msgstr "Εισαγωγή όλων των αρχείων αναπαραγωγής"
+
+#~ msgid "Don't Import"
+#~ msgstr "Να μη γίνει εισαγωγή"
+
+#~ msgid "Import %i items from %s"
+#~ msgstr "Εισαγωγή %i αντικειμένων από %s"
+
+#~ msgid "Import %s from %s"
+#~ msgstr "Εισαγωγή %s από %s"
+
+#~ msgid "ID"
+#~ msgstr "Ταυτότητα (ID)"
+
+#~ msgid "Select individual media to import:"
+#~ msgstr "Επιλέξτε μεμονωμένα πολυμέσα για εισαγωγή:"
+
+#~ msgid "Check Item"
+#~ msgstr "Έλεγχος Αντικειμένου"
+
+#~ msgid "Check Album"
+#~ msgstr "Έλεγχος Δίσκου"
+
+#~ msgid "Check Artist"
+#~ msgstr "Έλεγχος Καλλιτέχνη"
+
+#~ msgid "Cannot Import"
+#~ msgstr "Αδυναμία εισαγωγής"
+
+#~ msgid ""
+#~ "Noise is already doing file operations. Please wait until those finish to "
+#~ "import from %s"
+#~ msgstr ""
+#~ "Το noise ήδη εκτελεί διεργασίες. Παρακαλώ περιμένετε έως ότου αυτές "
+#~ "τελειώσουν για να εισαχθούν από το  %s"
+
+#~ msgid "Stop Syncing"
+#~ msgstr "Σταμάτημα Συγχρονισμού"
+
+#~ msgid "Sync will remove 1 item from %s"
+#~ msgstr "Ο συγχρονισμός θα απομακρύνει 1 αντικείμενο από το %s"
+
+#~ msgid "%u album"
+#~ msgid_plural "%u albums"
+#~ msgstr[0] "%u άλμπουμ"
+#~ msgstr[1] "%u άλμπουμ"
+
+#~ msgctxt "Title format used on Album View Popup: $ALBUM by $ARTIST"
+#~ msgid "%s by %s"
+#~ msgstr "%s από %s"
+
+#~ msgctxt ""
+#~ "Format used on statusbar: $description, $total_duration, $total_file_size"
+#~ msgid "%s, %s, %s"
+#~ msgstr "%s, %s, %s"
+
+#~ msgid "OK"
+#~ msgstr "Εντάξει"
+
+#~ msgid "No External Songs"
+#~ msgstr "Δεν υπάρχουν εξωτερικά τραγούδια"
+
+#~ msgid ""
+#~ "There were no songs found on this device that are not in your library."
+#~ msgstr "Όλα τα τραγούδια της συσκευής περιλαμβάνονται στη βιβλιοθήκη."
+
+#~ msgid "%i track"
+#~ msgid_plural "%i tracks"
+#~ msgstr[0] "%i κομμάτι"
+#~ msgstr[1] "%i κομμάτια"
+
+#~ msgid "%u song"
+#~ msgid_plural "%u songs"
+#~ msgstr[0] "%u τραγούδι"
+#~ msgstr[1] "%u τραγούδια"
+
+#~ msgctxt "Format used on statusbar: $description, $total_duration"
+#~ msgid "%s, %s"
+#~ msgstr "%s, %s"
+
+#~ msgid "translator-credits"
+#~ msgstr ""
+#~ "Launchpad Contributions:\n"
+#~ "  Basilis Thomopoulos https://launchpad.net/~kolxoz83\n"
+#~ "  Chris Triantafillis https://launchpad.net/~christriant\n"
+#~ "  Christos Iatropoulos https://launchpad.net/~ci4\n"
+#~ "  Daniel Fore https://launchpad.net/~danrabbit\n"
+#~ "  Dimitrios Simopoulos https://launchpad.net/~dsimop\n"
+#~ "  Filippos Kolyvas https://launchpad.net/~fkol-k4\n"
+#~ "  George Chalkitis https://launchpad.net/~chalkitisge\n"
+#~ "  Jim Spentzos https://launchpad.net/~jamesspentzos\n"
+#~ "  Nikos Raptopoulos https://launchpad.net/~nraptopoulos\n"
+#~ "  Nikos Tourvas https://launchpad.net/~nikostourvas\n"
+#~ "  Stefanos Papanatsios https://launchpad.net/~stefan0spapanatsi0s\n"
+#~ "  Theodore Grammenos https://launchpad.net/~theodorewii121\n"
+#~ "  Theodoros Kentistos https://launchpad.net/~theokent\n"
+#~ "  adem https://launchpad.net/~haliladem111\n"
+#~ "  iakovos athanasiadhs https://launchpad.net/~liam21iakovos\n"
+#~ "  oikonomopo https://launchpad.net/~oikonomopo-gmail"
+
+#~ msgid "Lyrics fetched from www.lyricsmania.com"
+#~ msgstr "Οι στίχοι προσκομίζονται από τη σελίδα www.lyricsmania.com"
+
+#~ msgid "%s could not find any songs on the CD. No songs can be imported"
+#~ msgstr ""
+#~ "%s δεν μπόρεσε να βρει τραγούδια στο CD. Δεν έγινε εισαγωγή κανενός "
+#~ "τραγουδιού."
+
+#~ msgid "CD Import Complete"
+#~ msgstr "Η εισαγωγή του CD ολοκληρώθηκε"
+
+#~ msgid "No songs on CD"
+#~ msgstr "Δεν υπάρχουν τραγούδια στο CD"
+
+#~ msgid "Adding music from %s to library..."
+#~ msgstr "Προστείθεται μουσική από %s στη βιβλιοθήκη"
+
+#~ msgid "Adding files to library..."
+#~ msgstr "Προστείθονται αρχεία στη βιβλιοθήκη"
+
+#~ msgid "Importing music from %s..."
+#~ msgstr "Εισαγωγή μουσικής από  %s..."
+
+#~ msgid "Unknown Track"
+#~ msgstr "Άγνωστο κομμάτι"
+
+#~ msgid "Rescanning music for changes. This may take a while..."
+#~ msgstr ""
+#~ "Επανασάρωση μουσικής για αλλαγές. Αυτό μπορεί να διαρκέσει για λίγο..."
+
+#~ msgid "Unknown Album"
+#~ msgstr "Άγνωστο άλμπουμ"
+
+#~ msgid "Unknown Artist"
+#~ msgstr "Άγνωστος καλλιτέχνης"
+
+#~ msgid "Show Equalizer"
+#~ msgstr "Εμφάνιση ισοσταθμιστή"
+
+#~ msgid "Hide Equalizer"
+#~ msgstr "Απόκρυψη ισοσταθμιστή"
+
+#~ msgid "Edit"
+#~ msgstr "Επεξεργασία"
+
+#~ msgid "Export..."
+#~ msgstr "Εξαγωγή..."
+
+#~ msgid "Equalizer"
+#~ msgstr "Ισοσταθμιστής"
+
+#~ msgid "Unknown Title"
+#~ msgstr "Άγνωστος Τίτλος"
+
+#~ msgid "%s and %s"
+#~ msgstr "%s και %s"
+
+#~ msgid "%d second"
+#~ msgid_plural "%d seconds"
+#~ msgstr[0] "%d δευτερόλεπτo"
+#~ msgstr[1] "%d δευτερόλεπτα"
+
+#~ msgid "%s, %s and %s"
+#~ msgstr "%s, %s και %s"
+
+#~ msgid "Done"
+#~ msgstr "Ολοκληρώθηκε"
+
+#~ msgid "Lyrics"
+#~ msgstr "Στίχοι"
+
+#~ msgid "Metadata"
+#~ msgstr "Μεταδεδομένα"
+
+#~ msgid "Editing %s"
+#~ msgstr "Επεξεργασία %s"
+
+#~ msgid "Track"
+#~ msgstr "Κομμάτι"
+
+#~ msgid "Podcast"
+#~ msgstr "Φορητή εκπομπή (Podcast)"
+
+#~ msgid "Write metadata to file"
+#~ msgstr "Εγγραφή μεταδεδομένων σε αρχείο"
+
+#~ msgid "Station"
+#~ msgstr "Σταθμός"
+
+#~ msgid "%s by %s"
+#~ msgstr "%s από %s"
+
+#~ msgid "Change your music folder."
+#~ msgstr "Αλλαγή του φάκελου μουσικής."
+
+#~ msgid "Locate"
+#~ msgstr "Εντοπισμός"
+
+#~ msgid "1 track"
+#~ msgstr "1 κομμάτι"
+
+#~ msgid "Category"
+#~ msgstr "Κατηγορία"
+
+#~ msgid "Episode"
+#~ msgstr "Επεισόδιο"
+
+#~ msgid "Name"
+#~ msgstr "Όνομα"
+
+#~ msgid "Date"
+#~ msgstr "Ημερομηνία"
+
+#~ msgid "Skips"
+#~ msgstr "Παραβλέψεις"
+
+#~ msgid "Plays"
+#~ msgstr "Αναπαραγωγές"
+
+#~ msgid "BPM"
+#~ msgstr "BPM"
+
+#~ msgid "Not Imported Files"
+#~ msgstr "Μη φορτωμένα αρχεία"
+
+#~ msgid "Please make sure that your music folder is accessible and mounted."
+#~ msgstr ""
+#~ "Παρακαλώ βεβαιωθείτε ότι ο φάκελος μουσικής είναι προσβάσιμος και "
+#~ "προσαρτημένος."
+
+#~ msgid "Rescanning music folder for changes"
+#~ msgstr "Νέα σάρωση του φακέλου μουσικής για αλλαγές"
+
+#~ msgid "Device is already being synced."
+#~ msgstr "Η συσκευή ήδη συγχρονίζεται."
+
+#~ msgid "Could not find media file"
+#~ msgstr "Αδυναμία εύρεσης του αρχείου αναπαραγωγής"
+
+#~ msgid "%i media files could not be found. What would you like to do?"
+#~ msgstr "%i αρχεία αναπαραγωγής δε βρέθηκαν. Τι θα θέλατε να κάνετε;"
+
+#~ msgid "Lyrics not found for %s"
+#~ msgstr "Δε βρέθηκαν στίχοι για %s"
+
+#~ msgid ""
+#~ "Noise is already doing file operations. Please wait until those finish to "
+#~ "import from %d"
+#~ msgstr ""
+#~ "Το Noise εκτελεί διεργασίες αρχείων. Παρακαλώ περιμένετε μέχρι να "
+#~ "ολοκληρωθεί η εισαγωγή τους από %d"
+
+#~ msgid "Rescan Music Folder"
+#~ msgstr "Νέα σάρωση φακέλου μουσικής"
+
+#~ msgid "Unsuccessful. Click To Try Again."
+#~ msgstr "Ανεπιτυχής. Κάντε κλικ για να προσπαθήσετε ξανά."
+
+#~ msgid "Click to redo the Last.fm login process"
+#~ msgstr "Κάντε κλικ για να επαναλάβετε τη διαδικασία σύνδεσης στο Last.fm"
+
+#~ msgid "%i kbps"
+#~ msgstr "%i kbps"
+
+#~ msgid "Display Album Art"
+#~ msgstr "Προβολή εξωφύλλου άλμπουμ"
+
+#~ msgid "Editing %i songs"
+#~ msgstr "Επεξεργασία %i τραγουδιών"
+
+#~ msgid "Editing $NAME by $ARTIST"
+#~ msgstr "Επεξεργασία $NAME από τον/την $ARTIST"
+
+#~ msgid "Importing track %i: %s"
+#~ msgstr "Εισαγωγή κομματιού %i: %s"
+
+#~ msgid "Last.fm"
+#~ msgstr "Last.fm"
+
+#~ msgid "There is not enough space on Device to complete the Sync…"
+#~ msgstr ""
+#~ "Δεν υπάρχει αρκετός χώρος στη συσκευή για την ολοκλήρωση του "
+#~ "συγχρονισμού..."
+
+#~ msgid ""
+#~ "The plugin for media type %s is not installed.\n"
+#~ "What would you like to do?"
+#~ msgstr ""
+#~ "Το πρόσθετο για τον τύπο αρχείου %s δεν είναι εγκατεστημένο.\n"
+#~ "Τι θα θέλατε να κάνετε;"
+
+#~ msgid "Required GStreamer plugin not installed"
+#~ msgstr "Απαιτείται το πρόσθετο GStreamer που δεν είναι εγκατεστημένο"
+
+#~ msgid "%i Star"
+#~ msgid_plural "%i Stars"
+#~ msgstr[0] "%i αστέρι"
+#~ msgstr[1] "%i αστέρια"
+
+#~ msgid "Date Released"
+#~ msgstr "Ημερομηνία κυκλοφορίας"
+
+#~ msgid "Library Management:"
+#~ msgstr "Διαχείριση βιβλιοθήκης:"
+
+#~ msgid "Music Folder Location:"
+#~ msgstr "Θέση φακέλου μουσικής:"
+
+#~ msgid "Media Type"
+#~ msgstr "Τύπος αρχείου πολυμέσων"
+
+#~ msgid "Remove Media"
+#~ msgstr "Αφαίρεση μέσου"
+
+#~ msgid "Album Artist"
+#~ msgstr "Καλλιτέχνης άλμπουμ"
+
+#~ msgid "Do Nothing"
+#~ msgstr "Kαμία ενέργεια"
+
+#~ msgid "Locate Media"
+#~ msgstr "Εντοπισμού μέσου"
+
+#~ msgid "Listen to music"
+#~ msgstr "Ακρόαση μουσικής"
+
+#~ msgid "Success!"
+#~ msgstr "Επιτυχία!"
+
+#~ msgid "Complete Login"
+#~ msgstr "Ολοκλήρωση σύνδεσης"
+
+#~ msgid "Give %s Permission"
+#~ msgstr "Δώσε άδεια στον/η/ο %s"
+
+#~ msgid "Noise;Audio;Player;MP3;iPod;Play;Playlist;Media;CD;Phone;Songs;"
+#~ msgstr ""
+#~ "Noise;Ήχος;Αναπαραγωγέας;MP3;Αναπαραγωγή;Λίστα;Πολυμέσα;Δίσκος;Τηλέφωνο;"
+#~ "Τραγούδια;"
+
+#~ msgid "All Podcasts"
+#~ msgstr "όλες οι φορητές εκπομπές"
+
+#~ msgid "Podcasts"
+#~ msgstr "Φορητές εκπομπές (Podcasts)"
+
+#~ msgid "Desktop Integration:"
+#~ msgstr "Ενσωμάτωση στο περιβάλλον εργασίας:"
+
+#~ msgid ""
+#~ "To allow for Last.fm integration, you must give permission to %s. You "
+#~ "only need to do this once."
+#~ msgstr ""
+#~ "Για να επιτραπεί η ενσωμάτωση με το Last.fm, θα πρέπει να δώσετε άδεια "
+#~ "στο %s. Αυτό χρειάζεται να το κάνετε μόνο μια φορά."
+
+#~ msgid "Last.fm Integration"
+#~ msgstr "Ενσωμάτωση με Last.fm"
+
+#~ msgid "Scrobbling Already Enabled"
+#~ msgstr ""
+#~ "Το scrobbling (αυτόματη μετάδοση πληροφοριών) έχει ήδη ενεργοποιηθεί"
+
+#~ msgid "Cancelling Sync"
+#~ msgstr "Ακύρωση συγχρονισμού"
+
+#~ msgid "Cancelling Import"
+#~ msgstr "Ακύρωση εισαγωγής"
+
+#~ msgid "Reset"
+#~ msgstr "Επαναφορά"
+
+#~ msgid "Notifications:"
+#~ msgstr "Ειδοποιήσεις:"
+
+#~ msgid "<b>Stats</b>"
+#~ msgstr "<b>Στατιστικά</b>"
+
+#~ msgid "Radio Station"
+#~ msgstr "Ραδιοφωνικός Σταθμός"
+
+#~ msgid "Details"
+#~ msgstr "Λεπτομέρειες"
+
+#~ msgid "About Noise"
+#~ msgstr "Σχετικά με το Noise"
+
+#~ msgid "About Music"
+#~ msgstr "Σχετικά με το Music"

@@ -1,0 +1,263 @@
+# English (United Kingdom) translation for beat-box
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the beat-box package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: beat-box\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-01 10:32+0000\n"
+"PO-Revision-Date: 2023-04-06 19:59+0000\n"
+"Last-Translator: David Hewitt <davidmhewitt@gmail.com>\n"
+"Language-Team: English (United Kingdom) <https://l10n.phyreos.io/projects/"
+"music/extra/en_GB/>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.16.4\n"
+"X-Launchpad-Export-Date: 2017-03-07 05:56+0000\n"
+
+#: data/music.metainfo.xml.in:10 data/music.desktop.in:6
+msgid "Music"
+msgstr "Music"
+
+#: data/music.metainfo.xml.in:11
+msgid "Queue and play local audio files"
+msgstr "Queue and play local audio files"
+
+#: data/music.metainfo.xml.in:13
+msgid ""
+"Quickly queue up and listen to your local music files without any extra "
+"frills. See embedded album artwork. Control playback with media keys or in "
+"the system audio indicator."
+msgstr ""
+"Quickly queue up and listen to your local music files without any extra "
+"frills. See embedded album artwork. Control playback with media keys or in "
+"the system audio indicator."
+
+#: data/music.metainfo.xml.in:18
+msgid "Quickly queue up your favorite tracks"
+msgstr "Quickly queue up your favourite tracks"
+
+#: data/music.metainfo.xml.in:59 data/music.metainfo.xml.in:70
+#: data/music.metainfo.xml.in:84
+msgid "Improvements:"
+msgstr "Improvements:"
+
+#: data/music.metainfo.xml.in:61
+msgid "Toolbar shows a shadow when the view is scrolled"
+msgstr ""
+
+#: data/music.metainfo.xml.in:62
+#, fuzzy
+#| msgid "Open folders in the filemanager with Music"
+msgid "Open audio files from within Music"
+msgstr "Open folders in the file manager with Music"
+
+#: data/music.metainfo.xml.in:63 data/music.metainfo.xml.in:73
+#: data/music.metainfo.xml.in:106
+msgid "Updated translations"
+msgstr "Updated translations"
+
+#: data/music.metainfo.xml.in:72
+msgid "Open folders in the filemanager with Music"
+msgstr "Open folders in the file manager with Music"
+
+#: data/music.metainfo.xml.in:86
+msgid "For tracks without a title, use the file name instead of the whole URI"
+msgstr "For tracks without a title, use the file name instead of the whole URI"
+
+#: data/music.metainfo.xml.in:87
+msgid "Skip invalid files instead of stopping playback"
+msgstr "Skip invalid files instead of stopping playback"
+
+#: data/music.metainfo.xml.in:88
+msgid "Next and Repeat buttons always work regardless of repeat mode"
+msgstr "Next and Repeat buttons always work regardless of repeat mode"
+
+#: data/music.metainfo.xml.in:89
+msgid ""
+"Now available in Catalan, Dutch, Finnish, French, German, Hebrew, Hungarian, "
+"Japanese, Korean, Kurdish, Marathi, Norwegian Bokmål, Polish, Portuguese, "
+"Russian, Simplified Chinese, Turkish, and Ukrainian"
+msgstr ""
+"Now available in Catalan, Dutch, Finnish, French, German, Hebrew, Hungarian, "
+"Japanese, Korean, Kurdish, Marathi, Norwegian Bokmål, Polish, Portuguese, "
+"Russian, Simplified Chinese, Turkish, and Ukrainian"
+
+#: data/music.metainfo.xml.in:99
+msgid "Complete rewrite"
+msgstr "Complete rewrite"
+
+#: data/music.metainfo.xml.in:105
+msgid "Drop support for Last.FM"
+msgstr "Drop support for Last.FM"
+
+#: data/music.desktop.in:7
+msgid "Listen to music"
+msgstr "Listen to music"
+
+#: data/music.desktop.in:9
+msgid "Noise;Audio;Player;MP3;Play;Playlist;Media;Songs;"
+msgstr "Noise;Audio;Player;MP3;Play;Playlist;Media;Songs;"
+
+#~ msgid "Phyre Ltd."
+#~ msgstr "Phyre Ltd."
+
+#~ msgid "Fix an issue with saving smart playlists"
+#~ msgstr "Fix an issue with saving smart playlists"
+
+#~ msgid "Drop support for CD-ROM"
+#~ msgstr "Drop support for CD-ROM"
+
+#~ msgid "Dark style support"
+#~ msgstr "Dark style support"
+
+#~ msgid "Minor visual improvements"
+#~ msgstr "Minor visual improvements"
+
+#~ msgid "Music Player"
+#~ msgstr "Music Player"
+
+#~ msgid "Drag and drop whole folders into the queue"
+#~ msgstr "Drag and drop whole folders into the queue"
+
+#~ msgid "Fix removing items from the queue"
+#~ msgstr "Fix removing items from the queue"
+
+#~ msgid "Fix equalizer sliders not properly disabled sometimes"
+#~ msgstr "Fix equaliser sliders not properly disabled sometimes"
+
+#~ msgid "Performance improvements"
+#~ msgstr "Performance improvements"
+
+#~ msgid "Removed old gsignond vapi"
+#~ msgstr "Removed old gsignond vapi"
+
+#~ msgid "LibraryWindow: Use Granite.MessageDialog for showing alerts"
+#~ msgstr "LibraryWindow: Use Granite.MessageDialog for showing alerts"
+
+#~ msgid "PlaylistsUtils: Use Gtk.FileChooserNative"
+#~ msgstr "PlaylistsUtils: Use Gtk.FileChooserNative"
+
+#~ msgid "Accurately remember window size"
+#~ msgstr "Accurately remember window size"
+
+#~ msgid "Scale album art properly at high resolutions"
+#~ msgstr "Scale album art properly at high resolutions"
+
+#~ msgid ""
+#~ "Accurately select Music Folder Location for directories with spaces in "
+#~ "name"
+#~ msgstr ""
+#~ "Accurately select Music Folder Location for directories with spaces in "
+#~ "name"
+
+#~ msgid "New MediaKeyListener path for gnome-settings-daemon"
+#~ msgstr "New MediaKeyListener path for gnome-settings-daemon"
+
+#~ msgid "AlbumView: double-click to play album"
+#~ msgstr "AlbumView: double-click to play album"
+
+#~ msgid "Associate with s3m files"
+#~ msgstr "Associate with s3m files"
+
+#~ msgid "Queue fixes"
+#~ msgstr "Queue fixes"
+
+#~ msgid "Properly restore playlists"
+#~ msgstr "Properly restore playlists"
+
+#~ msgid "Always respect custom music folder setting"
+#~ msgstr "Always respect custom music folder setting"
+
+#~ msgid "Minor bug fixes"
+#~ msgstr "Minor bug fixes"
+
+#~ msgid "Fix list and column view sorting"
+#~ msgstr "Fix list and column view sorting"
+
+#~ msgid "Add orange accent color"
+#~ msgstr "Add orange accent colour"
+
+#~ msgid "Add shortcut accels to tooltips"
+#~ msgstr "Add shortcut accels to tooltips"
+
+#~ msgid "Various UI changes"
+#~ msgstr "Various UI changes"
+
+#~ msgid "Shuffle fixes"
+#~ msgstr "Shuffle fixes"
+
+#~ msgid "Initial MPRIS support"
+#~ msgstr "Initial MPRIS support"
+
+#~ msgid "Detect library changes at startup."
+#~ msgstr "Detect library changes at startup."
+
+#~ msgid "Support searching by URI"
+#~ msgstr "Support searching by URI"
+
+#~ msgid "Change the queue mechanism to make it less confusing."
+#~ msgstr "Change the queue mechanism to make it less confusing."
+
+#~ msgid "Improve equalizer style."
+#~ msgstr "Improve equaliser style."
+
+#~ msgid "Minor bug fixes."
+#~ msgstr "Minor bug fixes."
+
+#~ msgid "Add rounded bottom window corner."
+#~ msgstr "Add rounded bottom window corner."
+
+#~ msgid "New translations"
+#~ msgstr "New translations"
+
+#~ msgid "Release for Loki."
+#~ msgstr "Release for Loki."
+
+#~ msgid "Add support for Opus Ogg"
+#~ msgstr "Add support for Opus Ogg"
+
+#~ msgid "Fix Ctrl+Q support for non-Latin keyboard layouts"
+#~ msgstr "Fix Ctrl+Q support for non-Latin keyboard layouts"
+
+#~ msgid "Reorganize media edition layout"
+#~ msgstr "Reorganise media edition layout"
+
+#~ msgid "Port grid to support HiDPI displays"
+#~ msgstr "Port grid to support HiDPI displays"
+
+#~ msgid "Update icons to latest elementary icon release"
+#~ msgstr "Update icons to latest elementary icon release"
+
+#~ msgid "Respect privacy mode"
+#~ msgstr "Respect privacy mode"
+
+#~ msgid "The official elementary music player"
+#~ msgstr "The official elementary music player"
+
+#~ msgid ""
+#~ "Music is a fast and beautiful audio player with a focus on music and "
+#~ "libraries. It handles external devices and album art."
+#~ msgstr ""
+#~ "Music is a fast and beautiful audio player with a focus on music and "
+#~ "libraries. It handles external devices and album art."
+
+#~ msgid "io.phyre.music"
+#~ msgstr "io.phyre.music"
+
+#~ msgid "multimedia-audio-player"
+#~ msgstr "multimedia-audio-player"
+
+#~ msgid "About Music"
+#~ msgstr "About Music"
+
+#~ msgid "Noise"
+#~ msgstr "Noise"
+
+#~ msgid "About Noise"
+#~ msgstr "About Noise"

@@ -1,0 +1,1443 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Mohammad Zali <mohamadzali@gmail.com>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-01 10:32+0000\n"
+"PO-Revision-Date: 2024-09-25 23:27+0000\n"
+"Last-Translator: Hossein <hossein17@duck.com>\n"
+"Language-Team: Persian <https://l10n.phyreos.io/projects/music/music/fa/>"
+"\n"
+"Language: fa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.6.2\n"
+"X-Launchpad-Export-Date: 2017-03-07 05:54+0000\n"
+
+#: src/Application.vala:92 src/Views/NowPlayingView.vala:18
+#: src/Views/NowPlayingView.vala:116
+msgid "Music"
+msgstr "موسیقی"
+
+#: src/MainWindow.vala:20
+msgid "Shuffle"
+msgstr "پخش تصادفی"
+
+#: src/MainWindow.vala:26
+msgid "Search titles in playlist"
+msgstr "جستجوی عناوین در پلی لیست"
+
+#: src/MainWindow.vala:45
+msgid "Queue is Empty"
+msgstr "صف خالیست"
+
+#: src/MainWindow.vala:46
+msgid "Audio files opened from Files will appear here"
+msgstr "فایل های صوتی باز شده از Files در اینجا ظاهر می شوند"
+
+#: src/MainWindow.vala:63
+msgid "Open Files…"
+msgstr "باز کردن فایل ها…"
+
+#: src/MainWindow.vala:167
+#, c-format
+msgid "%d invalid file was not added to the queue"
+msgid_plural "%d invalid files were not added to the queue"
+msgstr[0] "%d فایل نامعتبر به صف اضافه نشد"
+
+#: src/MainWindow.vala:215
+msgid "All files"
+msgstr "همه فایل ها"
+
+#: src/MainWindow.vala:220
+msgid "Music files"
+msgstr "فایل های موسیقی"
+
+#: src/MainWindow.vala:229
+msgid "Open"
+msgstr "باز کردن"
+
+#: src/MainWindow.vala:233
+msgid "Open audio files"
+msgstr "باز کردن فایل صوتی"
+
+#: src/MainWindow.vala:271
+msgid "Repeat None"
+msgstr "بازپخش هیچکدام"
+
+#: src/MainWindow.vala:275
+msgid "Repeat All"
+msgstr "بازپخش آلبوم"
+
+#: src/MainWindow.vala:279
+msgid "Repeat One"
+msgstr "بازپخش آهنگ"
+
+#: src/PlaybackManager.vala:136
+#, c-format
+msgid "%d track was added to the queue"
+msgid_plural "%d tracks were added to the queue"
+msgstr[0] "%d آهنگ به صف اضافه شد"
+
+#. Don't set artist for files without tags
+#: src/PlaybackManager.vala:196
+msgid "Unknown"
+msgstr "ناشناخته"
+
+#: src/Views/NowPlayingView.vala:23 src/Views/NowPlayingView.vala:115
+msgid "Not playing"
+msgstr "پخش نمی شود"
+
+#: src/Views/NowPlayingView.vala:45
+msgid "Previous"
+msgstr "قبلی"
+
+#: src/Views/NowPlayingView.vala:68
+msgid "Next"
+msgstr "بعدی"
+
+#: src/Views/NowPlayingView.vala:93
+msgid "Play"
+msgstr "پخش"
+
+#: src/Views/NowPlayingView.vala:96
+msgid "Pause"
+msgstr "نگه داشتن"
+
+#~ msgid "$NAME on $ALBUM"
+#~ msgstr "$NAME  از آلبوم $ALBUM"
+
+#~ msgid "$NAME by $ARTIST"
+#~ msgstr "$NAME اثر $ARTIST"
+
+#~ msgid "$NAME by $ARTIST on $ALBUM"
+#~ msgstr "$NAME اثر $ARTIST از آلبوم $ALBUM"
+
+#~ msgid "Flat"
+#~ msgstr "یک دست"
+
+#~ msgid "Classical"
+#~ msgstr "کلاسیک"
+
+#~ msgid "Club"
+#~ msgstr "باشگاه"
+
+#~ msgid "Dance"
+#~ msgstr "رقص"
+
+#~ msgid "Full Bass"
+#~ msgstr "بم کامل"
+
+#~ msgid "Full Treble"
+#~ msgstr "زیر کامل"
+
+#~ msgid "Full Bass + Treble"
+#~ msgstr "بم + زیر کامل"
+
+#~ msgid "Headphones"
+#~ msgstr "هدفون‌ها"
+
+#~ msgid "Large Hall"
+#~ msgstr "تالار بزرگ"
+
+#~ msgid "Live"
+#~ msgstr "زنده"
+
+#~ msgid "Party"
+#~ msgstr "مهمانی"
+
+#~ msgid "Pop"
+#~ msgstr "پاپ"
+
+#~ msgid "Reggae"
+#~ msgstr "رگه"
+
+#~ msgid "Rock"
+#~ msgstr "راک"
+
+#~ msgid "Soft"
+#~ msgstr "ملایم"
+
+#~ msgid "Ska"
+#~ msgstr "اسکا"
+
+#~ msgid "Soft Rock"
+#~ msgstr "راک ملایم"
+
+#~ msgid "Techno"
+#~ msgstr "تکنو"
+
+#~ msgid " (%d)"
+#~ msgstr " (%d)"
+
+#~ msgid "%s (%d)"
+#~ msgstr "%s (%d)"
+
+#~ msgid "%s (%i)"
+#~ msgstr "%s (%i)"
+
+#~ msgid "MPEG Version 3.0 Extended (*.m3u)"
+#~ msgstr "نسخه ۳/۰ گسترش یافته MPEG (*.m3u)"
+
+#~ msgid "Shoutcast Playlist Version 2.0 (*.pls)"
+#~ msgstr "فهرست پخش شات‌کست نسخه ۲/۰ (*.pls)"
+
+#~ msgid "Export Playlist"
+#~ msgstr "صادرات فهرست پخش"
+
+#~ msgid "Cancel"
+#~ msgstr "لغو"
+
+#~ msgid "Playlist"
+#~ msgstr "فهرست پخش"
+
+#~ msgid "Import %s"
+#~ msgstr "واردات %s"
+
+#~ msgid "Unrecognized playlist file. Import failed."
+#~ msgstr "پرونده فهرست پخش ناشناخته. واردات موفقیت‌آمیز نبود."
+
+#~ msgid "%m/%e/%Y %l:%M %p"
+#~ msgstr "%Y/%m/%e %l:%M %p"
+
+#~ msgid "Empty device!"
+#~ msgstr "دستگاه خالی!"
+
+#~ msgid "This device does not contain any music."
+#~ msgstr "هیچ سی‌دیی درون این دستگاه نیست."
+
+#~ msgid "Android Phone"
+#~ msgstr "تلفن اندروید"
+
+#~ msgid "Audio Player"
+#~ msgstr "پخش‌کننده صوتی"
+
+#~ msgid "Adding <b>$NAME</b> by <b>$ARTIST</b> to $DEVICE"
+#~ msgstr "در حال افزودن <b>$NAME</b> اثر <b>$ARTIST</b> به $DEVICE"
+
+#~ msgid "Finishing sync process…"
+#~ msgstr "پروسه همسان سازی اتمام یافت..."
+
+#~ msgid "Cancelling Sync…"
+#~ msgstr "لغو همسان سازی..."
+
+#~ msgid "Import Complete"
+#~ msgstr "واردات پایان یافت"
+
+#~ msgid "<b>Copying</b> files to <b>Music Folder</b>…"
+#~ msgstr "<b>کپی کردن</b> فایل ها به <b>پوشه موزیک</b>…"
+
+#~ msgid "Import to Library…"
+#~ msgstr "درون ریزی به کتابخانه:"
+
+#~ msgid "Preferences"
+#~ msgstr "تنظیمات"
+
+#~ msgid "Search Music"
+#~ msgstr "جستجوی موسیقی"
+
+#~ msgid "No songs in Queue"
+#~ msgstr "هیچ آهنگی در صف نیست"
+
+#~ msgid ""
+#~ "To add songs to the queue, use the <b>secondary click</b> on an item and "
+#~ "choose <b>Queue</b>. When a song finishes, the queued songs will be "
+#~ "played first before the next song in the currently playing list."
+#~ msgstr ""
+#~ "برای افزودن آهنگ به صف از <b>کلیک ثانوی</b> روی یک مورد و انتخاب <b>صف</"
+#~ "b> استفاده شود. پس از پایان یک آهنگ، آهنگ‌های صف شده پیش از پخش آهنگ‌های "
+#~ "فهرست پخش، پخش خواهند شد."
+
+#~ msgid "No songs in History"
+#~ msgstr "هیچ آهنگی در تاریخچه نیست"
+
+#~ msgid ""
+#~ "After a part of a song has been played, it is added to the history list.\n"
+#~ "You can use this list to see all the songs you have played during the "
+#~ "current session."
+#~ msgstr ""
+#~ "پس از پخش شدن تکه‌ای از یک موسیقی، آن موسیقی به فهرست تاریخچه افزوده خواهد "
+#~ "شد.\n"
+#~ "می‌توانید از آن فهرست برای مشاهده همه آهنگ‌هایی که در اجراء کنونی گوش "
+#~ "داده‌اید، استفاده کنید."
+
+#~ msgid "Import Music"
+#~ msgstr "وارد کردن موسیقی"
+
+#~ msgctxt "Name of the playlist"
+#~ msgid "Queue"
+#~ msgstr "صف"
+
+#, fuzzy
+#~| msgid "%i media files could not be found. What would you like to do?"
+#~ msgid "%i music files could not be found."
+#~ msgstr "نمی‌توان %i پرونده موسیقی را پیدا کرد. قصد انجام چه کاری را دارید؟"
+
+#~ msgid "Rescan Library"
+#~ msgstr "بازپویش کتابخانه"
+
+#~ msgid "Remove Song"
+#~ msgstr "حذف آهنگ"
+
+#~ msgid "Choose Music Folder"
+#~ msgstr "انتخاب پوشه موسیقی"
+
+#~ msgid "Install Plugin"
+#~ msgstr "نصب افزونه"
+
+#, fuzzy
+#~ msgid "Disc:"
+#~ msgstr "دیسک"
+
+#, fuzzy
+#~ msgid "Issues while importing from %s"
+#~ msgstr "درون ریزی آهنگ از %s ..."
+
+#, fuzzy
+#~ msgid "Unable to import %d item. The file may be damaged."
+#~ msgid_plural "Unable to import %d items. The files may be damaged."
+#~ msgstr[0] "%s نمی‌تواند %d مورد را وارد کند. احتمالاً پرونده‌ها خراب شده‌اند."
+
+#~ msgid "Move all corrupted files to trash"
+#~ msgstr "انتقال همه پرونده‌های خراب شده به زباله‌دان"
+
+#~ msgid "del"
+#~ msgstr "حذف"
+
+#~ msgid "File Location"
+#~ msgstr "مکان پرونده"
+
+#~ msgid "Select individual files to move to trash:"
+#~ msgstr "انتخاب هر پرونده برای انتقال به زباله‌دان:"
+
+#~ msgid "Move to Trash"
+#~ msgstr "انتقال به زباله‌دان"
+
+#~ msgid "Ignore"
+#~ msgstr "چشم‌پوشی"
+
+#~ msgid "Select Music Folder…"
+#~ msgstr "انتخاب پوشه آهنگ ها"
+
+#~ msgid "Keep Music folder organized:"
+#~ msgstr "مرتب نگهداشتن پوشه موسیقی:"
+
+#~ msgid "Write metadata to file:"
+#~ msgstr "نوشتن متاداده‌ها در پرونده:"
+
+#~ msgid "Copy imported files to Library:"
+#~ msgstr "رونویسی پرونده‌های وارد شده در کتابخانه:"
+
+#, fuzzy
+#~ msgid "Remove %d Song From Library?"
+#~ msgid_plural "Remove %d Songs From Library?"
+#~ msgstr[0] "آیا %d آهنگ باید از %s حذف شود؟"
+
+#, fuzzy
+#~ msgid "Remove \"%s\" From Library?"
+#~ msgstr "حذف کردن از کتابخانه"
+
+#, fuzzy
+#~ msgid ""
+#~ "This will remove the song from your library and from any device synced "
+#~ "automatically."
+#~ msgid_plural ""
+#~ "This will remove the songs from your library and from any device synced "
+#~ "automatically."
+#~ msgstr[0] ""
+#~ "این کار باعث حذف شدن آهنگ از کتابخانه شما و همچنین از هر دستگاهی که به "
+#~ "طور خودکار با %s هماهنگ شده است، می‌شود."
+
+#~ msgid "Remove from Library"
+#~ msgstr "حذف کردن از کتابخانه"
+
+#~ msgid "Set Music Folder?"
+#~ msgstr "آیا باید پوشه موسیقی تعیین شود؟"
+
+#~ msgid ""
+#~ "Are you sure you want to set the music folder to %s? This will reset your "
+#~ "library and remove your playlists."
+#~ msgstr ""
+#~ "آیا واقعاً می‌خواهید پوشه موسیقی را برابر %s قرار دهید؟ این کار باعث "
+#~ "بازنشانی کتابخانه و حذف همه فهرست‌های پخش شما می‌شود."
+
+#~ msgid "Export Playlists"
+#~ msgstr "صادرات فهرست پخش"
+
+#~ msgid "Set Music Folder"
+#~ msgstr "تعیین پوشه موسیقی"
+
+#~ msgid "Playlist Title"
+#~ msgstr "عنوان فهرست پخش"
+
+#~ msgid "any"
+#~ msgstr "هرکدام از"
+
+#~ msgid "all"
+#~ msgstr "همه"
+
+#~ msgid "Match"
+#~ msgstr "تطابق"
+
+#~ msgid "of the following:"
+#~ msgstr "موارد زیر:"
+
+#~ msgid "Limit to"
+#~ msgstr "محدود به"
+
+#~ msgid "items"
+#~ msgstr "موارد"
+
+#~ msgid "Name of Playlist"
+#~ msgstr "نام فهرست پخش"
+
+#~ msgid "Rules"
+#~ msgstr "قوانین"
+
+#~ msgid "Options"
+#~ msgstr "تنظیمات"
+
+#~ msgid "Smart Playlist Editor"
+#~ msgstr "ویرایشگر هوشمند فهرست پخش"
+
+#~ msgid "Remove"
+#~ msgstr "حذف"
+
+#~ msgid "Album"
+#~ msgstr "آلبوم"
+
+#~ msgid "Artist"
+#~ msgstr "هنرمند"
+
+#~ msgid "Bitrate"
+#~ msgstr "نرخ بیتی"
+
+#~ msgid "Comment"
+#~ msgstr "توضیح"
+
+#~ msgid "Composer"
+#~ msgstr "سراینده"
+
+#~ msgid "Date Added"
+#~ msgstr "تاریخ افزودن"
+
+#~ msgid "Genre"
+#~ msgstr "موضوع"
+
+#~ msgid "Grouping"
+#~ msgstr "گروه"
+
+#~ msgid "Last Played"
+#~ msgstr "آخرین پخش"
+
+#~ msgid "Length"
+#~ msgstr "طول"
+
+#~ msgid "Playcount"
+#~ msgstr "تعداد پخش"
+
+#~ msgid "Rating"
+#~ msgstr "امتیاز"
+
+#~ msgid "Skipcount"
+#~ msgstr "تعداد پرش"
+
+#~ msgid "Title"
+#~ msgstr "عنوان"
+
+#~ msgid "Year"
+#~ msgstr "سال"
+
+#~ msgid "is"
+#~ msgstr "هست"
+
+#~ msgid "contains"
+#~ msgstr "شامل"
+
+#~ msgid "does not contain"
+#~ msgstr "شامل نیست"
+
+#~ msgid "is exactly"
+#~ msgstr "دقیقاً"
+
+#~ msgid "is at most"
+#~ msgstr "حداکثر"
+
+#~ msgid "is at least"
+#~ msgstr "حداقل"
+
+#~ msgid "is within"
+#~ msgstr "میان"
+
+#~ msgid "is before"
+#~ msgstr "پیش از"
+
+#~ msgid "seconds"
+#~ msgstr "ثانیه"
+
+#~ msgid "days ago"
+#~ msgstr "روز پیش"
+
+#~ msgid "kbps"
+#~ msgstr "کیلوبیت در ثانیه"
+
+#, fuzzy
+#~ msgid "Sync will remove %i item from %s"
+#~ msgid_plural "Sync will remove %i items from %s"
+#~ msgstr[0] "فرآیند هماهنگ‌سازی %i مورد را از %s حذف خواهد کرد"
+
+#~ msgid ""
+#~ "If you continue to sync, media will be removed from %s since they are not "
+#~ "on the sync list. Would you like to import them to your library first?"
+#~ msgstr ""
+#~ "اگر فرآیند هماهنگ‌سازی را ادامه دهید، رسانه از %s حذف خواهد شد چون در "
+#~ "فهرست هماهنگ‌سازی وجود ندارند. آیا دوست دارید که در ابتدا آنها وارد "
+#~ "کتابخانه شوند؟"
+
+#~ msgid "Continue Syncing"
+#~ msgstr "ادامه هماهنگ‌سازی"
+
+#~ msgid "Import"
+#~ msgstr "واردات"
+
+#~ msgid "Importing music from %s…"
+#~ msgstr "درون ریزی آهنگ از %s ..."
+
+#~ msgid "Adding files to library…"
+#~ msgstr "افزودن آهنگ به کتابخانه"
+
+#~ msgid "Rescanning music for changes. This may take a while…"
+#~ msgstr ""
+#~ "بازبینی دوباره آهنگ ها برای دیدن تغییرات جدید. این عمل ممکن است مدت اندکی "
+#~ "طول بکشد..."
+
+#~ msgid "Added to your queue:"
+#~ msgstr "به صف پخش شما اضافه شد."
+
+#~ msgid "Favorite Songs"
+#~ msgstr "آهنگ‌های مورد علاقه"
+
+#~ msgid "Recently Added"
+#~ msgstr "به تازه‌گی افزوده شده"
+
+#~ msgid "Recent Favorites"
+#~ msgstr "علائق جدید"
+
+#~ msgid "Never Played"
+#~ msgstr "هیچ وقت پخش نشده"
+
+#~ msgid "Over Played"
+#~ msgstr "معمولاً پخش شده"
+
+#~ msgid "Not Recently Played"
+#~ msgstr "به تازه‌گی پخش نشده"
+
+#~ msgid "History"
+#~ msgstr "تاریخچه"
+
+#~ msgid "Playlists"
+#~ msgstr "فهرست‌های پخش"
+
+#~ msgid "Device Name:"
+#~ msgstr "نام دستگاه:"
+
+#~ msgid "Device Name"
+#~ msgstr "نام دستگاه"
+
+#~ msgid "Automatically sync when plugged in:"
+#~ msgstr "هماهنگ کردن خودکار در هنگام اتصال:"
+
+#~ msgid "Sync:"
+#~ msgstr "هماهنگ:"
+
+#~ msgid "Sync"
+#~ msgstr "هماهنگ‌سازی"
+
+#~ msgid "All Music"
+#~ msgstr "همه موسیقی‌ها"
+
+#~ msgid "Sync Failed"
+#~ msgstr "هماهنگ‌سازی موفقیت‌آمیز نبود"
+
+#~ msgid ""
+#~ "The playlist named %s is used to sync device %s, but could not be found."
+#~ msgstr ""
+#~ "فهرست پخشی با نام %s برای هماهنگ شدن با دستگاه %s استفاده شده است، اما "
+#~ "نمی‌توان آن را پیدا کرد."
+
+#~ msgid "Cannot Sync"
+#~ msgstr "نمی‌توان هماهنگ کرد"
+
+#~ msgid ""
+#~ "Cannot sync device with selected sync settings. Not enough space on disk"
+#~ msgstr ""
+#~ "نمی‌توان دستگاه را با تنظیمات هماهنگی انتخاب شده، هماهنگ کرد. روی دیسک "
+#~ "فضای کافی وجود ندارد"
+
+#~ msgid "Device is already doing an operation."
+#~ msgstr "دستگاه آمماده انجام عملیات است."
+
+#~ msgid "Cancelling…"
+#~ msgstr "در حال لغو کردن..."
+
+#~ msgid "Device operation has been cancelled and will stop after this media."
+#~ msgstr "عملیات دستگاه لغو شد و بعد از این رسانه متوقف خواهد شد."
+
+#, fuzzy
+#~ msgid "No Results"
+#~ msgstr "بدون امتیاز"
+
+#~ msgid "Genres"
+#~ msgstr "موضوعات"
+
+#~ msgid "Artists"
+#~ msgstr "هنرمندان"
+
+#~ msgid "Albums"
+#~ msgstr "آلبوم‌ها"
+
+#~ msgid "Years"
+#~ msgstr "سال‌ها"
+
+#~ msgid "Ratings"
+#~ msgstr "امتیازها"
+
+#~ msgid "Composers"
+#~ msgstr "سرایندگان"
+
+#~ msgid "Groupings"
+#~ msgstr "گروه‌ها"
+
+#~ msgid "All Genres"
+#~ msgstr "همه موضوعات"
+
+#~ msgid "All %i Genres"
+#~ msgstr "همه %i موضوع"
+
+#~ msgid "No Genres"
+#~ msgstr "بدون موضوع"
+
+#~ msgid "All Artists"
+#~ msgstr "همه هنرمندان"
+
+#~ msgid "All %i Artists"
+#~ msgstr "همه %i هنرمند"
+
+#~ msgid "No Artists"
+#~ msgstr "بدون هنرمند"
+
+#~ msgid "All Albums"
+#~ msgstr "همه آلبوم‌ها"
+
+#~ msgid "All %i Albums"
+#~ msgstr "همه %i آلبوم"
+
+#~ msgid "No Albums"
+#~ msgstr "بدون آلبوم"
+
+#~ msgid "All %i Years"
+#~ msgstr "همه %i سال"
+
+#~ msgid "No Years"
+#~ msgstr "بدون سال"
+
+#~ msgid "All Ratings"
+#~ msgstr "همه امتیازها"
+
+#~ msgid "No Ratings"
+#~ msgstr "بدون امتیاز"
+
+#~ msgid "All Groupings"
+#~ msgstr "همه گروه‌ها"
+
+#~ msgid "All %i Groupings"
+#~ msgstr "همه %i گروه"
+
+#~ msgid "No Groupings"
+#~ msgstr "بدون گروه"
+
+#~ msgid "All Composers"
+#~ msgstr "همه سرایندگان"
+
+#~ msgid "All %i Composers"
+#~ msgstr "همه %i سراینده"
+
+#~ msgid "No Composers"
+#~ msgstr "بدون سراینده"
+
+#~ msgid "Automatic"
+#~ msgstr "خودکار"
+
+#~ msgid "On Left"
+#~ msgstr "در سمت چپ"
+
+#~ msgid "On Top"
+#~ msgstr "در بالا"
+
+#~ msgid "Unrated"
+#~ msgstr "بی‌امتیاز"
+
+#~ msgid "Never"
+#~ msgstr "هرگز"
+
+#~ msgctxt "List column title"
+#~ msgid "#"
+#~ msgstr "شماره"
+
+#~ msgctxt "List column title"
+#~ msgid "Track"
+#~ msgstr "ترک"
+
+#~ msgctxt "List column title"
+#~ msgid "Title"
+#~ msgstr "عنوان"
+
+#~ msgctxt "List column title"
+#~ msgid "Length"
+#~ msgstr "طول"
+
+#~ msgctxt "List column title"
+#~ msgid "Artist"
+#~ msgstr "هنرمند"
+
+#~ msgctxt "List column title"
+#~ msgid "Album"
+#~ msgstr "آلبوم"
+
+#~ msgctxt "List column title"
+#~ msgid "Album Artist"
+#~ msgstr "صاحب آلبوم"
+
+#~ msgctxt "List column title"
+#~ msgid "Composer"
+#~ msgstr "سراینده"
+
+#~ msgctxt "List column title"
+#~ msgid "Genre"
+#~ msgstr "موضوع"
+
+#~ msgctxt "List column title"
+#~ msgid "Year"
+#~ msgstr "سال"
+
+#~ msgctxt "List column title"
+#~ msgid "Grouping"
+#~ msgstr "گروه"
+
+#~ msgctxt "List column title"
+#~ msgid "Bitrate"
+#~ msgstr "نرخ بیتی"
+
+#~ msgctxt "List column title"
+#~ msgid "Rating"
+#~ msgstr "امتیاز"
+
+#~ msgctxt "List column title"
+#~ msgid "Plays"
+#~ msgstr "پخش‌ها"
+
+#~ msgctxt "List column title"
+#~ msgid "Skips"
+#~ msgstr "پرش‌ها"
+
+#~ msgctxt "List column title"
+#~ msgid "Date Added"
+#~ msgstr "تاریخ افزودن"
+
+#~ msgctxt "List column title"
+#~ msgid "Last Played"
+#~ msgstr "آخرین پخش"
+
+#~ msgctxt "List column title (beats per minute)"
+#~ msgid "BPM"
+#~ msgstr "BPM"
+
+#~ msgctxt "List column title (file location)"
+#~ msgid "Location"
+#~ msgstr "مکان"
+
+#~ msgctxt "List column title"
+#~ msgid "File Size"
+#~ msgstr "اندازه پرونده"
+
+#~ msgid "Autosize Columns"
+#~ msgstr "تطبیق خودکار اندازه ستون‌ها"
+
+#~ msgid "1234 kbps"
+#~ msgstr "۱۲۳۴ کیلوبیت در ثانیه"
+
+#~ msgid "Sample List String"
+#~ msgstr "رشته نمونه فهرست"
+
+#~ msgid "Get Some Tunes"
+#~ msgstr "دریافت آهنگ"
+
+#~ msgid "Add music to your library."
+#~ msgstr "افزودن آهنگ به کتابخانه تان"
+
+#~ msgid "Change Music Folder"
+#~ msgstr "تغییر پوشه آهنگ ها"
+
+#~ msgid "Load music from a folder, a network or an external disk."
+#~ msgstr "بارگزاری آهنگ از یک پوشه یک شبکه یا یک دیسک"
+
+#~ msgid "Import your Music"
+#~ msgstr "واردات موسیقی"
+
+#~ msgid "Import all your Music from %s into your library."
+#~ msgstr "وارد کردن همه موسیقی‌های شما از %s به کتابخانه شما."
+
+#~ msgid "Select Music Folder"
+#~ msgstr "انتخاب پوشه موسیقی"
+
+#~ msgid "No Songs"
+#~ msgstr "بدون آهنگ"
+
+#~ msgid ""
+#~ "To add songs to this playlist, use the <b>secondary click</b> on an item "
+#~ "and choose <b>Add to Playlist</b>."
+#~ msgstr ""
+#~ "برای افزودن آهنگ به این فهرست پخش از <b>کلیک ثانویه</b> روی یک مورد و "
+#~ "انتخاب <b>افزودن به فهرست پخش</b> استفاده کنید."
+
+#~ msgid "Edit Smart Playlist"
+#~ msgstr "ویرایش فهرست پخش هوشمند"
+
+#~ msgid ""
+#~ "This playlist will be automatically populated with songs that match its "
+#~ "rules. To modify these rules, use the <b>secondary click</b> on it in the "
+#~ "sidebar and click on <b>Edit</b>. Optionally, you can click on the button "
+#~ "below."
+#~ msgstr ""
+#~ "این فهرست پخش به طور خودکار با آهنگ‌هایی که مطلبق قوانینش باشند پر می‌شود. "
+#~ "برای تغییر دادن این قوانین از <b>کلیک ثانویه</b> روی هر قانون در نوار "
+#~ "کناری و کلیک گزینه <b>ویرایش</b>، استفاده کنید. همچنین می‌توانید دکمه زیر "
+#~ "را فشار دهید."
+
+#~ msgid "No media"
+#~ msgstr "بدون رسانه"
+
+#~ msgid "Save preset"
+#~ msgstr "ذخیرهٔ بازنشانده"
+
+#~ msgid "Off"
+#~ msgstr "خاموش"
+
+#~ msgid "%s (Custom)"
+#~ msgstr "%s (سفارشی)"
+
+#~ msgid "%s (Custom %i)"
+#~ msgstr "%s (سفارشی %i)"
+
+#~ msgid "Scroll to Current Song"
+#~ msgstr "رفتن به آهنگ کنونی"
+
+#, fuzzy
+#~ msgid "Show in File Browser…"
+#~ msgstr "نمایش در مدیر پرونده"
+
+#, fuzzy
+#~ msgid "Edit Song Info…"
+#~ msgstr "ویرایش اطلاعات آهنگ"
+
+#, fuzzy
+#~ msgid "Other Actions"
+#~ msgstr "دیگر پرونده‌ها"
+
+#~ msgctxt "Action item (verb)"
+#~ msgid "Queue"
+#~ msgstr "صف"
+
+#~ msgid "Add to Playlist"
+#~ msgstr "افزودن به فهرست پخش"
+
+#, fuzzy
+#~ msgid "Remove Song…"
+#~ msgstr "حذف آهنگ"
+
+#~ msgid "Import to Library"
+#~ msgstr "واردات به کتابخانه"
+
+#, fuzzy
+#~ msgid "Remove from Library…"
+#~ msgstr "حذف کردن از کتابخانه"
+
+#~ msgid "Remove from Device"
+#~ msgstr "حذف کردن از دستگاه"
+
+#~ msgid "Remove from Queue"
+#~ msgstr "حذف کردن از صف"
+
+#~ msgid "New Playlist…"
+#~ msgstr "لیست پخش جدید..."
+
+#~ msgid "Import %i of %i selected songs"
+#~ msgstr "وارد کردن %i از %i آهنگ انتخاب شده"
+
+#~ msgid "Import %i song"
+#~ msgid_plural "Import %i songs"
+#~ msgstr[0] "وارد کردن %i آهنگ"
+
+#~ msgid "Delete Current"
+#~ msgstr "حذف کنونی"
+
+#~ msgid "Rename"
+#~ msgstr "تغییر نام"
+
+#~ msgid "Edit…"
+#~ msgstr "ویرایش..."
+
+#~ msgid "Save as Playlist"
+#~ msgstr "ذخیره به عنوان فهرست پخش"
+
+#~ msgid "Export…"
+#~ msgstr "برون بری..."
+
+#~ msgid "Eject"
+#~ msgstr "بیرون دادن"
+
+#~ msgid "New Playlist"
+#~ msgstr "فهرست پخش جدید"
+
+#~ msgid "New Smart Playlist"
+#~ msgstr "فهرست پخش هوشمند جدید"
+
+#~ msgid "Import Playlists"
+#~ msgstr "وارد کردن فهرست‌های پخش"
+
+#~ msgid "Library"
+#~ msgstr "کتابخانه"
+
+#~ msgid "Devices"
+#~ msgstr "دستگاه‌ها"
+
+#~ msgid "Network"
+#~ msgstr "شبکه"
+
+#~ msgid "Add Playlist"
+#~ msgstr "افزودن فهرست پخش"
+
+#~ msgid "Add Smart Playlist"
+#~ msgstr "افزودن فهرست پخش خودکار"
+
+#, fuzzy
+#~| msgid "Add Playlist"
+#~ msgid "Add Playlist…"
+#~ msgstr "افزودن فهرست پخش"
+
+#~ msgid "Enable Repeat"
+#~ msgstr "فعال کردن بازپخش"
+
+#~ msgid "Disable Shuffle"
+#~ msgstr "غیر فعال کردن آمیختگی"
+
+#, fuzzy
+#~ msgid "View as albums"
+#~ msgstr "نمایش آلبومی"
+
+#, fuzzy
+#~ msgid "View as list"
+#~ msgstr "نمایش فهرستی"
+
+#, fuzzy
+#~ msgid "View in columns"
+#~ msgstr "نمایش ستونی"
+
+#~ msgid "No similar songs found"
+#~ msgstr "هیچ آهنگ مشابهی پیدا نشد"
+
+#~ msgid ""
+#~ "There are no songs similar to the current song in your library. Make sure "
+#~ "all song info is correct and you are connected to the Internet. Some "
+#~ "songs may not have matches."
+#~ msgstr ""
+#~ "هیچ آهنگ مشابهی با این آهنگ وجود ندارد. لطفا اطمینان پیدا کنید که اطلاعات "
+#~ "آهنگ های شما درست است. و شما به اینترنت متصل هستید"
+
+#~ msgid "Similar"
+#~ msgstr "مشابه"
+
+#~ msgid "media"
+#~ msgstr "رسانه"
+
+#~ msgid "Similar Media"
+#~ msgstr "رسانه مشابه"
+
+#~ msgid "Audio CD Invalid"
+#~ msgstr "سی‌دی صوتی نامعتبر"
+
+#~ msgid "Could not find Music Folder"
+#~ msgstr "نمی‌توان پوشه موسیقی را پیدا کرد"
+
+#~ msgid ""
+#~ "Please make sure that your music folder is accessible and mounted before "
+#~ "importing the CD."
+#~ msgstr ""
+#~ "لطفاً پیش از واردات سی‌دی از دردسترس بودن پوشه موسیقی خود اطمینان حاصل کنید."
+
+#, fuzzy
+#~ msgid "Song imported from Audio CD."
+#~ msgstr "%s فرآیند واردات یک آهنگ را از سی‌دی صوتی، تمام کرد."
+
+#, fuzzy
+#~ msgid "%i songs imported from Audio CD."
+#~ msgstr "%s فرآیند واردات یک آهنگ را از سی‌دی صوتی، تمام کرد."
+
+#~ msgid "CD import will be <b>cancelled</b> after current import."
+#~ msgstr "واردات سی‌دی پس از انجام واردات جاری، <b>لغو</b> خواهد شد."
+
+#, fuzzy
+#~ msgid "An Error Occurred"
+#~ msgstr "یک خطا ظاهر شد."
+
+#, fuzzy
+#~ msgid "Could not load this Audio CD."
+#~ msgstr "%s نمی‌تواند محتوای این سی‌دی صوتی را بخواند"
+
+#~ msgid "An error occured during the Import of this CD"
+#~ msgstr "در هنگام واردات این سی‌دی خطایی رخداد"
+
+#~ msgid "There was an error while loading this Audio CD."
+#~ msgstr "یک خطا هنگام بارگزاری این سی دی صوتی به وجود آمد."
+
+#~ msgid "%s has imported your library."
+#~ msgstr "%s کتابخانه شما را وارد کرد"
+
+#~ msgid "Unable to import %d items from %s"
+#~ msgstr "نمی‌توان %d مورد را از %s وارد کرد"
+
+#~ msgid "Remove from %s"
+#~ msgstr "حذف کردن از %s"
+
+#~ msgid "Remove \"%s\" From %s?"
+#~ msgstr "آیا «%s» باید از %s حذف شود؟"
+
+#~ msgid "No Albums Found."
+#~ msgstr "هیچ آلبومی پیدا نشد."
+
+#~ msgid "No Songs Found."
+#~ msgstr "هیچ آهنگی پیدا نشد."
+
+#~ msgid "%u second"
+#~ msgid_plural "%u seconds"
+#~ msgstr[0] "%u ثانیه"
+
+#~ msgid "%u minute"
+#~ msgid_plural "%u minutes"
+#~ msgstr[0] "%u دقیقه"
+
+#~ msgctxt "minutes and seconds"
+#~ msgid "%s and %s"
+#~ msgstr "%s و %s"
+
+#~ msgid "%u day"
+#~ msgid_plural "%u days"
+#~ msgstr[0] "%u روز"
+
+#~ msgid "%u hour"
+#~ msgid_plural "%u hours"
+#~ msgstr[0] "%u ساعت"
+
+#~ msgctxt "days, hours and minutes"
+#~ msgid "%s, %s and %s"
+#~ msgstr "%s، %s و %s"
+
+#~ msgctxt "days and hours"
+#~ msgid "%s and %s"
+#~ msgstr "%s و %s"
+
+#~ msgctxt "days and minutes"
+#~ msgid "%s and %s"
+#~ msgstr "%s و %s"
+
+#~ msgctxt "hours and minutes"
+#~ msgid "%s and %s"
+#~ msgstr "%s و %s"
+
+#~ msgid "Song"
+#~ msgstr "آهنگ"
+
+#~ msgid "Repeat Artist"
+#~ msgstr "بازپخش هنرمند"
+
+#~ msgid "All"
+#~ msgstr "همه"
+
+#~ msgid "Hide"
+#~ msgstr "پنهان کردن"
+
+#~ msgid "Show Info Panel"
+#~ msgstr "نمایش اطلاعات"
+
+#~ msgid "Show"
+#~ msgstr "نمایش"
+
+#~ msgid "Hide Info Panel"
+#~ msgstr "پنهان کردن اطلاعات"
+
+#~ msgid "Free"
+#~ msgstr "رایگان"
+
+#~ msgid "Using %s of %s (%.2f%)"
+#~ msgstr "استفاده %s از %s (%.2f%)"
+
+#~ msgid "General"
+#~ msgstr "عمومی"
+
+#~ msgid "Import from Device"
+#~ msgstr "وارد کردن از دستگاه"
+
+#~ msgid "Import media from %s"
+#~ msgstr "وارد کردن رسانه از %s"
+
+#~ msgid ""
+#~ "The following files were found on %s, but are not in your library. Check "
+#~ "all the files you would like to import."
+#~ msgstr ""
+#~ "پرونده‌های زیر روی %s پیدا شده‌اند، اما در کتابخانه شما قرار ندارند. همه "
+#~ "پرونده‌هایی که قصد دارید وارد کنید را بررسی کنید."
+
+#~ msgid "Import all media"
+#~ msgstr "وارد کردن همه رسانه"
+
+#~ msgid "Don't Import"
+#~ msgstr "وارد نشود"
+
+#~ msgid "Import %i items from %s"
+#~ msgstr "وارد کردن %i مورد از %s"
+
+#~ msgid "Import %s from %s"
+#~ msgstr "وارد کردن %s از %s"
+
+#~ msgid "ID"
+#~ msgstr "شناسه"
+
+#~ msgid "Select individual media to import:"
+#~ msgstr "انتخاب هرکدام از رسانه‌ها برای واردات:"
+
+#~ msgid "Check Item"
+#~ msgstr "بررسی مورد"
+
+#~ msgid "Check Album"
+#~ msgstr "بررسی آلبوم"
+
+#~ msgid "Check Artist"
+#~ msgstr "بررسی هنرمند"
+
+#~ msgid "Cannot Import"
+#~ msgstr "نمی‌توان وارد کرد"
+
+#~ msgid "Import media to Library"
+#~ msgstr "وارد کردن رسانه به کتابخانه"
+
+#~ msgid "Stop Syncing"
+#~ msgstr "توقف هماهنگ‌سازی"
+
+#~ msgid "Sync will remove 1 item from %s"
+#~ msgstr "فرآیند هماهنگ‌سازی ۱ مورد را از %s حذف خواهد کرد"
+
+#~ msgid "%u album"
+#~ msgid_plural "%u albums"
+#~ msgstr[0] "%u آلبوم"
+
+#~ msgctxt "Title format used on Album View Popup: $ALBUM by $ARTIST"
+#~ msgid "%s by %s"
+#~ msgstr "آلبوم %s اثر %s"
+
+#~ msgctxt ""
+#~ "Format used on statusbar: $description, $total_duration, $total_file_size"
+#~ msgid "%s, %s, %s"
+#~ msgstr "%s، %s، %s"
+
+#~ msgid "No External Songs"
+#~ msgstr "بدون آهنگ بیرونی"
+
+#~ msgid ""
+#~ "There were no songs found on this device that are not in your library."
+#~ msgstr "هیچ آهنگی که در کتابخانه شما نباشد روی این دستگاه پیدا نشد."
+
+#~ msgid "%i track"
+#~ msgid_plural "%i tracks"
+#~ msgstr[0] "%i ترک"
+
+#~ msgid "%u song"
+#~ msgid_plural "%u songs"
+#~ msgstr[0] "%u آهنگ"
+
+#~ msgctxt "Format used on statusbar: $description, $total_duration"
+#~ msgid "%s, %s"
+#~ msgstr "%s، %s"
+
+#~ msgid "translator-credits"
+#~ msgstr ""
+#~ "Launchpad Contributions:\n"
+#~ "  Daniel Fore https://launchpad.net/~danrabbit\n"
+#~ "  Mohammad Zali https://launchpad.net/~mohamadzali-gmail\n"
+#~ "  reza abbasi https://launchpad.net/~rasez-secure"
+
+#~ msgid "Lyrics fetched from www.lyricsmania.com"
+#~ msgstr "متن شعر ها از www.lyricsmania.com واکشی می شود."
+
+#~ msgid "Radio Station"
+#~ msgstr "ایستگاه رادیویی"
+
+#~ msgid "%d second"
+#~ msgid_plural "%d seconds"
+#~ msgstr[0] "%d ثانیه"
+
+#~ msgid "Rescan Music Folder"
+#~ msgstr "پویش دوباره پوشه موسیقی"
+
+#~ msgid "<b>Importing</b> music from <b>%s</b> to library."
+#~ msgstr "<b>واردات</b> موسیقی از <b>%s</b> به کتابخانه."
+
+#~ msgid "Rescanning music folder for changes"
+#~ msgstr "پویش دوباره پوشه موسیقی برای اعمال تغییرات"
+
+#~ msgid "Please make sure that your music folder is accessible and mounted."
+#~ msgstr "لطفاً از دردسترس بودن پوشه موسیقی خود اطمینان حاصل کنید."
+
+#~ msgid "Podcasts"
+#~ msgstr "پادکست‌ها"
+
+#~ msgid "All Podcasts"
+#~ msgstr "همه پادکست‌ها"
+
+#~ msgid "Device is already being synced."
+#~ msgstr "هم اکنون دستگاه هماهنگ شده است."
+
+#~ msgid "%s can't seem to find your music."
+#~ msgstr "%s نمی‌تواند موسیقی شما را پیدا کند."
+
+#~ msgid "Locate"
+#~ msgstr "تعین محل"
+
+#~ msgid "Change your music folder."
+#~ msgstr "تغییر پوشه موسیقی شما."
+
+#~ msgid "Display Album Art"
+#~ msgstr "نمایش تصویر آلبوم"
+
+#~ msgid "%i kbps"
+#~ msgstr "%i کیلوبیت در ثانیه"
+
+#~ msgid "%i Star"
+#~ msgid_plural "%i Stars"
+#~ msgstr[0] "%i ستاره"
+
+#~ msgid "Cancelling Sync"
+#~ msgstr "لغو هماهنگ‌سازی"
+
+#~ msgid ""
+#~ "Device Sync has been cancelled. Operation will stop after this media."
+#~ msgstr "هماهنگ‌سازی دستگاه لغو شد. فرآیند پس از این رسانه متوقف خواهد شد."
+
+#~ msgid "Cancelling Import"
+#~ msgstr "لغو واردات"
+
+#~ msgid ""
+#~ "Import from device has been cancelled. Operation will stop after this "
+#~ "media."
+#~ msgstr "وارد کردن از دستگاه لغو شد. فرآیند پس از این رسانه متوقف خواهد شد."
+
+#~ msgid "Listen to music"
+#~ msgstr "گوش دادن به موسیقی"
+
+#~ msgid "Show Equalizer"
+#~ msgstr "نمایش نماهنگ"
+
+#~ msgid "Hide Equalizer"
+#~ msgstr "پنهان کردن نماهنگ"
+
+#~ msgid "Edit"
+#~ msgstr "ویرایش"
+
+#~ msgid "Export..."
+#~ msgstr "صادرات..."
+
+#~ msgid "Music Folder Location:"
+#~ msgstr "مکان پوشه موسیقی:"
+
+#~ msgid "Library Management:"
+#~ msgstr "مدیریت کتابخانه:"
+
+#~ msgid "Desktop Integration:"
+#~ msgstr "ادغام در پیشخوان:"
+
+#~ msgid "Metadata"
+#~ msgstr "متاداده‌ها"
+
+#~ msgid "Lyrics"
+#~ msgstr "شعر"
+
+#~ msgid "Editing $NAME by $ARTIST"
+#~ msgstr "ویرایش $NAME اثر $ARTIST"
+
+#~ msgid "Editing %s"
+#~ msgstr "ویرایش %s"
+
+#~ msgid "Editing %i songs"
+#~ msgstr "ویرایش %i آهنگ"
+
+#~ msgid "Album Artist"
+#~ msgstr "صاحب آلبوم"
+
+#~ msgid "Track"
+#~ msgstr "ترک"
+
+#~ msgid "Media Type"
+#~ msgstr "نوع رسانه"
+
+#~ msgid "Lyrics not found for %s"
+#~ msgstr "شعر %s پیدا نشد"
+
+#~ msgid "Podcast"
+#~ msgstr "پادکست"
+
+#~ msgid "Remove Media"
+#~ msgstr "حذف رسانه"
+
+#~ msgid "Locate Media"
+#~ msgstr "مکان‌یابی رسانه"
+
+#~ msgid "Do Nothing"
+#~ msgstr "هیچ کاری انجام نشود"
+
+#~ msgid "Could not find media file"
+#~ msgstr "نمی‌توان پرونده رسانه را پیدا کرد"
+
+#~ msgid "The name %s is already in use"
+#~ msgstr "پیش از این از نام %s استفاده شده است"
+
+#~ msgid "Equalizer"
+#~ msgstr "نماهنگ"
+
+#~ msgid ""
+#~ "Noise is already doing file operations. Please wait until those finish to "
+#~ "import from %d"
+#~ msgstr ""
+#~ "هم اکنون نویز در حال انجام فرآیندی روی پرونده‌هاست. لطفاً تا پایان واردات  "
+#~ "از %d صبر کنید"
+
+#~ msgid "Date Released"
+#~ msgstr "تاریخ انتشار"
+
+#~ msgid "Not Imported Files"
+#~ msgstr "پرونده‌های وارد نشده"
+
+#~ msgid "Required GStreamer plugin not installed"
+#~ msgstr "افزونه جی‌استریمر لازم نصب نشده است"
+
+#~ msgid ""
+#~ "The plugin for media type %s is not installed.\n"
+#~ "What would you like to do?"
+#~ msgstr ""
+#~ "افزونه پرونده‌های نوع %s نصب نشده است.\n"
+#~ "قصد انجام چه کاری را دارید؟"
+
+#~ msgid "Importing music from %s..."
+#~ msgstr "واردات موسیقی از %s..."
+
+#~ msgid "Adding files to library..."
+#~ msgstr "افزودن پرونده‌ها به کتابخانه..."
+
+#~ msgid "Adding music from %s to library..."
+#~ msgstr "افزودن موسیقی از %s به کتابخانه..."
+
+#~ msgid "Rescanning music for changes. This may take a while..."
+#~ msgstr ""
+#~ "بازپویش موسیقی‌ها برای اعمال تغییرات. ممکن است این کار کمی طول بکشد..."
+
+#~ msgid "Unknown Artist"
+#~ msgstr "هنرمند ناشناس"
+
+#~ msgid "Unknown Track"
+#~ msgstr "ترک ناشناخته"
+
+#~ msgid "Unknown Album"
+#~ msgstr "آلبوم ناشناخته"
+
+#~ msgid "No songs on CD"
+#~ msgstr "هیچ آهنگی روی سی‌دی وجود ندارد"
+
+#~ msgid "%s could not find any songs on the CD. No songs can be imported"
+#~ msgstr ""
+#~ "%s نمی‌تواند هیچ آهنگی را روی سی‌دی پیدا کند. نمی‌توان هیچ آهنگی را وارد کرد"
+
+#~ msgid "%s is already doing an import"
+#~ msgstr "هم اکنون %s در حال انجام واردات است"
+
+#~ msgid ""
+#~ "Please wait until %s is finished with the current import before importing "
+#~ "the CD."
+#~ msgstr "لطفاً پیش از واردات سی‌دی تا پایان فرآیند واردات توسط %s، صبر کنید."
+
+#~ msgid "CD Import Complete"
+#~ msgstr "واردات سی‌دی تمام شد"
+
+#~ msgid "%s has finished importing %i songs from Audio CD."
+#~ msgstr "%s فرآیند واردات %i آهنگ را از سی‌دی صوتی، تمام کرد."
+
+#~ msgid "Importing track %i: %s"
+#~ msgstr "واردات ترک %i: %s"
+
+#~ msgid "Fetching similar songs"
+#~ msgstr "در حال دریافت آهنگ‌های مشابه"
+
+#~ msgid "Similar to %s"
+#~ msgstr "مشابه با %s"
+
+#~ msgid "Similar Song View"
+#~ msgstr "نمای آهنگ مشابه"
+
+#~ msgid ""
+#~ "In this view, %s will automatically find songs similar to the one you're "
+#~ "playing. You can then start playing those songs, or save them as a "
+#~ "playlist for later."
+#~ msgstr ""
+#~ "در این نما، %s آهنگ‌هایی مشابه آنچه در حال گوش دادنش هستید را به طور "
+#~ "خودکار پیدا خواهد کرد. سپس شما می‌توانید آن آهنگ‌ها را نیز گوش دهید و یا "
+#~ "اینکه یک فهرست پخش از آنها بسازید."
+
+#~ msgid "Unsuccessful. Click To Try Again."
+#~ msgstr "موفقیت‌آمیز نبود. برای تلاش دوباره کلیک کنید."
+
+#~ msgid "Scrobbling Already Enabled"
+#~ msgstr "هم اکنون اسکرابلینگ فعال شده است"
+
+#~ msgid "Success!"
+#~ msgstr "موفق!"
+
+#~ msgid "Complete Login"
+#~ msgstr "ورود کامل"
+
+#~ msgid "Last.fm Integration"
+#~ msgstr "ادغام با Last.fm"
+
+#~ msgid "Click to redo the Last.fm login process"
+#~ msgstr "برای انجام دوباره فرآیند ورود به Last.fm کلیک کنید"
+
+#~ msgid "Noise;Audio;Player;MP3;iPod;Play;Playlist;Media;CD;Phone;Songs;"
+#~ msgstr "Noise;Audio;Player;MP3;iPod;Play;Playlist;Media;CD;Phone;Songs;"
+
+#~ msgid ""
+#~ "To allow for Last.fm integration, you must give permission to %s. You "
+#~ "only need to do this once."
+#~ msgstr ""
+#~ "برای اسکرابل کردن آهنگ ها با لست اف ام باید اجازه دسترسی به آن را بدهید "
+#~ "%s شما فقط یک بار نیاز به انجام این کار دارید."
+
+#~ msgid "There is not enough space on Device to complete the Sync…"
+#~ msgstr "فضای کافی برای همسان سازی بر روی دستگاه مورد نظر وجود ندارد."
+
+#~ msgid "Give %s Permission"
+#~ msgstr "دادن اجازه دسترسی %s"
+
+#~ msgid "Last.fm"
+#~ msgstr "Last.fm"

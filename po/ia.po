@@ -1,0 +1,813 @@
+# Interlingua translation for noise
+# Copyright (c) 2015 Rosetta Contributors and Canonical Ltd 2015
+# This file is distributed under the same license as the noise package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: noise\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-01 10:32+0000\n"
+"PO-Revision-Date: 2018-08-29 19:33+0000\n"
+"Last-Translator: Carmina16 <mistresssilvara@hotmail.com>\n"
+"Language-Team: Interlingua <https://weblate.phyreos.io/projects/music/"
+"music/ia/>\n"
+"Language: ia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.0.1\n"
+"X-Launchpad-Export-Date: 2017-03-07 05:53+0000\n"
+
+#: src/Application.vala:92 src/Views/NowPlayingView.vala:18
+#: src/Views/NowPlayingView.vala:116
+msgid "Music"
+msgstr "Musica"
+
+#: src/MainWindow.vala:20
+msgid "Shuffle"
+msgstr ""
+
+#: src/MainWindow.vala:26
+msgid "Search titles in playlist"
+msgstr ""
+
+#: src/MainWindow.vala:45
+msgid "Queue is Empty"
+msgstr ""
+
+#: src/MainWindow.vala:46
+msgid "Audio files opened from Files will appear here"
+msgstr ""
+
+#: src/MainWindow.vala:63
+#, fuzzy
+#| msgid "Other Files"
+msgid "Open Files…"
+msgstr "Altere files"
+
+#: src/MainWindow.vala:167
+#, c-format
+msgid "%d invalid file was not added to the queue"
+msgid_plural "%d invalid files were not added to the queue"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/MainWindow.vala:215
+#, fuzzy
+#| msgid "All Years"
+msgid "All files"
+msgstr "Tote le annos"
+
+#: src/MainWindow.vala:220
+#, fuzzy
+#| msgid "Music Player"
+msgid "Music files"
+msgstr "Reproductor de musica"
+
+#: src/MainWindow.vala:229
+msgid "Open"
+msgstr "Aperir"
+
+#: src/MainWindow.vala:233
+msgid "Open audio files"
+msgstr ""
+
+#: src/MainWindow.vala:271
+msgid "Repeat None"
+msgstr ""
+
+#: src/MainWindow.vala:275
+msgid "Repeat All"
+msgstr ""
+
+#: src/MainWindow.vala:279
+msgid "Repeat One"
+msgstr ""
+
+#: src/PlaybackManager.vala:136
+#, c-format
+msgid "%d track was added to the queue"
+msgid_plural "%d tracks were added to the queue"
+msgstr[0] ""
+msgstr[1] ""
+
+#. Don't set artist for files without tags
+#: src/PlaybackManager.vala:196
+msgid "Unknown"
+msgstr "Incognite"
+
+#: src/Views/NowPlayingView.vala:23 src/Views/NowPlayingView.vala:115
+#, fuzzy
+msgid "Not playing"
+msgstr "Nove lista de reproduction"
+
+#: src/Views/NowPlayingView.vala:45
+msgid "Previous"
+msgstr "Precedente"
+
+#: src/Views/NowPlayingView.vala:68
+msgid "Next"
+msgstr "Sequente"
+
+#: src/Views/NowPlayingView.vala:93
+msgid "Play"
+msgstr "Reproducer"
+
+#: src/Views/NowPlayingView.vala:96
+msgid "Pause"
+msgstr "Pausar"
+
+#~ msgid "Importing <b>$NAME</b> by <b>$ARTIST</b> to library…"
+#~ msgstr "Importation de <b>$NAME</b> per <b>$ARTIST</b> in le libraria…"
+
+#~ msgid "$NAME on $ALBUM"
+#~ msgstr "$NAME sur  $ALBUM"
+
+#~ msgid "$NAME by $ARTIST"
+#~ msgstr "$NAME per $ARTIST"
+
+#~ msgid "$NAME by $ARTIST on $ALBUM"
+#~ msgstr "$NAME per $ARTIST sur $ALBUM"
+
+#~ msgid "Flat"
+#~ msgstr "Plan"
+
+#~ msgid "Classical"
+#~ msgstr "Classic"
+
+#~ msgid "Club"
+#~ msgstr "Club"
+
+#~ msgid "Dance"
+#~ msgstr "Dance"
+
+#~ msgid "Full Bass"
+#~ msgstr "Basso plen"
+
+#~ msgid "Full Treble"
+#~ msgstr "Acuto plen"
+
+#~ msgid "Full Bass + Treble"
+#~ msgstr "Plen basso + acuto"
+
+#~ msgid "Headphones"
+#~ msgstr "Bonettos"
+
+#~ msgid "Live"
+#~ msgstr "Live"
+
+#~ msgid "Pop"
+#~ msgstr "Pop"
+
+#~ msgid "Reggae"
+#~ msgstr "Reggae"
+
+#~ msgid "Rock"
+#~ msgstr "Rock"
+
+#~ msgid "Soft"
+#~ msgstr "Blande"
+
+#~ msgid "Ska"
+#~ msgstr "Ska"
+
+#~ msgid "Techno"
+#~ msgstr "Techno"
+
+#~ msgid " (%d)"
+#~ msgstr " (%d)"
+
+#~ msgid "%s (%d)"
+#~ msgstr "%s (%d)"
+
+#~ msgid "%s (%i)"
+#~ msgstr "%s (%i)"
+
+#~ msgid "MPEG Version 3.0 Extended (*.m3u)"
+#~ msgstr "MPEG version 3.0 extense (*.m3u)"
+
+#~ msgid "Export Playlist"
+#~ msgstr "Exportar le lista de reproduction"
+
+#~ msgid "Save"
+#~ msgstr "Salvar"
+
+#~ msgid "Cancel"
+#~ msgstr "Cancellar"
+
+#~ msgid "Playlist"
+#~ msgstr "Lista de reproduction"
+
+#~ msgid "Import %s"
+#~ msgstr "Importar %s"
+
+#~ msgid "Unrecognized playlist file. Import failed."
+#~ msgstr "File de lista de reproduction incognite. Importation fallit."
+
+#~ msgid "%m/%e/%Y %l:%M %p"
+#~ msgstr "%m/%e/%Y %l:%M %p"
+
+#~ msgid "Preferences"
+#~ msgstr "Preferentias"
+
+#~ msgid "Search Music"
+#~ msgstr "Cercar musica"
+
+#~ msgid "Import Music"
+#~ msgstr "Importar le musica"
+
+#~ msgctxt "Name of the playlist"
+#~ msgid "Queue"
+#~ msgstr "Cauda"
+
+#~ msgid "File not found"
+#~ msgstr "File non trovate"
+
+#~ msgid "Rescan Library"
+#~ msgstr "Re-scander le libreria"
+
+#~ msgid "Remove Song"
+#~ msgstr "Remover le canto"
+
+#~ msgid "Choose Music Folder"
+#~ msgstr "Seliger le plica del musica"
+
+#, fuzzy
+#~ msgid "Would you like to install the %s plugin?"
+#~ msgstr "Desira tu installar le plugin %s?\n"
+
+#~ msgid "Install Plugin"
+#~ msgstr "Installar le Plugin"
+
+#, fuzzy
+#~ msgid "Disc:"
+#~ msgstr "Disco"
+
+#~ msgid "Close"
+#~ msgstr "Clauder"
+
+#, fuzzy
+#~ msgid "Issues while importing from %s"
+#~ msgstr "Importar le medios ab %s"
+
+#~ msgid "del"
+#~ msgstr "deler"
+
+#~ msgid "File Location"
+#~ msgstr "Position del file"
+
+#~ msgid "Move to Trash"
+#~ msgstr "Mover al immunditia"
+
+#~ msgid "Ignore"
+#~ msgstr "Ignorar"
+
+#~ msgid "Select Music Folder…"
+#~ msgstr "Selection del plica del musica…"
+
+#~ msgid "Keep Music folder organized:"
+#~ msgstr "Mantener organisate le plica del musica:"
+
+#~ msgid "Write metadata to file:"
+#~ msgstr "Scriber le metadatos in le file:"
+
+#~ msgid "Copy imported files to Library:"
+#~ msgstr "Copia le files importate in le libraria:"
+
+#~ msgid "Export Playlists"
+#~ msgstr "Exportar le listas de reproduction"
+
+#~ msgid "Set Music Folder"
+#~ msgstr "Prefixar le plica del lista"
+
+#~ msgid "Playlist Title"
+#~ msgstr "Totulo del lista de synchronisation"
+
+#~ msgid "any"
+#~ msgstr "cata"
+
+#~ msgid "all"
+#~ msgstr "tote"
+
+#~ msgid "Match"
+#~ msgstr "Concordantia"
+
+#~ msgid "Add"
+#~ msgstr "Adder"
+
+#~ msgid "Limit to"
+#~ msgstr "Limitar a"
+
+#~ msgid "items"
+#~ msgstr "elementos"
+
+#~ msgid "Name of Playlist"
+#~ msgstr "Nomine del lista de synchronisation"
+
+#~ msgid "Rules"
+#~ msgstr "Regulas"
+
+#~ msgid "Options"
+#~ msgstr "Optiones"
+
+#~ msgid "Smart Playlist Editor"
+#~ msgstr "Editor del lista de reproduction intelligente"
+
+#~ msgid "Remove"
+#~ msgstr "Remover"
+
+#~ msgid "Album"
+#~ msgstr "Album"
+
+#~ msgid "Artist"
+#~ msgstr "Artista"
+
+#~ msgid "Bitrate"
+#~ msgstr "Frequentia de bit"
+
+#~ msgid "Comment"
+#~ msgstr "Commento"
+
+#~ msgid "Composer"
+#~ msgstr "Compositor"
+
+#~ msgid "Date Added"
+#~ msgstr "Data addite"
+
+#~ msgid "Genre"
+#~ msgstr "Genere"
+
+#~ msgid "Grouping"
+#~ msgstr "Gruppar"
+
+#~ msgid "Last Played"
+#~ msgstr "Ultime reproduction"
+
+#~ msgid "Length"
+#~ msgstr "Longitude"
+
+#~ msgid "Rating"
+#~ msgstr "Evalutation"
+
+#~ msgid "Title"
+#~ msgstr "Titulo"
+
+#~ msgid "Year"
+#~ msgstr "Anno"
+
+#~ msgid "is"
+#~ msgstr "es"
+
+#~ msgid "contains"
+#~ msgstr "il contine"
+
+#~ msgid "does not contain"
+#~ msgstr "il non contine"
+
+#~ msgid "is exactly"
+#~ msgstr "es exactemente"
+
+#~ msgid "seconds"
+#~ msgstr "secundas"
+
+#~ msgid "kbps"
+#~ msgstr "kbps"
+
+#, fuzzy
+#~ msgid "Sync will remove %i item from %s"
+#~ msgid_plural "Sync will remove %i items from %s"
+#~ msgstr[0] "Importar %i elementos ab %s"
+#~ msgstr[1] "Importar %i elementos ab %s"
+
+#~ msgid "Continue Syncing"
+#~ msgstr "Continuar a synchronisar"
+
+#~ msgid "Import"
+#~ msgstr "Importar"
+
+#~ msgid "<b>Importing</b> music to library…"
+#~ msgstr "<b>Importiation</b> del musica al libraria…"
+
+#~ msgid "History"
+#~ msgstr "Historia"
+
+#~ msgid "Playlists"
+#~ msgstr "Listas de reproduction"
+
+#~ msgid "Device Name:"
+#~ msgstr "Nomine del dispositivo:"
+
+#~ msgid "Device Name"
+#~ msgstr "Nomine de dispositivo"
+
+#~ msgid "Sync"
+#~ msgstr "Sync"
+
+#~ msgid "Cancelling…"
+#~ msgstr "Cancellation…"
+
+#~ msgid "Genres"
+#~ msgstr "Generes"
+
+#~ msgid "Artists"
+#~ msgstr "Artistas"
+
+#~ msgid "Albums"
+#~ msgstr "Albumes"
+
+#~ msgid "Years"
+#~ msgstr "Annos"
+
+#~ msgid "Composers"
+#~ msgstr "Compositores"
+
+#~ msgid "All Genres"
+#~ msgstr "Tote le generes"
+
+#~ msgid "All %i Genres"
+#~ msgstr "Tote le %i Generes"
+
+#~ msgid "No Genres"
+#~ msgstr "Nulle generes"
+
+#~ msgid "No Artists"
+#~ msgstr "Nulle artistas"
+
+#~ msgid "No Albums"
+#~ msgstr "Nulle albumes"
+
+#~ msgid "All Composers"
+#~ msgstr "Tote le compositores"
+
+#~ msgid "All %i Composers"
+#~ msgstr "Tote le %i compositores"
+
+#~ msgid "No Composers"
+#~ msgstr "Nulle compositores"
+
+#~ msgid "Automatic"
+#~ msgstr "Automatic"
+
+#~ msgid "On Left"
+#~ msgstr "A sinistra"
+
+#~ msgid "On Top"
+#~ msgstr "In le summitate"
+
+#~ msgid "Never"
+#~ msgstr "Jammais"
+
+#~ msgctxt "List column title"
+#~ msgid "#"
+#~ msgstr "#"
+
+#~ msgctxt "List column title"
+#~ msgid "Track"
+#~ msgstr "Tracia"
+
+#~ msgctxt "List column title"
+#~ msgid "Title"
+#~ msgstr "Titulo"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Length"
+#~ msgstr "Longitude:"
+
+#~ msgctxt "List column title"
+#~ msgid "Artist"
+#~ msgstr "Artista"
+
+#~ msgctxt "List column title"
+#~ msgid "Album"
+#~ msgstr "Album"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Album Artist"
+#~ msgstr "Album artista"
+
+#~ msgctxt "List column title"
+#~ msgid "Composer"
+#~ msgstr "Compositor"
+
+#~ msgctxt "List column title"
+#~ msgid "Genre"
+#~ msgstr "Genere"
+
+#~ msgctxt "List column title"
+#~ msgid "Year"
+#~ msgstr "Anno"
+
+#~ msgctxt "List column title"
+#~ msgid "Grouping"
+#~ msgstr "Gruppar"
+
+#~ msgctxt "List column title"
+#~ msgid "Bitrate"
+#~ msgstr "Frequentia de bit"
+
+#~ msgctxt "List column title"
+#~ msgid "Rating"
+#~ msgstr "Evalutation"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Plays"
+#~ msgstr "Reproducer"
+
+#~ msgctxt "List column title"
+#~ msgid "Date Added"
+#~ msgstr "Data addite"
+
+#~ msgctxt "List column title"
+#~ msgid "Last Played"
+#~ msgstr "Ultime reproduction"
+
+#~ msgctxt "List column title (file location)"
+#~ msgid "Location"
+#~ msgstr "Position"
+
+#~ msgctxt "List column title"
+#~ msgid "File Size"
+#~ msgstr "Dimension del file"
+
+#~ msgid "1234 kbps"
+#~ msgstr "1234 kbps"
+
+#~ msgid "No Songs"
+#~ msgstr "Nulle cantos"
+
+#~ msgid "Updating playlist. Please wait."
+#~ msgstr "Ajornamento del lista de reproduction. Attende per favor."
+
+#~ msgid "No media"
+#~ msgstr "Nulle medios"
+
+#~ msgid "Image files"
+#~ msgstr "Files de imagine"
+
+#~ msgid "_Open"
+#~ msgstr "Aperir (_Open)"
+
+#~ msgid "_Cancel"
+#~ msgstr "_Cancellar"
+
+#, fuzzy
+#~ msgid "Other Actions"
+#~ msgstr "Altere actiones"
+
+#~ msgctxt "Action item (verb)"
+#~ msgid "Queue"
+#~ msgstr "Cauda"
+
+#~ msgid "Add to Playlist"
+#~ msgstr "Adder al lista de reproduction"
+
+#, fuzzy
+#~ msgid "Remove Song…"
+#~ msgstr "Remover le canto"
+
+#, fuzzy
+#~ msgid "Remove from Library…"
+#~ msgstr "Remover ex %s"
+
+#~ msgid "Save as Playlist"
+#~ msgstr "Salvar como lista de reproduction"
+
+#~ msgid "Eject"
+#~ msgstr "Ejectar"
+
+#~ msgid "Import Playlists"
+#~ msgstr "Importar le lista de reproduction"
+
+#~ msgid "Library"
+#~ msgstr "Libreria"
+
+#~ msgid "Devices"
+#~ msgstr "Dispositivos"
+
+#~ msgid "Network"
+#~ msgstr "Rete"
+
+#, fuzzy
+#~| msgid "Add to Playlist"
+#~ msgid "Add Playlist…"
+#~ msgstr "Adder al lista de reproduction"
+
+#, fuzzy
+#~ msgid "View as list"
+#~ msgstr "Nove lista de reproduction"
+
+#~ msgid "media"
+#~ msgstr "medios"
+
+#~ msgid "Similar Media"
+#~ msgstr "Medios simile"
+
+#~ msgid "Could not find Music Folder"
+#~ msgstr "Impossibile trovar le plica del musica"
+
+#~ msgid "No Albums Found."
+#~ msgstr "Nulle albumes trovate."
+
+#~ msgid "No Songs Found."
+#~ msgstr "Nulle cantos trovate."
+
+#~ msgid "%u second"
+#~ msgid_plural "%u seconds"
+#~ msgstr[0] "%u secunda"
+#~ msgstr[1] "%u secundas"
+
+#~ msgid "%u minute"
+#~ msgid_plural "%u minutes"
+#~ msgstr[0] "%u minuta"
+#~ msgstr[1] "%u minutas"
+
+#~ msgctxt "minutes and seconds"
+#~ msgid "%s and %s"
+#~ msgstr "%s e %s"
+
+#~ msgid "%u day"
+#~ msgid_plural "%u days"
+#~ msgstr[0] "%u die"
+#~ msgstr[1] "%u dies"
+
+#~ msgid "%u hour"
+#~ msgid_plural "%u hours"
+#~ msgstr[0] "%u hora"
+#~ msgstr[1] "%u horas"
+
+#~ msgctxt "days, hours and minutes"
+#~ msgid "%s, %s and %s"
+#~ msgstr "%s, %s e %s"
+
+#~ msgctxt "days and hours"
+#~ msgid "%s and %s"
+#~ msgstr "%s e %s"
+
+#~ msgctxt "days and minutes"
+#~ msgid "%s and %s"
+#~ msgstr "%s e %s"
+
+#~ msgctxt "hours and minutes"
+#~ msgid "%s and %s"
+#~ msgstr "%s e %s"
+
+#~ msgid "General"
+#~ msgstr "General"
+
+#~ msgid "Import from Device"
+#~ msgstr "Importar ab le dispositivo"
+
+#~ msgid "Import all media"
+#~ msgstr "Importar tote le medios"
+
+#~ msgid "Don't Import"
+#~ msgstr "Non Importar"
+
+#~ msgid "Import %s from %s"
+#~ msgstr "Importar %s ab %s"
+
+#~ msgid "ID"
+#~ msgstr "ID"
+
+#~ msgid "Select individual media to import:"
+#~ msgstr "Select le medios singule a importar:"
+
+#~ msgid "Check Item"
+#~ msgstr "Controlar le elemento"
+
+#~ msgid "Check Album"
+#~ msgstr "Controlar le Album"
+
+#~ msgid "Check Artist"
+#~ msgstr "Controlar le Artista"
+
+#~ msgid "Stop Syncing"
+#~ msgstr "Arrestar le synchronisation"
+
+#~ msgid "%u album"
+#~ msgid_plural "%u albums"
+#~ msgstr[0] "%u album"
+#~ msgstr[1] "%u albumes"
+
+#~ msgctxt "Title format used on Album View Popup: $ALBUM by $ARTIST"
+#~ msgid "%s by %s"
+#~ msgstr "%s per %s"
+
+#~ msgctxt ""
+#~ "Format used on statusbar: $description, $total_duration, $total_file_size"
+#~ msgid "%s, %s, %s"
+#~ msgstr "%s, %s, %s"
+
+#~ msgid "OK"
+#~ msgstr "OK"
+
+#~ msgid "No External Songs"
+#~ msgstr "Nulle canto externe"
+
+#~ msgctxt "Format used on statusbar: $description, $total_duration"
+#~ msgid "%s, %s"
+#~ msgstr "%s, %s"
+
+#~ msgid "translator-credits"
+#~ msgstr ""
+#~ "Launchpad Contributions:\n"
+#~ "  Daniel Fore https://launchpad.net/~danrabbit\n"
+#~ "  Tea Coba https://launchpad.net/~verdaludejo\n"
+#~ "  karm https://launchpad.net/~melo-o"
+
+#~ msgid "%d second"
+#~ msgid_plural "%d seconds"
+#~ msgstr[0] "%d secunda"
+#~ msgstr[1] "%d secundas"
+
+#~ msgid "About Noise"
+#~ msgstr "Circa le rumor"
+
+#~ msgid "About Music"
+#~ msgstr "Circa le musica"
+
+#~ msgid "Lyrics"
+#~ msgstr "Lyricas"
+
+#~ msgid "Details"
+#~ msgstr "Detalios"
+
+#~ msgid "Editing %s"
+#~ msgstr "Modification de %s"
+
+#~ msgid "Editing $NAME by $ARTIST"
+#~ msgstr "Modifica del $NAME per $ARTIST"
+
+#~ msgid "Track"
+#~ msgstr "Tracia"
+
+#~ msgid "Reset"
+#~ msgstr "Restabilir"
+
+#~ msgid "<b>Stats</b>"
+#~ msgstr "<b>Statisticas</b>"
+
+#~ msgid "Library Management:"
+#~ msgstr "Gestion del libreria:"
+
+#~ msgid "Music Folder Location:"
+#~ msgstr "Location del plica del musica:"
+
+#~ msgid "%i kbps"
+#~ msgstr "%i kbps"
+
+#~ msgid "Notifications:"
+#~ msgstr "Notificationes:"
+
+#~ msgid "Desktop Integration:"
+#~ msgstr "Integration del scriptorio:"
+
+#~ msgid "Unknown Title"
+#~ msgstr "Titulo incognite"
+
+#~ msgid "Unknown Album"
+#~ msgstr "Album incognite"
+
+#~ msgid "Unknown Artist"
+#~ msgstr "Artista incognite"
+
+#~ msgid "Download new Episodes"
+#~ msgstr "Discargar le nove episodios"
+
+#~ msgid "Add Podcast"
+#~ msgstr "Adder podcast"
+
+#~ msgid "Equalizer"
+#~ msgstr "Equalisator"
+
+#~ msgid "Edit"
+#~ msgstr "Rediger"
+
+#~ msgid "Export..."
+#~ msgstr "Exportation..."
+
+#~ msgid "Podcasts"
+#~ msgstr "Podcasts"
+
+#~ msgid "Not Imported Files"
+#~ msgstr "Files non importate"
+
+#~ msgid "Done"
+#~ msgstr "Preste"
+
+#~ msgid "Metadata"
+#~ msgstr "Metadatos"
+
+#~ msgid "Do Nothing"
+#~ msgstr "Facer nihil"
+
+#~ msgid "Try again"
+#~ msgstr "Reprobar"
+
+#~ msgid "Podcast"
+#~ msgstr "Podcast"

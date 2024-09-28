@@ -1,0 +1,251 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-01 10:32+0000\n"
+"PO-Revision-Date: 2016-12-19 08:34+0000\n"
+"Last-Translator: aberba <karabutaworld@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Launchpad-Export-Date: 2017-03-07 05:51+0000\n"
+"X-Generator: Launchpad (build 18330)\n"
+
+#: src/Application.vala:92 src/Views/NowPlayingView.vala:18
+#: src/Views/NowPlayingView.vala:116
+msgid "Music"
+msgstr ""
+
+#: src/MainWindow.vala:20
+msgid "Shuffle"
+msgstr ""
+
+#: src/MainWindow.vala:26
+msgid "Search titles in playlist"
+msgstr ""
+
+#: src/MainWindow.vala:45
+msgid "Queue is Empty"
+msgstr ""
+
+#: src/MainWindow.vala:46
+msgid "Audio files opened from Files will appear here"
+msgstr ""
+
+#: src/MainWindow.vala:63
+msgid "Open Files…"
+msgstr ""
+
+#: src/MainWindow.vala:167
+#, c-format
+msgid "%d invalid file was not added to the queue"
+msgid_plural "%d invalid files were not added to the queue"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/MainWindow.vala:215
+msgid "All files"
+msgstr ""
+
+#: src/MainWindow.vala:220
+msgid "Music files"
+msgstr ""
+
+#: src/MainWindow.vala:229
+msgid "Open"
+msgstr "Bue"
+
+#: src/MainWindow.vala:233
+msgid "Open audio files"
+msgstr ""
+
+#: src/MainWindow.vala:271
+msgid "Repeat None"
+msgstr ""
+
+#: src/MainWindow.vala:275
+msgid "Repeat All"
+msgstr ""
+
+#: src/MainWindow.vala:279
+msgid "Repeat One"
+msgstr ""
+
+#: src/PlaybackManager.vala:136
+#, c-format
+msgid "%d track was added to the queue"
+msgid_plural "%d tracks were added to the queue"
+msgstr[0] ""
+msgstr[1] ""
+
+#. Don't set artist for files without tags
+#: src/PlaybackManager.vala:196
+msgid "Unknown"
+msgstr ""
+
+#: src/Views/NowPlayingView.vala:23 src/Views/NowPlayingView.vala:115
+#, fuzzy
+msgid "Not playing"
+msgstr "Playlist Foforɔ"
+
+#: src/Views/NowPlayingView.vala:45
+msgid "Previous"
+msgstr ""
+
+#: src/Views/NowPlayingView.vala:68
+msgid "Next"
+msgstr ""
+
+#: src/Views/NowPlayingView.vala:93
+msgid "Play"
+msgstr ""
+
+#: src/Views/NowPlayingView.vala:96
+msgid "Pause"
+msgstr ""
+
+#~ msgid "Importing <b>$NAME</b> by <b>$ARTIST</b> to library…"
+#~ msgstr ""
+#~ "Ɛ Importe <b>$NAME</b> a nea ɔbɔeɛ yɛ <b>$ARTIST</b> ɛkɔ wo library mu…"
+
+#~ msgid "$NAME on $ALBUM"
+#~ msgstr "$NAME a ɛwɔ $ALBUM mu"
+
+#~ msgid "$NAME by $ARTIST on $ALBUM"
+#~ msgstr "$NAME a nea ɔbɔeɛ yɛ $ARTIST a ɛwɔ $ALBUM mu"
+
+#~ msgid "Flat"
+#~ msgstr "Tratraa"
+
+#~ msgid "Classical"
+#~ msgstr "Classical"
+
+#~ msgid "Club"
+#~ msgstr "Club"
+
+#~ msgid "Dance"
+#~ msgstr "Sa"
+
+#~ msgid "Full Bass"
+#~ msgstr "Bass Mua"
+
+#~ msgid "Full Treble"
+#~ msgstr "Treble Mua"
+
+#~ msgid "Full Bass + Treble"
+#~ msgstr "Bass ne Treble Mua"
+
+#~ msgid "Headphones"
+#~ msgstr "Headphones"
+
+#~ msgid "Large Hall"
+#~ msgstr "Hall Kɛseɛ"
+
+#~ msgid "Live"
+#~ msgstr "Live"
+
+#~ msgid "Party"
+#~ msgstr "Party"
+
+#~ msgid " (%d)"
+#~ msgstr " (%d)"
+
+#~ msgid "%s (%d)"
+#~ msgstr "%s (%d)"
+
+#~ msgid "%s (%i)"
+#~ msgstr "%s (%i)"
+
+#~ msgid "MPEG Version 3.0 Extended (*.m3u)"
+#~ msgstr "MPEG Version 3.0 Extended (*.m3u)"
+
+#~ msgid "Shoutcast Playlist Version 2.0 (*.pls)"
+#~ msgstr "Bue Playlist Version 2.0 (*.pls)"
+
+#~ msgid "Save"
+#~ msgstr "Kora"
+
+#~ msgid "Cancel"
+#~ msgstr "Gyae"
+
+#~ msgid "Playlist"
+#~ msgstr "Playlist"
+
+#~ msgid "Import %s"
+#~ msgstr "Import %s"
+
+#~ msgid "%m/%e/%Y %l:%M %p"
+#~ msgstr "%m/%e/%Y %l:%M %p"
+
+#~ msgid "Cancelling…"
+#~ msgstr "Ɛgyae..."
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Plays"
+#~ msgstr "Playlist"
+
+#, fuzzy
+#~| msgid "Playlist"
+#~ msgid "Add Playlist…"
+#~ msgstr "Playlist"
+
+#, fuzzy
+#~ msgid "View as list"
+#~ msgstr "Playlist Foforɔ"
+
+#~ msgid "%u second"
+#~ msgid_plural "%u seconds"
+#~ msgstr[0] "Anibɔ %u"
+#~ msgstr[1] "Anibɔ %u"
+
+#~ msgid "%u minute"
+#~ msgid_plural "%u minutes"
+#~ msgstr[0] "Sima %u"
+#~ msgstr[1] "Sima %u"
+
+#~ msgctxt "minutes and seconds"
+#~ msgid "%s and %s"
+#~ msgstr "%s ne %s"
+
+#~ msgid "%u day"
+#~ msgid_plural "%u days"
+#~ msgstr[0] "Da %u"
+#~ msgstr[1] "Nna %u"
+
+#~ msgid "%u hour"
+#~ msgid_plural "%u hours"
+#~ msgstr[0] "Dɔnhwere %u"
+#~ msgstr[1] "Nnɔnhwere %u"
+
+#~ msgctxt "days, hours and minutes"
+#~ msgid "%s, %s and %s"
+#~ msgstr "%s, %s ne %s"
+
+#~ msgctxt "days and hours"
+#~ msgid "%s and %s"
+#~ msgstr "%s ne %s"
+
+#~ msgctxt "days and minutes"
+#~ msgid "%s and %s"
+#~ msgstr "%s ne %s"
+
+#~ msgctxt "hours and minutes"
+#~ msgid "%s and %s"
+#~ msgstr "%s ne %s"
+
+#~ msgid "OK"
+#~ msgstr "OK"
+
+#~ msgid "translator-credits"
+#~ msgstr ""
+#~ "Launchpad Contributions:\n"
+#~ "  aberba https://launchpad.net/~aberba"
+
+#~ msgid "%d second"
+#~ msgid_plural "%d seconds"
+#~ msgstr[0] "Anibɔ %d"
+#~ msgstr[1] "Anibɔ %d"

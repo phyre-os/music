@@ -1,0 +1,562 @@
+# Hindi translation for beat-box
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the beat-box package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: beat-box\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-01 10:32+0000\n"
+"PO-Revision-Date: 2018-05-25 00:08+0000\n"
+"Last-Translator: anonymous <noreply@weblate.org>\n"
+"Language-Team: Hindi <https://weblate.phyreos.io/projects/music/music/hi/"
+">\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.18\n"
+"X-Launchpad-Export-Date: 2017-03-07 05:52+0000\n"
+
+#: src/Application.vala:92 src/Views/NowPlayingView.vala:18
+#: src/Views/NowPlayingView.vala:116
+msgid "Music"
+msgstr "संगीत"
+
+#: src/MainWindow.vala:20
+msgid "Shuffle"
+msgstr ""
+
+#: src/MainWindow.vala:26
+msgid "Search titles in playlist"
+msgstr ""
+
+#: src/MainWindow.vala:45
+msgid "Queue is Empty"
+msgstr ""
+
+#: src/MainWindow.vala:46
+msgid "Audio files opened from Files will appear here"
+msgstr ""
+
+#: src/MainWindow.vala:63
+msgid "Open Files…"
+msgstr ""
+
+#: src/MainWindow.vala:167
+#, c-format
+msgid "%d invalid file was not added to the queue"
+msgid_plural "%d invalid files were not added to the queue"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/MainWindow.vala:215
+msgid "All files"
+msgstr ""
+
+#: src/MainWindow.vala:220
+#, fuzzy
+#| msgid "Music"
+msgid "Music files"
+msgstr "संगीत"
+
+#: src/MainWindow.vala:229
+msgid "Open"
+msgstr "खोलें"
+
+#: src/MainWindow.vala:233
+msgid "Open audio files"
+msgstr ""
+
+#: src/MainWindow.vala:271
+msgid "Repeat None"
+msgstr ""
+
+#: src/MainWindow.vala:275
+msgid "Repeat All"
+msgstr ""
+
+#: src/MainWindow.vala:279
+msgid "Repeat One"
+msgstr ""
+
+#: src/PlaybackManager.vala:136
+#, c-format
+msgid "%d track was added to the queue"
+msgid_plural "%d tracks were added to the queue"
+msgstr[0] ""
+msgstr[1] ""
+
+#. Don't set artist for files without tags
+#: src/PlaybackManager.vala:196
+msgid "Unknown"
+msgstr "अज्ञात"
+
+#: src/Views/NowPlayingView.vala:23 src/Views/NowPlayingView.vala:115
+#, fuzzy
+msgid "Not playing"
+msgstr "नया गीत-सूची"
+
+#: src/Views/NowPlayingView.vala:45
+msgid "Previous"
+msgstr ""
+
+#: src/Views/NowPlayingView.vala:68
+msgid "Next"
+msgstr "अगला"
+
+#: src/Views/NowPlayingView.vala:93
+msgid "Play"
+msgstr ""
+
+#: src/Views/NowPlayingView.vala:96
+msgid "Pause"
+msgstr ""
+
+#~ msgid "Importing <b>$NAME</b> by <b>$ARTIST</b> to library…"
+#~ msgstr "<b>$ARTIST</b> से <b>$NAME</b> का आयात"
+
+#~ msgid "$NAME on $ALBUM"
+#~ msgstr "$ALBUM में $NAME"
+
+#~ msgid "$NAME by $ARTIST"
+#~ msgstr "$ARTIST से $NAME"
+
+#~ msgid "$NAME by $ARTIST on $ALBUM"
+#~ msgstr "$ALBUM में $ARTIST से $NAME"
+
+#~ msgid "Flat"
+#~ msgstr "सपाट"
+
+#~ msgid "Classical"
+#~ msgstr "शास्त्रीय"
+
+#~ msgid "Club"
+#~ msgstr "क्लब"
+
+#~ msgid "Dance"
+#~ msgstr "नृत्य"
+
+#~ msgid "Full Bass"
+#~ msgstr "पूर्ण बास"
+
+#~ msgid "Full Treble"
+#~ msgstr "पूर्ण तिगुना"
+
+#~ msgid "Full Bass + Treble"
+#~ msgstr "पूर्ण बास + तिगुना"
+
+#~ msgid "Headphones"
+#~ msgstr "हेडफोन"
+
+#~ msgid "Large Hall"
+#~ msgstr "बड़े हॉल"
+
+#~ msgid "Live"
+#~ msgstr "लाइव"
+
+#~ msgid "Party"
+#~ msgstr "पार्टी"
+
+#~ msgid "Pop"
+#~ msgstr "पॉप"
+
+#~ msgid "Reggae"
+#~ msgstr "रेग्गे"
+
+#~ msgid "Rock"
+#~ msgstr "रॉक"
+
+#~ msgid "Soft"
+#~ msgstr "सॉफ्ट"
+
+#~ msgid "Ska"
+#~ msgstr "स्का"
+
+#~ msgid "Soft Rock"
+#~ msgstr "सॉफ्ट रॉक"
+
+#~ msgid "Techno"
+#~ msgstr "टेक्नो"
+
+#~ msgid "Save"
+#~ msgstr "सहेजें"
+
+#~ msgid "Cancel"
+#~ msgstr "रद्द करें"
+
+#~ msgid "Playlist"
+#~ msgstr "गीत-सूची"
+
+#~ msgid "Import Complete"
+#~ msgstr "आयात पूर्ण"
+
+#~ msgid "Preferences"
+#~ msgstr "पसंद"
+
+#~ msgid "Import Music"
+#~ msgstr "संगीत आयात करें"
+
+#, fuzzy
+#~ msgctxt "Name of the playlist"
+#~ msgid "Queue"
+#~ msgstr "कतार"
+
+#~ msgid "Choose Music Folder"
+#~ msgstr "संगीत फोल्डर को चुनिएँ"
+
+#~ msgid "Set Music Folder?"
+#~ msgstr "इसे संगीत फोल्डर बनाएँ?"
+
+#~ msgid "Export Playlists"
+#~ msgstr "पोडकास्ट निर्यात करें"
+
+#~ msgid "Set Music Folder"
+#~ msgstr "संगीत फोल्डर को सेट करे"
+
+#~ msgid "Playlist Title"
+#~ msgstr "प्लेलिस्ट का शीर्षक"
+
+#~ msgid "of the following:"
+#~ msgstr "इन में से"
+
+#~ msgid "Limit to"
+#~ msgstr "तक सीमित करें"
+
+#~ msgid "Name of Playlist"
+#~ msgstr "प्लेलिस्ट का नाम"
+
+#~ msgid "Rules"
+#~ msgstr "नियम"
+
+#~ msgid "Options"
+#~ msgstr "पसंद"
+
+#~ msgid "Remove"
+#~ msgstr "हटाएँ"
+
+#~ msgid "Album"
+#~ msgstr "एल्बम"
+
+#~ msgid "Artist"
+#~ msgstr "संगीतकार"
+
+#~ msgid "Bitrate"
+#~ msgstr "बिटरेट"
+
+#~ msgid "Date Added"
+#~ msgstr "जोड़ने की तारीख"
+
+#~ msgid "Genre"
+#~ msgstr "शैली"
+
+#~ msgid "Last Played"
+#~ msgstr "पिछली बार बजाया गया"
+
+#~ msgid "Length"
+#~ msgstr "लंबाई"
+
+#~ msgid "Title"
+#~ msgstr "शीर्षक"
+
+#~ msgid "Year"
+#~ msgstr "वर्ष"
+
+#~ msgid "is"
+#~ msgstr "है"
+
+#~ msgid "contains"
+#~ msgstr "में हैं"
+
+#~ msgid "does not contain"
+#~ msgstr "में नहीं हैं"
+
+#~ msgid "seconds"
+#~ msgstr "सेकंड"
+
+#~ msgid "Import"
+#~ msgstr "आयात करें"
+
+#~ msgid "History"
+#~ msgstr "इतिहास"
+
+#~ msgid "Playlists"
+#~ msgstr "प्लेलिस्ट"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "#"
+#~ msgstr "#"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Track"
+#~ msgstr "गाना"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Title"
+#~ msgstr "शीर्षक"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Length"
+#~ msgstr "लंबाई"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Artist"
+#~ msgstr "संगीतकार"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Album"
+#~ msgstr "एल्बम"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Album Artist"
+#~ msgstr "संगीतकार"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Genre"
+#~ msgstr "शैली"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Year"
+#~ msgstr "वर्ष"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Bitrate"
+#~ msgstr "बिटरेट"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Plays"
+#~ msgstr "गीत-सूची"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Date Added"
+#~ msgstr "जोड़ने की तारीख"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Last Played"
+#~ msgstr "पिछली बार बजाया गया"
+
+#, fuzzy
+#~ msgctxt "List column title (file location)"
+#~ msgid "Location"
+#~ msgstr "ढूँडें"
+
+#~ msgid "Get Some Tunes"
+#~ msgstr "गाने पाइए"
+
+#~ msgid "Off"
+#~ msgstr "बंद"
+
+#, fuzzy
+#~ msgid "Other Actions"
+#~ msgstr "पसंद"
+
+#, fuzzy
+#~ msgctxt "Action item (verb)"
+#~ msgid "Queue"
+#~ msgstr "कतार"
+
+#, fuzzy
+#~ msgid "Remove Song…"
+#~ msgstr "हटाएँ"
+
+#~ msgid "Import to Library"
+#~ msgstr "लाइब्ररी में आयात करें"
+
+#, fuzzy
+#~ msgid "Remove from Library…"
+#~ msgstr "लाइब्ररी में आयात करें"
+
+#~ msgid "Save as Playlist"
+#~ msgstr "प्लेलिस्ट में बनाएँ"
+
+#~ msgid "Eject"
+#~ msgstr "निकालें"
+
+#~ msgid "New Playlist"
+#~ msgstr "नया प्लेलिस्ट"
+
+#~ msgid "New Smart Playlist"
+#~ msgstr "नया बुध्दिमान प्लेलिस्ट"
+
+#~ msgid "Library"
+#~ msgstr "लाइब्ररी"
+
+#~ msgid "Devices"
+#~ msgstr "उपकरण"
+
+#~ msgid "Network"
+#~ msgstr "प्रसार"
+
+#, fuzzy
+#~| msgid "Playlist"
+#~ msgid "Add Playlist…"
+#~ msgstr "गीत-सूची"
+
+#, fuzzy
+#~ msgid "View as list"
+#~ msgstr "नया गीत-सूची"
+
+#~ msgid "No similar songs found"
+#~ msgstr "कोई समान गाने नहीं मिले"
+
+#~ msgid "Similar"
+#~ msgstr "समान"
+
+#~ msgid "Could not find Music Folder"
+#~ msgstr "संगीत फोल्डर नहीं मिला"
+
+#~ msgid ""
+#~ "Please make sure that your music folder is accessible and mounted before "
+#~ "importing the CD."
+#~ msgstr ""
+#~ "कृपया सुनिश्चित करें कि अपने संगीत फ़ोल्डर सुलभ और सीडी आयात करने से पहले माउन्ट किया "
+#~ "गया है."
+
+#, fuzzy
+#~ msgid "Song imported from Audio CD."
+#~ msgstr "संगीत CD से आयात करें"
+
+#, fuzzy
+#~ msgid "%i songs imported from Audio CD."
+#~ msgstr "संगीत CD से आयात करें"
+
+#~ msgid "%u second"
+#~ msgid_plural "%u seconds"
+#~ msgstr[0] "%u सेकेंड"
+#~ msgstr[1] "%u सेकेंड"
+
+#~ msgid "%u minute"
+#~ msgid_plural "%u minutes"
+#~ msgstr[0] "%u मिनट"
+#~ msgstr[1] "मिनटों"
+
+#~ msgctxt "minutes and seconds"
+#~ msgid "%s and %s"
+#~ msgstr "%s और %s"
+
+#~ msgid "%u day"
+#~ msgid_plural "%u days"
+#~ msgstr[0] "दिन"
+#~ msgstr[1] "दिनों"
+
+#~ msgid "%u hour"
+#~ msgid_plural "%u hours"
+#~ msgstr[0] "घंटा"
+#~ msgstr[1] "घंटे"
+
+#~ msgctxt "days, hours and minutes"
+#~ msgid "%s, %s and %s"
+#~ msgstr "%s, %s और %s"
+
+#~ msgctxt "days and hours"
+#~ msgid "%s and %s"
+#~ msgstr "%s और %s"
+
+#~ msgctxt "days and minutes"
+#~ msgid "%s and %s"
+#~ msgstr "%s और %s"
+
+#~ msgctxt "hours and minutes"
+#~ msgid "%s and %s"
+#~ msgstr "%s और %s"
+
+#~ msgid "Song"
+#~ msgstr "गाना"
+
+#~ msgid "All"
+#~ msgstr "सभी"
+
+#~ msgid "Hide"
+#~ msgstr "छिपाएँ"
+
+#~ msgid "Show"
+#~ msgstr "दिखाएँ"
+
+#~ msgid "Import from Device"
+#~ msgstr "उपकरण से आयात करें"
+
+#~ msgid "Don't Import"
+#~ msgstr "आयात न करें"
+
+#~ msgid "Check Album"
+#~ msgstr "एल्बम को जाँचें"
+
+#~ msgid "Check Artist"
+#~ msgstr "संगीतकार को जाँचें"
+
+#~ msgid "translator-credits"
+#~ msgstr ""
+#~ "Launchpad Contributions:\n"
+#~ "  Akshay Shekher https://launchpad.net/~voldyman\n"
+#~ "  Anubhab https://launchpad.net/~chakraborty-anubhab\n"
+#~ "  Daniel Fore https://launchpad.net/~danrabbit\n"
+#~ "  Deepak Sharma https://launchpad.net/~sadysnaat\n"
+#~ "  Gaurav Pareek https://launchpad.net/~grvrulz\n"
+#~ "  Saurabh https://launchpad.net/~candytuft\n"
+#~ "  Victor Martinez https://launchpad.net/~victored\n"
+#~ "  Vivek Kumar https://launchpad.net/~vivek-vk03"
+
+#~ msgid "Download new Episodes"
+#~ msgstr "नए कार्यक्रम डाउनलोड करें"
+
+#~ msgid "Edit"
+#~ msgstr "संपादित करें"
+
+#~ msgid "Export..."
+#~ msgstr "निर्यात करें..."
+
+#~ msgid "Podcasts"
+#~ msgstr "पोडकास्ट"
+
+#~ msgid "Done"
+#~ msgstr "हो गया"
+
+#~ msgid "Podcast"
+#~ msgstr "पोडकास्ट"
+
+#~ msgid "is not"
+#~ msgstr "नहीं है"
+
+#~ msgid "Change your music folder."
+#~ msgstr "अपने संगीत फोल्डर को बदलिएँ"
+
+#~ msgid "Unknown Artist"
+#~ msgstr "अज्ञात संगीतकार"
+
+#~ msgid " by "
+#~ msgstr " द्वारा "
+
+#~ msgid "Unknown Album"
+#~ msgstr "अज्ञात एल्बम"
+
+#~ msgid " on "
+#~ msgstr " पर "
+
+#~ msgid "<b>Importing</b> music from <b>%s</b> to library."
+#~ msgstr "<b>%s</b> से लाइब्ररी में संगीत <b>आयात</b> कर रहा है."
+
+#~ msgid "Import media from device"
+#~ msgstr "उपकरण से गाने आयात करें"
+
+#~ msgid "CD Import Complete"
+#~ msgstr "सीडी आयात पूर्ण"
+
+#~ msgid "%d second"
+#~ msgid_plural "%d seconds"
+#~ msgstr[0] "%d सेकेंड"
+#~ msgstr[1] "%d सेकेंड"

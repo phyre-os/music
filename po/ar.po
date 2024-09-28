@@ -1,0 +1,1204 @@
+# Arabic translation for noise
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the noise package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: noise\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-01 10:32+0000\n"
+"PO-Revision-Date: 2020-05-12 23:10+0000\n"
+"Last-Translator: nasserbinlaboun <nasser1990com@gmail.com>\n"
+"Language-Team: Arabic <https://l10n.phyreos.io/projects/music/music/ar/>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Generator: Weblate 3.9.1\n"
+"X-Launchpad-Export-Date: 2017-03-07 05:51+0000\n"
+
+#: src/Application.vala:92 src/Views/NowPlayingView.vala:18
+#: src/Views/NowPlayingView.vala:116
+msgid "Music"
+msgstr "الموسيقى"
+
+#: src/MainWindow.vala:20
+msgid "Shuffle"
+msgstr ""
+
+#: src/MainWindow.vala:26
+msgid "Search titles in playlist"
+msgstr ""
+
+#: src/MainWindow.vala:45
+msgid "Queue is Empty"
+msgstr ""
+
+#: src/MainWindow.vala:46
+msgid "Audio files opened from Files will appear here"
+msgstr ""
+
+#: src/MainWindow.vala:63
+msgid "Open Files…"
+msgstr ""
+
+#: src/MainWindow.vala:167
+#, c-format
+msgid "%d invalid file was not added to the queue"
+msgid_plural "%d invalid files were not added to the queue"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: src/MainWindow.vala:215
+#, fuzzy
+#| msgid "All Years"
+msgid "All files"
+msgstr "كل سنوات"
+
+#: src/MainWindow.vala:220
+#, fuzzy
+#| msgid "Music Folder"
+msgid "Music files"
+msgstr "ملف الموسيقى"
+
+#: src/MainWindow.vala:229
+msgid "Open"
+msgstr "فتح"
+
+#: src/MainWindow.vala:233
+msgid "Open audio files"
+msgstr ""
+
+#: src/MainWindow.vala:271
+#, fuzzy
+msgid "Repeat None"
+msgstr "أعادة الأغنية"
+
+#: src/MainWindow.vala:275
+#, fuzzy
+msgid "Repeat All"
+msgstr "أعادة الألبوم"
+
+#: src/MainWindow.vala:279
+#, fuzzy
+msgid "Repeat One"
+msgstr "أعادة الأغنية"
+
+#: src/PlaybackManager.vala:136
+#, c-format
+msgid "%d track was added to the queue"
+msgid_plural "%d tracks were added to the queue"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#. Don't set artist for files without tags
+#: src/PlaybackManager.vala:196
+msgid "Unknown"
+msgstr "غير معروف"
+
+#: src/Views/NowPlayingView.vala:23 src/Views/NowPlayingView.vala:115
+#, fuzzy
+msgid "Not playing"
+msgstr "قائمة تشغيل جديدة"
+
+#: src/Views/NowPlayingView.vala:45
+msgid "Previous"
+msgstr ""
+
+#: src/Views/NowPlayingView.vala:68
+msgid "Next"
+msgstr ""
+
+#: src/Views/NowPlayingView.vala:93
+msgid "Play"
+msgstr ""
+
+#: src/Views/NowPlayingView.vala:96
+msgid "Pause"
+msgstr ""
+
+#~ msgid "Importing <b>$NAME</b> by <b>$ARTIST</b> to library…"
+#~ msgstr "Importing <b>$NAME</b> by <b>$ARTIST</b> to library…"
+
+#~ msgid "$NAME on $ALBUM"
+#~ msgstr "$NAME في $ALBUM"
+
+#~ msgid "$NAME by $ARTIST"
+#~ msgstr "$NAME بواسطة $ARTIST"
+
+#~ msgid "$NAME by $ARTIST on $ALBUM"
+#~ msgstr "$NAME بواسطة $ARTIST في $ALBUM"
+
+#~ msgid "Flat"
+#~ msgstr "مسطح"
+
+#~ msgid "Classical"
+#~ msgstr "كلاسيكي"
+
+#~ msgid "Club"
+#~ msgstr "نادي"
+
+#~ msgid "Dance"
+#~ msgstr "رقص"
+
+#~ msgid "Full Bass"
+#~ msgstr "صوت جهيري كامل"
+
+#~ msgid "Full Treble"
+#~ msgstr "صوت عالي الطبقة"
+
+#~ msgid "Full Bass + Treble"
+#~ msgstr "صوت جهير و عالي الطبقة"
+
+#~ msgid "Headphones"
+#~ msgstr "سماعة الرأس"
+
+#~ msgid "Large Hall"
+#~ msgstr "قاعة كبيرة"
+
+#~ msgid "Live"
+#~ msgstr "مباشر"
+
+#~ msgid "Party"
+#~ msgstr "حفلة"
+
+#~ msgid "Pop"
+#~ msgstr "بوب"
+
+#~ msgid "Reggae"
+#~ msgstr "ريغي"
+
+#~ msgid "Rock"
+#~ msgstr "روك"
+
+#~ msgid "Soft"
+#~ msgstr "رقيق"
+
+#~ msgid "Ska"
+#~ msgstr "سكا"
+
+#~ msgid "Soft Rock"
+#~ msgstr "روك رقيق"
+
+#~ msgid "Techno"
+#~ msgstr "تِكنو"
+
+#~ msgid " (%d)"
+#~ msgstr " (%d)"
+
+#~ msgid "%s (%d)"
+#~ msgstr "%s (%d)"
+
+#~ msgid "%s (%i)"
+#~ msgstr "%s (%i)"
+
+#~ msgid "MPEG Version 3.0 Extended (*.m3u)"
+#~ msgstr "MPEG الإصدار 3.0 الموسّع (*.m3u)"
+
+#, fuzzy
+#~ msgid "Shoutcast Playlist Version 2.0 (*.pls)"
+#~ msgstr "Shoutcast Playlist Version 2.0 (*.pls)"
+
+#~ msgid "Export Playlist"
+#~ msgstr "صدّر قائمة التشغيل"
+
+#~ msgid "Save"
+#~ msgstr "حفظ"
+
+#~ msgid "Cancel"
+#~ msgstr "إلغاء"
+
+#~ msgid "Playlist"
+#~ msgstr "قائمة التشغيل"
+
+#~ msgid "Import %s"
+#~ msgstr "استورد %s"
+
+#~ msgid "Unrecognized playlist file. Import failed."
+#~ msgstr "قائمة التشغيل غير معروفة. فشل الاستيراد."
+
+#~ msgid "%m/%e/%Y %l:%M %p"
+#~ msgstr "%m/%e/%Y %l:%M %p"
+
+#~ msgid "Empty device!"
+#~ msgstr "الجهاز فارغ!"
+
+#~ msgid "This device does not contain any music."
+#~ msgstr "هذا الجهاز لا يحتوي على أي موسيقى."
+
+#~ msgid "Android Phone"
+#~ msgstr "هاتف أندرويد"
+
+#~ msgid "Audio Player"
+#~ msgstr "مشغل الصوت"
+
+#~ msgid "Adding <b>$NAME</b> by <b>$ARTIST</b> to $DEVICE"
+#~ msgstr "جار إضافة <b>$NAME</b> من قبل <b>$ARTIST</b> إلى $DEVICE"
+
+#~ msgid "Syncing <b>%s</b>…"
+#~ msgstr "جار مزامنة <b>%s</b>…"
+
+#~ msgid "Removing <b>$NAME</b> by <b>$ARTIST</b> from $DEVICE"
+#~ msgstr "<b>$NAME</b> من قبل <b>$ARTIST</b> قيد الإزالة من $DEVICE"
+
+#~ msgid "Removing from <b>%s</b>…"
+#~ msgstr "جار الإزالة من <b>%s</b>…"
+
+#~ msgid "Import Complete"
+#~ msgstr "تم الإستيراد"
+
+#~ msgid "Import to Library…"
+#~ msgstr "إستيراد المكتبة…"
+
+#~ msgid "Preferences"
+#~ msgstr "التفضيلات"
+
+#~ msgid "Search Music"
+#~ msgstr "بحث عن الموسيقى"
+
+#~ msgid "No songs in Queue"
+#~ msgstr "لا الأغاني في قائمة انتظار"
+
+#~ msgid ""
+#~ "To add songs to the queue, use the <b>secondary click</b> on an item and "
+#~ "choose <b>Queue</b>. When a song finishes, the queued songs will be "
+#~ "played first before the next song in the currently playing list."
+#~ msgstr ""
+#~ "لإضافة الأغاني إلى قائمة الانتظار، انقر فوق استخدام <b>secondary click</"
+#~ "b> على عنصر وختر <b>Queue</b>. عندما ينتهي أغنية، سيتم تشغيل الأغاني في "
+#~ "قائمة الانتظار أولا قبل الأغنية التالية في قائمة التشغيل حاليا."
+
+#~ msgid "No songs in History"
+#~ msgstr "لا الأغاني في سجلّ المقروءة"
+
+#~ msgid ""
+#~ "After a part of a song has been played, it is added to the history list.\n"
+#~ "You can use this list to see all the songs you have played during the "
+#~ "current session."
+#~ msgstr ""
+#~ "بعد قراءة جزءا من أغنية، تم إضافتها إلى قائمة المقروءة.\n"
+#~ "يمكنك استخدام هذه القائمة لرؤية جميع الأغاني التي قرأة  خلال الدورة "
+#~ "الحالية."
+
+#~ msgid "Import Music"
+#~ msgstr "استورد موسيقى"
+
+#~ msgctxt "Name of the playlist"
+#~ msgid "Queue"
+#~ msgstr "قائمة الانتظار"
+
+#~ msgid "Remove Song"
+#~ msgstr "إزالة الاغنية"
+
+#~ msgid "Choose Music Folder"
+#~ msgstr "اختر مجلد الموسيقى"
+
+#~ msgid "Install Plugin"
+#~ msgstr "تنصيب البرنامج الإضافي"
+
+#~ msgid "Title:"
+#~ msgstr "العنوان:"
+
+#~ msgid "Artist:"
+#~ msgstr "الفنان:"
+
+#~ msgid "Album:"
+#~ msgstr "الالبوم:"
+
+#~ msgid "Album Artist:"
+#~ msgstr "فنان الالبوم:"
+
+#~ msgid "Year:"
+#~ msgstr "السنة:"
+
+#~ msgid "Track:"
+#~ msgstr "المقطوعة:"
+
+#~ msgid "Disc:"
+#~ msgstr "القرص:"
+
+#~ msgid "Rating:"
+#~ msgstr "التقييم:"
+
+#~ msgid "Comment:"
+#~ msgstr "تعليق:"
+
+#~ msgid "Close"
+#~ msgstr "إغلاق"
+
+#~ msgid "File Location"
+#~ msgstr "موقع الملف"
+
+#~ msgid "Move to Trash"
+#~ msgstr "نقل الى المهملات"
+
+#~ msgid "Ignore"
+#~ msgstr "تجاهل"
+
+#~ msgid "Music Folder Location"
+#~ msgstr "موقع ملف الموسيقى"
+
+#, fuzzy
+#~ msgid "Remove %d Song From Library?"
+#~ msgid_plural "Remove %d Songs From Library?"
+#~ msgstr[0] "إزالة من المكتبة"
+#~ msgstr[1] "إزالة من المكتبة"
+#~ msgstr[2] "إزالة من المكتبة"
+#~ msgstr[3] "إزالة من المكتبة"
+#~ msgstr[4] "إزالة من المكتبة"
+#~ msgstr[5] "إزالة من المكتبة"
+
+#, fuzzy
+#~ msgid "Remove \"%s\" From Library?"
+#~ msgstr "إزالة من المكتبة"
+
+#~ msgid "Remove from Library"
+#~ msgstr "إزالة من المكتبة"
+
+#~ msgid "Set Music Folder?"
+#~ msgstr "تعيين مجلد الموسيقى هذا ؟"
+
+#~ msgid "Export Playlists"
+#~ msgstr "تصدير قوائم التشغيل"
+
+#~ msgid "Set Music Folder"
+#~ msgstr "تعيين مجلد الموسيقى"
+
+#~ msgid "Playlist Title"
+#~ msgstr "عنوان قائمة التشغيل"
+
+#~ msgid "any"
+#~ msgstr "أيّ"
+
+#~ msgid "all"
+#~ msgstr "الكلّ"
+
+#~ msgid "Match"
+#~ msgstr "مطابقة"
+
+#~ msgid "of the following:"
+#~ msgstr "الآتي:"
+
+#~ msgid "Limit to"
+#~ msgstr "حِدّ إلى"
+
+#~ msgid "items"
+#~ msgstr "العناصر"
+
+#~ msgid "Name of Playlist"
+#~ msgstr "اسم قائمة التشغيل"
+
+#~ msgid "Rules"
+#~ msgstr "القواعد"
+
+#~ msgid "Options"
+#~ msgstr "الخيارات"
+
+#~ msgid "Remove"
+#~ msgstr "حذف"
+
+#~ msgid "Album"
+#~ msgstr "الألبوم"
+
+#~ msgid "Artist"
+#~ msgstr "الفنّان"
+
+#~ msgid "Bitrate"
+#~ msgstr "معدّل البِت"
+
+#~ msgid "Comment"
+#~ msgstr "تعليق"
+
+#~ msgid "Composer"
+#~ msgstr "الملحّن"
+
+#~ msgid "Date Added"
+#~ msgstr "تاريخ الإضافة"
+
+#~ msgid "Genre"
+#~ msgstr "النوع"
+
+#~ msgid "Grouping"
+#~ msgstr "التجميع"
+
+#~ msgid "Last Played"
+#~ msgstr "آخر تشغيل"
+
+#~ msgid "Length"
+#~ msgstr "المدّة"
+
+#~ msgid "Playcount"
+#~ msgstr "عدد التشغيلات"
+
+#~ msgid "Rating"
+#~ msgstr "التقييم"
+
+#~ msgid "Title"
+#~ msgstr "العنوان"
+
+#~ msgid "Year"
+#~ msgstr "السنة"
+
+#~ msgid "is"
+#~ msgstr "يكون"
+
+#~ msgid "contains"
+#~ msgstr "يحتوي على"
+
+#~ msgid "does not contain"
+#~ msgstr "لا يحتوي علي"
+
+#~ msgid "is exactly"
+#~ msgstr "هو تمامًا"
+
+#~ msgid "is at most"
+#~ msgstr "علي الأكثر"
+
+#~ msgid "is at least"
+#~ msgstr "علي الأقل"
+
+#~ msgid "is before"
+#~ msgstr "يقع قبل"
+
+#~ msgid "seconds"
+#~ msgstr "ثانية"
+
+#~ msgid "kbps"
+#~ msgstr "ك. بت/ث"
+
+#~ msgid "Continue Syncing"
+#~ msgstr "أكمل التنسيق"
+
+#~ msgid "Import"
+#~ msgstr "إستيراد"
+
+#~ msgid "Adding files to library…"
+#~ msgstr "إضافة ملفات للمكتبة…"
+
+#~ msgid "<b>Importing</b> music to library…"
+#~ msgstr "<b>استيراد</b>مكتبة الموسيقى…"
+
+#, fuzzy
+#~ msgid "Rescanning music for changes. This may take a while…"
+#~ msgstr "البحث عن تغيير في الموسيقى, قد يأخذ وقت طويل…"
+
+#~ msgid "Favorite Songs"
+#~ msgstr "الأغاني مفاضلة"
+
+#~ msgid "Recently Added"
+#~ msgstr "المُضافة حديثًا"
+
+#~ msgid "Recent Favorites"
+#~ msgstr "المفضلات الحالية"
+
+#~ msgid "Never Played"
+#~ msgstr "عدم التشغيل ابداً"
+
+#~ msgid "Over Played"
+#~ msgstr "كثيرة التشغيل"
+
+#~ msgid "Not Recently Played"
+#~ msgstr "لم يتم تشغيلها حديثا"
+
+#~ msgid "History"
+#~ msgstr "المقروءة"
+
+#~ msgid "Playlists"
+#~ msgstr "قوائم التشغيل"
+
+#~ msgid "Device Name:"
+#~ msgstr "اسم الجهاز:"
+
+#~ msgid "Device Name"
+#~ msgstr "اسم الجهاز"
+
+#~ msgid "Automatically sync when plugged in:"
+#~ msgstr "تزامن معلوماتي تلقائي عند الإدخال:"
+
+#~ msgid "Sync:"
+#~ msgstr "المزامنة:"
+
+#~ msgid "Sync"
+#~ msgstr "تنسيق"
+
+#~ msgid "All Music"
+#~ msgstr "كل الموسيقى"
+
+#~ msgid "Sync Failed"
+#~ msgstr "فشلت المزامنة"
+
+#~ msgid ""
+#~ "The playlist named %s is used to sync device %s, but could not be found."
+#~ msgstr "القائمة المسمى %s مستخدمة لمزامنة الأداة %s, لكن لم يمكن إيجاده."
+
+#~ msgid "Cannot Sync"
+#~ msgstr "لا يمكن المزامنة"
+
+#~ msgid ""
+#~ "Cannot sync device with selected sync settings. Not enough space on disk"
+#~ msgstr ""
+#~ "لا يمكن مزامنة الجهاز بإعدادات المزامنة المُختارة. لا توجد مساحة كافية في "
+#~ "القرص"
+
+#~ msgid "Device is already doing an operation."
+#~ msgstr "الجهاز يعمل حاليا."
+
+#~ msgid "Cancelling…"
+#~ msgstr "يلغي…"
+
+#~ msgid "Device operation has been cancelled and will stop after this media."
+#~ msgstr "تم إلغاء عمل الجهاز و سيتوقف بعد نهاية الأغنية."
+
+#, fuzzy
+#~ msgid "No Results"
+#~ msgstr "دون درجات"
+
+#~ msgid "Genres"
+#~ msgstr "الفئات"
+
+#~ msgid "Artists"
+#~ msgstr "الفنانين"
+
+#~ msgid "Albums"
+#~ msgstr "الألبومات"
+
+#~ msgid "Years"
+#~ msgstr "السنوات"
+
+#~ msgid "Ratings"
+#~ msgstr "التقييمات"
+
+#~ msgid "Composers"
+#~ msgstr "المؤلفين"
+
+#~ msgid "Groupings"
+#~ msgstr "تجميع"
+
+#~ msgid "All Genres"
+#~ msgstr "جميع الأنواع"
+
+#~ msgid "All %i Genres"
+#~ msgstr "جميع %i الأنواع"
+
+#~ msgid "No Genres"
+#~ msgstr "بدون نواع"
+
+#~ msgid "All Artists"
+#~ msgstr "كل الفنانين"
+
+#~ msgid "All %i Artists"
+#~ msgstr "كل %i الفنانين"
+
+#~ msgid "No Artists"
+#~ msgstr "دون الفنانين"
+
+#~ msgid "All Albums"
+#~ msgstr "كل الألبومات"
+
+#~ msgid "All %i Albums"
+#~ msgstr "كل %i الألبومات"
+
+#~ msgid "No Albums"
+#~ msgstr "دون الالبومات"
+
+#~ msgid "All %i Years"
+#~ msgstr "كل %i السنوات"
+
+#~ msgid "No Years"
+#~ msgstr "دون سنوات"
+
+#~ msgid "All Ratings"
+#~ msgstr "كل درجات"
+
+#~ msgid "No Ratings"
+#~ msgstr "دون درجات"
+
+#~ msgid "All Groupings"
+#~ msgstr "كل تجميع"
+
+#~ msgid "All %i Groupings"
+#~ msgstr "كل %i المجموعات"
+
+#~ msgid "No Groupings"
+#~ msgstr "دون تجميع"
+
+#~ msgid "All Composers"
+#~ msgstr "كل مؤلفين"
+
+#~ msgid "All %i Composers"
+#~ msgstr "كل %i المؤلفين"
+
+#~ msgid "No Composers"
+#~ msgstr "دون مؤلف"
+
+#~ msgid "Automatic"
+#~ msgstr "آلي"
+
+#~ msgid "On Left"
+#~ msgstr "على اليسار"
+
+#~ msgid "On Top"
+#~ msgstr "فوق"
+
+#~ msgid "Unrated"
+#~ msgstr "غير مقيّم"
+
+#~ msgid "Never"
+#~ msgstr "ابدا"
+
+#~ msgctxt "List column title"
+#~ msgid "#"
+#~ msgstr "#"
+
+#~ msgctxt "List column title"
+#~ msgid "Track"
+#~ msgstr "المقطوعة"
+
+#~ msgctxt "List column title"
+#~ msgid "Title"
+#~ msgstr "العنوان"
+
+#~ msgctxt "List column title"
+#~ msgid "Length"
+#~ msgstr "طول المقطع"
+
+#~ msgctxt "List column title"
+#~ msgid "Artist"
+#~ msgstr "الفنّان"
+
+#~ msgctxt "List column title"
+#~ msgid "Album"
+#~ msgstr "الألبوم"
+
+#~ msgctxt "List column title"
+#~ msgid "Album Artist"
+#~ msgstr "فنّان الألبوم"
+
+#~ msgctxt "List column title"
+#~ msgid "Composer"
+#~ msgstr "الملحّن"
+
+#~ msgctxt "List column title"
+#~ msgid "Genre"
+#~ msgstr "الصنف"
+
+#~ msgctxt "List column title"
+#~ msgid "Year"
+#~ msgstr "السّنة"
+
+#~ msgctxt "List column title"
+#~ msgid "Grouping"
+#~ msgstr "تجميع"
+
+#~ msgctxt "List column title"
+#~ msgid "Bitrate"
+#~ msgstr "معدّل البِت"
+
+#~ msgctxt "List column title"
+#~ msgid "Rating"
+#~ msgstr "التقييم"
+
+#~ msgctxt "List column title"
+#~ msgid "Plays"
+#~ msgstr "مشغلات"
+
+#~ msgctxt "List column title"
+#~ msgid "Skips"
+#~ msgstr "يتخطى"
+
+#~ msgctxt "List column title"
+#~ msgid "Date Added"
+#~ msgstr "تاريخ الإضافة"
+
+#~ msgctxt "List column title"
+#~ msgid "Last Played"
+#~ msgstr "المشغلة مؤخراً"
+
+#~ msgctxt "List column title (beats per minute)"
+#~ msgid "BPM"
+#~ msgstr "عدد البتات في الدقيقة"
+
+#~ msgctxt "List column title (file location)"
+#~ msgid "Location"
+#~ msgstr "المسار"
+
+#~ msgctxt "List column title"
+#~ msgid "File Size"
+#~ msgstr "حجم الملف"
+
+#~ msgid "Autosize Columns"
+#~ msgstr "الأعمدة ذات حجم وتوماتيكي"
+
+#~ msgid "1234 kbps"
+#~ msgstr "1234 كبيت فالثانية"
+
+#~ msgid "Sample List String"
+#~ msgstr "قائمة تجريبية"
+
+#~ msgid "Get Some Tunes"
+#~ msgstr "اجلب بعض الألحان"
+
+#~ msgid "Add music to your library."
+#~ msgstr "أضف موسيقى لمكتبتك."
+
+#~ msgid "Change Music Folder"
+#~ msgstr "غير ملف الموسيقى"
+
+#~ msgid "Load music from a folder, a network or an external disk."
+#~ msgstr "حمل موسيقى من ملف, شبكة أو قرص خارجي."
+
+#~ msgid "Import your Music"
+#~ msgstr "استيراد الموسيقى"
+
+#~ msgid "Import all your Music from %s into your library."
+#~ msgstr "استيراد كل الموسيقى من %s إلى مكتبتك."
+
+#~ msgid "Select Music Folder"
+#~ msgstr "حدد مجلد الموسيقى"
+
+#~ msgid "No Songs"
+#~ msgstr "لا توجد أغاني"
+
+#~ msgid ""
+#~ "To add songs to this playlist, use the <b>secondary click</b> on an item "
+#~ "and choose <b>Add to Playlist</b>."
+#~ msgstr ""
+#~ "لإضافة الأغاني إلى هذه قائمة التشغيل، استخدم <b>secondary click</b> على "
+#~ "عنصر واختر <b>Add to Playlist</b>."
+
+#~ msgid "Edit Smart Playlist"
+#~ msgstr "حرّر قائمة التشغيل الذكية"
+
+#~ msgid ""
+#~ "This playlist will be automatically populated with songs that match its "
+#~ "rules. To modify these rules, use the <b>secondary click</b> on it in the "
+#~ "sidebar and click on <b>Edit</b>. Optionally, you can click on the button "
+#~ "below."
+#~ msgstr ""
+#~ "سيتم تلقائيا نشر هذه الأغاني مع الأغاني التي تطابق نظامها. لتعديل هذه "
+#~ "القواعد، استخدم <b>secondary click</b> في الشريط الجانبي وانقر على "
+#~ "<b>Edit</b>. اختياريا، يمكنك النقر على الزر أدناه."
+
+#~ msgid "No media"
+#~ msgstr "لا يوجد وسأئل"
+
+#~ msgid "Off"
+#~ msgstr "إطفاﺀ"
+
+#~ msgid "Custom Preset"
+#~ msgstr "التعيين التمهيدي المعتاد"
+
+#~ msgid "Custom Preset %i"
+#~ msgstr "التعيين التمهيدي المعتاد %i"
+
+#~ msgid "Scroll to Current Song"
+#~ msgstr "انتقل إلى الأغنية الحالية"
+
+#, fuzzy
+#~ msgid "Show in File Browser…"
+#~ msgstr "عرض في مستعرض الملفات"
+
+#, fuzzy
+#~ msgid "Edit Song Info…"
+#~ msgstr "تحرير معلومات الأغنية"
+
+#, fuzzy
+#~ msgid "Other Actions"
+#~ msgstr "ملفات أخرى"
+
+#~ msgctxt "Action item (verb)"
+#~ msgid "Queue"
+#~ msgstr "قائمة الانتظار"
+
+#~ msgid "Add to Playlist"
+#~ msgstr "أضف إلى قائمة التشغيل"
+
+#, fuzzy
+#~ msgid "Remove Song…"
+#~ msgstr "إزالة الاغنية"
+
+#~ msgid "Import to Library"
+#~ msgstr "استورد إلى المكتبة"
+
+#, fuzzy
+#~ msgid "Remove from Library…"
+#~ msgstr "إزالة من المكتبة"
+
+#~ msgid "Remove from Device"
+#~ msgstr "إزالة من جهاز"
+
+#~ msgid "Remove from Queue"
+#~ msgstr "إزالة من قائمة انتظار"
+
+#~ msgid "New Playlist…"
+#~ msgstr "قائمة تشغيل جديدة…"
+
+#~ msgid "Import %i of %i selected songs"
+#~ msgstr "الاستيراد %i من %i اخترت الأغاني"
+
+#~ msgid "Import %i song"
+#~ msgid_plural "Import %i songs"
+#~ msgstr[0] "إستيراد %i أغنية"
+#~ msgstr[1] "إستيراد %i أغاني"
+#~ msgstr[2] "إستيراد %i أغاني"
+#~ msgstr[3] "إستيراد %i أغاني"
+#~ msgstr[4] "إستيراد %i أغاني"
+#~ msgstr[5] "إستيراد %i أغاني"
+
+#~ msgid "Delete Current"
+#~ msgstr "حذف الحالي"
+
+#~ msgid "Rename"
+#~ msgstr "اعادة تسمية"
+
+#~ msgid "Edit…"
+#~ msgstr "تحرير…"
+
+#~ msgid "Save as Playlist"
+#~ msgstr "احفظ كقائمة تشغيل"
+
+#~ msgid "Export…"
+#~ msgstr "تصدير…"
+
+#~ msgid "Eject"
+#~ msgstr "إخراج"
+
+#~ msgid "New Playlist"
+#~ msgstr "قائمة تشغيل جديدة"
+
+#~ msgid "New Smart Playlist"
+#~ msgstr "قائمة تشغيل ذكية جديدة"
+
+#~ msgid "Import Playlists"
+#~ msgstr "إستورد قوائم التشغيل"
+
+#~ msgid "Library"
+#~ msgstr "المكتبة"
+
+#~ msgid "Devices"
+#~ msgstr "الأجهزة"
+
+#~ msgid "Network"
+#~ msgstr "الشّبكة"
+
+#~ msgid "Add Playlist"
+#~ msgstr "أضف قائمة تشغيل"
+
+#, fuzzy
+#~| msgid "Add Playlist"
+#~ msgid "Add Playlist…"
+#~ msgstr "أضف قائمة تشغيل"
+
+#~ msgid "Enable Repeat"
+#~ msgstr "تفعيل التكرار"
+
+#~ msgid "Disable Repeat"
+#~ msgstr "تعطيل التكرار"
+
+#, fuzzy
+#~ msgid "View as albums"
+#~ msgstr "عرض كالبومات"
+
+#, fuzzy
+#~ msgid "View as list"
+#~ msgstr "عرض كقائمة"
+
+#~ msgid "View in columns"
+#~ msgstr "عرض كأعمدة"
+
+#~ msgid "Audio CD Invalid"
+#~ msgstr "قرص صوتي غير صالح"
+
+#~ msgid "Impossible to read the contents of this Audio CD"
+#~ msgstr "من المستحيل قراءة محتويات هذا القرص الصوتي"
+
+#~ msgid "Could not find Music Folder"
+#~ msgstr "تعذّر العثور على مجلد الموسيقى"
+
+#~ msgid "Disk:"
+#~ msgstr "القرص:"
+
+#~ msgid "%s has imported your library."
+#~ msgstr "%s لقد إستوردة مكتبتك."
+
+#~ msgid "No Albums Found."
+#~ msgstr "لا يوجد ألبومات."
+
+#~ msgid "No Songs Found."
+#~ msgstr "لا توجد أغاني."
+
+#~ msgid "%u second"
+#~ msgid_plural "%u seconds"
+#~ msgstr[0] "%u ثانية"
+#~ msgstr[1] "%u ثوان"
+#~ msgstr[2] "%u ثوان"
+#~ msgstr[3] "%u ثوان"
+#~ msgstr[4] "%u ثوان"
+#~ msgstr[5] "%u ثوان"
+
+#~ msgid "%u minute"
+#~ msgid_plural "%u minutes"
+#~ msgstr[0] "%u دقيقة"
+#~ msgstr[1] "%u دقائق"
+#~ msgstr[2] "%u دقائق"
+#~ msgstr[3] "%u دقائق"
+#~ msgstr[4] "%u دقائق"
+#~ msgstr[5] "%u دقائق"
+
+#~ msgctxt "minutes and seconds"
+#~ msgid "%s and %s"
+#~ msgstr "%s و %s"
+
+#~ msgid "%u day"
+#~ msgid_plural "%u days"
+#~ msgstr[0] "%u يوم"
+#~ msgstr[1] "%u أيام"
+#~ msgstr[2] "%u أيام"
+#~ msgstr[3] "%u أيام"
+#~ msgstr[4] "%u أيام"
+#~ msgstr[5] "%u أيام"
+
+#~ msgid "%u hour"
+#~ msgid_plural "%u hours"
+#~ msgstr[0] "%u ساعة"
+#~ msgstr[1] "%u ساعات"
+#~ msgstr[2] "%u ساعات"
+#~ msgstr[3] "%u ساعات"
+#~ msgstr[4] "%u ساعات"
+#~ msgstr[5] "%u ساعات"
+
+#~ msgctxt "days, hours and minutes"
+#~ msgid "%s, %s and %s"
+#~ msgstr "%s، %s و %s"
+
+#~ msgctxt "days and hours"
+#~ msgid "%s and %s"
+#~ msgstr "%s و %s"
+
+#~ msgctxt "days and minutes"
+#~ msgid "%s and %s"
+#~ msgstr "%s و %s"
+
+#~ msgctxt "hours and minutes"
+#~ msgid "%s and %s"
+#~ msgstr "%s و %s"
+
+#~ msgid "Song"
+#~ msgstr "أغنية"
+
+#~ msgid "Repeat Artist"
+#~ msgstr "أعادة الفنّان"
+
+#~ msgid "All"
+#~ msgstr "الجميع"
+
+#~ msgid "Hide"
+#~ msgstr "إخفاء"
+
+#~ msgid "Show Info Panel"
+#~ msgstr "أظهر لوحة المعلومات"
+
+#~ msgid "Show"
+#~ msgstr "إظهار"
+
+#~ msgid "Hide Info Panel"
+#~ msgstr "أخفِ لوحة المعلومات"
+
+#~ msgid "Free"
+#~ msgstr "حر"
+
+#~ msgid "Import from Device"
+#~ msgstr "إستيراد من الجهاز"
+
+#~ msgid "Don't Import"
+#~ msgstr "لا تستورد"
+
+#~ msgid "ID"
+#~ msgstr "المعرّف"
+
+#~ msgid "Check Item"
+#~ msgstr "افحصهم"
+
+#~ msgid "Check Album"
+#~ msgstr "افحص الألبوم"
+
+#~ msgid "Check Artist"
+#~ msgstr "افحص الفنان"
+
+#~ msgid "Stop Syncing"
+#~ msgstr "أوقف التنسيق"
+
+#~ msgid "%u album"
+#~ msgid_plural "%u albums"
+#~ msgstr[0] "%u الألبوم"
+#~ msgstr[1] "%u الألبومات"
+#~ msgstr[2] "%u الألبومات"
+#~ msgstr[3] "%u الألبومات"
+#~ msgstr[4] "%u الألبومات"
+#~ msgstr[5] "%u الألبومات"
+
+#~ msgctxt "Title format used on Album View Popup: $ALBUM by $ARTIST"
+#~ msgid "%s by %s"
+#~ msgstr "%s تأليف %s"
+
+#~ msgctxt ""
+#~ "Format used on statusbar: $description, $total_duration, $total_file_size"
+#~ msgid "%s, %s, %s"
+#~ msgstr "%s, %s, %s"
+
+#~ msgid "No External Songs"
+#~ msgstr "لا يوجد أغاني خارجية"
+
+#~ msgid ""
+#~ "There were no songs found on this device that are not in your library."
+#~ msgstr "لا توجد اغاني بهذه الجهاز التي ليست موجودة بمكتبتك."
+
+#~ msgid "%i track"
+#~ msgid_plural "%i tracks"
+#~ msgstr[0] "%i مقطع"
+#~ msgstr[1] "%i مقاطع"
+#~ msgstr[2] "%i مقاطع"
+#~ msgstr[3] "%i مقاطع"
+#~ msgstr[4] "%i مقاطع"
+#~ msgstr[5] "%i مقاطع"
+
+#~ msgid "%u song"
+#~ msgid_plural "%u songs"
+#~ msgstr[0] "%u أغنية"
+#~ msgstr[1] "%u أغاني"
+#~ msgstr[2] "%u أغاني"
+#~ msgstr[3] "%u أغاني"
+#~ msgstr[4] "%u أغاني"
+#~ msgstr[5] "%u أغاني"
+
+#~ msgctxt "Format used on statusbar: $description, $total_duration"
+#~ msgid "%s, %s"
+#~ msgstr "%s, %s"
+
+#~ msgid "translator-credits"
+#~ msgstr ""
+#~ "Launchpad Contributions:\n"
+#~ "  Aboud  Zakaria https://launchpad.net/~aboud-zakaria\n"
+#~ "  Adel Qalieh https://launchpad.net/~abq911\n"
+#~ "  Daniel Fore https://launchpad.net/~danrabbit\n"
+#~ "  Fathallah Wael https://launchpad.net/~fathallahwael80\n"
+#~ "  Julian James https://launchpad.net/~reallyhungryhippo\n"
+#~ "  Mohamed-Touhami MAHDI https://launchpad.net/~dragnucs\n"
+#~ "  Mohammed  Shammout https://launchpad.net/~fdsmohammed\n"
+#~ "  Mostafa Gazar https://launchpad.net/~mostafa.gazar"
+
+#~ msgid "Unknown Artist"
+#~ msgstr "فنّان مجهول"
+
+#~ msgid "Unknown Album"
+#~ msgstr "ألبوم مجهول"
+
+#~ msgid "Add Podcast"
+#~ msgstr "أضف نشرة صوتية"
+
+#~ msgid "Download new Episodes"
+#~ msgstr "نزّل حلقات جديدة"
+
+#~ msgid "Edit"
+#~ msgstr "تعديل"
+
+#~ msgid "Export..."
+#~ msgstr "تصدير..."
+
+#~ msgid "Podcasts"
+#~ msgstr "نشرات صوتية"
+
+#~ msgid "Equalizer"
+#~ msgstr "موازن الصوت"
+
+#~ msgid "Lyrics"
+#~ msgstr "الكلمات"
+
+#~ msgid "Done"
+#~ msgstr "تمّ"
+
+#~ msgid "Metadata"
+#~ msgstr "البيانات الوصفية"
+
+#~ msgid "Do Nothing"
+#~ msgstr "لا تفعل شيئاً"
+
+#~ msgid "Track"
+#~ msgstr "المقطوعة"
+
+#~ msgid "Editing %s"
+#~ msgstr "تحرير %s"
+
+#~ msgid "Album Artist"
+#~ msgstr "فنّان الألبوم"
+
+#~ msgid "Media Type"
+#~ msgstr "نوع الوسيط"
+
+#~ msgid "Podcast"
+#~ msgstr "النشرة الصوتية"
+
+#~ msgid "Try again"
+#~ msgstr "حاوِل مجددًا"
+
+#~ msgid "is not"
+#~ msgstr "ليس"
+
+#~ msgid "%s by %s"
+#~ msgstr "%s ل%s"
+
+#~ msgid "Change your music folder."
+#~ msgstr "غيّر مجلد الموسيقى."
+
+#~ msgid "Locate"
+#~ msgstr "حدّد المكان"
+
+#~ msgid "Radio Station"
+#~ msgstr "محطة إذاعية"
+
+#~ msgid "%d second"
+#~ msgid_plural "%d seconds"
+#~ msgstr[0] "%d ثانية"
+#~ msgstr[1] "%d ثوان"
+#~ msgstr[2] "%d ثوان"
+#~ msgstr[3] "%d ثوان"
+#~ msgstr[4] "%d ثوان"
+#~ msgstr[5] "%d ثوان"
+
+#~ msgid "Rescan Music Folder"
+#~ msgstr "أعِد فحص مجلد الموسيقى"
+
+#~ msgid "Please make sure that your music folder is accessible and mounted."
+#~ msgstr "من فضلك تأكد من أن مجلد الموسيقى يمكن الوصول له."
+
+#~ msgid "Rescanning music folder for changes"
+#~ msgstr "أعيد فحص مجلد الموسيقى للعثور على أي تغييرات"
+
+#~ msgid "All Podcasts"
+#~ msgstr "جميع النشرات الصوتية"
+
+#~ msgid "%s can't seem to find your music."
+#~ msgstr "%s لا يمكن عثور على الموسيقى الخاصة بك."
+
+#~ msgid "%i kbps"
+#~ msgstr "%i ك ب في الثانية"
+
+#~ msgid "Display Album Art"
+#~ msgstr "عرض صورة الألبوم"
+
+#~ msgid "Music Player"
+#~ msgstr "مشغّل الموسيقى"
+
+#~ msgid "Listen to music"
+#~ msgstr "إستمع للموسيقى"

@@ -1,0 +1,253 @@
+# Czech translation for beat-box
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the beat-box package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: beat-box\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-01 10:32+0000\n"
+"PO-Revision-Date: 2024-09-19 07:21+0000\n"
+"Last-Translator: hnklp <hynek.puta@seznam.cz>\n"
+"Language-Team: Czech <https://l10n.phyreos.io/projects/music/extra/cs/>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Weblate 5.6.2\n"
+"X-Launchpad-Export-Date: 2017-03-07 05:56+0000\n"
+
+#: data/music.metainfo.xml.in:10 data/music.desktop.in:6
+msgid "Music"
+msgstr "Hudba"
+
+#: data/music.metainfo.xml.in:11
+msgid "Queue and play local audio files"
+msgstr ""
+
+#: data/music.metainfo.xml.in:13
+msgid ""
+"Quickly queue up and listen to your local music files without any extra "
+"frills. See embedded album artwork. Control playback with media keys or in "
+"the system audio indicator."
+msgstr ""
+
+#: data/music.metainfo.xml.in:18
+msgid "Quickly queue up your favorite tracks"
+msgstr ""
+
+#: data/music.metainfo.xml.in:59 data/music.metainfo.xml.in:70
+#: data/music.metainfo.xml.in:84
+msgid "Improvements:"
+msgstr "Vylepšení:"
+
+#: data/music.metainfo.xml.in:61
+msgid "Toolbar shows a shadow when the view is scrolled"
+msgstr ""
+
+#: data/music.metainfo.xml.in:62
+msgid "Open audio files from within Music"
+msgstr ""
+
+#: data/music.metainfo.xml.in:63 data/music.metainfo.xml.in:73
+#: data/music.metainfo.xml.in:106
+msgid "Updated translations"
+msgstr "Aktualizovány překlady"
+
+#: data/music.metainfo.xml.in:72
+msgid "Open folders in the filemanager with Music"
+msgstr ""
+
+#: data/music.metainfo.xml.in:86
+msgid "For tracks without a title, use the file name instead of the whole URI"
+msgstr ""
+
+#: data/music.metainfo.xml.in:87
+msgid "Skip invalid files instead of stopping playback"
+msgstr ""
+
+#: data/music.metainfo.xml.in:88
+msgid "Next and Repeat buttons always work regardless of repeat mode"
+msgstr ""
+
+#: data/music.metainfo.xml.in:89
+msgid ""
+"Now available in Catalan, Dutch, Finnish, French, German, Hebrew, Hungarian, "
+"Japanese, Korean, Kurdish, Marathi, Norwegian Bokmål, Polish, Portuguese, "
+"Russian, Simplified Chinese, Turkish, and Ukrainian"
+msgstr ""
+
+#: data/music.metainfo.xml.in:99
+msgid "Complete rewrite"
+msgstr ""
+
+#: data/music.metainfo.xml.in:105
+#, fuzzy
+msgid "Drop support for Last.FM"
+msgstr "Zahozena podpora pro optické disky"
+
+#: data/music.desktop.in:7
+msgid "Listen to music"
+msgstr "Poslouchejte hudbu"
+
+#: data/music.desktop.in:9
+#, fuzzy
+msgid "Noise;Audio;Player;MP3;Play;Playlist;Media;Songs;"
+msgstr ""
+"Noise;Audio;Přehrávač;MP3;iPod;Přehrát;Seznam skladeb;Média;CD;Phone;Skladby;"
+"Music;"
+
+#~ msgid "Phyre Ltd."
+#~ msgstr "elementary LLC."
+
+#~ msgid "Drop support for CD-ROM"
+#~ msgstr "Zahozena podpora pro optické disky"
+
+#, fuzzy
+#~ msgid "Minor visual improvements"
+#~ msgstr "Zlepšení odezvy aplikace"
+
+#~ msgid "Music Player"
+#~ msgstr "Hudební přehrávač"
+
+#~ msgid "Fix removing items from the queue"
+#~ msgstr "Oprava odebírání položek z fronty"
+
+#~ msgid "Fix equalizer sliders not properly disabled sometimes"
+#~ msgstr ""
+#~ "Oprava toho, že posuvníky ekvalizéru nebyly někdy správně znepřístupněny"
+
+#~ msgid "Performance improvements"
+#~ msgstr "Zlepšení odezvy aplikace"
+
+#~ msgid "Removed old gsignond vapi"
+#~ msgstr "Odebráno staré gsignond vapi"
+
+#~ msgid "LibraryWindow: Use Granite.MessageDialog for showing alerts"
+#~ msgstr ""
+#~ "LibraryWindow: Pro zobrazování výstrah použito Granite.MessageDialog"
+
+#~ msgid "PlaylistsUtils: Use Gtk.FileChooserNative"
+#~ msgstr "PlaylistsUtils: Použito Gtk.FileChooserNative"
+
+#~ msgid "Accurately remember window size"
+#~ msgstr "Přesné zapamatování velikosti okna"
+
+#~ msgid "Scale album art properly at high resolutions"
+#~ msgstr ""
+#~ "Přidána správná změna velikost přebalu alba při vysokých rozlišeních"
+
+#~ msgid ""
+#~ "Accurately select Music Folder Location for directories with spaces in "
+#~ "name"
+#~ msgstr "Přesný výběr umístění složky s hudbou pro složky s mezerami v názvu"
+
+#~ msgid "New MediaKeyListener path for gnome-settings-daemon"
+#~ msgstr "Nový popis umístění MediaKeyListener pro gnome-settings-daemon"
+
+#~ msgid "AlbumView: double-click to play album"
+#~ msgstr "AlbumView: přehrávání alba dvojklikem"
+
+#~ msgid "Associate with s3m files"
+#~ msgstr "Asociace se soubory typu s3m"
+
+#~ msgid "Queue fixes"
+#~ msgstr "Opravy fronty přehrávání"
+
+#~ msgid "Properly restore playlists"
+#~ msgstr "Řádné obnovování seznamů k přehrávání"
+
+#~ msgid "Always respect custom music folder setting"
+#~ msgstr "Vždy respektováno uživatelsky určené nastavení složky s hudbou"
+
+#~ msgid "Minor bug fixes"
+#~ msgstr "Opravy drobných chyb"
+
+#~ msgid "Fix list and column view sorting"
+#~ msgstr "Oprava řazení v zobrazení seznamu a sloupce"
+
+#~ msgid "Add orange accent color"
+#~ msgstr "Přidána oranžová barva zvýraznění"
+
+#~ msgid "Add shortcut accels to tooltips"
+#~ msgstr "Do nástrojových tipů přidány akcelerátory"
+
+#~ msgid "Various UI changes"
+#~ msgstr "Různé změny v uživatelském rozhraní"
+
+#~ msgid "Shuffle fixes"
+#~ msgstr "Opravy náhodného pořadí přehrávání"
+
+#~ msgid "Initial MPRIS support"
+#~ msgstr "Počáteční podpora pro protokol MPRIS"
+
+#~ msgid "Detect library changes at startup."
+#~ msgstr "Zjišťování změn knihovny hudby při spouštění."
+
+#~ msgid "Support searching by URI"
+#~ msgstr "Podpora hledání podle URI"
+
+#~ msgid "Change the queue mechanism to make it less confusing."
+#~ msgstr "Změněn mechanizmus fronty přehrávání aby byl méně matoucí."
+
+#~ msgid "Improve equalizer style."
+#~ msgstr "Zlepšen styl ekvalizéru."
+
+#~ msgid "Minor bug fixes."
+#~ msgstr "Opravy drobných chyb."
+
+#~ msgid "Add rounded bottom window corner."
+#~ msgstr "Přidán zaoblený roh spodního okna."
+
+#~ msgid "New translations"
+#~ msgstr "Nové překlady"
+
+#~ msgid "Release for Loki."
+#~ msgstr "Vydání pro Loki."
+
+#~ msgid "Add support for Opus Ogg"
+#~ msgstr "Přidána podpora pro Opus Ogg"
+
+#~ msgid "Fix Ctrl+Q support for non-Latin keyboard layouts"
+#~ msgstr ""
+#~ "Opravena podpora pro Ctrl+Q pro rozložení klávesnice, které nejsou latinka"
+
+#~ msgid "Reorganize media edition layout"
+#~ msgstr "Přeuspořádání rozvržení edice média"
+
+#~ msgid "Port grid to support HiDPI displays"
+#~ msgstr "Přenesení mřížky pro podporu obrazovek s vysokým rozlišením (HiDPI)"
+
+#~ msgid "Update icons to latest elementary icon release"
+#~ msgstr "Aktualizace ikon na nejnovější vydání v elementary"
+
+#~ msgid "Respect privacy mode"
+#~ msgstr "Respektování režimu ochrany soukromí"
+
+#~ msgid "The official elementary music player"
+#~ msgstr "Oficiální přehrávač hudby pro elementary"
+
+#, fuzzy
+#~ msgid ""
+#~ "Music is a fast and beautiful audio player with a focus on music and "
+#~ "libraries. It handles external devices and album art."
+#~ msgstr ""
+#~ "Hudba je rychlý a krásný audio přehrávač se zaměřením na hudbu a "
+#~ "knihovny. Poradí si s externími zařízeními, CD disky a s obrázky alb."
+
+#~ msgid "io.phyre.music"
+#~ msgstr "io.phyre.music"
+
+#~ msgid "multimedia-audio-player"
+#~ msgstr "multimedia-audio-player"
+
+#~ msgid "About Music"
+#~ msgstr "O programu Hudba"
+
+#~ msgid "Noise"
+#~ msgstr "Noise"
+
+#~ msgid "About Noise"
+#~ msgstr "O aplikaci Noise"

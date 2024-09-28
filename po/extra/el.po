@@ -1,0 +1,127 @@
+# Greek translation for noise
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the noise package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: noise\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-01 10:32+0000\n"
+"PO-Revision-Date: 2018-08-23 00:03+0000\n"
+"Last-Translator: Daniel Foré <daniel@phyreos.io>\n"
+"Language-Team: Greek <https://weblate.phyreos.io/projects/music/extra/el/"
+">\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.0.1\n"
+"X-Launchpad-Export-Date: 2017-03-07 05:56+0000\n"
+
+#: data/music.metainfo.xml.in:10 data/music.desktop.in:6
+msgid "Music"
+msgstr "Μουσική"
+
+#: data/music.metainfo.xml.in:11
+msgid "Queue and play local audio files"
+msgstr ""
+
+#: data/music.metainfo.xml.in:13
+msgid ""
+"Quickly queue up and listen to your local music files without any extra "
+"frills. See embedded album artwork. Control playback with media keys or in "
+"the system audio indicator."
+msgstr ""
+
+#: data/music.metainfo.xml.in:18
+msgid "Quickly queue up your favorite tracks"
+msgstr ""
+
+#: data/music.metainfo.xml.in:59 data/music.metainfo.xml.in:70
+#: data/music.metainfo.xml.in:84
+msgid "Improvements:"
+msgstr ""
+
+#: data/music.metainfo.xml.in:61
+msgid "Toolbar shows a shadow when the view is scrolled"
+msgstr ""
+
+#: data/music.metainfo.xml.in:62
+msgid "Open audio files from within Music"
+msgstr ""
+
+#: data/music.metainfo.xml.in:63 data/music.metainfo.xml.in:73
+#: data/music.metainfo.xml.in:106
+msgid "Updated translations"
+msgstr ""
+
+#: data/music.metainfo.xml.in:72
+msgid "Open folders in the filemanager with Music"
+msgstr ""
+
+#: data/music.metainfo.xml.in:86
+msgid "For tracks without a title, use the file name instead of the whole URI"
+msgstr ""
+
+#: data/music.metainfo.xml.in:87
+msgid "Skip invalid files instead of stopping playback"
+msgstr ""
+
+#: data/music.metainfo.xml.in:88
+msgid "Next and Repeat buttons always work regardless of repeat mode"
+msgstr ""
+
+#: data/music.metainfo.xml.in:89
+msgid ""
+"Now available in Catalan, Dutch, Finnish, French, German, Hebrew, Hungarian, "
+"Japanese, Korean, Kurdish, Marathi, Norwegian Bokmål, Polish, Portuguese, "
+"Russian, Simplified Chinese, Turkish, and Ukrainian"
+msgstr ""
+
+#: data/music.metainfo.xml.in:99
+msgid "Complete rewrite"
+msgstr ""
+
+#: data/music.metainfo.xml.in:105
+msgid "Drop support for Last.FM"
+msgstr ""
+
+#: data/music.desktop.in:7
+msgid "Listen to music"
+msgstr "Ακούστε μουσική"
+
+#: data/music.desktop.in:9
+#, fuzzy
+msgid "Noise;Audio;Player;MP3;Play;Playlist;Media;Songs;"
+msgstr ""
+"Noise;Ήχος;Αναπαραγωγέας;MP3;Αναπαραγωγή;Λίστα;Πολυμέσα;Δίσκος;Τηλέφωνο;"
+"Τραγούδια;"
+
+#~ msgid "Music Player"
+#~ msgstr "Αναπαραγωγέας μουσικής"
+
+#~ msgid "The official elementary music player"
+#~ msgstr "Ο επίσημος αναπαραγωγέας μουσικής του elementary"
+
+#, fuzzy
+#~ msgid ""
+#~ "Music is a fast and beautiful audio player with a focus on music and "
+#~ "libraries. It handles external devices and album art."
+#~ msgstr ""
+#~ "H μουσική είναι ένας γρήγορος και όμορφος αναπαραγωγέας μουσικής που "
+#~ "εστιάζει στη μουσική και στις βιβλιοθήκες. Διαχειρίζεται εξωτερικές "
+#~ "συσκευές, CDs και εξώφυλλα άλμπουμ."
+
+#~ msgid "multimedia-audio-player"
+#~ msgstr "multimedia-audio-player"
+
+#~ msgid "About Music"
+#~ msgstr "Σχετικά με τη Μουσική"
+
+#~ msgid "Noise"
+#~ msgstr "Noise"
+
+#~ msgid "About Noise"
+#~ msgstr "Σχετικά με το Noise"

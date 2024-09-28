@@ -1,0 +1,274 @@
+# Japanese translation for noise
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the noise package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: noise\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-01 10:32+0000\n"
+"PO-Revision-Date: 2024-09-04 11:16+0000\n"
+"Last-Translator: Ryo Nakano <ryonakaknock3@gmail.com>\n"
+"Language-Team: Japanese <https://l10n.phyreos.io/projects/music/extra/ja/>"
+"\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.6.2\n"
+"X-Launchpad-Export-Date: 2017-03-07 05:56+0000\n"
+
+#: data/music.metainfo.xml.in:10 data/music.desktop.in:6
+msgid "Music"
+msgstr "ミュージック"
+
+#: data/music.metainfo.xml.in:11
+msgid "Queue and play local audio files"
+msgstr "ローカルの音声ファイルをキューに追加して再生します"
+
+#: data/music.metainfo.xml.in:13
+msgid ""
+"Quickly queue up and listen to your local music files without any extra "
+"frills. See embedded album artwork. Control playback with media keys or in "
+"the system audio indicator."
+msgstr ""
+"手持ちの音声ファイルを簡単にキューに追加して再生しましょう。機能は至ってシン"
+"プルです。また、ファイルに埋め込まれたアルバムアートワークを表示できます。メ"
+"ディアキーやシステム音声インジケーターを使うことで、曲の再生/停止/切り替えも"
+"可能です。"
+
+#: data/music.metainfo.xml.in:18
+msgid "Quickly queue up your favorite tracks"
+msgstr "お気に入りの楽曲を簡単にキューに追加できます"
+
+#: data/music.metainfo.xml.in:59 data/music.metainfo.xml.in:70
+#: data/music.metainfo.xml.in:84
+msgid "Improvements:"
+msgstr "改善点:"
+
+#: data/music.metainfo.xml.in:61
+msgid "Toolbar shows a shadow when the view is scrolled"
+msgstr "ビューがスクロールされた場合に、ツールバーが影を表示するように修正"
+
+#: data/music.metainfo.xml.in:62
+msgid "Open audio files from within Music"
+msgstr "“ミュージック”内で音声ファイルを開く機能を追加"
+
+#: data/music.metainfo.xml.in:63 data/music.metainfo.xml.in:73
+#: data/music.metainfo.xml.in:106
+msgid "Updated translations"
+msgstr "新しい翻訳"
+
+#: data/music.metainfo.xml.in:72
+msgid "Open folders in the filemanager with Music"
+msgstr ""
+"ファイルマネージャーからフォルダーを指定して“ミュージック”で開く機能を追加"
+
+#: data/music.metainfo.xml.in:86
+msgid "For tracks without a title, use the file name instead of the whole URI"
+msgstr ""
+"タイトルのないトラックの場合は、URI 全体ではなくファイル名のみを使用するよう"
+"に修正"
+
+#: data/music.metainfo.xml.in:87
+msgid "Skip invalid files instead of stopping playback"
+msgstr ""
+"無効なファイルが存在する場合、再生停止するのではなくスキップするように修正"
+
+#: data/music.metainfo.xml.in:88
+msgid "Next and Repeat buttons always work regardless of repeat mode"
+msgstr ""
+"リピートの設定に関わらず、“次へ”および“繰り返し”ボタンが常に使用できるように"
+"修正"
+
+#: data/music.metainfo.xml.in:89
+msgid ""
+"Now available in Catalan, Dutch, Finnish, French, German, Hebrew, Hungarian, "
+"Japanese, Korean, Kurdish, Marathi, Norwegian Bokmål, Polish, Portuguese, "
+"Russian, Simplified Chinese, Turkish, and Ukrainian"
+msgstr ""
+"次の言語で利用可能になりました: カタロニア語、オランダ語、フィンランド語、フ"
+"ランス語、ドイツ語、ヘブライ語、ハンガリー語、日本語、韓国語、クルド語、マ"
+"ラーティー語、ノルウェー語、ポーランド語、ポルトガル語、ロシア語、簡体字中国"
+"語、トルコ語、ウクライナ語"
+
+#: data/music.metainfo.xml.in:99
+msgid "Complete rewrite"
+msgstr "コードの全面的な書き直し"
+
+#: data/music.metainfo.xml.in:105
+msgid "Drop support for Last.FM"
+msgstr "Last.FM への対応を終了"
+
+#: data/music.desktop.in:7
+msgid "Listen to music"
+msgstr "音楽を聴きます"
+
+#: data/music.desktop.in:9
+msgid "Noise;Audio;Player;MP3;Play;Playlist;Media;Songs;"
+msgstr ""
+"Noise;Audio;Player;MP3;Play;Playlist;Media;Songs;オーディオ;音声;プレーヤー;"
+"プレイヤー;再生;プレイリスト;メディア;曲;"
+
+#~ msgid "Phyre Ltd."
+#~ msgstr "Phyre Ltd."
+
+#~ msgid "Fix an issue with saving smart playlists"
+#~ msgstr "スマートプレイリストの保存時に発生する不具合を修正"
+
+#~ msgid "Drop support for CD-ROM"
+#~ msgstr "CD-ROM への対応を終了"
+
+#~ msgid "Dark style support"
+#~ msgstr "ダークモードへの対応"
+
+#~ msgid "Minor visual improvements"
+#~ msgstr "軽微な視覚上の改善"
+
+#~ msgid "Music Player"
+#~ msgstr "ミュージックプレーヤー"
+
+#~ msgid "Drag and drop whole folders into the queue"
+#~ msgstr ""
+#~ "フォルダーをドラッグアンドドロップすることで、中の全項目をキューに追加でき"
+#~ "るように修正"
+
+#~ msgid "Fix removing items from the queue"
+#~ msgstr "キューから項目を削除する際の不具合を修正"
+
+#~ msgid "Fix equalizer sliders not properly disabled sometimes"
+#~ msgstr ""
+#~ "イコライザーのスライダーが適切に無効にならないことがある不具合を修正"
+
+#~ msgid "Performance improvements"
+#~ msgstr "パフォーマンスの改善"
+
+#~ msgid "Removed old gsignond vapi"
+#~ msgstr "古い gsignond vapi を削除"
+
+#~ msgid "LibraryWindow: Use Granite.MessageDialog for showing alerts"
+#~ msgstr "ライブラリーウィンドウ: 警告の表示に Granite.MessageDialog を使用"
+
+#~ msgid "PlaylistsUtils: Use Gtk.FileChooserNative"
+#~ msgstr "PlaylistsUtils: Gtk.FileChooserNative を使用"
+
+#~ msgid "Accurately remember window size"
+#~ msgstr "正確なウィンドウサイズを保存"
+
+#~ msgid "Scale album art properly at high resolutions"
+#~ msgstr "高解像度においてアルバムアートの大きさを正しく調整"
+
+#~ msgid ""
+#~ "Accurately select Music Folder Location for directories with spaces in "
+#~ "name"
+#~ msgstr ""
+#~ "名前に空白が含まれるミュージックフォルダーの場所を正しく選択できるように修"
+#~ "正"
+
+#~ msgid "New MediaKeyListener path for gnome-settings-daemon"
+#~ msgstr "gnome-settings-daemon に対する新しい MediaKeyListener のパスを使用"
+
+#~ msgid "AlbumView: double-click to play album"
+#~ msgstr "アルバムビュー: ダブルクリックでアルバムを再生"
+
+#~ msgid "Associate with s3m files"
+#~ msgstr "s3m ファイルとの関連付け"
+
+#~ msgid "Queue fixes"
+#~ msgstr "キューの修正"
+
+#~ msgid "Properly restore playlists"
+#~ msgstr "プレイリストを正しく復元するように修正"
+
+#~ msgid "Always respect custom music folder setting"
+#~ msgstr "カスタムミュージックフォルダーの設定を常に反映するように修正"
+
+#~ msgid "Minor bug fixes"
+#~ msgstr "軽微なバグの修正"
+
+#~ msgid "Fix list and column view sorting"
+#~ msgstr "リスト表示とコラム表示におけるファイルの表示順を修正"
+
+#~ msgid "Add orange accent color"
+#~ msgstr "オレンジ色のアクセントカラーを追加"
+
+#~ msgid "Add shortcut accels to tooltips"
+#~ msgstr "ツールチップにショートカットアクセラレーターを追加"
+
+#~ msgid "Various UI changes"
+#~ msgstr "UI のさまざまな変更"
+
+#~ msgid "Shuffle fixes"
+#~ msgstr "シャッフル再生の修正"
+
+#~ msgid "Initial MPRIS support"
+#~ msgstr "MPRIS への最初の対応"
+
+#~ msgid "Detect library changes at startup."
+#~ msgstr "起動時にライブラリーの変更を検出するように修正しました。"
+
+#~ msgid "Support searching by URI"
+#~ msgstr "URI による検索に対応"
+
+#~ msgid "Change the queue mechanism to make it less confusing."
+#~ msgstr "キューの仕組みを単純化しました。"
+
+#~ msgid "Improve equalizer style."
+#~ msgstr "イコライザーのスタイルを改善しました。"
+
+#~ msgid "Minor bug fixes."
+#~ msgstr "軽微なバグを修正しました。"
+
+#~ msgid "Add rounded bottom window corner."
+#~ msgstr "ウィンドウ下部の角を丸くしました。"
+
+#~ msgid "New translations"
+#~ msgstr "新しい翻訳"
+
+#~ msgid "Release for Loki."
+#~ msgstr "Loki 向けのリリースです。"
+
+#~ msgid "Add support for Opus Ogg"
+#~ msgstr "Opus Ogg への対応"
+
+#~ msgid "Fix Ctrl+Q support for non-Latin keyboard layouts"
+#~ msgstr "非ラテンキーボードレイアウトへの Ctrl+Q キーの対応を修正"
+
+#~ msgid "Reorganize media edition layout"
+#~ msgstr "メディアエディションレイアウトを認識するように修正"
+
+#~ msgid "Port grid to support HiDPI displays"
+#~ msgstr "グリッドの HiDPI ディスプレイへの対応"
+
+#~ msgid "Update icons to latest elementary icon release"
+#~ msgstr "最新の elementary アイコンテーマのアイコンに更新"
+
+#~ msgid "Respect privacy mode"
+#~ msgstr "プライバシーモードの設定を反映するように修正"
+
+#~ msgid "The official elementary music player"
+#~ msgstr "elementary の公式ミュージックプレーヤー"
+
+#~ msgid ""
+#~ "Music is a fast and beautiful audio player with a focus on music and "
+#~ "libraries. It handles external devices and album art."
+#~ msgstr ""
+#~ "“ミュージック”は、音楽とライブラリに重点を置いた高速で美しいオーディオプレ"
+#~ "イヤーです。外部デバイス、アルバムアートを扱えます。"
+
+#~ msgid "io.phyre.music"
+#~ msgstr "io.phyre.music"
+
+#~ msgid "multimedia-audio-player"
+#~ msgstr "multimedia-audio-player"
+
+#~ msgid "About Music"
+#~ msgstr "\"ミュージック\" について"
+
+#~ msgid "Noise"
+#~ msgstr "Noise"
+
+#~ msgid "About Noise"
+#~ msgstr "\"Noise\" について"

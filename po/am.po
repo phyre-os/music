@@ -1,0 +1,301 @@
+# Amharic translation for noise
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the noise package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: noise\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-01 10:32+0000\n"
+"PO-Revision-Date: 2021-08-11 06:25+0000\n"
+"Last-Translator: carnage-mode <beta-stage@tutanota.com>\n"
+"Language-Team: Amharic <https://l10n.phyreos.io/projects/music/music/am/"
+">\n"
+"Language: am\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 4.4.2\n"
+"X-Launchpad-Export-Date: 2017-03-07 05:51+0000\n"
+
+#: src/Application.vala:92 src/Views/NowPlayingView.vala:18
+#: src/Views/NowPlayingView.vala:116
+msgid "Music"
+msgstr ""
+
+#: src/MainWindow.vala:20
+msgid "Shuffle"
+msgstr ""
+
+#: src/MainWindow.vala:26
+msgid "Search titles in playlist"
+msgstr ""
+
+#: src/MainWindow.vala:45
+msgid "Queue is Empty"
+msgstr ""
+
+#: src/MainWindow.vala:46
+msgid "Audio files opened from Files will appear here"
+msgstr ""
+
+#: src/MainWindow.vala:63
+msgid "Open Files…"
+msgstr ""
+
+#: src/MainWindow.vala:167
+#, c-format
+msgid "%d invalid file was not added to the queue"
+msgid_plural "%d invalid files were not added to the queue"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/MainWindow.vala:215
+msgid "All files"
+msgstr ""
+
+#: src/MainWindow.vala:220
+msgid "Music files"
+msgstr ""
+
+#: src/MainWindow.vala:229
+msgid "Open"
+msgstr ""
+
+#: src/MainWindow.vala:233
+msgid "Open audio files"
+msgstr ""
+
+#: src/MainWindow.vala:271
+msgid "Repeat None"
+msgstr ""
+
+#: src/MainWindow.vala:275
+msgid "Repeat All"
+msgstr ""
+
+#: src/MainWindow.vala:279
+msgid "Repeat One"
+msgstr ""
+
+#: src/PlaybackManager.vala:136
+#, c-format
+msgid "%d track was added to the queue"
+msgid_plural "%d tracks were added to the queue"
+msgstr[0] ""
+msgstr[1] ""
+
+#. Don't set artist for files without tags
+#: src/PlaybackManager.vala:196
+msgid "Unknown"
+msgstr "ያልታወቀ"
+
+#: src/Views/NowPlayingView.vala:23 src/Views/NowPlayingView.vala:115
+#, fuzzy
+msgid "Not playing"
+msgstr "አዲስ የማጫወቻ ዝርዝር"
+
+#: src/Views/NowPlayingView.vala:45
+msgid "Previous"
+msgstr ""
+
+#: src/Views/NowPlayingView.vala:68
+msgid "Next"
+msgstr ""
+
+#: src/Views/NowPlayingView.vala:93
+msgid "Play"
+msgstr ""
+
+#: src/Views/NowPlayingView.vala:96
+msgid "Pause"
+msgstr ""
+
+#~ msgid "Flat"
+#~ msgstr "ጠፍጣፋ"
+
+#~ msgid "Classical"
+#~ msgstr "ክላሲካል"
+
+#~ msgid "Club"
+#~ msgstr "ክለብ"
+
+#~ msgid "Dance"
+#~ msgstr "ዳንስ"
+
+#~ msgid "Large Hall"
+#~ msgstr "ትልቅ አዳራሽ"
+
+#, fuzzy
+#~ msgid "Live"
+#~ msgstr "በቀጥታ"
+
+#~ msgid "Party"
+#~ msgstr "ፓርቲ"
+
+#~ msgid "Pop"
+#~ msgstr "ፖፕ"
+
+#~ msgid "Reggae"
+#~ msgstr "ሬጌ"
+
+#~ msgid "Rock"
+#~ msgstr "ሮክ"
+
+#~ msgid "Soft"
+#~ msgstr "ለስላሳ"
+
+#~ msgid "Ska"
+#~ msgstr "ስካ"
+
+#~ msgid "Soft Rock"
+#~ msgstr "ለስላሳ ሮክ"
+
+#~ msgid "Techno"
+#~ msgstr "ቴክኖ"
+
+#~ msgid " (%d)"
+#~ msgstr " (%d)"
+
+#~ msgid "%s (%d)"
+#~ msgstr "%s (%d)"
+
+#~ msgid "%s (%i)"
+#~ msgstr "%s (%i)"
+
+#~ msgid "Export Playlist"
+#~ msgstr "የማጫወቻ ዝርዝር መላኪያ"
+
+#~ msgid "Playlist"
+#~ msgstr "የማጫወቻ ዝርዝር"
+
+#~ msgid "Import %s"
+#~ msgstr "ማምጫ %s"
+
+#~ msgid "%m/%e/%Y %l:%M %p"
+#~ msgstr "%m/%e/%Y %l:%M %p"
+
+#~ msgid "Import Complete"
+#~ msgstr "ማምጣቱ ተፈጽሟል"
+
+#~ msgctxt "Name of the playlist"
+#~ msgid "Queue"
+#~ msgstr "ወረፋ"
+
+#, fuzzy
+#~ msgid "Issues while importing from %s"
+#~ msgstr "ሙዚቃ በማምጣት ላይ ከ %s..."
+
+#~ msgid "History"
+#~ msgstr "ታሪክ"
+
+#~ msgid "Cancelling…"
+#~ msgstr "በመሰረዝ ላይ…"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Artist"
+#~ msgstr "ያልታወቀ ድምፃዊ"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Album"
+#~ msgstr "%u አልበም"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Plays"
+#~ msgstr "የማጫወቻ ዝርዝር"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Last Played"
+#~ msgstr "ሙዚቃ ማጫወቻ"
+
+#, fuzzy
+#~ msgctxt "Action item (verb)"
+#~ msgid "Queue"
+#~ msgstr "ወረፋ"
+
+#, fuzzy
+#~| msgid "Playlist"
+#~ msgid "Add Playlist…"
+#~ msgstr "የማጫወቻ ዝርዝር"
+
+#, fuzzy
+#~ msgid "View as list"
+#~ msgstr "አዲስ የማጫወቻ ዝርዝር"
+
+#~ msgid "No Albums Found."
+#~ msgstr "አልበሞች አልተገኙም"
+
+#~ msgid "%u second"
+#~ msgid_plural "%u seconds"
+#~ msgstr[0] "%u ሰከንድ"
+#~ msgstr[1] "%u ሰከንዶች"
+
+#~ msgid "%u minute"
+#~ msgid_plural "%u minutes"
+#~ msgstr[0] "%u ደቂቃ"
+#~ msgstr[1] "%u ደቂቆች"
+
+#~ msgctxt "minutes and seconds"
+#~ msgid "%s and %s"
+#~ msgstr "%s እና %s"
+
+#~ msgid "%u day"
+#~ msgid_plural "%u days"
+#~ msgstr[0] "%u ቀን"
+#~ msgstr[1] "%u ቀኖች"
+
+#~ msgid "%u hour"
+#~ msgid_plural "%u hours"
+#~ msgstr[0] "%u ሰአት"
+#~ msgstr[1] "%u ሰአቶች"
+
+#~ msgctxt "days, hours and minutes"
+#~ msgid "%s, %s and %s"
+#~ msgstr "%s, %s እና %s"
+
+#~ msgctxt "days and hours"
+#~ msgid "%s and %s"
+#~ msgstr "%s እና %s"
+
+#~ msgctxt "days and minutes"
+#~ msgid "%s and %s"
+#~ msgstr "%s እና %s"
+
+#~ msgctxt "hours and minutes"
+#~ msgid "%s and %s"
+#~ msgstr "%s እና %s"
+
+#~ msgctxt "Title format used on Album View Popup: $ALBUM by $ARTIST"
+#~ msgid "%s by %s"
+#~ msgstr "%s በ %s"
+
+#~ msgctxt ""
+#~ "Format used on statusbar: $description, $total_duration, $total_file_size"
+#~ msgid "%s, %s, %s"
+#~ msgstr "%s, %s, %s"
+
+#~ msgid "translator-credits"
+#~ msgstr ""
+#~ "Launchpad Contributions:\n"
+#~ "  Daniel Fore https://launchpad.net/~danrabbit\n"
+#~ "  samson https://launchpad.net/~sambelet"
+
+#~ msgid "%d second"
+#~ msgid_plural "%d seconds"
+#~ msgstr[0] "%d ሰከንድ"
+#~ msgstr[1] "%d ሰከንዶች"
+
+#~ msgid "Unknown Album"
+#~ msgstr "ያልታወቀ አልበም"
+
+#~ msgid "Radio Station"
+#~ msgstr "ሬዲዮ ጣቢያ"
+
+#~ msgid "Listen to music"
+#~ msgstr "ሙዚቃ ያድምጡ"

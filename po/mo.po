@@ -1,0 +1,1184 @@
+msgid ""
+msgstr ""
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-01 10:32+0000\n"
+"PO-Revision-Date: 2018-05-27 08:51+0000\n"
+"Last-Translator: Romanic Ion Nicușor <contact.romanic@gmail.com>\n"
+"Language-Team: Moldovan <https://weblate.phyreos.io/projects/music/music/"
+"mo/>\n"
+"Language: mo\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.18\n"
+
+#: src/Application.vala:92 src/Views/NowPlayingView.vala:18
+#: src/Views/NowPlayingView.vala:116
+msgid "Music"
+msgstr "Muzică"
+
+#: src/MainWindow.vala:20
+#, fuzzy
+msgid "Shuffle"
+msgstr "Activați Shuffle"
+
+#: src/MainWindow.vala:26
+msgid "Search titles in playlist"
+msgstr ""
+
+#: src/MainWindow.vala:45
+msgid "Queue is Empty"
+msgstr ""
+
+#: src/MainWindow.vala:46
+msgid "Audio files opened from Files will appear here"
+msgstr ""
+
+#: src/MainWindow.vala:63
+msgid "Open Files…"
+msgstr ""
+
+#: src/MainWindow.vala:167
+#, c-format
+msgid "%d invalid file was not added to the queue"
+msgid_plural "%d invalid files were not added to the queue"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/MainWindow.vala:215
+#, fuzzy
+#| msgid "All Years"
+msgid "All files"
+msgstr "Toți anii"
+
+#: src/MainWindow.vala:220
+#, fuzzy
+#| msgid "Music"
+msgid "Music files"
+msgstr "Muzică"
+
+#: src/MainWindow.vala:229
+msgid "Open"
+msgstr "Deschide"
+
+#: src/MainWindow.vala:233
+msgid "Open audio files"
+msgstr ""
+
+#: src/MainWindow.vala:271
+#, fuzzy
+msgid "Repeat None"
+msgstr "Repetare melodii"
+
+#: src/MainWindow.vala:275
+#, fuzzy
+msgid "Repeat All"
+msgstr "Repetare melodii"
+
+#: src/MainWindow.vala:279
+#, fuzzy
+msgid "Repeat One"
+msgstr "Repetare melodii"
+
+#: src/PlaybackManager.vala:136
+#, c-format
+msgid "%d track was added to the queue"
+msgid_plural "%d tracks were added to the queue"
+msgstr[0] ""
+msgstr[1] ""
+
+#. Don't set artist for files without tags
+#: src/PlaybackManager.vala:196
+msgid "Unknown"
+msgstr "Necunoscut"
+
+#: src/Views/NowPlayingView.vala:23 src/Views/NowPlayingView.vala:115
+#, fuzzy
+msgid "Not playing"
+msgstr "Listă nouă"
+
+#: src/Views/NowPlayingView.vala:45
+msgid "Previous"
+msgstr "Anterior"
+
+#: src/Views/NowPlayingView.vala:68
+msgid "Next"
+msgstr "Următor"
+
+#: src/Views/NowPlayingView.vala:93
+msgid "Play"
+msgstr "Redare"
+
+#: src/Views/NowPlayingView.vala:96
+msgid "Pause"
+msgstr "Pauză"
+
+#~ msgid "Importing <b>$NAME</b> by <b>$ARTIST</b> to library…"
+#~ msgstr ""
+#~ "Importați <b>1 $ NUME </b> 2 de către <b> 3 $ ARTIST </b> 4 la bibliotecă "
+#~ "…"
+
+#~ msgid "$NAME on $ALBUM"
+#~ msgstr "$NUME sau $ALBUM"
+
+#~ msgid "$NAME by $ARTIST"
+#~ msgstr "$NUME de $ARTIST"
+
+#~ msgid "$NAME by $ARTIST on $ALBUM"
+#~ msgstr "$NUME de $ARTIST sau $ALBUM"
+
+#~ msgid "Flat"
+#~ msgstr "Apartament"
+
+#~ msgid "Classical"
+#~ msgstr "Clasic"
+
+#~ msgid "Club"
+#~ msgstr "Club"
+
+#~ msgid "Dance"
+#~ msgstr "Dans"
+
+#~ msgid "Full Bass"
+#~ msgstr "Maxim bas"
+
+#~ msgid "Full Treble"
+#~ msgstr "Maxim treble"
+
+#~ msgid "Full Bass + Treble"
+#~ msgstr "Maxim bas + medii"
+
+#~ msgid "Headphones"
+#~ msgstr "Căști"
+
+#~ msgid "Large Hall"
+#~ msgstr "Sala Mare"
+
+#~ msgid "Live"
+#~ msgstr "În direct"
+
+#~ msgid "Party"
+#~ msgstr "Petrecere"
+
+#~ msgid "Pop"
+#~ msgstr "Stil pop"
+
+#~ msgid "Reggae"
+#~ msgstr "Regheton"
+
+#~ msgid "Rock"
+#~ msgstr "Roc"
+
+#~ msgid "Soft"
+#~ msgstr "Încet"
+
+#~ msgid "Ska"
+#~ msgstr "Sca"
+
+#~ msgid "Soft Rock"
+#~ msgstr "Roc încet"
+
+#~ msgid "Techno"
+#~ msgstr "Tehno"
+
+#~ msgid " (%d)"
+#~ msgstr " (%d 1)"
+
+#~ msgid "%s (%d)"
+#~ msgstr "%s 1 (%d 2)"
+
+#~ msgid "%s (%i)"
+#~ msgstr "%s 1 (%i 2)"
+
+#~ msgid "MPEG Version 3.0 Extended (*.m3u)"
+#~ msgstr "MPEG Versiune 3.0 Extended (*.m3u)"
+
+#~ msgid "Shoutcast Playlist Version 2.0 (*.pls)"
+#~ msgstr "Shoutcast Playlist Versiunea 2.0 (* .pls)"
+
+#~ msgid "Export Playlist"
+#~ msgstr "Exportar lista"
+
+#~ msgid "Save"
+#~ msgstr "Salvează"
+
+#~ msgid "Cancel"
+#~ msgstr "Anulare"
+
+#~ msgid "Playlist"
+#~ msgstr "Listă de redare"
+
+#~ msgid "Import %s"
+#~ msgstr "Importare %s 1"
+
+#~ msgid "Unrecognized playlist file. Import failed."
+#~ msgstr "Fișier de redare nerecunoscut. Importarea a eșuat."
+
+#~ msgid "%m/%e/%Y %l:%M %p"
+#~ msgstr "%m/%e/%Y %l:%M %p"
+
+#~ msgid "Empty device!"
+#~ msgstr "Dispozitiv gol!"
+
+#~ msgid "This device does not contain any music."
+#~ msgstr "Acest dispozitiv nu conține muzică."
+
+#~ msgid "Android Phone"
+#~ msgstr "Telefon cu Android"
+
+#~ msgid "Audio Player"
+#~ msgstr "Reproductor audio"
+
+#~ msgid "Adding <b>$NAME</b> by <b>$ARTIST</b> to $DEVICE"
+#~ msgstr "Adăugarea <b>1 $NUME </b>2 de către <b>3 $ARTIST </b>4 la $DEVICE"
+
+#~ msgid "Syncing <b>%s</b>…"
+#~ msgstr "Sincronizarea <b>1%s 2 </b> 3 …"
+
+#~ msgid "Removing <b>$NAME</b> by <b>$ARTIST</b> from $DEVICE"
+#~ msgstr "Eliminarea <b>1 $NUME </b>2 de <b>3 $ARTIST </b>4 de la $ DEVICE"
+
+#~ msgid "Removing from <b>%s</b>…"
+#~ msgstr "Se elimină din <b>1%s 2 </b> 3 …"
+
+#~ msgid "Finishing sync process…"
+#~ msgstr "Finalizarea procesului de sincronizare …"
+
+#~ msgid "Cancelling Sync…"
+#~ msgstr "Anulează sincronizarea …"
+
+#~ msgid "Import Complete"
+#~ msgstr "Importare completată"
+
+#~ msgid "<b>Copying</b> files to <b>Music Folder</b>…"
+#~ msgstr "<b>1 Copierea </b>2 fișiere la <b> 3 Carpeta muzică </b> 4 …"
+
+#~ msgid "Import to Library…"
+#~ msgstr "Importați în Bibliotecă …"
+
+#~ msgid "Preferences"
+#~ msgstr "Preferințe"
+
+#~ msgid "Search Music"
+#~ msgstr "Caută muzică"
+
+#~ msgid "No songs in Queue"
+#~ msgstr "Nu există cântece în coadă"
+
+#~ msgid ""
+#~ "To add songs to the queue, use the <b>secondary click</b> on an item and "
+#~ "choose <b>Queue</b>. When a song finishes, the queued songs will be "
+#~ "played first before the next song in the currently playing list."
+#~ msgstr ""
+#~ "Pentru a adăuga melodii în coadă, utilizați <b>1 secundar clic pe </b>2 "
+#~ "pe un element și alegeți <b>3 Queue </b> 4. Când un cântec se termină, "
+#~ "melodiile în coadă vor fi redate mai întâi înainte de următoarea melodie."
+
+#~ msgid "No songs in History"
+#~ msgstr "Nu există istoric de cântece"
+
+#~ msgid ""
+#~ "After a part of a song has been played, it is added to the history list.\n"
+#~ "You can use this list to see all the songs you have played during the "
+#~ "current session."
+#~ msgstr ""
+#~ "După ce a fost redată o parte dintr-o melodie, ea este adăugată la "
+#~ "lista \n"
+#~ "de istoric. Puteți utiliza această listă pentru a vedea toate melodiile "
+#~ "pe care le-ați redat în timpul sesiunii curente."
+
+#~ msgid "Import Music"
+#~ msgstr "Importare muzică"
+
+#~ msgid "File not found"
+#~ msgstr "Fișierul nu a fost găsit"
+
+#~ msgid "The music file for <b>%s</b> by <b>%s</b> could not be found."
+#~ msgstr ""
+#~ "Fișierul de muzică pentru <b>1%s 2 </b> 3 de <b> 4%s 5 </b> 6 nu a putut "
+#~ "fi găsit."
+
+#, fuzzy
+#~| msgid "%i music files could not be found?"
+#~ msgid "%i music files could not be found."
+#~ msgstr "%i 1 fișiere muzicale nu au putut fi găsite?"
+
+#~ msgid "Rescan Library"
+#~ msgstr "Scanează iar biblioteca"
+
+#~ msgid "Remove Song"
+#~ msgstr "Eliminați melodia"
+
+#~ msgid "Find Song"
+#~ msgstr "Găsiți melodia"
+
+#~ msgid "Choose Music Folder"
+#~ msgstr "Selectați Dosarul muzical"
+
+#~ msgid "Would you like to install the %s plugin?"
+#~ msgstr "Doriți să instalați pluginul %s 1?"
+
+#~ msgid ""
+#~ "This song cannot be played. The %s plugin is required to play the song."
+#~ msgstr ""
+#~ "Acest cântec nu poate fi redat. Este necesar pluginul %s 1 pentru a reda "
+#~ "melodia."
+
+#~ msgid "Install Plugin"
+#~ msgstr "Instalați pluginul"
+
+#~ msgid "Title:"
+#~ msgstr "Titlul:"
+
+#~ msgid "Artist:"
+#~ msgstr "Artistul:"
+
+#~ msgid "Album:"
+#~ msgstr "Albumul:"
+
+#~ msgid "Album Artist:"
+#~ msgstr "Artistul albumului:"
+
+#~ msgid "Composer:"
+#~ msgstr "Compozitor:"
+
+#~ msgid "Grouping:"
+#~ msgstr "Gruparea:"
+
+#~ msgid "Genre:"
+#~ msgstr "Genul:"
+
+#~ msgid "Year:"
+#~ msgstr "Anul:"
+
+#~ msgid "Track:"
+#~ msgstr "Pista:"
+
+#~ msgid "Rating:"
+#~ msgstr "Evaluare:"
+
+#~ msgid "Comment:"
+#~ msgstr "Comentarii:"
+
+#~ msgid "Close"
+#~ msgstr "Închide"
+
+#, fuzzy
+#~ msgid "Issues while importing from %s"
+#~ msgstr "Importarea muzicii din %s 1 …"
+
+#, fuzzy
+#~ msgid "Unable to import %d item. The file may be damaged."
+#~ msgid_plural "Unable to import %d items. The files may be damaged."
+#~ msgstr[0] ""
+#~ "%s 1 nu a putut importa %d 2 articole. Este posibil ca fișierele să fie "
+#~ "deteriorate."
+#~ msgstr[1] ""
+#~ "%s 1 nu a putut importa %d 2 articole. Este posibil ca fișierele să fie "
+#~ "deteriorate."
+
+#~ msgid "Move all corrupted files to trash"
+#~ msgstr "Mutați toate fișierele corupte în coșul de gunoi"
+
+#~ msgid "del"
+#~ msgstr "del"
+
+#~ msgid "File Location"
+#~ msgstr "Locația fișierelor"
+
+#~ msgid "Select individual files to move to trash:"
+#~ msgstr "Selectați fișiere individuale pentru a deplasa în coșul de gunoi:"
+
+#~ msgid "Move to Trash"
+#~ msgstr "Aruncă la gunoi"
+
+#~ msgid "Ignore"
+#~ msgstr "Omite"
+
+#~ msgid "Select Music Folder…"
+#~ msgstr "Selectați Carpeta Muzică …"
+
+#~ msgid "Music Folder Location"
+#~ msgstr "Localizarea carpetei muzică"
+
+#~ msgid "Library Management"
+#~ msgstr "Managementul bibliotecilor"
+
+#~ msgid "Keep Music folder organized:"
+#~ msgstr "Păstrează carpeta de Muzică organizată:"
+
+#~ msgid "Write metadata to file:"
+#~ msgstr "Scrieți metadatele în fișier:"
+
+#~ msgid "Copy imported files to Library:"
+#~ msgstr "Copiați fișierele importate în Bibliotecă:"
+
+#~ msgid "Desktop Integration"
+#~ msgstr "Integrarea desktop"
+
+#~ msgid "Continue playback when closed:"
+#~ msgstr "Continuați redarea când este închis:"
+
+#, fuzzy
+#~ msgid "Remove %d Song From Library?"
+#~ msgid_plural "Remove %d Songs From Library?"
+#~ msgstr[0] "Eliminați%d 1 melodii de la%s 2?"
+#~ msgstr[1] "Eliminați%d 1 melodii de la%s 2?"
+
+#, fuzzy
+#~ msgid "Remove \"%s\" From Library?"
+#~ msgstr "Eliminați din Bibliotecă"
+
+#, fuzzy
+#~ msgid ""
+#~ "This will remove the song from your library and from any device synced "
+#~ "automatically."
+#~ msgid_plural ""
+#~ "This will remove the songs from your library and from any device synced "
+#~ "automatically."
+#~ msgstr[0] ""
+#~ "Aceasta va elimina cântecul din bibliotecă și din orice dispozitiv care "
+#~ "se sincronizează automat cu %s 1."
+#~ msgstr[1] ""
+#~ "Aceasta va elimina cântecele din bibliotecă și din orice dispozitiv care "
+#~ "se sincronizează automat cu %s 2."
+
+#~ msgid "Remove from Library"
+#~ msgstr "Eliminați din Bibliotecă"
+
+#~ msgid "Set Music Folder?"
+#~ msgstr "Setați dosarul de muzică?"
+
+#~ msgid ""
+#~ "Are you sure you want to set the music folder to %s? This will reset your "
+#~ "library and remove your playlists."
+#~ msgstr ""
+#~ "Sigur doriți să setați folderul de muzică la%s 1? Aceasta va reinițializa "
+#~ "biblioteca dvs. și va elimina listele de redare."
+
+#~ msgid "Export Playlists"
+#~ msgstr "Exportați lista de redare"
+
+#~ msgid "Set Music Folder"
+#~ msgstr "Setați dosarul de muzică"
+
+#~ msgid "Playlist Title"
+#~ msgstr "Titlul listei de redare"
+
+#~ msgid "any"
+#~ msgstr "orice"
+
+#~ msgid "all"
+#~ msgstr "toate"
+
+#~ msgid "Match"
+#~ msgstr "Meci"
+
+#~ msgid "of the following:"
+#~ msgstr "dintre următoarele:"
+
+#~ msgid "Add"
+#~ msgstr "Adăuga"
+
+#~ msgid "Limit to"
+#~ msgstr "Limitat la"
+
+#~ msgid "items"
+#~ msgstr "articole"
+
+#~ msgid "Name of Playlist"
+#~ msgstr "Numele playlistului"
+
+#~ msgid "Rules"
+#~ msgstr "reguli"
+
+#~ msgid "Options"
+#~ msgstr "Opțiuni"
+
+#~ msgid "Smart Playlist Editor"
+#~ msgstr "Smart editor inteligent ptr lista de redare"
+
+#~ msgid "Remove"
+#~ msgstr "Elimină"
+
+#~ msgid "Album"
+#~ msgstr "Albumul"
+
+#~ msgid "Artist"
+#~ msgstr "Artistul"
+
+#~ msgid "Bitrate"
+#~ msgstr "Rată de biți"
+
+#~ msgid "Comment"
+#~ msgstr "Comentarii"
+
+#~ msgid "Composer"
+#~ msgstr "Compozitor"
+
+#~ msgid "Date Added"
+#~ msgstr "Adăugat la data"
+
+#~ msgid "Genre"
+#~ msgstr "Genul"
+
+#~ msgid "Grouping"
+#~ msgstr "Gruparea"
+
+#~ msgid "Last Played"
+#~ msgstr "Ultima redare"
+
+#~ msgid "Length"
+#~ msgstr "Lungime"
+
+#~ msgid "Playcount"
+#~ msgstr "Contul de redare"
+
+#~ msgid "Rating"
+#~ msgstr "Evaluare"
+
+#~ msgid "Skipcount"
+#~ msgstr "Contul de skipe"
+
+#~ msgid "Title"
+#~ msgstr "Titlul"
+
+#~ msgid "Year"
+#~ msgstr "An"
+
+#~ msgid "URI"
+#~ msgstr "URI"
+
+#~ msgid "is"
+#~ msgstr "este"
+
+#~ msgid "contains"
+#~ msgstr "conține"
+
+#~ msgid "does not contain"
+#~ msgstr "nu conține"
+
+#~ msgid "is exactly"
+#~ msgstr "este exact"
+
+#~ msgid "is at most"
+#~ msgstr "este cel mult"
+
+#~ msgid "is at least"
+#~ msgstr "este cel puțin"
+
+#~ msgid "is within"
+#~ msgstr "este înăuntru"
+
+#~ msgid "is before"
+#~ msgstr "este înainte"
+
+#~ msgid "seconds"
+#~ msgstr "secunde"
+
+#~ msgid "days ago"
+#~ msgstr "zile în urmă"
+
+#~ msgid "kbps"
+#~ msgstr "kibps"
+
+#~ msgid "Sync will remove %i item from %s"
+#~ msgid_plural "Sync will remove %i items from %s"
+#~ msgstr[0] "Sincronizarea va elimina%i 1 element din%s 2"
+#~ msgstr[1] "Sincronizarea va elimina %i3 element din %s4"
+
+#~ msgid ""
+#~ "If you continue to sync, media will be removed from %s since they are not "
+#~ "on the sync list. Would you like to import them to your library first?"
+#~ msgstr ""
+#~ "Dacă continuați să sincronizați, media va fi eliminată din%s 1, deoarece "
+#~ "nu se află în lista de sincronizare. Doriți să le importați mai întâi în "
+#~ "bibliotecă?"
+
+#~ msgid "Continue Syncing"
+#~ msgstr "Continuați sincronizarea"
+
+#~ msgid "Import"
+#~ msgstr "Importare"
+
+#~ msgid "Importing music from %s…"
+#~ msgstr "Importarea muzicii din %s 1 …"
+
+#~ msgid "Adding files to library…"
+#~ msgstr "Adăugarea fișierelor în bibliotecă …"
+
+#~ msgid "<b>Importing</b> music to library…"
+#~ msgstr "<b> 1Importări </b> 2 muzică în bibliotecă …"
+
+#~ msgid "All music files are already in your library"
+#~ msgstr "Toate fișierele muzicale se află deja în bibliotecă"
+
+#~ msgid "No files were imported."
+#~ msgstr "Nu s-au importat fișiere."
+
+#~ msgid "Rescanning music for changes. This may take a while…"
+#~ msgstr "Reexplorar muzica pentru schimbări. Asta poate dura un timp…"
+
+#~ msgid "Added to your queue:"
+#~ msgstr "Adăugat la coada ta:"
+
+#~ msgid "%d Track"
+#~ msgid_plural "%d Tracks"
+#~ msgstr[0] "%d 1 Pista"
+#~ msgstr[1] "%d 2 Piste"
+
+#~ msgid "Favorite Songs"
+#~ msgstr "Melodii favorite"
+
+#~ msgid "Recently Added"
+#~ msgstr "Adăugate recent"
+
+#~ msgid "Recent Favorites"
+#~ msgstr "Favorite recent"
+
+#~ msgid "Never Played"
+#~ msgstr "Niciodata ascultate"
+
+#~ msgid "Over Played"
+#~ msgstr "Treceți peste"
+
+#~ msgid "Not Recently Played"
+#~ msgstr "Nu sa redat recent"
+
+#~ msgid "History"
+#~ msgstr "Istoric"
+
+#~ msgid "Playlists"
+#~ msgstr "Lista de redare"
+
+#~ msgid "Device Name:"
+#~ msgstr "Nume dispozitiv:"
+
+#~ msgid "Device Name"
+#~ msgstr "Nume dispozitiv"
+
+#~ msgid "Automatically sync when plugged in:"
+#~ msgstr "Sincronizare automată când este conectat:"
+
+#~ msgid "Sync:"
+#~ msgstr "Sinc:"
+
+#~ msgid "Sync"
+#~ msgstr "Sinc"
+
+#~ msgid "All Music"
+#~ msgstr "Toată muzica"
+
+#~ msgid "Sync Failed"
+#~ msgstr "Sinc eșuată"
+
+#~ msgid ""
+#~ "The playlist named %s is used to sync device %s, but could not be found."
+#~ msgstr ""
+#~ "Playlistul numit%s 1 este utilizat pentru sincronizarea dispozitivului%s "
+#~ "2, dar nu a putut fi găsit."
+
+#~ msgid "Cannot Sync"
+#~ msgstr "Nu se poate sincroniza"
+
+#~ msgid ""
+#~ "Cannot sync device with selected sync settings. Not enough space on disk"
+#~ msgstr ""
+#~ "Nu se poate sincroniza dispozitivul cu setările de sincronizare "
+#~ "selectate. Nu este suficient spațiu pe disc"
+
+#~ msgid "Device is already doing an operation."
+#~ msgstr "Dispozitivul face deja o operație."
+
+#~ msgid "Cancelling…"
+#~ msgstr "Se anulează …"
+
+#~ msgid "Device operation has been cancelled and will stop after this media."
+#~ msgstr ""
+#~ "Funcționarea dispozitivului a fost anulată și se va opri după acest "
+#~ "suport."
+
+#, fuzzy
+#~ msgid "No Results"
+#~ msgstr "Nicio evaluare"
+
+#~ msgid "Genres"
+#~ msgstr "Genuri"
+
+#~ msgid "Artists"
+#~ msgstr "Artiști"
+
+#~ msgid "Albums"
+#~ msgstr "Albume"
+
+#~ msgid "Years"
+#~ msgstr "Ani"
+
+#~ msgid "Ratings"
+#~ msgstr "Evaluări"
+
+#~ msgid "Composers"
+#~ msgstr "Compozitori"
+
+#~ msgid "Groupings"
+#~ msgstr "Grupări"
+
+#~ msgid "All Genres"
+#~ msgstr "Toate genurile"
+
+#~ msgid "All %i Genres"
+#~ msgstr "Toate genurile%i 1"
+
+#~ msgid "No Genres"
+#~ msgstr "Fără genuri"
+
+#~ msgid "All Artists"
+#~ msgstr "Toți artiștii"
+
+#~ msgid "All %i Artists"
+#~ msgstr "Toți %i 1 artiști"
+
+#~ msgid "No Artists"
+#~ msgstr "Fără artiști"
+
+#~ msgid "All Albums"
+#~ msgstr "Toate albumele"
+
+#~ msgid "All %i Albums"
+#~ msgstr "Toate %i 1 Albumele"
+
+#~ msgid "No Albums"
+#~ msgstr "Fără Albume"
+
+#~ msgid "All %i Years"
+#~ msgstr "Toți %i 1 Anii"
+
+#~ msgid "No Years"
+#~ msgstr "Fără Ani"
+
+#~ msgid "All Ratings"
+#~ msgstr "Toate evaluările"
+
+#~ msgid "No Ratings"
+#~ msgstr "Nicio evaluare"
+
+#~ msgid "All Groupings"
+#~ msgstr "Toate grupările"
+
+#~ msgid "All %i Groupings"
+#~ msgstr "Toate grupările %i 1"
+
+#~ msgid "No Groupings"
+#~ msgstr "Nu există grupări"
+
+#~ msgid "All Composers"
+#~ msgstr "Toți compozitorii"
+
+#~ msgid "All %i Composers"
+#~ msgstr "Toți %i 1 Compozitori"
+
+#~ msgid "No Composers"
+#~ msgstr "Niciun compozitor"
+
+#~ msgid "Automatic"
+#~ msgstr "Automatică"
+
+#~ msgid "On Left"
+#~ msgstr "Pe stânga"
+
+#~ msgid "On Top"
+#~ msgstr "Deasupra"
+
+#~ msgid "Unrated"
+#~ msgstr "Neevaluate"
+
+#~ msgid "%u Star"
+#~ msgid_plural "%u Stars"
+#~ msgstr[0] "%u 1 Vedetă"
+#~ msgstr[1] "%u 2 Vedete"
+
+#~ msgid "%u kbps"
+#~ msgstr "%u 1 kibps"
+
+#~ msgid "Never"
+#~ msgstr "Niciodată"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Track"
+#~ msgstr "Pista:"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Title"
+#~ msgstr "Titlul"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Length"
+#~ msgstr "Lungime"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Artist"
+#~ msgstr "Artistul"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Album"
+#~ msgstr "Albumul"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Album Artist"
+#~ msgstr "Artistul albumului:"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Composer"
+#~ msgstr "Compozitor"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Genre"
+#~ msgstr "Genul"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Year"
+#~ msgstr "An"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Grouping"
+#~ msgstr "Gruparea"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Bitrate"
+#~ msgstr "Rată de biți"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Rating"
+#~ msgstr "Evaluare"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Plays"
+#~ msgstr "Redare"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Date Added"
+#~ msgstr "Adăugat la data"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Last Played"
+#~ msgstr "Ultima redare"
+
+#, fuzzy
+#~ msgctxt "List column title (file location)"
+#~ msgid "Location"
+#~ msgstr "Locația fișierelor"
+
+#~ msgid "Autosize Columns"
+#~ msgstr "Dimensiune automată de Coloane"
+
+#~ msgid "1234 kbps"
+#~ msgstr "1234 kibps"
+
+#~ msgid "Sample List String"
+#~ msgstr "Probă de liste"
+
+#~ msgid "Get Some Tunes"
+#~ msgstr "Obțineți câteva melodii"
+
+#~ msgid "Add music to your library."
+#~ msgstr "Adăugați muzică în bibliotecă."
+
+#~ msgid "Import music from a source into your library."
+#~ msgstr "Importați muzică dintr-o sursă în bibliotecă."
+
+#~ msgid "Change Music Folder"
+#~ msgstr "Schimbați folderul de muzică"
+
+#~ msgid "Load music from a folder, a network or an external disk."
+#~ msgstr ""
+#~ "Încărcați muzică dintr-un dosar, dintr-o rețea sau dintr-un disc extern."
+
+#~ msgid "Import your Music"
+#~ msgstr "Importați muzica dvs"
+
+#~ msgid "Import all your Music from %s into your library."
+#~ msgstr "Importați toată Muzica din %s 1 în biblioteca dvs."
+
+#~ msgid "Select Music Folder"
+#~ msgstr "Selectați Dosarul muzical"
+
+#~ msgid "No Songs"
+#~ msgstr "Nu există cântece"
+
+#~ msgid "Updating playlist. Please wait."
+#~ msgstr "Actualizarea listei de redare. Te rog asteapta."
+
+#~ msgid ""
+#~ "To add songs to this playlist, use the <b>secondary click</b> on an item "
+#~ "and choose <b>Add to Playlist</b>."
+#~ msgstr ""
+#~ "Pentru a adăuga melodii în această listă, utilizați <b> 1 clic secundar </"
+#~ "b> 2 pe un element și alegeți <b> 3Adăugați în lista de redare </b> 4."
+
+#~ msgid "Edit Smart Playlist"
+#~ msgstr "Editați lista de redare inteligentă"
+
+#~ msgid ""
+#~ "This playlist will be automatically populated with songs that match its "
+#~ "rules. To modify these rules, use the <b>secondary click</b> on it in the "
+#~ "sidebar and click on <b>Edit</b>. Optionally, you can click on the button "
+#~ "below."
+#~ msgstr ""
+#~ "Această listă va fi actualizată automat cu melodii care se potrivesc cu "
+#~ "regulile acesteia. Pentru a modifica aceste reguli, utilizați bara "
+#~ "laterală <b> 1 secundar </b> 2 și faceți clic pe <b> 3 Edit </b> 4. "
+#~ "Opțional, puteți face clic pe butonul de mai jos."
+
+#~ msgid "No media"
+#~ msgstr "Fără medii"
+
+#~ msgid "Set new album cover"
+#~ msgstr "Setați o nouă copertă de album"
+
+#~ msgid "Image files"
+#~ msgstr "Fișiere de imagini"
+
+#~ msgid "_Open"
+#~ msgstr "_Deschide"
+
+#~ msgid "_Cancel"
+#~ msgstr "_Anulare"
+
+#~ msgid "Save preset"
+#~ msgstr "Salvați presetarea"
+
+#~ msgid "Off"
+#~ msgstr "de pe"
+
+#~ msgid "%s (Custom)"
+#~ msgstr "%s 1 (Personalizat)"
+
+#~ msgid "%s (Custom %i)"
+#~ msgstr "%s 1 (personalizat %i 2)"
+
+#~ msgid "Custom Preset"
+#~ msgstr "Setare prestabilită"
+
+#~ msgid "Custom Preset %i"
+#~ msgstr "Setare prestabilită %i 1"
+
+#~ msgid "Scroll to Current Song"
+#~ msgstr "Derulați până la Melodia actuală"
+
+#, fuzzy
+#~ msgid "Show in File Browser…"
+#~ msgstr "Afișați Filele în Browser"
+
+#, fuzzy
+#~ msgid "Edit Song Info…"
+#~ msgstr "Editați informațiile melodiei"
+
+#, fuzzy
+#~ msgid "Other Actions"
+#~ msgstr "Alte acțiuni"
+
+#~ msgid "Add to Playlist"
+#~ msgstr "Adaugă la lista de redare"
+
+#, fuzzy
+#~ msgid "Remove Song…"
+#~ msgstr "Eliminați melodia"
+
+#~ msgid "Import to Library"
+#~ msgstr "Importați în Bibliotecă"
+
+#, fuzzy
+#~ msgid "Remove from Library…"
+#~ msgstr "Eliminați din Bibliotecă"
+
+#~ msgid "Remove from Device"
+#~ msgstr "Eliminați de pe dispozitiv"
+
+#~ msgid "Remove from Queue"
+#~ msgstr "Eliminați din coadă"
+
+#~ msgid "New Playlist…"
+#~ msgstr "Nouă listă de redare…"
+
+#~ msgid "Import %i of %i selected songs"
+#~ msgstr "Importați %i 1 din %i 2 melodii selectate"
+
+#~ msgid "Import %i song"
+#~ msgid_plural "Import %i songs"
+#~ msgstr[0] "Importați %i 1 cântec"
+#~ msgstr[1] "Importați %i 1 cântece"
+
+#~ msgid "Delete Current"
+#~ msgstr "Ștergeți actual"
+
+#~ msgid "Rename"
+#~ msgstr "Redenumește"
+
+#~ msgid "Edit…"
+#~ msgstr "Editare…"
+
+#~ msgid "Save as Playlist"
+#~ msgstr "Salvează lista de redare"
+
+#~ msgid "Export…"
+#~ msgstr "Exportează…"
+
+#~ msgid "Eject"
+#~ msgstr "Afară"
+
+#~ msgid "New Playlist"
+#~ msgstr "Nouă listă de redare"
+
+#~ msgid "New Smart Playlist"
+#~ msgstr "Nouă listă de redare inteligentă"
+
+#~ msgid "Import Playlists"
+#~ msgstr "Importă lista de redare"
+
+#~ msgid "Library"
+#~ msgstr "Bibilioteca"
+
+#~ msgid "Devices"
+#~ msgstr "Dispozitive"
+
+#~ msgid "Network"
+#~ msgstr "Reţea"
+
+#~ msgid "Add Playlist"
+#~ msgstr "Adăugați listă de redare"
+
+#~ msgid "Add Smart Playlist"
+#~ msgstr "Adăugați lista de redare inteligentă"
+
+#, fuzzy
+#~| msgid "Add Playlist"
+#~ msgid "Add Playlist…"
+#~ msgstr "Adăugați listă de redare"
+
+#~ msgid "Equalizer: %s"
+#~ msgstr "Egalizator: %s 1"
+
+#~ msgid "Enable Repeat"
+#~ msgstr "Activați repetarea"
+
+#~ msgid "Disable Repeat"
+#~ msgstr "Dezactivați repetarea"
+
+#~ msgid "Disable Shuffle"
+#~ msgstr "Dezactivați Shuffle"
+
+#, fuzzy
+#~ msgid "View as albums"
+#~ msgstr "Vizualizați albume"
+
+#, fuzzy
+#~ msgid "View as list"
+#~ msgstr "Vizualizare ca listă"
+
+#, fuzzy
+#~ msgid "View in columns"
+#~ msgstr "Vizualizați în coloane"
+
+#~ msgid "No similar songs found"
+#~ msgstr "Nu au fost găsite cântece similare"
+
+#~ msgid ""
+#~ "There are no songs similar to the current song in your library. Make sure "
+#~ "all song info is correct and you are connected to the Internet. Some "
+#~ "songs may not have matches."
+#~ msgstr ""
+#~ "Nu există cântece similare cu piesa curentă în bibliotecă. Asigurați-vă "
+#~ "că toate informațiile despre melodii sunt corecte și că sunteți conectat "
+#~ "la Internet. Este posibil ca unele melodii să nu aibă potriviri."
+
+#~ msgid "Similar"
+#~ msgstr "Similare"
+
+#~ msgid "media"
+#~ msgstr "mass-media"
+
+#~ msgid "Similar Media"
+#~ msgstr "Medii similare"
+
+#~ msgid "Audio CD Invalid"
+#~ msgstr "Cd audio nevalid"
+
+#~ msgid "Impossible to read the contents of this Audio CD"
+#~ msgstr "Imposibil de citit conținutul acestui CD audio"
+
+#~ msgid "Could not find Music Folder"
+#~ msgstr "Nu a putut fi găsit Dosarul de muzică"
+
+#~ msgid ""
+#~ "Please make sure that your music folder is accessible and mounted before "
+#~ "importing the CD."
+#~ msgstr ""
+#~ "Asigurați-vă că folderul de muzică este accesibil și montat înainte de a "
+#~ "importa CD-ul."
+
+#~ msgid ""
+#~ "The Application could not find any songs on the CD. No songs can be "
+#~ "imported"
+#~ msgstr ""
+#~ "Aplicația nu a putut găsi melodii pe CD. Nu pot fi importate cântece"
+
+#~ msgid "Importing track %u: %s"
+#~ msgstr "Importarea melodiei %u 1:%s 2"
+
+#~ msgid "CD import will be <b>cancelled</b> after current import."
+#~ msgstr ""
+#~ "Importarea CD-ului va fi <b>1 anulată </b>2 după importarea curentă."
+
+#, fuzzy
+#~ msgid "An Error Occurred"
+#~ msgstr "A apărut o eroare"
+
+#, fuzzy
+#~ msgid "Could not load this Audio CD."
+#~ msgstr "A apărut o eroare la încărcarea acestui CD audio."
+
+#~ msgid "Importation of a song from Audio CD finished."
+#~ msgstr "Sa terminat importul unei melodii de pe CD-ul Audio."
+
+#~ msgid "Importation of %i songs from Audio CD finished."
+#~ msgstr "Sa terminat importarea%i1 melodiilor de pe CD-ul audio."
+
+#~ msgid "An error occured during the Import of this CD"
+#~ msgstr "A apărut o eroare la importarea acestui CD"
+
+#~ msgid "Disk:"
+#~ msgstr "Discul:"
+
+#~ msgid "%s has imported your library."
+#~ msgstr "%s 1 a importat biblioteca dvs."
+
+#~ msgid "Unable to import %d items from %s"
+#~ msgstr "Imposibil de importat %d 1 articole din %s 2"
+
+#~ msgid "Remove from %s"
+#~ msgstr "Eliminați din%s 1"
+
+#~ msgid "Remove \"%s\" From %s?"
+#~ msgstr "Eliminați \"%s 1\" De la %s 2?"
+
+#~ msgid "No Albums Found."
+#~ msgstr "Nu s-au găsit albume."
+
+#~ msgid "No Songs Found."
+#~ msgstr "Nu au fost găsite cântece."

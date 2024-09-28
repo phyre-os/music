@@ -1,0 +1,1029 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-01 10:32+0000\n"
+"PO-Revision-Date: 2018-10-08 00:04+0000\n"
+"Last-Translator: Axel Philip Advento <badwolf.bloodseeker.rev@gmail.com>\n"
+"Language-Team: Tagalog <https://weblate.phyreos.io/projects/music/music/"
+"tl/>\n"
+"Language: tl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.0.1\n"
+"X-Launchpad-Export-Date: 2017-03-07 05:55+0000\n"
+
+#: src/Application.vala:92 src/Views/NowPlayingView.vala:18
+#: src/Views/NowPlayingView.vala:116
+msgid "Music"
+msgstr "Musika"
+
+#: src/MainWindow.vala:20
+msgid "Shuffle"
+msgstr ""
+
+#: src/MainWindow.vala:26
+msgid "Search titles in playlist"
+msgstr ""
+
+#: src/MainWindow.vala:45
+msgid "Queue is Empty"
+msgstr ""
+
+#: src/MainWindow.vala:46
+msgid "Audio files opened from Files will appear here"
+msgstr ""
+
+#: src/MainWindow.vala:63
+#, fuzzy
+#| msgid "Other Files"
+msgid "Open Files…"
+msgstr "Iba pang mga Files"
+
+#: src/MainWindow.vala:167
+#, c-format
+msgid "%d invalid file was not added to the queue"
+msgid_plural "%d invalid files were not added to the queue"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/MainWindow.vala:215
+#, fuzzy
+#| msgid "All Years"
+msgid "All files"
+msgstr "Lahat ng mga Taon"
+
+#: src/MainWindow.vala:220
+#, fuzzy
+#| msgid "Music"
+msgid "Music files"
+msgstr "Musika"
+
+#: src/MainWindow.vala:229
+msgid "Open"
+msgstr "Buksan"
+
+#: src/MainWindow.vala:233
+msgid "Open audio files"
+msgstr ""
+
+#: src/MainWindow.vala:271
+#, fuzzy
+msgid "Repeat None"
+msgstr "Ulitin ang kanta"
+
+#: src/MainWindow.vala:275
+#, fuzzy
+msgid "Repeat All"
+msgstr "Ulitin ang Album"
+
+#: src/MainWindow.vala:279
+#, fuzzy
+msgid "Repeat One"
+msgstr "Ulitin ang kanta"
+
+#: src/PlaybackManager.vala:136
+#, c-format
+msgid "%d track was added to the queue"
+msgid_plural "%d tracks were added to the queue"
+msgstr[0] ""
+msgstr[1] ""
+
+#. Don't set artist for files without tags
+#: src/PlaybackManager.vala:196
+msgid "Unknown"
+msgstr "Hindi Kilala"
+
+#: src/Views/NowPlayingView.vala:23 src/Views/NowPlayingView.vala:115
+#, fuzzy
+msgid "Not playing"
+msgstr "Bagong playlist"
+
+#: src/Views/NowPlayingView.vala:45
+msgid "Previous"
+msgstr "Nakaraan"
+
+#: src/Views/NowPlayingView.vala:68
+msgid "Next"
+msgstr "Susunod"
+
+#: src/Views/NowPlayingView.vala:93
+msgid "Play"
+msgstr "Patugtugin"
+
+#: src/Views/NowPlayingView.vala:96
+msgid "Pause"
+msgstr ""
+
+#~ msgid "Importing <b>$NAME</b> by <b>$ARTIST</b> to library…"
+#~ msgstr "Ini-import ang <b>$NAME</b> ni <b>$ARTIST</b> sa library…"
+
+#~ msgid "$NAME on $ALBUM"
+#~ msgstr "$NAME mula sa $ALBUM"
+
+#~ msgid "$NAME by $ARTIST"
+#~ msgstr "$NAME ni $ARTIST"
+
+#~ msgid "$NAME by $ARTIST on $ALBUM"
+#~ msgstr "$NAME ni $ARTIST mula sa $ALBUM"
+
+#~ msgid "Flat"
+#~ msgstr "Patag"
+
+#~ msgid "Classical"
+#~ msgstr "Klasikal"
+
+#~ msgid "Club"
+#~ msgstr "Pangclub"
+
+#~ msgid "Dance"
+#~ msgstr "Pangsayaw"
+
+#~ msgid "Full Bass"
+#~ msgstr "Todong Bass"
+
+#~ msgid "Full Treble"
+#~ msgstr "Todong Treble"
+
+#~ msgid "Full Bass + Treble"
+#~ msgstr "Todong Bass at Treble"
+
+#~ msgid "Headphones"
+#~ msgstr "Pang-headphone"
+
+#~ msgid "Large Hall"
+#~ msgstr "Malaking Bulwagan"
+
+#~ msgid "Live"
+#~ msgstr "Live"
+
+#~ msgid "Party"
+#~ msgstr "Pang-Party"
+
+#~ msgid "Pop"
+#~ msgstr "Pop"
+
+#~ msgid "Reggae"
+#~ msgstr "Reggae"
+
+#~ msgid "Rock"
+#~ msgstr "Rock"
+
+#~ msgid "Soft"
+#~ msgstr "Malambot"
+
+#~ msgid "Ska"
+#~ msgstr "Ska"
+
+#~ msgid "Soft Rock"
+#~ msgstr "Soft Rock"
+
+#~ msgid "Techno"
+#~ msgstr "Techno"
+
+#~ msgid " (%d)"
+#~ msgstr " (%d)"
+
+#~ msgid "%s (%d)"
+#~ msgstr "%s (%d)"
+
+#~ msgid "%s (%i)"
+#~ msgstr "%s (%i)"
+
+#~ msgid "MPEG Version 3.0 Extended (*.m3u)"
+#~ msgstr "MPEG Version 3.0 Extended (*.m3u)"
+
+#~ msgid "Shoutcast Playlist Version 2.0 (*.pls)"
+#~ msgstr "Shoutcast Playlist Version 2.0 (*.pls)"
+
+#~ msgid "Export Playlist"
+#~ msgstr "I-export ang Playlist"
+
+#~ msgid "Save"
+#~ msgstr "I-save"
+
+#~ msgid "Cancel"
+#~ msgstr "Ikansela"
+
+#~ msgid "Playlist"
+#~ msgstr "Playlist"
+
+#~ msgid "Import %s"
+#~ msgstr "I-import ang %s"
+
+#~ msgid "Unrecognized playlist file. Import failed."
+#~ msgstr "Hindi matukoy na playlist file. Hindi nagtagumpay ang pag-import."
+
+#~ msgid "%m/%e/%Y %l:%M %p"
+#~ msgstr "%m/%e/%Y %l:%M %p"
+
+#~ msgid "Empty device!"
+#~ msgstr "Walang laman ang device!"
+
+#~ msgid "This device does not contain any music."
+#~ msgstr "Walang lamang kanta ang device na ito."
+
+#~ msgid "Android Phone"
+#~ msgstr "Teleponong Android"
+
+#~ msgid "Audio Player"
+#~ msgstr "Audio Player"
+
+#~ msgid "Adding <b>$NAME</b> by <b>$ARTIST</b> to $DEVICE"
+#~ msgstr "Inilalagay <b>$NAME</b> ni <b>$ARTIST</b> sa $DEVICE"
+
+#~ msgid "Syncing <b>%s</b>…"
+#~ msgstr "Isini-sync ang <b>%s</b>"
+
+#~ msgid "Removing <b>$NAME</b> by <b>$ARTIST</b> from $DEVICE"
+#~ msgstr "Tinatanggal ang <b>$NAME</b> ni <b>$ARTIST</b> mula sa $DEVICE"
+
+#~ msgid "Removing from <b>%s</b>…"
+#~ msgstr "Tinatanggal mula sa <b>%s</b>…"
+
+#~ msgid "Finishing sync process…"
+#~ msgstr "Tinatapos ang proseso ng pag-sync..."
+
+#~ msgid "Cancelling Sync…"
+#~ msgstr "Kinakansela ang Pagsi-sync"
+
+#~ msgid "Import Complete"
+#~ msgstr "Tapos na ang Pag-import"
+
+#~ msgid "Your Library Has Been Imported."
+#~ msgstr "Na-import Na Ang Iyong Library."
+
+#~ msgid "<b>Copying</b> files to <b>Music Folder</b>…"
+#~ msgstr "<b>Kumokopya</b> ng mga file sa <b>Music Folder</b>"
+
+#~ msgid "Import to Library…"
+#~ msgstr "I-import sa Library"
+
+#~ msgid "Preferences"
+#~ msgstr "Mga Preference"
+
+#~ msgid "Search Music"
+#~ msgstr "Maghanap ng Musika"
+
+#~ msgid "No songs in History"
+#~ msgstr "Walang mga kanta sa Kasaysayan"
+
+#~ msgid "Import Music"
+#~ msgstr "Mag-import ng musika"
+
+#~ msgid "Rescan Library"
+#~ msgstr "Iscan Muli ang Library"
+
+#~ msgid "Remove Song"
+#~ msgstr "Tanggalin ang Kanta"
+
+#~ msgid "Install Plugin"
+#~ msgstr "Mag-install ng Plugin"
+
+#~ msgid "Title:"
+#~ msgstr "Pamagat:"
+
+#~ msgid "Album:"
+#~ msgstr "Album:"
+
+#~ msgid "Composer:"
+#~ msgstr "Kompositor:"
+
+#~ msgid "Year:"
+#~ msgstr "Taon:"
+
+#~ msgid "Comment:"
+#~ msgstr "Komento:"
+
+#~ msgid "Close"
+#~ msgstr "Isara"
+
+#~ msgid "Move all corrupted files to trash"
+#~ msgstr "Ilipat lahat ng sirang mga file sa basura"
+
+#~ msgid "del"
+#~ msgstr "del"
+
+#~ msgid "Move to Trash"
+#~ msgstr "Ilipat sa Basura"
+
+#~ msgid "Select Music Folder…"
+#~ msgstr "Pumili ng Folder ng Musika…"
+
+#~ msgid "Library Management"
+#~ msgstr "Pamamahala sa Library"
+
+#~ msgid "Remove %d Song From Library?"
+#~ msgid_plural "Remove %d Songs From Library?"
+#~ msgstr[0] "Tanggalin ang %d Kanta mula sa Library?"
+#~ msgstr[1] "Tanggalin ang %d Kanta mula sa Library?"
+
+#~ msgid "Remove \"%s\" From Library?"
+#~ msgstr "Tanggalin ang \"%s\" mula sa Library?"
+
+#~ msgid "Remove from Library"
+#~ msgstr "Tanggalin sa Library"
+
+#~ msgid "any"
+#~ msgstr "alinman"
+
+#~ msgid "all"
+#~ msgstr "lahat"
+
+#~ msgid "Match"
+#~ msgstr "Itugma sa"
+
+#~ msgid "of the following:"
+#~ msgstr "sa mga sumusunod:"
+
+#~ msgid "Add"
+#~ msgstr "Magdagdag"
+
+#~ msgid "Limit to"
+#~ msgstr "Ilimita sa"
+
+#~ msgid "items"
+#~ msgstr "na mga aytem"
+
+#~ msgid "Options"
+#~ msgstr "Mga Option"
+
+#~ msgid "Remove"
+#~ msgstr "Tanggalin"
+
+#~ msgid "Album"
+#~ msgstr "Album"
+
+#~ msgid "Artist"
+#~ msgstr "Artista"
+
+#~ msgid "Comment"
+#~ msgstr "Komento"
+
+#~ msgid "Composer"
+#~ msgstr "Kompositor"
+
+#~ msgid "Date Added"
+#~ msgstr "Petsa ng Pagdagdag"
+
+#~ msgid "Genre"
+#~ msgstr "Genre"
+
+#~ msgid "Grouping"
+#~ msgstr "Pag-grupo"
+
+#~ msgid "Last Played"
+#~ msgstr "Huling Pinatugtog"
+
+#~ msgid "Length"
+#~ msgstr "Haba"
+
+#~ msgid "Playcount"
+#~ msgstr "Bilang ng pagpapatugtog"
+
+#~ msgid "Rating"
+#~ msgstr "Marka"
+
+#~ msgid "Skipcount"
+#~ msgstr "Bilang ng paglalaktaw"
+
+#~ msgid "Title"
+#~ msgstr "Pamagat"
+
+#~ msgid "Year"
+#~ msgstr "Taon"
+
+#~ msgid "URI"
+#~ msgstr "URI"
+
+#~ msgid "is"
+#~ msgstr "ay"
+
+#~ msgid "contains"
+#~ msgstr "ay mayroong"
+
+#~ msgid "does not contain"
+#~ msgstr "ay hindi naglalaman ng"
+
+#~ msgid "is exactly"
+#~ msgstr "ay eksaktong"
+
+#~ msgid "is at most"
+#~ msgstr "ay hindi lalagpas sa"
+
+#~ msgid "is at least"
+#~ msgstr "ay hindi bababa sa"
+
+#~ msgid "seconds"
+#~ msgstr "mga segundo"
+
+#~ msgid "days ago"
+#~ msgstr "na mga araw ang nakaraan"
+
+#~ msgid "kbps"
+#~ msgstr "kbps"
+
+#~ msgid "Continue Syncing"
+#~ msgstr "ipagpatuloy ang Pagsi-sync"
+
+#~ msgid "Import"
+#~ msgstr "Import"
+
+#~ msgid "Adding files to library…"
+#~ msgstr "Nagdadagdag ng mga file papunta sa library…"
+
+#~ msgid "All music files are already in your library"
+#~ msgstr "Lahat ng mga file na pangmusika ay nasa library mo na"
+
+#~ msgid "Rescanning music for changes. This may take a while…"
+#~ msgstr ""
+#~ "Iniiscan muli ang musika kung may mga nagbago. Pwede itong umabot ng "
+#~ "ilang saglit..."
+
+#~ msgid "Favorite Songs"
+#~ msgstr "Paboritong mga Kanta"
+
+#~ msgid "Recently Added"
+#~ msgstr "Kasalukuyang Dinagdag"
+
+#~ msgid "Recent Favorites"
+#~ msgstr "Kasalukuyang mga Paborito"
+
+#~ msgid "Never Played"
+#~ msgstr "Hindi pa Napapatugtog"
+
+#~ msgid "Not Recently Played"
+#~ msgstr "Hindi pa Kasalukuyan Napapatugtog"
+
+#~ msgid "History"
+#~ msgstr "Kasaysayan"
+
+#~ msgid "Playlists"
+#~ msgstr "Mga Playlist"
+
+#~ msgid "Device Name:"
+#~ msgstr "Pangalan ng Aparato"
+
+#~ msgid "Device Name"
+#~ msgstr "Pangalan ng Aparato:"
+
+#~ msgid "Automatically sync when plugged in:"
+#~ msgstr "Awtomatikong i-sync kapang nakasaksak:"
+
+#~ msgid "All Music"
+#~ msgstr "Lahat ng Musika"
+
+#~ msgid "Sync Failed"
+#~ msgstr "Hindi Nai-sync"
+
+#~ msgid "Cannot Sync"
+#~ msgstr "Hindi Mai-sync"
+
+#~ msgid "Device is already doing an operation."
+#~ msgstr "May ginagawa nang operasyon ang aparato"
+
+#~ msgid "Cancelling…"
+#~ msgstr "Kinakansela"
+
+#, fuzzy
+#~ msgid "No Results"
+#~ msgstr "Walang mga Rating"
+
+#~ msgid "Genres"
+#~ msgstr "Mga Uri ng Kanta"
+
+#~ msgid "Artists"
+#~ msgstr "Mga Artista"
+
+#~ msgid "Albums"
+#~ msgstr "Mga Album"
+
+#~ msgid "Years"
+#~ msgstr "Mga Taon"
+
+#~ msgid "Ratings"
+#~ msgstr "Mga Rating"
+
+#~ msgid "Composers"
+#~ msgstr "Mga Nag-compose"
+
+#~ msgid "Groupings"
+#~ msgstr "Mga Grupo"
+
+#~ msgid "All Genres"
+#~ msgstr "Lahat ng Uri ng Kanta"
+
+#~ msgid "All %i Genres"
+#~ msgstr "Lahat ng %i na Uri ng Kanta"
+
+#~ msgid "No Genres"
+#~ msgstr "Walang Mga Uri ng Kanta"
+
+#~ msgid "All Artists"
+#~ msgstr "Lahat ng mga Artista"
+
+#~ msgid "All %i Artists"
+#~ msgstr "Lahat ng %i na mga Artista"
+
+#~ msgid "No Artists"
+#~ msgstr "Walang mga Artista"
+
+#~ msgid "All Albums"
+#~ msgstr "Lahat ng mga Album"
+
+#~ msgid "All %i Albums"
+#~ msgstr "Lahat ng %i na mga Album"
+
+#~ msgid "No Albums"
+#~ msgstr "Walang mga Album"
+
+#~ msgid "All %i Years"
+#~ msgstr "Lahat ng %i na mga Taon"
+
+#~ msgid "No Years"
+#~ msgstr "Walang mga Taon"
+
+#~ msgid "All Ratings"
+#~ msgstr "Lahat ng mga Rating"
+
+#~ msgid "No Ratings"
+#~ msgstr "Walang mga Rating"
+
+#~ msgid "All Groupings"
+#~ msgstr "Lahat ng mga Grupo"
+
+#~ msgid "All %i Groupings"
+#~ msgstr "Lahat ng %i na mga Grupo"
+
+#~ msgid "No Groupings"
+#~ msgstr "Walang mga Grupo"
+
+#~ msgid "All Composers"
+#~ msgstr "Lahat ng mga Nag-kompose"
+
+#~ msgid "All %i Composers"
+#~ msgstr "Lahat ng %i na mga Nag-kompose"
+
+#~ msgid "No Composers"
+#~ msgstr "Walang mga Nag-kompose"
+
+#~ msgid "Automatic"
+#~ msgstr "Awtomatiko"
+
+#~ msgid "On Left"
+#~ msgstr "Sa Kaliwa"
+
+#~ msgid "On Top"
+#~ msgstr "Sa Kanan"
+
+#~ msgid "Unrated"
+#~ msgstr "Hindi naka-rate"
+
+#~ msgid "Never"
+#~ msgstr "Huwag kailanman"
+
+#~ msgctxt "List column title"
+#~ msgid "#"
+#~ msgstr "#"
+
+#~ msgctxt "List column title"
+#~ msgid "Title"
+#~ msgstr "Pamagat"
+
+#~ msgctxt "List column title"
+#~ msgid "Length"
+#~ msgstr "Haba"
+
+#~ msgctxt "List column title"
+#~ msgid "Artist"
+#~ msgstr "Artista"
+
+#~ msgctxt "List column title"
+#~ msgid "Album"
+#~ msgstr "Album"
+
+#~ msgctxt "List column title"
+#~ msgid "Album Artist"
+#~ msgstr "Artista ng Album"
+
+#~ msgctxt "List column title"
+#~ msgid "Composer"
+#~ msgstr "Nag-compose"
+
+#~ msgctxt "List column title"
+#~ msgid "Genre"
+#~ msgstr "Uri ng awit"
+
+#~ msgctxt "List column title"
+#~ msgid "Year"
+#~ msgstr "Taon"
+
+#~ msgctxt "List column title"
+#~ msgid "Grouping"
+#~ msgstr "Pag-grupo"
+
+#~ msgctxt "List column title"
+#~ msgid "Rating"
+#~ msgstr "Marka"
+
+#~ msgctxt "List column title"
+#~ msgid "Plays"
+#~ msgstr "Ilang beses na pinatugtog"
+
+#~ msgctxt "List column title"
+#~ msgid "Skips"
+#~ msgstr "Iniskip"
+
+#~ msgctxt "List column title"
+#~ msgid "Date Added"
+#~ msgstr "Petsa ng Pagdagdag"
+
+#~ msgctxt "List column title"
+#~ msgid "Last Played"
+#~ msgstr "Huling Pinatugtog"
+
+#~ msgctxt "List column title (beats per minute)"
+#~ msgid "BPM"
+#~ msgstr "BPM"
+
+#~ msgctxt "List column title (file location)"
+#~ msgid "Location"
+#~ msgstr "Kinalalagyan"
+
+#~ msgctxt "List column title"
+#~ msgid "File Size"
+#~ msgstr "Laki ng File"
+
+#~ msgid "1234 kbps"
+#~ msgstr "1234 kbps"
+
+#~ msgid "Sample List String"
+#~ msgstr "Sample List String"
+
+#~ msgid "Get Some Tunes"
+#~ msgstr "Kumuha ng mga Tugtugin"
+
+#~ msgid "Add music to your library."
+#~ msgstr "Magdagdag ng musika sa iyong library."
+
+#~ msgid "Import music from a source into your library."
+#~ msgstr ""
+#~ "Mag-import ng musika mula sa isang pagmumulan papunta sa iyong library."
+
+#~ msgid "Change Music Folder"
+#~ msgstr "Baguhin ang Folder ng Musika"
+
+#~ msgid "Load music from a folder, a network or an external disk."
+#~ msgstr ""
+#~ "Magbukas ng musika mula sa isang folder, sa network o sa external na disk."
+
+#~ msgid "Import your Music"
+#~ msgstr "I-import ang iyong Musika"
+
+#~ msgid "Import all your Music from %s into your library."
+#~ msgstr "I-import ang iyong Musika mula sa %s papunta sa iyong library."
+
+#~ msgid "Select Music Folder"
+#~ msgstr "Pumili ng Folder ng Musika"
+
+#~ msgid "No Songs"
+#~ msgstr "Walang mga kanta"
+
+#~ msgid "Updating playlist. Please wait."
+#~ msgstr "Ina-update ang playlist. Maaaring maghintay."
+
+#~ msgid ""
+#~ "To add songs to this playlist, use the <b>secondary click</b> on an item "
+#~ "and choose <b>Add to Playlist</b>."
+#~ msgstr ""
+#~ "Para magdagdag ng mga kanta sa playlist na ito, gamitin ang <b>secondary "
+#~ "click</b> sa isang aytem at piliin ang <b>Idagdag sa Playlist</b>."
+
+#~ msgid "Edit Smart Playlist"
+#~ msgstr "Baguhin ang Smart Playlist"
+
+#~ msgid "No media"
+#~ msgstr "Walang mga media"
+
+#~ msgid "Set new album cover"
+#~ msgstr "Maglagay ng bagong album cover"
+
+#~ msgid "Image files"
+#~ msgstr "Mga lmahen na files"
+
+#~ msgid "_Open"
+#~ msgstr "_Buksan"
+
+#~ msgid "_Cancel"
+#~ msgstr "_Ikansela"
+
+#~ msgid "Off"
+#~ msgstr "Nakapatay"
+
+#~ msgid "%s (Custom)"
+#~ msgstr "%s (Custom)"
+
+#~ msgid "%s (Custom %i)"
+#~ msgstr "%s (Custom %i)"
+
+#~ msgid "Scroll to Current Song"
+#~ msgstr "Magiscroll sa Kasalukuyang Kanta"
+
+#~ msgid "Show in File Browser…"
+#~ msgstr "Ipakita sa File Browser…"
+
+#~ msgid "Edit Song Info…"
+#~ msgstr "Baguhin ang Impormasyon ng Kanta…"
+
+#~ msgid "Other Actions"
+#~ msgstr "Iba pang mga Aksyon"
+
+#~ msgid "Add to Playlist"
+#~ msgstr "Idagdag sa Playlist"
+
+#~ msgid "Remove Song…"
+#~ msgstr "Tanggalin ang Kanta…"
+
+#~ msgid "Import to Library"
+#~ msgstr "I-import sa Library"
+
+#~ msgid "Remove from Library…"
+#~ msgstr "Tanggalin sa Library…"
+
+#~ msgid "Remove from Device"
+#~ msgstr "Tanggalin sa Aparato"
+
+#~ msgid "New Playlist…"
+#~ msgstr "Bagong Playlist..."
+
+#~ msgid "Import %i of %i selected songs"
+#~ msgstr "I-import ang %i sa %i na mga napiling kanta"
+
+#~ msgid "Import %i song"
+#~ msgid_plural "Import %i songs"
+#~ msgstr[0] "I-import ang %i kanta"
+#~ msgstr[1] "I-import ang mga %i na kanta"
+
+#~ msgid "Rename"
+#~ msgstr "Palitan ang Pangalan"
+
+#~ msgid "Edit…"
+#~ msgstr "I-edit..."
+
+#~ msgid "Save as Playlist"
+#~ msgstr "I-save bilang Playlist"
+
+#~ msgid "Export…"
+#~ msgstr "I-export..."
+
+#~ msgid "Eject"
+#~ msgstr "I-eject"
+
+#~ msgid "New Playlist"
+#~ msgstr "Bagong Playlist"
+
+#~ msgid "New Smart Playlist"
+#~ msgstr "Bagong Ismart Playlist"
+
+#~ msgid "Library"
+#~ msgstr "Library"
+
+#~ msgid "Devices"
+#~ msgstr "Mga Device"
+
+#~ msgid "Network"
+#~ msgstr "Network"
+
+#, fuzzy
+#~| msgid "Add to Playlist"
+#~ msgid "Add Playlist…"
+#~ msgstr "Idagdag sa Playlist"
+
+#~ msgid "Equalizer: %s"
+#~ msgstr "Equalizer: %s"
+
+#~ msgid "Enable Repeat"
+#~ msgstr "Paganahin ang Pag-uulit"
+
+#~ msgid "Disable Repeat"
+#~ msgstr "Huwag paganahin ang Paguulit"
+
+#, fuzzy
+#~ msgid "View as albums"
+#~ msgstr "Ipakita bilang mga Album"
+
+#, fuzzy
+#~ msgid "View as list"
+#~ msgstr "Tignan bilang Listahan"
+
+#, fuzzy
+#~ msgid "View in columns"
+#~ msgstr "Ipakita bilang mga Album"
+
+#~ msgid "No similar songs found"
+#~ msgstr "Walang nakitang mga katulad na kanta"
+
+#~ msgid ""
+#~ "There are no songs similar to the current song in your library. Make sure "
+#~ "all song info is correct and you are connected to the Internet. Some "
+#~ "songs may not have matches."
+#~ msgstr ""
+#~ "Walang mga kantang katulad sa kasalukuyang kanta mo sa library. "
+#~ "Siguraduhing lahat ng info ng kanta ay tama at nakakonekta ka sa "
+#~ "Internet. Maaaring may mga kantang walang katugma."
+
+#~ msgid "Similar"
+#~ msgstr "Katulad"
+
+#~ msgid "media"
+#~ msgstr "midya"
+
+#~ msgid "Similar Media"
+#~ msgstr "Katulad na Midya"
+
+#~ msgid "Impossible to read the contents of this Audio CD"
+#~ msgstr "Imposibleng mabasa ang laman ng Audio CD na ito."
+
+#~ msgid "Could not find Music Folder"
+#~ msgstr "Hindi makita ang Folder ng Musika"
+
+#~ msgid ""
+#~ "Please make sure that your music folder is accessible and mounted before "
+#~ "importing the CD."
+#~ msgstr ""
+#~ "Tiyakin na ang iyong music folder ay nababasa at naka-mount bago i-import "
+#~ "ang CD."
+
+#~ msgid ""
+#~ "The Application could not find any songs on the CD. No songs can be "
+#~ "imported"
+#~ msgstr ""
+#~ "Walang makitang mga kanta sa CD ang Application na ito. Walang mga kanta "
+#~ "ang maaaring i-import"
+
+#~ msgid "Importing track %u: %s"
+#~ msgstr "Iniimport ang track %u: %s"
+
+#~ msgid "CD import will be <b>cancelled</b> after current import."
+#~ msgstr ""
+#~ "Ang CD import ay <b>makakansela</b> pagkatapos ng kasalukuyang import."
+
+#, fuzzy
+#~ msgid "An Error Occurred"
+#~ msgstr "Nagkaroon ng Error"
+
+#, fuzzy
+#~ msgid "Could not load this Audio CD."
+#~ msgstr "Nagka-error habang niloload ang Audio CD na ito."
+
+#~ msgid "Importation of a song from Audio CD finished."
+#~ msgstr "Natapos na ang pag-iimport ng kanta mula sa Audio CD."
+
+#~ msgid "Importation of %i songs from Audio CD finished."
+#~ msgstr "Natapos na ang pag-iimport ng %i na mga kanta mula sa Audio CD."
+
+#~ msgid "An error occured during the Import of this CD"
+#~ msgstr "Nagkaroon ng error habang Nag-iimport ang CD na ito"
+
+#~ msgid "Disk:"
+#~ msgstr "Disk:"
+
+#~ msgid "Remove from %s"
+#~ msgstr "Tanggalin mula sa %s"
+
+#~ msgid "No Albums Found."
+#~ msgstr "Walang Nakitang mga Album"
+
+#~ msgid "No Songs Found."
+#~ msgstr "Walang Nakitang mga Awitin"
+
+#~ msgid "%u second"
+#~ msgid_plural "%u seconds"
+#~ msgstr[0] "%d segundo"
+#~ msgstr[1] "%d mga segundo"
+
+#~ msgid "%u minute"
+#~ msgid_plural "%u minutes"
+#~ msgstr[0] "%u minuto"
+#~ msgstr[1] "%u mga minuto"
+
+#~ msgctxt "minutes and seconds"
+#~ msgid "%s and %s"
+#~ msgstr "%s at %s"
+
+#~ msgid "%u day"
+#~ msgid_plural "%u days"
+#~ msgstr[0] "%u na araw"
+#~ msgstr[1] "%u na araw"
+
+#~ msgid "%u hour"
+#~ msgid_plural "%u hours"
+#~ msgstr[0] "%u oras"
+#~ msgstr[1] "%u na oras"
+
+#~ msgctxt "days, hours and minutes"
+#~ msgid "%s, %s and %s"
+#~ msgstr "%s, %s and %s"
+
+#~ msgctxt "days and hours"
+#~ msgid "%s and %s"
+#~ msgstr "%s at %s"
+
+#~ msgctxt "days and minutes"
+#~ msgid "%s and %s"
+#~ msgstr "%s at %s"
+
+#~ msgctxt "hours and minutes"
+#~ msgid "%s and %s"
+#~ msgstr "%s at %s"
+
+#~ msgid "Song"
+#~ msgstr "Kanta"
+
+#~ msgid "Repeat Artist"
+#~ msgstr "Ulitin ang Artista"
+
+#~ msgid "All"
+#~ msgstr "Lahat"
+
+#~ msgid "Hide"
+#~ msgstr "Itago"
+
+#~ msgid "Show"
+#~ msgstr "Ipakita"
+
+#~ msgid "Free"
+#~ msgstr "Natitira"
+
+#~ msgid "Using %s of %s (%.2f%)"
+#~ msgstr "Ginagamit ang %s sa %s (%.2f%)"
+
+#~ msgid "ID"
+#~ msgstr "ID"
+
+#~ msgid "Stop Syncing"
+#~ msgstr "Itigil ang Pagsi-sync"
+
+#~ msgid "%u album"
+#~ msgid_plural "%u albums"
+#~ msgstr[0] "%u na album"
+#~ msgstr[1] "%u na mga album"
+
+#~ msgctxt "Title format used on Album View Popup: $ALBUM by $ARTIST"
+#~ msgid "%s by %s"
+#~ msgstr "%s ni %s"
+
+#~ msgctxt ""
+#~ "Format used on statusbar: $description, $total_duration, $total_file_size"
+#~ msgid "%s, %s, %s"
+#~ msgstr "%s, %s, %s"
+
+#~ msgid "No External Songs"
+#~ msgstr "Walang Kantang Panlabas"
+
+#~ msgid ""
+#~ "There were no songs found on this device that are not in your library."
+#~ msgstr ""
+#~ "Walang makitang kanta sa aparatong ito na hindi kasama sa iyong aklatan."
+
+#~ msgid "%u song"
+#~ msgid_plural "%u songs"
+#~ msgstr[0] "%u kanta"
+#~ msgstr[1] "%u mga kanta"
+
+#~ msgctxt "Format used on statusbar: $description, $total_duration"
+#~ msgid "%s, %s"
+#~ msgstr "%s, %s"
+
+#~ msgid "translator-credits"
+#~ msgstr ""
+#~ "Launchpad Contributions:\n"
+#~ "  yavinfour https://launchpad.net/~anjelo.delcarmen"
+
+#~ msgid "Lyrics fetched from www.lyricsmania.com"
+#~ msgstr "Ang mga liriko ay kinuha mula sa www.lyricsmania.com"
+
+#~ msgid "%d second"
+#~ msgid_plural "%d seconds"
+#~ msgstr[0] "%d segundo"
+#~ msgstr[1] "%d mga segundo"
+
+#~ msgid "%i kbps"
+#~ msgstr "%i kbps"
+
+#~ msgid "Lyrics"
+#~ msgstr "Mga Liriko"
+
+#~ msgid "Details"
+#~ msgstr "Mga Detalye"
+
+#~ msgid "Album Artist"
+#~ msgstr "Artista ng Album"
+
+#~ msgid "Reset"
+#~ msgstr "Ibalik sa Dati"
+
+#~ msgid "Lyrics not found for %s"
+#~ msgstr "Walang mahanap na liriko para sa %s"

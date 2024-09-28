@@ -1,0 +1,739 @@
+# Luxembourgish translation for noise
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the noise package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: noise\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-01 10:32+0000\n"
+"PO-Revision-Date: 2024-05-19 17:13+0000\n"
+"Last-Translator: Arno <arnoant21@gmail.com>\n"
+"Language-Team: Luxembourgish <https://l10n.phyreos.io/projects/music/"
+"music/lb/>\n"
+"Language: lb\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.5\n"
+"X-Launchpad-Export-Date: 2017-03-07 05:53+0000\n"
+
+#: src/Application.vala:92 src/Views/NowPlayingView.vala:18
+#: src/Views/NowPlayingView.vala:116
+msgid "Music"
+msgstr "Musek"
+
+#: src/MainWindow.vala:20
+msgid "Shuffle"
+msgstr "Zoufälleg"
+
+#: src/MainWindow.vala:26
+msgid "Search titles in playlist"
+msgstr ""
+
+#: src/MainWindow.vala:45
+msgid "Queue is Empty"
+msgstr "Wardeschlaang eidel"
+
+#: src/MainWindow.vala:46
+msgid "Audio files opened from Files will appear here"
+msgstr "Vun Dateien aus oppen Audiodateien erschéngen hei"
+
+#: src/MainWindow.vala:63
+msgid "Open Files…"
+msgstr "Dateien opmaachen…"
+
+#: src/MainWindow.vala:167
+#, c-format
+msgid "%d invalid file was not added to the queue"
+msgid_plural "%d invalid files were not added to the queue"
+msgstr[0] "%d ongëlteg Datei net an d'Wardeschlaang bäigefüügt"
+msgstr[1] "%d ongëlteg Dateien net an d'Wardeschlaang bäigefüügt"
+
+#: src/MainWindow.vala:215
+msgid "All files"
+msgstr "All Dateien"
+
+#: src/MainWindow.vala:220
+msgid "Music files"
+msgstr "Musek Dateien"
+
+#: src/MainWindow.vala:229
+msgid "Open"
+msgstr "Opmaachen"
+
+#: src/MainWindow.vala:233
+msgid "Open audio files"
+msgstr "Audiodateien opmaachen"
+
+#: src/MainWindow.vala:271
+msgid "Repeat None"
+msgstr "Näischt widderhuelen"
+
+#: src/MainWindow.vala:275
+msgid "Repeat All"
+msgstr "Alles widderhuelen"
+
+#: src/MainWindow.vala:279
+msgid "Repeat One"
+msgstr "Eng Titel widderhuelen"
+
+#: src/PlaybackManager.vala:136
+#, c-format
+msgid "%d track was added to the queue"
+msgid_plural "%d tracks were added to the queue"
+msgstr[0] "%d Titel zu der Wardeschlaang bäigefüügt"
+msgstr[1] "%d Titel zu der Wardeschlaang bäigefüügt"
+
+#. Don't set artist for files without tags
+#: src/PlaybackManager.vala:196
+msgid "Unknown"
+msgstr "Onbekannt"
+
+#: src/Views/NowPlayingView.vala:23 src/Views/NowPlayingView.vala:115
+msgid "Not playing"
+msgstr "Kee Playback"
+
+#: src/Views/NowPlayingView.vala:45
+msgid "Previous"
+msgstr "Virengten"
+
+#: src/Views/NowPlayingView.vala:68
+msgid "Next"
+msgstr "Nächsten"
+
+#: src/Views/NowPlayingView.vala:93
+msgid "Play"
+msgstr "Ofspillen"
+
+#: src/Views/NowPlayingView.vala:96
+msgid "Pause"
+msgstr "Paus"
+
+#~ msgid "Flat"
+#~ msgstr "Flaach"
+
+#~ msgid "Classical"
+#~ msgstr "Klassesch"
+
+#~ msgid "Club"
+#~ msgstr "Club"
+
+#~ msgid "Dance"
+#~ msgstr "Dance"
+
+#~ msgid "Full Bass"
+#~ msgstr "Volle Bass"
+
+#~ msgid "Full Treble"
+#~ msgstr "Voll Héichten"
+
+#~ msgid "Full Bass + Treble"
+#~ msgstr "Volle Bass + Héichten"
+
+#~ msgid "Headphones"
+#~ msgstr "Kopfhörer"
+
+#~ msgid "Large Hall"
+#~ msgstr "Grouss Hal"
+
+#~ msgid "Live"
+#~ msgstr "Live"
+
+#~ msgid "Party"
+#~ msgstr "Party"
+
+#~ msgid "Pop"
+#~ msgstr "Pop"
+
+#~ msgid "Reggae"
+#~ msgstr "Reggae"
+
+#~ msgid "Rock"
+#~ msgstr "Rock"
+
+#~ msgid "Soft"
+#~ msgstr "Soft"
+
+#~ msgid "Ska"
+#~ msgstr "Ska"
+
+#~ msgid "Soft Rock"
+#~ msgstr "Soft Rock"
+
+#~ msgid "Techno"
+#~ msgstr "Techno"
+
+#~ msgid "Export Playlist"
+#~ msgstr "Playlescht exportéieren"
+
+#~ msgid "Save"
+#~ msgstr "Späicheren"
+
+#~ msgid "Cancel"
+#~ msgstr "Ofbriechen"
+
+#~ msgid "Playlist"
+#~ msgstr "Playlescht"
+
+#~ msgid "Import to Library…"
+#~ msgstr "Vun der Librairie importéieren...."
+
+#~ msgid "Preferences"
+#~ msgstr "Astellungen"
+
+#~ msgid "No songs in Queue"
+#~ msgstr "Keng Titelen an der Lëscht"
+
+#~ msgid "Import Music"
+#~ msgstr "Musek importéierten"
+
+#~ msgctxt "Name of the playlist"
+#~ msgid "Queue"
+#~ msgstr "Lëscht"
+
+#, fuzzy
+#~| msgid "%i media files could not be found. What would you like to do?"
+#~ msgid "%i music files could not be found."
+#~ msgstr "%i Dateie konnte net fonnt ginn. Wat géigt dir gäre maachen?"
+
+#~ msgid "Rescan Library"
+#~ msgstr "Sammlung erëm duerchsichen"
+
+#~ msgid "Choose Music Folder"
+#~ msgstr "Musekuerdner wielen"
+
+#, fuzzy
+#~ msgid "Disc:"
+#~ msgstr "Disk"
+
+#~ msgid "Close"
+#~ msgstr "Zoumaachen"
+
+#, fuzzy
+#~ msgid "Issues while importing from %s"
+#~ msgstr "Musek vun %s gëtt importéiert ..."
+
+#, fuzzy
+#~ msgid "Unable to import %d item. The file may be damaged."
+#~ msgid_plural "Unable to import %d items. The files may be damaged."
+#~ msgstr[0] "%d Elementer konnte net vun %s importéiert ginn"
+#~ msgstr[1] "%d Elementer konnte net vun %s importéiert ginn"
+
+#~ msgid "Move to Trash"
+#~ msgstr "An d'Dreckskëscht geheien"
+
+#~ msgid "Music Folder Location"
+#~ msgstr "Uert vum Musekuerdner"
+
+#~ msgid "Library Management"
+#~ msgstr "Sammlungsverwaltung"
+
+#, fuzzy
+#~ msgid "Remove %d Song From Library?"
+#~ msgid_plural "Remove %d Songs From Library?"
+#~ msgstr[0] "%d Lidder vun %s läschen"
+#~ msgstr[1] "%d Lidder vun %s läschen"
+
+#, fuzzy
+#~ msgid "Remove \"%s\" From Library?"
+#~ msgstr "\"%s\" vun %s läschen"
+
+#, fuzzy
+#~ msgid ""
+#~ "This will remove the song from your library and from any device synced "
+#~ "automatically."
+#~ msgid_plural ""
+#~ "This will remove the songs from your library and from any device synced "
+#~ "automatically."
+#~ msgstr[0] ""
+#~ "Dëst wäert d'Lidd vun ärer Sammlung a vun all Geréit dat automatesch mat "
+#~ "%s synchroniséiert läschen."
+#~ msgstr[1] ""
+#~ "Dëst wäert d'Lidder vun ärer Sammlung a vun all Geréit dat automatesch "
+#~ "mat %s synchroniséiert läschen."
+
+#~ msgid "Set Music Folder?"
+#~ msgstr "Musekuerdner festleeën?"
+
+#~ msgid ""
+#~ "Are you sure you want to set the music folder to %s? This will reset your "
+#~ "library and remove your playlists."
+#~ msgstr ""
+#~ "Sidd dir sëcher dass dir de Musekuerdner op %s festleeë wëllt? Dëst wäert "
+#~ "är gesamt Sammlung zeréck setzen an all är Playliste läschen."
+
+#~ msgid "Export Playlists"
+#~ msgstr "Playlist exportéieren"
+
+#~ msgid "Set Music Folder"
+#~ msgstr "Musekuerdner festleeën"
+
+#~ msgid "Playlist Title"
+#~ msgstr "Playlisttitle"
+
+#~ msgid "any"
+#~ msgstr "egal wéienge"
+
+#~ msgid "all"
+#~ msgstr "alle"
+
+#~ msgid "Match"
+#~ msgstr "Stëmm iwwereen mat"
+
+#~ msgid "of the following:"
+#~ msgstr "Folgenden"
+
+#~ msgid "Limit to"
+#~ msgstr "Limitéier op"
+
+#~ msgid "items"
+#~ msgstr "Elementer"
+
+#~ msgid "Name of Playlist"
+#~ msgstr "Numm vun der Playlist"
+
+#~ msgid "Rules"
+#~ msgstr "Reegelen"
+
+#~ msgid "Options"
+#~ msgstr "Optiounen"
+
+#~ msgid "Smart Playlist Editor"
+#~ msgstr "Intelligente Playlist-Editor"
+
+#~ msgid "Album"
+#~ msgstr "Album"
+
+#~ msgid "Artist"
+#~ msgstr "Kënschtler"
+
+#~ msgid "Bitrate"
+#~ msgstr "Bitrate"
+
+#~ msgid "Comment"
+#~ msgstr "Kommentar"
+
+#~ msgid "Composer"
+#~ msgstr "Komponist"
+
+#~ msgid "Date Added"
+#~ msgstr "Datum bäigesat"
+
+#~ msgid "Genre"
+#~ msgstr "Genre"
+
+#~ msgid "Grouping"
+#~ msgstr "Gruppéierung"
+
+#~ msgid "Last Played"
+#~ msgstr "Fir d'Lescht ofgespillt"
+
+#~ msgid "Length"
+#~ msgstr "Längt"
+
+#~ msgid "Playcount"
+#~ msgstr "Ofspillzieler"
+
+#~ msgid "Rating"
+#~ msgstr "Bewäertung"
+
+#~ msgid "Skipcount"
+#~ msgstr "Iwwersprongszieler"
+
+#~ msgid "Title"
+#~ msgstr "Titel"
+
+#~ msgid "Year"
+#~ msgstr "Joer"
+
+#~ msgid "is"
+#~ msgstr "ass"
+
+#~ msgid "contains"
+#~ msgstr "enthéilt"
+
+#~ msgid "does not contain"
+#~ msgstr "enthéilt net"
+
+#~ msgid "is exactly"
+#~ msgstr "ass genau"
+
+#~ msgid "is at most"
+#~ msgstr "ass héichstens"
+
+#~ msgid "is at least"
+#~ msgstr "ass mindestens"
+
+#~ msgid "is within"
+#~ msgstr "ass an"
+
+#~ msgid "is before"
+#~ msgstr "ass virun"
+
+#~ msgid "seconds"
+#~ msgstr "Sekonnen"
+
+#~ msgid "days ago"
+#~ msgstr "Deeg virdrun"
+
+#~ msgid "kbps"
+#~ msgstr "kbps"
+
+#, fuzzy
+#~ msgid "Sync will remove %i item from %s"
+#~ msgid_plural "Sync will remove %i items from %s"
+#~ msgstr[0] "D'Synchronisatioun wäert %i Elementer vun %s ewechmaachen."
+#~ msgstr[1] "D'Synchronisatioun wäert %i Elementer vun %s ewechmaachen."
+
+#~ msgid ""
+#~ "If you continue to sync, media will be removed from %s since they are not "
+#~ "on the sync list. Would you like to import them to your library first?"
+#~ msgstr ""
+#~ "Wann dir weider synchroniséiert, ginn all medie vun %s ewechgemaach, well "
+#~ "se net op der Synchronisatiounslëscht. Géingt dir se gären fir d'éischt "
+#~ "an d'Sammlung importéieren."
+
+#~ msgid "Continue Syncing"
+#~ msgstr "Weider synchroniséieren"
+
+#~ msgid "Import"
+#~ msgstr "Importéieren"
+
+#~ msgid "Favorite Songs"
+#~ msgstr "Lieblingslidder"
+
+#~ msgid "Recently Added"
+#~ msgstr "Viru kuerzem derbäigesat"
+
+#~ msgid "Recent Favorites"
+#~ msgstr "Nei Lieblingslidder"
+
+#~ msgid "Never Played"
+#~ msgstr "Nie Ofgespillt"
+
+#~ msgid "Over Played"
+#~ msgstr "Oft Ofgespillt"
+
+#~ msgid "Not Recently Played"
+#~ msgstr "An der Lescht net ofgespillt"
+
+#~ msgid "History"
+#~ msgstr "Verlaf"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Track"
+#~ msgstr "Nr."
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Title"
+#~ msgstr "Titel"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Length"
+#~ msgstr "Längt"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Artist"
+#~ msgstr "Kënschtler"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Album"
+#~ msgstr "Album"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Album Artist"
+#~ msgstr "Album Kënschtler"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Composer"
+#~ msgstr "Komponist"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Genre"
+#~ msgstr "Genre"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Year"
+#~ msgstr "Joer"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Grouping"
+#~ msgstr "Gruppéierung"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Bitrate"
+#~ msgstr "Bitrate"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Rating"
+#~ msgstr "Bewäertung"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Plays"
+#~ msgstr "Ofspillen"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Date Added"
+#~ msgstr "Datum bäigesat"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Last Played"
+#~ msgstr "Fir d'Lescht ofgespillt"
+
+#, fuzzy
+#~ msgctxt "List column title (file location)"
+#~ msgid "Location"
+#~ msgstr "Medie localiséieren"
+
+#~ msgid "Save preset"
+#~ msgstr "Virastellung speicheren"
+
+#~ msgid "%s (Custom)"
+#~ msgstr "%s (Benotzerdefinéiert)"
+
+#~ msgid "%s (Custom %i)"
+#~ msgstr "%s (Benotzerdefinéiert %i)"
+
+#~ msgid "Custom Preset"
+#~ msgstr "Benotzerdefinéiert Virastellung"
+
+#~ msgid "Custom Preset %i"
+#~ msgstr "Benotzerdefinéiert Virastellung %i"
+
+#, fuzzy
+#~ msgid "Other Actions"
+#~ msgstr "Optiounen"
+
+#, fuzzy
+#~ msgctxt "Action item (verb)"
+#~ msgid "Queue"
+#~ msgstr "Lëscht"
+
+#, fuzzy
+#~ msgid "Remove from Library…"
+#~ msgstr "Vun der Librairie importéieren...."
+
+#, fuzzy
+#~| msgid "Playlist"
+#~ msgid "Add Playlist…"
+#~ msgstr "Playlescht"
+
+#~ msgid "Remove from %s"
+#~ msgstr "Vun %s läschen"
+
+#~ msgid "%u second"
+#~ msgid_plural "%u seconds"
+#~ msgstr[0] "%u Sekonn"
+#~ msgstr[1] "%u Sekonnen"
+
+#~ msgid "%u minute"
+#~ msgid_plural "%u minutes"
+#~ msgstr[0] "%u Minutt"
+#~ msgstr[1] "%u Minutten"
+
+#~ msgctxt "minutes and seconds"
+#~ msgid "%s and %s"
+#~ msgstr "%s an %s"
+
+#~ msgid "%u day"
+#~ msgid_plural "%u days"
+#~ msgstr[0] "%u Dag"
+#~ msgstr[1] "%u Deeg"
+
+#~ msgid "%u hour"
+#~ msgid_plural "%u hours"
+#~ msgstr[0] "%u Stonn"
+#~ msgstr[1] "%u Stonnen"
+
+#~ msgctxt "days, hours and minutes"
+#~ msgid "%s, %s and %s"
+#~ msgstr "%s, %s an %s"
+
+#~ msgctxt "days and hours"
+#~ msgid "%s and %s"
+#~ msgstr "%s an %s"
+
+#~ msgctxt "days and minutes"
+#~ msgid "%s and %s"
+#~ msgstr "%s an %s"
+
+#~ msgctxt "hours and minutes"
+#~ msgid "%s and %s"
+#~ msgstr "%s an %s"
+
+#~ msgid "Song"
+#~ msgstr "Lidd"
+
+#~ msgid "General"
+#~ msgstr "Allgemeng"
+
+#~ msgid "Import from Device"
+#~ msgstr "Vun engem Geréit importéieren"
+
+#~ msgid "Import media from %s"
+#~ msgstr "Medie vun %s importéieren"
+
+#~ msgid ""
+#~ "The following files were found on %s, but are not in your library. Check "
+#~ "all the files you would like to import."
+#~ msgstr ""
+#~ "Folgend Dateie sinn op %s fonnt ginn, mee sinn net an ierer Sammlung. "
+#~ "Markéiert all Dateien déi dir importéiere wëllt."
+
+#~ msgid "Import all media"
+#~ msgstr "All Dateien inportéieren"
+
+#~ msgid "Don't Import"
+#~ msgstr "Net importéieren"
+
+#~ msgid "Import %i items from %s"
+#~ msgstr "%i Elementer vun %s importéieren"
+
+#~ msgid "Import %s from %s"
+#~ msgstr "%s vun %s importéieren"
+
+#~ msgid "ID"
+#~ msgstr "ID"
+
+#~ msgid "Select individual media to import:"
+#~ msgstr "Wielt eenzel Medie fir z'importéieren:"
+
+#~ msgid "Check Item"
+#~ msgstr "Element iwwerpréiwen"
+
+#~ msgid "Check Album"
+#~ msgstr "Album iwwerpréiwen"
+
+#~ msgid "Check Artist"
+#~ msgstr "Kënschtler iwwerpréiwen"
+
+#~ msgid "Import media to Library"
+#~ msgstr "Medien an d'Sammlung importéieren"
+
+#~ msgid "Stop Syncing"
+#~ msgstr "Ophalen ze synchroniséieren"
+
+#~ msgid "Sync will remove 1 item from %s"
+#~ msgstr "D'Synchronisatioun wäert 1 Element vun %s ewechmaachen."
+
+#~ msgid "translator-credits"
+#~ msgstr ""
+#~ "Launchpad Contributions:\n"
+#~ "  Daniel Fore https://launchpad.net/~danrabbit\n"
+#~ "  Julien Spautz https://launchpad.net/~julien-spautz\n"
+#~ "  Yvo Marques https://launchpad.net/~macghivo"
+
+#~ msgid "%d second"
+#~ msgid_plural "%d seconds"
+#~ msgstr[0] "%d Sekonn"
+#~ msgstr[1] "%d Sekonnen"
+
+#~ msgid "Unknown Album"
+#~ msgstr "Onbekannten Album"
+
+#~ msgid "Unknown Track"
+#~ msgstr "Onbekannt Lidd"
+
+#~ msgid "Unknown Artist"
+#~ msgstr "Onbekannte Kënschtler"
+
+#~ msgid "Radio Station"
+#~ msgstr "Radiostatioun"
+
+#~ msgid "Listen to music"
+#~ msgstr "Lauschter Musek"
+
+#~ msgid "Adding files to library..."
+#~ msgstr "Dateien ginn bäi d'Sammlung derbäigemaach ..."
+
+#~ msgid "Remove Media"
+#~ msgstr "Medien ewechmaachen"
+
+#~ msgid "Rescanning music for changes. This may take a while..."
+#~ msgstr ""
+#~ "D'Musek gëtt op Ännerungen duerchsicht. Dëst kéint eng Zäit daueren..."
+
+#~ msgid "Do Nothing"
+#~ msgstr "Näischt maachen"
+
+#~ msgid ""
+#~ "The music file for %s by %s could not be found. What would you like to do?"
+#~ msgstr ""
+#~ "D'Musekdatei fir %s vun %s konnt net fonnt ginn. Wat géigt dir gäre "
+#~ "maachen?"
+
+#~ msgid "Could not find media file"
+#~ msgstr "Konnt keng Medie fannen"
+
+#~ msgid "Date Released"
+#~ msgstr "Datum Verëffentlecht"
+
+#~ msgid ""
+#~ "You must wait until previous file operations finish before setting your "
+#~ "music folder"
+#~ msgstr ""
+#~ "Dir musst op d'Enn vun Dateioperatiounen waarden, éier dir de "
+#~ "Musekuerdner festleeë kënnt"
+
+#~ msgid "Write metadata to file"
+#~ msgstr "Metadaten an Datei schreiwen"
+
+#~ msgid "Lyrics"
+#~ msgstr "Liddtext"
+
+#~ msgid "Editing %s by %s"
+#~ msgstr "Beaarbechten %s vun %s"
+
+#~ msgid "Metadata"
+#~ msgstr "Metadaten"
+
+#~ msgid "Media Type"
+#~ msgstr "Medientyp"
+
+#~ msgid "Editing %i songs"
+#~ msgstr "Beaarbechten %i Lidder"
+
+#~ msgid "Editing %s"
+#~ msgstr "Beaarbechten %s"
+
+#~ msgid "Podcast"
+#~ msgstr "Podcast"
+
+#~ msgid "Not Imported Files"
+#~ msgstr "Net importéiert Dateien"
+
+#~ msgid "Lyrics not found for %s"
+#~ msgstr "Kee Liddtext fir %s fonnt"
+
+#~ msgid "Adding music from %s to library..."
+#~ msgstr "Musek vun %s bäi d'Sammlung derbäimaachen"
+
+#~ msgid "Equalizer"
+#~ msgstr "Equalizer"
+
+#~ msgid "About Noise"
+#~ msgstr "Iwer Noise"
+
+#~ msgid "About Music"
+#~ msgstr "Iwer Musek"
+
+#~ msgid "Details"
+#~ msgstr "Detailer"

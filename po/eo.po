@@ -1,0 +1,1271 @@
+# Esperanto translation for beat-box
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the beat-box package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: beat-box\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-01 10:32+0000\n"
+"PO-Revision-Date: 2019-07-21 10:24+0000\n"
+"Last-Translator: Shtonchjo <shtonchjo@gmail.com>\n"
+"Language-Team: Esperanto <https://l10n.phyreos.io/projects/music/music/eo/"
+">\n"
+"Language: eo\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.7.1\n"
+"X-Launchpad-Export-Date: 2017-03-07 05:52+0000\n"
+
+#: src/Application.vala:92 src/Views/NowPlayingView.vala:18
+#: src/Views/NowPlayingView.vala:116
+msgid "Music"
+msgstr "Muziko"
+
+#: src/MainWindow.vala:20
+#, fuzzy
+msgid "Shuffle"
+msgstr "Ebligi hazardordon"
+
+#: src/MainWindow.vala:26
+msgid "Search titles in playlist"
+msgstr ""
+
+#: src/MainWindow.vala:45
+msgid "Queue is Empty"
+msgstr ""
+
+#: src/MainWindow.vala:46
+msgid "Audio files opened from Files will appear here"
+msgstr ""
+
+#: src/MainWindow.vala:63
+msgid "Open Files…"
+msgstr ""
+
+#: src/MainWindow.vala:167
+#, c-format
+msgid "%d invalid file was not added to the queue"
+msgid_plural "%d invalid files were not added to the queue"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/MainWindow.vala:215
+#, fuzzy
+#| msgid "All Years"
+msgid "All files"
+msgstr "Ĉiuj jaroj"
+
+#: src/MainWindow.vala:220
+#, fuzzy
+#| msgid "Music Player"
+msgid "Music files"
+msgstr "Muzikludilo"
+
+#: src/MainWindow.vala:229
+msgid "Open"
+msgstr "Malfermi"
+
+#: src/MainWindow.vala:233
+msgid "Open audio files"
+msgstr ""
+
+#: src/MainWindow.vala:271
+#, fuzzy
+msgid "Repeat None"
+msgstr "Ripeti kanton"
+
+#: src/MainWindow.vala:275
+#, fuzzy
+msgid "Repeat All"
+msgstr "Ripeti albumon"
+
+#: src/MainWindow.vala:279
+#, fuzzy
+msgid "Repeat One"
+msgstr "Ripeti kanton"
+
+#: src/PlaybackManager.vala:136
+#, c-format
+msgid "%d track was added to the queue"
+msgid_plural "%d tracks were added to the queue"
+msgstr[0] ""
+msgstr[1] ""
+
+#. Don't set artist for files without tags
+#: src/PlaybackManager.vala:196
+msgid "Unknown"
+msgstr "Nekonata"
+
+#: src/Views/NowPlayingView.vala:23 src/Views/NowPlayingView.vala:115
+#, fuzzy
+msgid "Not playing"
+msgstr "Nova ludlisto"
+
+#: src/Views/NowPlayingView.vala:45
+msgid "Previous"
+msgstr "Antaŭa"
+
+#: src/Views/NowPlayingView.vala:68
+msgid "Next"
+msgstr "Sekva"
+
+#: src/Views/NowPlayingView.vala:93
+msgid "Play"
+msgstr "Ludi"
+
+#: src/Views/NowPlayingView.vala:96
+msgid "Pause"
+msgstr "Paŭzi"
+
+#~ msgid "Importing <b>$NAME</b> by <b>$ARTIST</b> to library…"
+#~ msgstr "Importanta <b>$NAME</b> de <b>$ARTIST</b> en la diskoteko…"
+
+#~ msgid "$NAME on $ALBUM"
+#~ msgstr "$NAME en $ALBUM"
+
+#~ msgid "$NAME by $ARTIST"
+#~ msgstr "$NAME de $ARTIST"
+
+#~ msgid "$NAME by $ARTIST on $ALBUM"
+#~ msgstr "$NAME de $ARTIST en $ALBUM"
+
+#~ msgid "Flat"
+#~ msgstr "Plata"
+
+#~ msgid "Classical"
+#~ msgstr "Klasika"
+
+#~ msgid "Club"
+#~ msgstr "Noktokluba"
+
+#~ msgid "Dance"
+#~ msgstr "Danceja"
+
+#~ msgid "Full Bass"
+#~ msgstr "Plene basa"
+
+#~ msgid "Full Treble"
+#~ msgstr "Plene akuta"
+
+#~ msgid "Full Bass + Treble"
+#~ msgstr "Plene basa + akuta"
+
+#~ msgid "Headphones"
+#~ msgstr "Kapaŭskultiloj"
+
+#~ msgid "Large Hall"
+#~ msgstr "Granda halo"
+
+#~ msgid "Live"
+#~ msgstr "Vivkoncerta"
+
+#~ msgid "Party"
+#~ msgstr "Festa"
+
+#~ msgid "Pop"
+#~ msgstr "Popa"
+
+#~ msgid "Reggae"
+#~ msgstr "Regeo"
+
+#~ msgid "Rock"
+#~ msgstr "Roka"
+
+#~ msgid "Soft"
+#~ msgstr "Milda"
+
+#~ msgid "Ska"
+#~ msgstr "Skao"
+
+#~ msgid "Soft Rock"
+#~ msgstr "Mildroka"
+
+#~ msgid "Techno"
+#~ msgstr "Tekna"
+
+#~ msgid " (%d)"
+#~ msgstr " (%d)"
+
+#~ msgid "%s (%d)"
+#~ msgstr "%s (%d)"
+
+#~ msgid "%s (%i)"
+#~ msgstr "%s (%i)"
+
+#~ msgid "MPEG Version 3.0 Extended (*.m3u)"
+#~ msgstr "MPEG Versio 3.0 Eltendita (*.m3u)"
+
+#~ msgid "Shoutcast Playlist Version 2.0 (*.pls)"
+#~ msgstr "Ludlisto Shoutcast Versio 2.0 (*.pls)"
+
+#~ msgid "Export Playlist"
+#~ msgstr "Eksporti ludliston"
+
+#~ msgid "Save"
+#~ msgstr "Konservi"
+
+#~ msgid "Cancel"
+#~ msgstr "Rezigni"
+
+#~ msgid "Playlist"
+#~ msgstr "Ludlisto"
+
+#~ msgid "Import %s"
+#~ msgstr "Importi %s"
+
+#~ msgid "Unrecognized playlist file. Import failed."
+#~ msgstr "Nerekonata ludlista dosiero. Malsukcesis la importo."
+
+#~ msgid "%m/%e/%Y %l:%M %p"
+#~ msgstr "%Y-%m-%e %l:%M %p"
+
+#~ msgid "Empty device!"
+#~ msgstr "Malplena aparato!"
+
+#~ msgid "This device does not contain any music."
+#~ msgstr "La aparato ne entenas muzikon."
+
+#~ msgid "Android Phone"
+#~ msgstr "Androida telefono"
+
+#~ msgid "Audio Player"
+#~ msgstr "Aŭdludilo"
+
+#~ msgid "Adding <b>$NAME</b> by <b>$ARTIST</b> to $DEVICE"
+#~ msgstr "Aldoni <b>$NAME</b> de <b>$ARTIST</b> al $DEVICE"
+
+#~ msgid "Syncing <b>%s</b>…"
+#~ msgstr "Sinkronizo de <b>%s</b>…"
+
+#~ msgid "Removing <b>$NAME</b> by <b>$ARTIST</b> from $DEVICE"
+#~ msgstr "Forigi  <b>$NAME</b> de <b>$ARTIST</b> el $DEVICE"
+
+#~ msgid "Removing from <b>%s</b>…"
+#~ msgstr "Forigo de <b>%s</b>…"
+
+#~ msgid "Finishing sync process…"
+#~ msgstr "Finanta sinkronadon…"
+
+#~ msgid "Cancelling Sync…"
+#~ msgstr "Rezigni sinkronigon…"
+
+#~ msgid "Import Complete"
+#~ msgstr "Finita importo"
+
+#~ msgid "Your Library Has Been Imported."
+#~ msgstr "Via diskoteko estis importita."
+
+#~ msgid "<b>Copying</b> files to <b>Music Folder</b>…"
+#~ msgstr "<b>Kopianta</b> dosierojn en la <b>dosierujon Muziko</b>…"
+
+#~ msgid "Import to Library…"
+#~ msgstr "Importanta al diskoteko…"
+
+#~ msgid "Preferences"
+#~ msgstr "Agordoj"
+
+#~ msgid "Search Music"
+#~ msgstr "Serĉi muzikon"
+
+#~ msgid "No songs in Queue"
+#~ msgstr "Neniu kanto en la vico"
+
+#~ msgid ""
+#~ "To add songs to the queue, use the <b>secondary click</b> on an item and "
+#~ "choose <b>Queue</b>. When a song finishes, the queued songs will be "
+#~ "played first before the next song in the currently playing list."
+#~ msgstr ""
+#~ "Por envicigi kantojn, uzu la <b>duarangan klakon</b> sur elemento kaj "
+#~ "elektu <b>Vico</b>. Kiam la kanto finiĝas, la kantoj en la vico estos "
+#~ "ludataj unue, antaŭ la sekvan en la nun ludata listo."
+
+#~ msgid "No songs in History"
+#~ msgstr "Neniu kanto en la historilisto"
+
+#~ msgid ""
+#~ "After a part of a song has been played, it is added to the history list.\n"
+#~ "You can use this list to see all the songs you have played during the "
+#~ "current session."
+#~ msgstr ""
+#~ "Post ludi parton de kanto, ĝi estas aldonita en la historilisto.\n"
+#~ "Eblas uzi tiun liston, por vidi ĉiujn kantojn luditaj dum la nuna seanco."
+
+#~ msgid "Import Music"
+#~ msgstr "Importi muzikon"
+
+#~ msgctxt "Name of the playlist"
+#~ msgid "Queue"
+#~ msgstr "Vico"
+
+#~ msgid "File not found"
+#~ msgstr "Dosiero ne trovita"
+
+#~ msgid "The music file for <b>%s</b> by <b>%s</b> could not be found."
+#~ msgstr "La muzika dosiero <b>%s</b> de <b>%s</b> ne estis trovita."
+
+#, fuzzy
+#~| msgid "%i music files could not be found?"
+#~ msgid "%i music files could not be found."
+#~ msgstr "Ĉu neeblis trovi %i muzikajn dosierojn?"
+
+#~ msgid "Rescan Library"
+#~ msgstr "Reskani la diskotekon"
+
+#~ msgid "Remove Song"
+#~ msgstr "Forigi kanton"
+
+#~ msgid "Find Song"
+#~ msgstr "Trovi kanton"
+
+#~ msgid "Choose Music Folder"
+#~ msgstr "Elekti dosierujon Muziko"
+
+#~ msgid "Would you like to install the %s plugin?"
+#~ msgstr "Ĉu vi deziras instali la kromaĵon %s?"
+
+#~ msgid ""
+#~ "This song cannot be played. The %s plugin is required to play the song."
+#~ msgstr "Neeblas ludi la kanton. La kromaĵo %s necesas por ludi la kanton."
+
+#~ msgid "Install Plugin"
+#~ msgstr "Instali kromaĵon"
+
+#~ msgid "Title:"
+#~ msgstr "Titolo:"
+
+#~ msgid "Artist:"
+#~ msgstr "Artisto:"
+
+#~ msgid "Album:"
+#~ msgstr "Albumo:"
+
+#~ msgid "Album Artist:"
+#~ msgstr "Albuma artisto:"
+
+#~ msgid "Composer:"
+#~ msgstr "Komponisto:"
+
+#~ msgid "Grouping:"
+#~ msgstr "Grupado:"
+
+#~ msgid "Genre:"
+#~ msgstr "Ĝenro:"
+
+#~ msgid "Year:"
+#~ msgstr "Jaro:"
+
+#~ msgid "Track:"
+#~ msgstr "Kanto:"
+
+#~ msgid "Disc:"
+#~ msgstr "Disko:"
+
+#~ msgid "Rating:"
+#~ msgstr "Takso:"
+
+#~ msgid "Comment:"
+#~ msgstr "Komento:"
+
+#~ msgid "Close"
+#~ msgstr "Fermi"
+
+#~ msgid "Issues while importing from %s"
+#~ msgstr "Okazis problemoj dum importo de %s"
+
+#~ msgid "Unable to import %d item. The file may be damaged."
+#~ msgid_plural "Unable to import %d items. The files may be damaged."
+#~ msgstr[0] "Neeblis importi %d elementon. La dosiero povas esti difektita."
+#~ msgstr[1] "Neeblis importi %d elementojn. La dosiero povas esti difektitaj."
+
+#~ msgid "Move all corrupted files to trash"
+#~ msgstr "Movi ĉiujn da difektitajn dosierojn rubujen"
+
+#~ msgid "del"
+#~ msgstr "for."
+
+#~ msgid "File Location"
+#~ msgstr "Dosiera indiko"
+
+#~ msgid "Select individual files to move to trash:"
+#~ msgstr "Elekti apartajn dosierojn enrubujigotaj:"
+
+#~ msgid "Move to Trash"
+#~ msgstr "Movi rubujen"
+
+#~ msgid "Ignore"
+#~ msgstr "Ignori"
+
+#~ msgid "Select Music Folder…"
+#~ msgstr "Elekti dosierujon Muziko…"
+
+#~ msgid "Music Folder Location"
+#~ msgstr "Indiko de la dosierujo Muziko"
+
+#~ msgid "Library Management"
+#~ msgstr "Diskoteka mastrumado"
+
+#~ msgid "Keep Music folder organized:"
+#~ msgstr "Konservi organizita la dosierujon Muziko:"
+
+#~ msgid "Write metadata to file:"
+#~ msgstr "Skribi metadatumojn en la dosiero:"
+
+#~ msgid "Copy imported files to Library:"
+#~ msgstr "Kopii importitajn dosierojn en la diskoteko:"
+
+#~ msgid "Desktop Integration"
+#~ msgstr "Labotabla integriĝo"
+
+#~ msgid "Continue playback when closed:"
+#~ msgstr "Daŭrigi ludadon kiam fermita:"
+
+#~ msgid "Remove %d Song From Library?"
+#~ msgid_plural "Remove %d Songs From Library?"
+#~ msgstr[0] "Ĉu forigi %d kanto el la diskoteko?"
+#~ msgstr[1] "Ĉu forigi %d kantoj el la diskoteko?"
+
+#~ msgid "Remove \"%s\" From Library?"
+#~ msgstr "Ĉu forigi „%s“ el la diskoteko?"
+
+#~ msgid ""
+#~ "This will remove the song from your library and from any device synced "
+#~ "automatically."
+#~ msgid_plural ""
+#~ "This will remove the songs from your library and from any device synced "
+#~ "automatically."
+#~ msgstr[0] ""
+#~ "Tio forigos la kanton el via diskoteko kaj el ĉiu aŭtomate sinkronigita "
+#~ "aparato."
+#~ msgstr[1] ""
+#~ "Tio forigos la kantojn el via diskoteko kaj el ĉiu aŭtomate sinkronigita "
+#~ "aparato."
+
+#~ msgid "Remove from Library"
+#~ msgstr "Forigi el diskoteko"
+
+#~ msgid "Set Music Folder?"
+#~ msgstr "Ĉu elekti muzik-dosierujon?"
+
+#~ msgid ""
+#~ "Are you sure you want to set the music folder to %s? This will reset your "
+#~ "library and remove your playlists."
+#~ msgstr ""
+#~ "Ĉu vi certas pri agordi la muzikan dosierujon al %s? Tio restartigos vian "
+#~ "diskotekon kaj forigos ludlistojn."
+
+#~ msgid "Export Playlists"
+#~ msgstr "Eksporti ludlistojn"
+
+#~ msgid "Set Music Folder"
+#~ msgstr "Elekti muzik-dosierujon"
+
+#~ msgid "Playlist Title"
+#~ msgstr "Titolo de ludlisto"
+
+#~ msgid "any"
+#~ msgstr "ajna"
+
+#~ msgid "all"
+#~ msgstr "ĉiuj"
+
+#~ msgid "Match"
+#~ msgstr "Kongruigi"
+
+#~ msgid "of the following:"
+#~ msgstr "de la sekva:"
+
+#~ msgid "Add"
+#~ msgstr "Aldoni"
+
+#~ msgid "Limit to"
+#~ msgstr "Limigi je"
+
+#~ msgid "items"
+#~ msgstr "elementoj"
+
+#~ msgid "Name of Playlist"
+#~ msgstr "Nomo de la ludlisto"
+
+#~ msgid "Rules"
+#~ msgstr "Reguloj"
+
+#~ msgid "Options"
+#~ msgstr "Agordoj"
+
+#~ msgid "Smart Playlist Editor"
+#~ msgstr "Inteligenta ludlistilo"
+
+#~ msgid "Remove"
+#~ msgstr "Forigi"
+
+#~ msgid "Album"
+#~ msgstr "Albumo"
+
+#~ msgid "Artist"
+#~ msgstr "Artisto"
+
+#~ msgid "Bitrate"
+#~ msgstr "Bitrapido"
+
+#~ msgid "Comment"
+#~ msgstr "Komento"
+
+#~ msgid "Composer"
+#~ msgstr "Komponisto"
+
+#~ msgid "Date Added"
+#~ msgstr "Aldondato"
+
+#~ msgid "Genre"
+#~ msgstr "Ĝenro"
+
+#~ msgid "Grouping"
+#~ msgstr "Grupado"
+
+#~ msgid "Last Played"
+#~ msgstr "Laste ludita"
+
+#~ msgid "Length"
+#~ msgstr "Daŭro"
+
+#~ msgid "Playcount"
+#~ msgstr "Nombro de ludadoj"
+
+#~ msgid "Rating"
+#~ msgstr "Pritakso"
+
+#~ msgid "Skipcount"
+#~ msgstr "Nombro de preteradoj"
+
+#~ msgid "Title"
+#~ msgstr "Titolo"
+
+#~ msgid "Year"
+#~ msgstr "Jaro"
+
+#~ msgid "URI"
+#~ msgstr "URI-adreso"
+
+#~ msgid "is"
+#~ msgstr "estas"
+
+#~ msgid "contains"
+#~ msgstr "entenas"
+
+#~ msgid "does not contain"
+#~ msgstr "ne entenas"
+
+#~ msgid "is exactly"
+#~ msgstr "estas ekzakte"
+
+#~ msgid "is at most"
+#~ msgstr "estas malpli ol"
+
+#~ msgid "is at least"
+#~ msgstr "estas almenaŭ"
+
+#~ msgid "is within"
+#~ msgstr "estas ene de"
+
+#~ msgid "is before"
+#~ msgstr "estas antaŭ"
+
+#~ msgid "seconds"
+#~ msgstr "sekundoj"
+
+#~ msgid "days ago"
+#~ msgstr "antaŭaj tagoj"
+
+#~ msgid "kbps"
+#~ msgstr "kb/s"
+
+#~ msgid "Sync will remove %i item from %s"
+#~ msgid_plural "Sync will remove %i items from %s"
+#~ msgstr[0] "Sinkronigo forigos %i elementon el %s"
+#~ msgstr[1] "Sinkronigo forigos %i elementojn el %s"
+
+#~ msgid ""
+#~ "If you continue to sync, media will be removed from %s since they are not "
+#~ "on the sync list. Would you like to import them to your library first?"
+#~ msgstr ""
+#~ "Se vi daŭrigas sinkronigon, aŭdovidaĵo estos forigita de %s, ĉar ili ne "
+#~ "apartenas la sinkronan liston. Ĉu vi deziras unun importi ilin en la "
+#~ "diskoteko?"
+
+#~ msgid "Continue Syncing"
+#~ msgstr "Daŭrigi sinkronigon"
+
+#~ msgid "Import"
+#~ msgstr "Importi"
+
+#~ msgid "Importing music from %s…"
+#~ msgstr "importi muzikon de %s…"
+
+#~ msgid "Adding files to library…"
+#~ msgstr "Aldonanta dosierojn en la diskoteko…"
+
+#~ msgid "<b>Importing</b> music to library…"
+#~ msgstr "<b>Importanta</b> muzikon en la diskoteko…"
+
+#~ msgid "All music files are already in your library"
+#~ msgstr "Ĉiuj muzikaj dosieroj jam estas en la diskoteko"
+
+#~ msgid "No files were imported."
+#~ msgstr "Neniu dosiero importita."
+
+#~ msgid "Rescanning music for changes. This may take a while…"
+#~ msgstr "Reskananta muzikon pro ŝanĝoj. Tio povas iom daŭri…"
+
+#~ msgid "Added to your queue:"
+#~ msgstr "Aldonita en la vico:"
+
+#~ msgid "%d Track"
+#~ msgid_plural "%d Tracks"
+#~ msgstr[0] "%d kanto"
+#~ msgstr[1] "%d kantoj"
+
+#~ msgid "Favorite Songs"
+#~ msgstr "Ŝatataj kantoj"
+
+#~ msgid "Recently Added"
+#~ msgstr "Freŝe aldonitaj"
+
+#~ msgid "Recent Favorites"
+#~ msgstr "Freŝe ŝatataj"
+
+#~ msgid "Never Played"
+#~ msgstr "Neniam ludita"
+
+#~ msgid "Over Played"
+#~ msgstr "Plej luditaj"
+
+#~ msgid "Not Recently Played"
+#~ msgstr "De longe ne luditaj"
+
+#~ msgid "History"
+#~ msgstr "Historio"
+
+#~ msgid "Playlists"
+#~ msgstr "Ludlistoj"
+
+#~ msgid "Device Name:"
+#~ msgstr "Aparata nomo:"
+
+#~ msgid "Device Name"
+#~ msgstr "Aparata nomo"
+
+#~ msgid "Automatically sync when plugged in:"
+#~ msgstr "Aŭtomate sinkronigi kiam konektita:"
+
+#~ msgid "Sync:"
+#~ msgstr "Sinkronigi:"
+
+#~ msgid "Sync"
+#~ msgstr "Sinkronigi"
+
+#~ msgid "All Music"
+#~ msgstr "Ĉiuj muzikoj"
+
+#~ msgid "Sync Failed"
+#~ msgstr "Neeblis sinkronigi"
+
+#~ msgid ""
+#~ "The playlist named %s is used to sync device %s, but could not be found."
+#~ msgstr ""
+#~ "La ludlisto nomita %s estas uzata por sinkronigi la aparaton %s, sed ĝi "
+#~ "ne estis trovita."
+
+#~ msgid "Cannot Sync"
+#~ msgstr "Neeblas sinkronigi"
+
+#~ msgid ""
+#~ "Cannot sync device with selected sync settings. Not enough space on disk"
+#~ msgstr ""
+#~ "Neeblas sinkronigi la aparaton laŭ la nunaj agordoj. Ne restas sufiĉa "
+#~ "spaco en la memorujo"
+
+#~ msgid "Device is already doing an operation."
+#~ msgstr "Aparato estas jam okupita."
+
+#~ msgid "Cancelling…"
+#~ msgstr "Rezignanta…"
+
+#~ msgid "Device operation has been cancelled and will stop after this media."
+#~ msgstr "Aparata operacio estis nuligita, kaj ĉesos post ĉi aŭdovidaĵo."
+
+#~ msgid "No Results"
+#~ msgstr "Neniu rezultato"
+
+#~ msgid "Try another search"
+#~ msgstr "Provu alian serĉon"
+
+#~ msgid "Genres"
+#~ msgstr "Ĝenroj"
+
+#~ msgid "Artists"
+#~ msgstr "Artistoj"
+
+#~ msgid "Albums"
+#~ msgstr "Albumoj"
+
+#~ msgid "Years"
+#~ msgstr "Jaroj"
+
+#~ msgid "Ratings"
+#~ msgstr "Taksoj"
+
+#~ msgid "Composers"
+#~ msgstr "Komponistoj"
+
+#~ msgid "Groupings"
+#~ msgstr "Grupadoj"
+
+#~ msgid "All Genres"
+#~ msgstr "Ĉiuj ĝenroj"
+
+#~ msgid "All %i Genres"
+#~ msgstr "Ĉiuj %i ĝenroj"
+
+#~ msgid "No Genres"
+#~ msgstr "Neniu ĝenro"
+
+#~ msgid "All Artists"
+#~ msgstr "Ĉiuj artistoj"
+
+#~ msgid "All %i Artists"
+#~ msgstr "Ĉiuj %i artistoj"
+
+#~ msgid "No Artists"
+#~ msgstr "Neniu artisto"
+
+#~ msgid "All Albums"
+#~ msgstr "Ĉiuj albumoj"
+
+#~ msgid "All %i Albums"
+#~ msgstr "Ĉiuj %i albumoj"
+
+#~ msgid "No Albums"
+#~ msgstr "Neniu albumo"
+
+#~ msgid "All %i Years"
+#~ msgstr "Ĉiuj %i jaroj"
+
+#~ msgid "No Years"
+#~ msgstr "Neniu jaro"
+
+#~ msgid "All Ratings"
+#~ msgstr "Ĉiuj taksoj"
+
+#~ msgid "No Ratings"
+#~ msgstr "Neniu takso"
+
+#~ msgid "All Groupings"
+#~ msgstr "Ĉiuj grupadoj"
+
+#~ msgid "All %i Groupings"
+#~ msgstr "Ĉiuj %i grupadoj"
+
+#~ msgid "No Groupings"
+#~ msgstr "Neniu grupado"
+
+#~ msgid "All Composers"
+#~ msgstr "Ĉiuj komponistoj"
+
+#~ msgid "All %i Composers"
+#~ msgstr "Ĉiuj %i komponistoj"
+
+#~ msgid "No Composers"
+#~ msgstr "Neniu komponisto"
+
+#~ msgid "Automatic"
+#~ msgstr "Aŭtomata"
+
+#~ msgid "On Left"
+#~ msgstr "Maldekstre"
+
+#~ msgid "On Top"
+#~ msgstr "Supre"
+
+#~ msgid "Unrated"
+#~ msgstr "Netaksita"
+
+#~ msgid "%u Star"
+#~ msgid_plural "%u Stars"
+#~ msgstr[0] "%u stelo"
+#~ msgstr[1] "%u steloj"
+
+#~ msgid "%u kbps"
+#~ msgstr "%u kb/s"
+
+#~ msgid "Never"
+#~ msgstr "Neniam"
+
+#~ msgctxt "List column title"
+#~ msgid "#"
+#~ msgstr "N-o"
+
+#~ msgctxt "List column title"
+#~ msgid "Track"
+#~ msgstr "Kanto"
+
+#~ msgctxt "List column title"
+#~ msgid "Title"
+#~ msgstr "Titolo"
+
+#~ msgctxt "List column title"
+#~ msgid "Length"
+#~ msgstr "Daŭro"
+
+#~ msgctxt "List column title"
+#~ msgid "Artist"
+#~ msgstr "Artisto"
+
+#~ msgctxt "List column title"
+#~ msgid "Album"
+#~ msgstr "Albumo"
+
+#~ msgctxt "List column title"
+#~ msgid "Album Artist"
+#~ msgstr "Artista albumo"
+
+#~ msgctxt "List column title"
+#~ msgid "Composer"
+#~ msgstr "Komponisto"
+
+#~ msgctxt "List column title"
+#~ msgid "Genre"
+#~ msgstr "Ĝenro"
+
+#~ msgctxt "List column title"
+#~ msgid "Year"
+#~ msgstr "Jaro"
+
+#~ msgctxt "List column title"
+#~ msgid "Grouping"
+#~ msgstr "Grupado"
+
+#~ msgctxt "List column title"
+#~ msgid "Bitrate"
+#~ msgstr "Bitrapido"
+
+#~ msgctxt "List column title"
+#~ msgid "Rating"
+#~ msgstr "Pritakso"
+
+#~ msgctxt "List column title"
+#~ msgid "Plays"
+#~ msgstr "Ludota"
+
+#~ msgctxt "List column title"
+#~ msgid "Skips"
+#~ msgstr "Preterpasota"
+
+#~ msgctxt "List column title"
+#~ msgid "Date Added"
+#~ msgstr "Aldondato"
+
+#~ msgctxt "List column title"
+#~ msgid "Last Played"
+#~ msgstr "Jam ludita"
+
+#~ msgctxt "List column title (beats per minute)"
+#~ msgid "BPM"
+#~ msgstr "Pulsoj en minuto"
+
+#~ msgctxt "List column title (file location)"
+#~ msgid "Location"
+#~ msgstr "Loko"
+
+#~ msgctxt "List column title"
+#~ msgid "File Size"
+#~ msgstr "Dosiera amplekso"
+
+#~ msgid "Autosize Columns"
+#~ msgstr "Aŭtomata kolumna larĝo"
+
+#~ msgid "1234 kbps"
+#~ msgstr "1234 kb/s"
+
+#~ msgid "Sample List String"
+#~ msgstr "Teksta lista specimeno"
+
+#~ msgid "Get Some Tunes"
+#~ msgstr "Akiri iujn kantojn"
+
+#~ msgid "Add music to your library."
+#~ msgstr "Aldoni muzikon en la diskoteko."
+
+#~ msgid "Import music from a source into your library."
+#~ msgstr "Importi muzikon de iu fonto en via diskoteko."
+
+#~ msgid "Change Music Folder"
+#~ msgstr "Ŝanĝi dosierujon Muziko"
+
+#~ msgid "Load music from a folder, a network or an external disk."
+#~ msgstr "Ŝargi muzikon el dosierujo, reto aŭ ekstera memorujo."
+
+#~ msgid "Import your Music"
+#~ msgstr "Importi vian muzikon"
+
+#~ msgid "Import all your Music from %s into your library."
+#~ msgstr "Importi ĉiujn viajn muzikojn de %s en la diskoteko."
+
+#~ msgid "Select Music Folder"
+#~ msgstr "Elekti dosierujon Muziko"
+
+#~ msgid "No Songs"
+#~ msgstr "Neniu kanto"
+
+#~ msgid "Updating playlist. Please wait."
+#~ msgstr "Ĝisdatiganta ludliston. Bonvolu atendi."
+
+#~ msgid ""
+#~ "To add songs to this playlist, use the <b>secondary click</b> on an item "
+#~ "and choose <b>Add to Playlist</b>."
+#~ msgstr ""
+#~ "Por aldoni kanton en la ludlisto, uzu la <b>duarangan klakon</b> sur "
+#~ "elemento kaj elektu <b>Aldoni en la ludlisto</b>."
+
+#~ msgid "Edit Smart Playlist"
+#~ msgstr "Redakti inteligentan ludliston"
+
+#~ msgid ""
+#~ "This playlist will be automatically populated with songs that match its "
+#~ "rules. To modify these rules, use the <b>secondary click</b> on it in the "
+#~ "sidebar and click on <b>Edit</b>. Optionally, you can click on the button "
+#~ "below."
+#~ msgstr ""
+#~ "Aŭtomate aldoniĝos en ĉi ludlisto kantoj kiuj kongruas kun la reguloj. "
+#~ "Por modifi la regulojn, uzu la <b>duarangan klakon</b> sur ĝi en la "
+#~ "flankobreto kaj klaku sur <b>Redakti</b>. Opcie, eblas klaki la ĉi suban "
+#~ "butonon."
+
+#~ msgid "No media"
+#~ msgstr "Neniu aŭdovidaĵo"
+
+#~ msgid "Set new album cover"
+#~ msgstr "Difini novan albuman kovrilon"
+
+#~ msgid "Image files"
+#~ msgstr "Bilda dosiero"
+
+#~ msgid "_Open"
+#~ msgstr "_Malfermi"
+
+#~ msgid "_Cancel"
+#~ msgstr "_Rezigni"
+
+#~ msgid "Save preset"
+#~ msgstr "Konservi agordojn"
+
+#~ msgid "Off"
+#~ msgstr "Malŝaltita"
+
+#~ msgid "%s (Custom)"
+#~ msgstr "%s (Tajlorita)"
+
+#~ msgid "%s (Custom %i)"
+#~ msgstr "%s(Tajlorita %i)"
+
+#~ msgid "Custom Preset"
+#~ msgstr "Tajloritaj agordoj"
+
+#~ msgid "Custom Preset %i"
+#~ msgstr "Tajloritaj agordoj %i"
+
+#~ msgid "Scroll to Current Song"
+#~ msgstr "Rulumi al la sekva kanto"
+
+#~ msgid "Show in File Browser…"
+#~ msgstr "Montri en la dosiera esplorilo…"
+
+#~ msgid "Edit Song Info…"
+#~ msgstr "Redakti kantajn informojn…"
+
+#~ msgid "Other Actions"
+#~ msgstr "Ceteraj agoj"
+
+#~ msgctxt "Action item (verb)"
+#~ msgid "Queue"
+#~ msgstr "Vico"
+
+#~ msgid "Add to Playlist"
+#~ msgstr "Aldoni en ludlisto"
+
+#~ msgid "Remove Song…"
+#~ msgstr "Forigi kanton…"
+
+#~ msgid "Import to Library"
+#~ msgstr "Importi al diskoteko"
+
+#~ msgid "Remove from Library…"
+#~ msgstr "Forigi el diskoteko…"
+
+#~ msgid "Remove from Device"
+#~ msgstr "Forigi el la aparato"
+
+#~ msgid "Remove from Queue"
+#~ msgstr "Forigi el la vico"
+
+#~ msgid "New Playlist…"
+#~ msgstr "Nova ludlisto…"
+
+#~ msgid "Import %i of %i selected songs"
+#~ msgstr "Importi %i el %i elektitaj kantoj"
+
+#~ msgid "Import %i song"
+#~ msgid_plural "Import %i songs"
+#~ msgstr[0] "Importi %i kanto"
+#~ msgstr[1] "Importi %i kantoj"
+
+#~ msgid "Delete Current"
+#~ msgstr "Forigi la aktivan"
+
+#~ msgid "Rename"
+#~ msgstr "Renomi"
+
+#~ msgid "Edit…"
+#~ msgstr "Redakti…"
+
+#~ msgid "Save as Playlist"
+#~ msgstr "Konservi kiel ludlisto"
+
+#~ msgid "Export…"
+#~ msgstr "Eksporti…"
+
+#~ msgid "Eject"
+#~ msgstr "Elĵeti"
+
+#~ msgid "New Playlist"
+#~ msgstr "Nova ludlisto"
+
+#~ msgid "New Smart Playlist"
+#~ msgstr "Nova lerta ludlisto"
+
+#~ msgid "Import Playlists"
+#~ msgstr "Importi ludlistojn"
+
+#~ msgid "Library"
+#~ msgstr "Diskoteko"
+
+#~ msgid "Devices"
+#~ msgstr "Aparatoj"
+
+#~ msgid "Network"
+#~ msgstr "Reto"
+
+#~ msgid "Add Playlist"
+#~ msgstr "Aldoni ludliston"
+
+#~ msgid "Add Smart Playlist"
+#~ msgstr "Aldoni inteligentan ludliston"
+
+#, fuzzy
+#~| msgid "Add Playlist"
+#~ msgid "Add Playlist…"
+#~ msgstr "Aldoni ludliston"
+
+#~ msgid "Equalizer: %s"
+#~ msgstr "Ekvalizilo: %s"
+
+#~ msgid "Enable Repeat"
+#~ msgstr "Ebligi ripeton"
+
+#~ msgid "Disable Repeat"
+#~ msgstr "Malebligi ripeton"
+
+#~ msgid "Disable Shuffle"
+#~ msgstr "Malebligi hazardordon"
+
+#~ msgid "View as albums"
+#~ msgstr "Prezenti laŭ albumoj"
+
+#~ msgid "View as list"
+#~ msgstr "Prezenti laŭ listo"
+
+#~ msgid "View in columns"
+#~ msgstr "Prezenti laŭ kolumnoj"
+
+#~ msgid "No similar songs found"
+#~ msgstr "Neniu kanto simila estis trovita"
+
+#~ msgid ""
+#~ "There are no songs similar to the current song in your library. Make sure "
+#~ "all song info is correct and you are connected to the Internet. Some "
+#~ "songs may not have matches."
+#~ msgstr ""
+#~ "Estas neniu kanto simila al la nuna kanto en via diskoteko. Certiĝu, ke "
+#~ "ĉiuj kantaj informoj estas ĝustaj kaj ke vi konektas al interreto. Iuj "
+#~ "kantoj povas ne kongrui."
+
+#~ msgid "Similar"
+#~ msgstr "Simila"
+
+#~ msgid "media"
+#~ msgstr "aŭdovidaĵo"
+
+#~ msgid "Similar Media"
+#~ msgstr "Simila aŭdovidaĵo"
+
+#~ msgid "Audio CD Invalid"
+#~ msgstr "Nevalida son-KD"
+
+#~ msgid "Impossible to read the contents of this Audio CD"
+#~ msgstr "Neeblas legi la enhavon de la aŭda lumdisko"
+
+#~ msgid "Could not find Music Folder"
+#~ msgstr "Neeblis trovi la dosierujon Muziko"
+
+#~ msgid ""
+#~ "Please make sure that your music folder is accessible and mounted before "
+#~ "importing the CD."
+#~ msgstr ""
+#~ "Bonvolu certiĝi ke via dosierujo Muziko estas alirebla kaj muntita antaŭ "
+#~ "ol importi la lumdiskon."
+
+#~ msgid ""
+#~ "The Application could not find any songs on the CD. No songs can be "
+#~ "imported"
+#~ msgstr ""
+#~ "La aplikaĵo ne povis trovi kanton sur la lumdisko. Neniu kanto importeblas"
+
+#~ msgid "Song imported from Audio CD."
+#~ msgstr "Kanto importita de la aŭda lumdisko."
+
+#~ msgid "%i songs imported from Audio CD."
+#~ msgstr "%i kantoj importitaj de la aŭda lumdisko."
+
+#~ msgid "Importing track %u: %s"
+#~ msgstr "Importanta kanton %u: %s"
+
+#~ msgid "CD import will be <b>cancelled</b> after current import."
+#~ msgstr "Lumdiska importo<b>rezigniĝos</b> post aktiva importo."
+
+#~ msgid "Could not import this CD"
+#~ msgstr "Ne eblis importi ĉi lumdiskon"
+
+#~ msgid "An Error Occurred"
+#~ msgstr "Okazis eraro"
+
+#~ msgid "Could not load this Audio CD."
+#~ msgstr "Neeblis ŝargi ĉi aŭdan lumdiskon."
+
+#~ msgid "Unable to import %d items from %s"
+#~ msgstr "Maleble importi %d erojn de %s"
+
+#~ msgid "%u second"
+#~ msgid_plural "%u seconds"
+#~ msgstr[0] "%u sekundo"
+#~ msgstr[1] "%u sekundoj"
+
+#~ msgid "%u minute"
+#~ msgid_plural "%u minutes"
+#~ msgstr[0] "%u minuto"
+#~ msgstr[1] "%u minutoj"
+
+#~ msgctxt "minutes and seconds"
+#~ msgid "%s and %s"
+#~ msgstr "%s kaj %s"
+
+#~ msgid "%u day"
+#~ msgid_plural "%u days"
+#~ msgstr[0] "%u tago"
+#~ msgstr[1] "%u tagoj"
+
+#~ msgid "%u hour"
+#~ msgid_plural "%u hours"
+#~ msgstr[0] "%u horo"
+#~ msgstr[1] "%u horoj"
+
+#~ msgctxt "days, hours and minutes"
+#~ msgid "%s, %s and %s"
+#~ msgstr "%s, %s kaj %s"
+
+#~ msgctxt "days and hours"
+#~ msgid "%s and %s"
+#~ msgstr "%s kaj %s"
+
+#~ msgctxt "days and minutes"
+#~ msgid "%s and %s"
+#~ msgstr "%s kaj %s"
+
+#~ msgctxt "hours and minutes"
+#~ msgid "%s and %s"
+#~ msgstr "%s kaj %s"
+
+#~ msgid "Song"
+#~ msgstr "Kanto"
+
+#~ msgid "Repeat Artist"
+#~ msgstr "Ripeti artisto"
+
+#~ msgid "Hide"
+#~ msgstr "Kaŝi"
+
+#~ msgid "Import from Device"
+#~ msgstr "Importi el aparato"
+
+#~ msgctxt "Format used on statusbar: $description, $total_duration"
+#~ msgid "%s, %s"
+#~ msgstr "%s, %s"
+
+#~ msgid "translator-credits"
+#~ msgstr ""
+#~ "Launchpad Contributions:\n"
+#~ "  Adolfo Jayme https://launchpad.net/~fitojb\n"
+#~ "  Ben Tucker https://launchpad.net/~neonofneophyte\n"
+#~ "  Cory Moulder https://launchpad.net/~cormou-deactivatedaccount\n"
+#~ "  Daniel Fore https://launchpad.net/~danrabbit\n"
+#~ "  Jesse Alter https://launchpad.net/~cprompt\n"
+#~ "  Michael Moroni https://launchpad.net/~airon90"
+
+#~ msgid "Add Podcast"
+#~ msgstr "Aldoni podkaston"
+
+#~ msgid "Download new Episodes"
+#~ msgstr "Elŝuti novajn epizodojn"
+
+#~ msgid "Edit"
+#~ msgstr "Redakti"
+
+#~ msgid "Export..."
+#~ msgstr "Eksporti..."
+
+#~ msgid "Podcasts"
+#~ msgstr "Podkastoj"
+
+#~ msgid "Unknown Artist"
+#~ msgstr "Nekonata artisto"
+
+#~ msgid "Radio Station"
+#~ msgstr "Radistacio"
+
+#~ msgid "Unknown Title"
+#~ msgstr "Nekonata titolo"
+
+#~ msgid "Unknown Album"
+#~ msgstr "Nekonata albumo"
+
+#~ msgid "Done"
+#~ msgstr "Farita"
+
+#~ msgid "Do Nothing"
+#~ msgstr "Fari nenion"
+
+#~ msgid "%d second"
+#~ msgid_plural "%d seconds"
+#~ msgstr[0] "%d sekundo"
+#~ msgstr[1] "%d sekundoj"
+
+#~ msgid "Listen to music"
+#~ msgstr "Aŭskultu muzikon"
+
+#~ msgid "Last.fm"
+#~ msgstr "Last.fm"
+
+#~ msgid "Details"
+#~ msgstr "Detaloj"

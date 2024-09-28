@@ -1,0 +1,132 @@
+# Luxembourgish translation for noise
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the noise package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: noise\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-01 10:32+0000\n"
+"PO-Revision-Date: 2024-05-19 17:13+0000\n"
+"Last-Translator: Arno <arnoant21@gmail.com>\n"
+"Language-Team: Luxembourgish <https://l10n.phyreos.io/projects/music/"
+"extra/lb/>\n"
+"Language: lb\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.5\n"
+"X-Launchpad-Export-Date: 2017-03-07 05:56+0000\n"
+
+#: data/music.metainfo.xml.in:10 data/music.desktop.in:6
+msgid "Music"
+msgstr "Musek"
+
+#: data/music.metainfo.xml.in:11
+msgid "Queue and play local audio files"
+msgstr "Lokal Audiodateien an der Wardeschlaang stellen an ofspillen"
+
+#: data/music.metainfo.xml.in:13
+msgid ""
+"Quickly queue up and listen to your local music files without any extra "
+"frills. See embedded album artwork. Control playback with media keys or in "
+"the system audio indicator."
+msgstr ""
+"Schnell an der Wardeschlaang stellen an lauschtert Är lokal Audiodateien "
+"ouni Problemer. Kuckt embedéiert Albumkonscht. Kontrolléiert de Playback mat "
+"Medienknäppchen oder am System Audio Indikator."
+
+#: data/music.metainfo.xml.in:18
+msgid "Quickly queue up your favorite tracks"
+msgstr "Är léifsten Titel séier an d'Wardeschlaang stellen"
+
+#: data/music.metainfo.xml.in:59 data/music.metainfo.xml.in:70
+#: data/music.metainfo.xml.in:84
+msgid "Improvements:"
+msgstr "Verbesserungen:"
+
+#: data/music.metainfo.xml.in:61
+msgid "Toolbar shows a shadow when the view is scrolled"
+msgstr ""
+
+#: data/music.metainfo.xml.in:62
+#, fuzzy
+#| msgid "Open folders in the filemanager with Music"
+msgid "Open audio files from within Music"
+msgstr "Dossieren an Dateien-Manager mat Musek opmaachen"
+
+#: data/music.metainfo.xml.in:63 data/music.metainfo.xml.in:73
+#: data/music.metainfo.xml.in:106
+msgid "Updated translations"
+msgstr "Aktualiséiert Iwwersetzungen"
+
+#: data/music.metainfo.xml.in:72
+msgid "Open folders in the filemanager with Music"
+msgstr "Dossieren an Dateien-Manager mat Musek opmaachen"
+
+#: data/music.metainfo.xml.in:86
+msgid "For tracks without a title, use the file name instead of the whole URI"
+msgstr ""
+"Fir Musek Titel ouni Titel, benotzt d'Dateinumm amplaz vun der ganzer URI"
+
+#: data/music.metainfo.xml.in:87
+msgid "Skip invalid files instead of stopping playback"
+msgstr "Invalid Dateien iwwersprangen amplaz den Ofspillen ze stoppen"
+
+#: data/music.metainfo.xml.in:88
+msgid "Next and Repeat buttons always work regardless of repeat mode"
+msgstr ""
+"\"Nächsten\" and \"Widderhuelen\" Knäppercher fuktionéieren onofhängeg vum "
+"Widderhuel-Modus"
+
+#: data/music.metainfo.xml.in:89
+msgid ""
+"Now available in Catalan, Dutch, Finnish, French, German, Hebrew, Hungarian, "
+"Japanese, Korean, Kurdish, Marathi, Norwegian Bokmål, Polish, Portuguese, "
+"Russian, Simplified Chinese, Turkish, and Ukrainian"
+msgstr ""
+"Elo verfügbar op Katalanesch, Hollännesch, Finnesch, Franséisch, Däitsch, "
+"Hebräesch, Ungaresch, Japanesch, Koreanesch, Kurdesch, Marathi, Norwegesch "
+"Bokmål, Polnesch, Portugisesch, Russesch, Vereinfacht Chinesesch, Türkesch, "
+"Ukrainesch a Lëtzebuergesch"
+
+#: data/music.metainfo.xml.in:99
+msgid "Complete rewrite"
+msgstr "Komplett nei geschriwwen"
+
+#: data/music.metainfo.xml.in:105
+msgid "Drop support for Last.FM"
+msgstr "Last.FM Ënnerstëtzung gestoppt"
+
+#: data/music.desktop.in:7
+msgid "Listen to music"
+msgstr "Lauschtert Musek"
+
+#: data/music.desktop.in:9
+msgid "Noise;Audio;Player;MP3;Play;Playlist;Media;Songs;"
+msgstr ""
+"Noise;Audio;Player;MP3;Play;Playlist;Media;Songs;Geräischer;Audio;Spiller;"
+"MP3;Ofspillen;Playlist;Medien;Lidder;"
+
+#~ msgid "Phyre Ltd."
+#~ msgstr "Phyre Ltd."
+
+#~ msgid "Fix an issue with saving smart playlists"
+#~ msgstr "E Feeler fixéiert dee geschitt, wann Dir Smart Playlists späichert"
+
+#~ msgid "Drop support for CD-ROM"
+#~ msgstr "CD-Rom Ënnerstëtzung gestoppt"
+
+#~ msgid "Dark style support"
+#~ msgstr "Donkel-Modus Ënnerstëtzung"
+
+#~ msgid "Minor visual improvements"
+#~ msgstr "Kleng visuell Verbesserungen"
+
+#~ msgid "Music Player"
+#~ msgstr "Musekspiller"
+
+#~ msgid "About Music"
+#~ msgstr "Iwer Musek"

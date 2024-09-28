@@ -1,0 +1,266 @@
+# Turkish translation for beat-box
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the beat-box package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: beat-box\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-01 10:32+0000\n"
+"PO-Revision-Date: 2024-09-21 03:16+0000\n"
+"Last-Translator: Sinan Decron <sinanveyasinan@gmail.com>\n"
+"Language-Team: Turkish <https://l10n.phyreos.io/projects/music/extra/tr/>"
+"\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.6.2\n"
+"X-Launchpad-Export-Date: 2017-03-07 05:56+0000\n"
+
+#: data/music.metainfo.xml.in:10 data/music.desktop.in:6
+msgid "Music"
+msgstr "Müzik"
+
+#: data/music.metainfo.xml.in:11
+msgid "Queue and play local audio files"
+msgstr "Yerel ses dosyalarını sıraya alın ve çalın"
+
+#: data/music.metainfo.xml.in:13
+msgid ""
+"Quickly queue up and listen to your local music files without any extra "
+"frills. See embedded album artwork. Control playback with media keys or in "
+"the system audio indicator."
+msgstr ""
+"Yerel müzik dosyalarınızı hızlı bir şekilde sıraya alın ve fazla gösteriş "
+"olmadan dinleyin. Eklenmiş albüm resimlerini görün. Medya tuşlarıyla veya "
+"sistem ses göstergesiyle çalan müziği kontrol edin."
+
+#: data/music.metainfo.xml.in:18
+msgid "Quickly queue up your favorite tracks"
+msgstr "En sevdiğiniz parçaları hızlı bir şekilde sıraya alın"
+
+#: data/music.metainfo.xml.in:59 data/music.metainfo.xml.in:70
+#: data/music.metainfo.xml.in:84
+msgid "Improvements:"
+msgstr "İyileştirmeler:"
+
+#: data/music.metainfo.xml.in:61
+msgid "Toolbar shows a shadow when the view is scrolled"
+msgstr "Görünüm kaydırıldığında araç çubuğu bir gölge gösterir"
+
+#: data/music.metainfo.xml.in:62
+msgid "Open audio files from within Music"
+msgstr "Müzik içinden ses dosyalarını açın"
+
+#: data/music.metainfo.xml.in:63 data/music.metainfo.xml.in:73
+#: data/music.metainfo.xml.in:106
+msgid "Updated translations"
+msgstr "Çeviriler güncellendi"
+
+#: data/music.metainfo.xml.in:72
+msgid "Open folders in the filemanager with Music"
+msgstr "Müzik ile dosya yöneticisindeki klasörleri açın"
+
+#: data/music.metainfo.xml.in:86
+msgid "For tracks without a title, use the file name instead of the whole URI"
+msgstr "Başlığı olmayan parçalar için tüm URI yerine dosya adını kullan"
+
+#: data/music.metainfo.xml.in:87
+msgid "Skip invalid files instead of stopping playback"
+msgstr "Oynatmayı durdurmak yerine geçersiz dosyaları atla"
+
+#: data/music.metainfo.xml.in:88
+msgid "Next and Repeat buttons always work regardless of repeat mode"
+msgstr ""
+"Sonraki ve Tekrar düğmeleri, tekrarlama modundan bağımsız olarak her zaman "
+"çalışır"
+
+#: data/music.metainfo.xml.in:89
+msgid ""
+"Now available in Catalan, Dutch, Finnish, French, German, Hebrew, Hungarian, "
+"Japanese, Korean, Kurdish, Marathi, Norwegian Bokmål, Polish, Portuguese, "
+"Russian, Simplified Chinese, Turkish, and Ukrainian"
+msgstr ""
+"Artık Katalanca, Felemenkçe, Fince, Fransızca, Almanca, İbranice, Macarca, "
+"Japonca, Korece, Kürtçe, Marathi, Norveççe Bokmål, Lehçe, Portekizce, Rusça, "
+"Basitleştirilmiş Çince, Türkçe ve Ukraynaca dillerinde mevcuttur"
+
+#: data/music.metainfo.xml.in:99
+msgid "Complete rewrite"
+msgstr "Tamamen yeniden yazıldı"
+
+#: data/music.metainfo.xml.in:105
+msgid "Drop support for Last.FM"
+msgstr "Last.FM desteği sonlandırıldı"
+
+#: data/music.desktop.in:7
+msgid "Listen to music"
+msgstr "Müzik dinle"
+
+#: data/music.desktop.in:9
+msgid "Noise;Audio;Player;MP3;Play;Playlist;Media;Songs;"
+msgstr ""
+"Noise;Ses;Oynatıcı;MP3;iPod;Çal;Çalma Listesi;Medya;Şarkılar;Audio;Player;"
+"Play;Playlist;Media;Songs;"
+
+#~ msgid "Phyre Ltd."
+#~ msgstr "Phyre Ltd."
+
+#~ msgid "Fix an issue with saving smart playlists"
+#~ msgstr "Akıllı çalma listelerini kaydetmeyle ilgili bir sorun düzeltildi"
+
+#~ msgid "Drop support for CD-ROM"
+#~ msgstr "CD-ROM desteği sonlandırıldı"
+
+#~ msgid "Dark style support"
+#~ msgstr "Koyu renk tema desteği eklendi"
+
+#~ msgid "Minor visual improvements"
+#~ msgstr "Küçük görsel iyileştirmeler"
+
+#~ msgid "Music Player"
+#~ msgstr "Müzik Çalar"
+
+#~ msgid "Fix removing items from the queue"
+#~ msgstr "Öğelerin kuyruktan kaldırılması düzeltildi"
+
+#~ msgid "Fix equalizer sliders not properly disabled sometimes"
+#~ msgstr ""
+#~ "Ekolayzır kaydıraklarının bazen düzgün bir şekilde devre dışı "
+#~ "bırakılamaması düzeltildi"
+
+#~ msgid "Performance improvements"
+#~ msgstr "Performans iyileştirmeleri"
+
+#~ msgid "Removed old gsignond vapi"
+#~ msgstr "Eski gsignond vapi kaldırıldı"
+
+#~ msgid "LibraryWindow: Use Granite.MessageDialog for showing alerts"
+#~ msgstr ""
+#~ "Uyarıları göstermek için LibraryWindow: Granite.MessageDialog kullanılıyor"
+
+#~ msgid "PlaylistsUtils: Use Gtk.FileChooserNative"
+#~ msgstr "PlaylistsUtils: Gtk.FileChooserNative kullanılıyor"
+
+#~ msgid "Accurately remember window size"
+#~ msgstr "Pencere boyutları doğru bir şekilde hatırlanır"
+
+#~ msgid "Scale album art properly at high resolutions"
+#~ msgstr "Yüksek çözünürlükte albüm görselleri düzgün bir şekilde boyutlanır"
+
+#~ msgid ""
+#~ "Accurately select Music Folder Location for directories with spaces in "
+#~ "name"
+#~ msgstr ""
+#~ "Adında boşluk bulunan dizinler için Müzik Klasörü Konumu'nu doğru seçilir"
+
+#~ msgid "New MediaKeyListener path for gnome-settings-daemon"
+#~ msgstr "gnome-settings-daemon için yeni MediaKeyListener yolu"
+
+#~ msgid "AlbumView: double-click to play album"
+#~ msgstr "AlbümGörünümü: albümü çalmak için çift tıklatın"
+
+#~ msgid "Associate with s3m files"
+#~ msgstr "s3m dosyaları ile ilişkilendir"
+
+#~ msgid "Queue fixes"
+#~ msgstr "Kuyruk düzeltmeleri"
+
+#~ msgid "Properly restore playlists"
+#~ msgstr "Çalma listelerini düzgünce geri yükleme"
+
+#~ msgid "Always respect custom music folder setting"
+#~ msgstr "Her zaman özel müzik klasörü ayarına uy"
+
+#~ msgid "Minor bug fixes"
+#~ msgstr "Küçük hata düzeltmeleri"
+
+#~ msgid "Fix list and column view sorting"
+#~ msgstr "Liste ve sütun görünümü sıralaması düzeltildi"
+
+#~ msgid "Add orange accent color"
+#~ msgstr "Turuncu vurgulama rengi eklendi"
+
+#~ msgid "Add shortcut accels to tooltips"
+#~ msgstr "Araç ipuçlarına kısayol erişimleri eklendi"
+
+#~ msgid "Various UI changes"
+#~ msgstr "Çeşitli kullanıcı arayüzü (UI) değişiklikleri"
+
+#~ msgid "Shuffle fixes"
+#~ msgstr "Karıştır özelliği düzeltmeleri"
+
+#~ msgid "Initial MPRIS support"
+#~ msgstr "MPRIS desteği eklendi"
+
+#~ msgid "Detect library changes at startup."
+#~ msgstr "Başlangıçta kitaplıktaki değişiklikleri algıla."
+
+#~ msgid "Support searching by URI"
+#~ msgstr "URI ile arama desteği"
+
+#~ msgid "Change the queue mechanism to make it less confusing."
+#~ msgstr ""
+#~ "Daha az kafa karıştırıcı olması için kuyruk mekanizması değiştirildi."
+
+#~ msgid "Improve equalizer style."
+#~ msgstr "Equalizer tarzı iyileştirildi."
+
+#~ msgid "Minor bug fixes."
+#~ msgstr "Küçük hata düzeltmeleri."
+
+#~ msgid "Add rounded bottom window corner."
+#~ msgstr "Pencere alt köşeleri yuvarlatıldı."
+
+#~ msgid "New translations"
+#~ msgstr "Yeni çeviriler"
+
+#~ msgid "Release for Loki."
+#~ msgstr "Loki için yayınlandı."
+
+#~ msgid "Add support for Opus Ogg"
+#~ msgstr "Opus Ogg desteği eklendi"
+
+#~ msgid "Fix Ctrl+Q support for non-Latin keyboard layouts"
+#~ msgstr "Latin olmayan klavye düzenleri için Ctrl+Q desteği düzeltildi"
+
+#~ msgid "Reorganize media edition layout"
+#~ msgstr "Medya sürümü düzeni yeniden düzenlendi"
+
+#~ msgid "Port grid to support HiDPI displays"
+#~ msgstr "HiDPI ekranları desteklemek için port ızgarası"
+
+#~ msgid "Update icons to latest elementary icon release"
+#~ msgstr "Simgeler en son elementary simge sürümüne güncellendi"
+
+#~ msgid "Respect privacy mode"
+#~ msgstr "Gizlilik modunu dikkate al"
+
+#~ msgid "The official elementary music player"
+#~ msgstr "Resmi elementary müzik çaları"
+
+#~ msgid ""
+#~ "Music is a fast and beautiful audio player with a focus on music and "
+#~ "libraries. It handles external devices and album art."
+#~ msgstr ""
+#~ "Müzik, senin müziklerine ve kütüphanene yoğunlaşan hızlı ve güzel bir ses "
+#~ "oynatıcısıdır. Harici cihazların ve albüm kapaklarının üstesinden "
+#~ "rahatlıkla gelir."
+
+#~ msgid "io.phyre.music"
+#~ msgstr "io.phyre.music"
+
+#~ msgid "multimedia-audio-player"
+#~ msgstr "multimedia-audio-player"
+
+#~ msgid "About Music"
+#~ msgstr "Müzik Hakkında"
+
+#~ msgid "Noise"
+#~ msgstr "Noise"
+
+#~ msgid "About Noise"
+#~ msgstr "Noise Hakkında"

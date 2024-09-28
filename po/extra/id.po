@@ -1,0 +1,268 @@
+# Indonesian translation for beat-box
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the beat-box package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: beat-box\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-01 10:32+0000\n"
+"PO-Revision-Date: 2023-05-27 17:07+0000\n"
+"Last-Translator: Faisal Rachmadin <frachmadin@users.noreply.l10n.elementary."
+"io>\n"
+"Language-Team: Indonesian <https://l10n.phyreos.io/projects/music/extra/"
+"id/>\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.17\n"
+"X-Launchpad-Export-Date: 2017-03-07 05:56+0000\n"
+
+#: data/music.metainfo.xml.in:10 data/music.desktop.in:6
+msgid "Music"
+msgstr "Musik"
+
+#: data/music.metainfo.xml.in:11
+msgid "Queue and play local audio files"
+msgstr "Mengantre dan memutar berkas audio lokal"
+
+#: data/music.metainfo.xml.in:13
+msgid ""
+"Quickly queue up and listen to your local music files without any extra "
+"frills. See embedded album artwork. Control playback with media keys or in "
+"the system audio indicator."
+msgstr ""
+"Mengantre dengan cepat dan dengarkan berkas musik lokal Anda tanpa embel-"
+"embel tambahan. Lihat sampul album yang disematkan. Mengendali pemutaran "
+"dengan tombol media atau di indikator audio sistem."
+
+#: data/music.metainfo.xml.in:18
+msgid "Quickly queue up your favorite tracks"
+msgstr "Mengantre trek favorit Anda dengan cepat"
+
+#: data/music.metainfo.xml.in:59 data/music.metainfo.xml.in:70
+#: data/music.metainfo.xml.in:84
+msgid "Improvements:"
+msgstr "Peningkatan:"
+
+#: data/music.metainfo.xml.in:61
+msgid "Toolbar shows a shadow when the view is scrolled"
+msgstr ""
+
+#: data/music.metainfo.xml.in:62
+#, fuzzy
+#| msgid "Open folders in the filemanager with Music"
+msgid "Open audio files from within Music"
+msgstr "Membuka folder di pengelola berkas dengan Musik"
+
+#: data/music.metainfo.xml.in:63 data/music.metainfo.xml.in:73
+#: data/music.metainfo.xml.in:106
+msgid "Updated translations"
+msgstr "Pembaruan terjemahan"
+
+#: data/music.metainfo.xml.in:72
+msgid "Open folders in the filemanager with Music"
+msgstr "Membuka folder di pengelola berkas dengan Musik"
+
+#: data/music.metainfo.xml.in:86
+msgid "For tracks without a title, use the file name instead of the whole URI"
+msgstr "Untuk trek tanpa judul, gunakan nama berkas, bukan seluruh URI"
+
+#: data/music.metainfo.xml.in:87
+msgid "Skip invalid files instead of stopping playback"
+msgstr "Lewati berkas yang tidak valid alih-alih menghentikan pemutaran"
+
+#: data/music.metainfo.xml.in:88
+msgid "Next and Repeat buttons always work regardless of repeat mode"
+msgstr ""
+"Tombol Berikutnya dan Ulangi selalu berfungsi terlepas dari mode pengulangan"
+
+#: data/music.metainfo.xml.in:89
+msgid ""
+"Now available in Catalan, Dutch, Finnish, French, German, Hebrew, Hungarian, "
+"Japanese, Korean, Kurdish, Marathi, Norwegian Bokmål, Polish, Portuguese, "
+"Russian, Simplified Chinese, Turkish, and Ukrainian"
+msgstr ""
+"Kini tersedia dalam bahasa Katalan, Belanda, Finlandia, Prancis, Jerman, "
+"Ibrani, Hongaria, Jepang, Korea, Kurdi, Marathi, Bokmål Norwegia, Polandia, "
+"Portugis, Rusia, Tionghoa Sederhana, Turki, dan Ukraina"
+
+#: data/music.metainfo.xml.in:99
+msgid "Complete rewrite"
+msgstr "Penulisan ulang lengkap"
+
+#: data/music.metainfo.xml.in:105
+msgid "Drop support for Last.FM"
+msgstr "Melepas dukungan untuk Last.FM"
+
+#: data/music.desktop.in:7
+msgid "Listen to music"
+msgstr "Dengarkan musik"
+
+#: data/music.desktop.in:9
+msgid "Noise;Audio;Player;MP3;Play;Playlist;Media;Songs;"
+msgstr "Kebisingan;Audio;Pemutar;MP3;Memutar;Daftar putar;Media;Lagu;"
+
+#~ msgid "Phyre Ltd."
+#~ msgstr "Phyre Ltd."
+
+#~ msgid "Fix an issue with saving smart playlists"
+#~ msgstr "Memperbaiki masalah saat menyimpan daftar putar pintar"
+
+#~ msgid "Drop support for CD-ROM"
+#~ msgstr "Melepas dukungan untuk CD-ROM"
+
+#~ msgid "Dark style support"
+#~ msgstr "Dukungan gaya gelap"
+
+#~ msgid "Minor visual improvements"
+#~ msgstr "Peningkatan visual kecil"
+
+#~ msgid "Music Player"
+#~ msgstr "Pemutar Musik"
+
+#~ msgid "Drag and drop whole folders into the queue"
+#~ msgstr "Seret dan jatuhkan seluruh folder ke dalam antrean"
+
+#~ msgid "Fix removing items from the queue"
+#~ msgstr "Perbaikan hapus lagu-lagu dari antrean"
+
+#~ msgid "Fix equalizer sliders not properly disabled sometimes"
+#~ msgstr ""
+#~ "Perbaikan tombol penyelaras terkadang tidak dinonaktifkan dengan baik"
+
+#~ msgid "Performance improvements"
+#~ msgstr "Peningkatan kinerja"
+
+#~ msgid "Removed old gsignond vapi"
+#~ msgstr "Hapus gsignond vapi lama"
+
+#~ msgid "LibraryWindow: Use Granite.MessageDialog for showing alerts"
+#~ msgstr ""
+#~ "JendelaPustaka: Menggunakan Granite.MessageDialog untuk menampilkan "
+#~ "peringatan"
+
+#~ msgid "PlaylistsUtils: Use Gtk.FileChooserNative"
+#~ msgstr "UtilitasDaftarPutar: Menggunakan Gtk.FileChooserNative"
+
+#~ msgid "Accurately remember window size"
+#~ msgstr "Ingat ukuran jendela secara akurat"
+
+#~ msgid "Scale album art properly at high resolutions"
+#~ msgstr "Penskalaan dengan baik gambar album pada resolusi tinggi"
+
+#~ msgid ""
+#~ "Accurately select Music Folder Location for directories with spaces in "
+#~ "name"
+#~ msgstr ""
+#~ "Pilih Lokasi Folder Musik dengan akurat untuk nama direktori yang "
+#~ "memiliki spasi"
+
+#~ msgid "New MediaKeyListener path for gnome-settings-daemon"
+#~ msgstr "Jalur MediaKeyListener Baru untuk gnome-settings-daemon"
+
+#~ msgid "AlbumView: double-click to play album"
+#~ msgstr "TampilanAlbum: klik dua kali untuk memainkan album"
+
+#~ msgid "Associate with s3m files"
+#~ msgstr "Mengasosiasikan dengan berkas s3m"
+
+#~ msgid "Queue fixes"
+#~ msgstr "Perbaikan antrean"
+
+#~ msgid "Properly restore playlists"
+#~ msgstr "Pulihkan daftar putar dengan baik"
+
+#~ msgid "Always respect custom music folder setting"
+#~ msgstr "Selalu hormati pengaturan folder musik yang disesuaikan"
+
+#~ msgid "Minor bug fixes"
+#~ msgstr "Perbaikan bug kecil"
+
+#~ msgid "Fix list and column view sorting"
+#~ msgstr "Perbaikan urutan pada tampilan daftar dan kolom"
+
+#~ msgid "Add orange accent color"
+#~ msgstr "Tambah warna aksen jingga"
+
+#~ msgid "Add shortcut accels to tooltips"
+#~ msgstr "Tambah akselerasi pintas ke alat tips"
+
+#~ msgid "Various UI changes"
+#~ msgstr "Berbagai perubahan UI"
+
+#~ msgid "Shuffle fixes"
+#~ msgstr "Perbaikan shuffle"
+
+#~ msgid "Initial MPRIS support"
+#~ msgstr "Awal dukungan MPRIS"
+
+#~ msgid "Detect library changes at startup."
+#~ msgstr "Deteksi perubahan pustaka pada saat memulai."
+
+#~ msgid "Support searching by URI"
+#~ msgstr "Dukungan pencarian dengan URI"
+
+#~ msgid "Change the queue mechanism to make it less confusing."
+#~ msgstr "Merubah mekanisme antrean agar lebih mudah dimengerti."
+
+#~ msgid "Improve equalizer style."
+#~ msgstr "Meningkatkan gaya penyelaras."
+
+#~ msgid "Minor bug fixes."
+#~ msgstr "Perbaikan bug kecil."
+
+#~ msgid "Add rounded bottom window corner."
+#~ msgstr "Menambahkan sudut bawah jendela yang membulat."
+
+#~ msgid "New translations"
+#~ msgstr "Terjemahan baru"
+
+#~ msgid "Release for Loki."
+#~ msgstr "Rilis untuk Loki."
+
+#~ msgid "Add support for Opus Ogg"
+#~ msgstr "Menambahkan dukungan untuk Opus Ogg"
+
+#~ msgid "Fix Ctrl+Q support for non-Latin keyboard layouts"
+#~ msgstr "Perbaikan dukungan Ctrl+Q untuk  tata letak papan tik non-Latin"
+
+#~ msgid "Reorganize media edition layout"
+#~ msgstr "Mengatur ulang tata letak edisi media"
+
+#~ msgid "Port grid to support HiDPI displays"
+#~ msgstr "Port grid untuk mendukung tampilan HiDPI"
+
+#~ msgid "Update icons to latest elementary icon release"
+#~ msgstr "Pembaruan ikon ke rilisan terakhir ikon elementary"
+
+#~ msgid "Respect privacy mode"
+#~ msgstr "Hormati mode privasi"
+
+#~ msgid "The official elementary music player"
+#~ msgstr "Pemutar musik resmi elementary"
+
+#, fuzzy
+#~ msgid ""
+#~ "Music is a fast and beautiful audio player with a focus on music and "
+#~ "libraries. It handles external devices and album art."
+#~ msgstr ""
+#~ "Musik adalah pemutar audio yang cepat dan indah dengan fokus pada musik "
+#~ "dan pustaka. Ini menangani perangkat eksternal, CD, dan kesenian album."
+
+#~ msgid "io.phyre.music"
+#~ msgstr "io.phyre.music"
+
+#~ msgid "multimedia-audio-player"
+#~ msgstr "pemutar-audio-multimedia"
+
+#~ msgid "About Music"
+#~ msgstr "Tentang Musik"
+
+#~ msgid "Noise"
+#~ msgstr "Bising"
+
+#~ msgid "About Noise"
+#~ msgstr "Tentang Bising"

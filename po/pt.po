@@ -1,0 +1,1878 @@
+# Portuguese translation for beat-box
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the beat-box package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: noise\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-01 10:32+0000\n"
+"PO-Revision-Date: 2022-12-20 23:25+0000\n"
+"Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
+"Language-Team: Portuguese <https://l10n.phyreos.io/projects/music/music/"
+"pt/>\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.14.2\n"
+"X-Launchpad-Export-Date: 2017-03-07 05:54+0000\n"
+
+#: src/Application.vala:92 src/Views/NowPlayingView.vala:18
+#: src/Views/NowPlayingView.vala:116
+msgid "Music"
+msgstr "Música"
+
+#: src/MainWindow.vala:20
+msgid "Shuffle"
+msgstr "Aleatório"
+
+#: src/MainWindow.vala:26
+msgid "Search titles in playlist"
+msgstr ""
+
+#: src/MainWindow.vala:45
+msgid "Queue is Empty"
+msgstr "A fila de espera está vazia"
+
+#: src/MainWindow.vala:46
+msgid "Audio files opened from Files will appear here"
+msgstr "Os ficheiros áudio abertos a partir do Ficheiros aparecerão aqui"
+
+#: src/MainWindow.vala:63
+#, fuzzy
+#| msgid "Other Files"
+msgid "Open Files…"
+msgstr "Outros ficheiros"
+
+#: src/MainWindow.vala:167
+#, c-format
+msgid "%d invalid file was not added to the queue"
+msgid_plural "%d invalid files were not added to the queue"
+msgstr[0] "%d ficheiro inválido não foi adicionado à fila"
+msgstr[1] "%d ficheiros inválidos não foram adicionados à fila"
+
+#: src/MainWindow.vala:215
+#, fuzzy
+#| msgid "All Years"
+msgid "All files"
+msgstr "Todos os anos"
+
+#: src/MainWindow.vala:220
+#, fuzzy
+#| msgid "Music Folder"
+msgid "Music files"
+msgstr "Pasta de músicas"
+
+#: src/MainWindow.vala:229
+msgid "Open"
+msgstr "Abrir"
+
+#: src/MainWindow.vala:233
+msgid "Open audio files"
+msgstr ""
+
+#: src/MainWindow.vala:271
+msgid "Repeat None"
+msgstr "Não repetir nenhuma"
+
+#: src/MainWindow.vala:275
+msgid "Repeat All"
+msgstr "Repetir tudo"
+
+#: src/MainWindow.vala:279
+msgid "Repeat One"
+msgstr "Repetir uma"
+
+#: src/PlaybackManager.vala:136
+#, c-format
+msgid "%d track was added to the queue"
+msgid_plural "%d tracks were added to the queue"
+msgstr[0] "%d faixa foi adicionada à fila"
+msgstr[1] "%d faixas foram adicionadas à fila"
+
+#. Don't set artist for files without tags
+#: src/PlaybackManager.vala:196
+msgid "Unknown"
+msgstr "Desconhecido"
+
+#: src/Views/NowPlayingView.vala:23 src/Views/NowPlayingView.vala:115
+msgid "Not playing"
+msgstr "Sem reproduzir"
+
+#: src/Views/NowPlayingView.vala:45
+msgid "Previous"
+msgstr "Anterior"
+
+#: src/Views/NowPlayingView.vala:68
+msgid "Next"
+msgstr "Seguinte"
+
+#: src/Views/NowPlayingView.vala:93
+msgid "Play"
+msgstr "Reproduzir"
+
+#: src/Views/NowPlayingView.vala:96
+msgid "Pause"
+msgstr "Pausa"
+
+#~ msgid "Importing <b>$NAME</b> by <b>$ARTIST</b> to library…"
+#~ msgstr "A importar <b>$NAME</b> de <b>$ARTIST</b> para a coleção…"
+
+#~ msgid "$NAME on $ALBUM"
+#~ msgstr "$NAME em $ALBUM"
+
+#~ msgid "$NAME by $ARTIST"
+#~ msgstr "$NAME de $ARTIST"
+
+#~ msgid "$NAME by $ARTIST on $ALBUM"
+#~ msgstr "$NAME de $ARTIST em $ALBUM"
+
+#~ msgid "Flat"
+#~ msgstr "Plano"
+
+#~ msgid "Classical"
+#~ msgstr "Clássico"
+
+#~ msgid "Club"
+#~ msgstr "Clube"
+
+#~ msgid "Dance"
+#~ msgstr "Dança"
+
+#~ msgid "Full Bass"
+#~ msgstr "Graves"
+
+#~ msgid "Full Treble"
+#~ msgstr "Agudos"
+
+#~ msgid "Full Bass + Treble"
+#~ msgstr "Graves + Agudos"
+
+#~ msgid "Headphones"
+#~ msgstr "Auscultadores"
+
+#~ msgid "Large Hall"
+#~ msgstr "Sala ampla"
+
+#~ msgid "Live"
+#~ msgstr "Ao vivo"
+
+#~ msgid "Party"
+#~ msgstr "Festa"
+
+#~ msgid "Pop"
+#~ msgstr "Pop"
+
+#~ msgid "Reggae"
+#~ msgstr "Reggae"
+
+#~ msgid "Rock"
+#~ msgstr "Rock"
+
+#~ msgid "Soft"
+#~ msgstr "Suave"
+
+#~ msgid "Ska"
+#~ msgstr "Ska"
+
+#~ msgid "Soft Rock"
+#~ msgstr "Rock calmo"
+
+#~ msgid "Techno"
+#~ msgstr "Techno"
+
+#~ msgid " (%d)"
+#~ msgstr " (%d)"
+
+#~ msgid "%s (%d)"
+#~ msgstr "%s (%d)"
+
+#~ msgid "%s (%i)"
+#~ msgstr "%s (%i)"
+
+#~ msgid "MPEG Version 3.0 Extended (*.m3u)"
+#~ msgstr "MPEG Versão 3.0 (*.m3u)"
+
+#~ msgid "Shoutcast Playlist Version 2.0 (*.pls)"
+#~ msgstr "Lista de reprodução Shoutcast versão 2.0 (*.pls)"
+
+#~ msgid "Export Playlist"
+#~ msgstr "Exportar lista de reprodução"
+
+#~ msgid "Save"
+#~ msgstr "Guardar"
+
+#~ msgid "Cancel"
+#~ msgstr "Cancelar"
+
+#~ msgid "Playlist"
+#~ msgstr "Lista de reprodução"
+
+#~ msgid "Import %s"
+#~ msgstr "Importar %s"
+
+#~ msgid "Unrecognized playlist file. Import failed."
+#~ msgstr "Ficheiro não reconhecido. Falha ao importar."
+
+#~ msgid "%m/%e/%Y %l:%M %p"
+#~ msgstr "%e/%m/%Y %H:%M"
+
+#~ msgid "Empty device!"
+#~ msgstr "Dispositivo vazio!"
+
+#~ msgid "This device does not contain any music."
+#~ msgstr "O dispositivo não possui nenhuma música."
+
+#~ msgid "Android Phone"
+#~ msgstr "Telefone Android"
+
+#~ msgid "Audio Player"
+#~ msgstr "Reprodutor de áudio"
+
+#~ msgid "Adding <b>$NAME</b> by <b>$ARTIST</b> to $DEVICE"
+#~ msgstr "A adicionar <b>$NAME</b> de <b>$ARTIST</b> a $DEVICE"
+
+#~ msgid "Syncing <b>%s</b>…"
+#~ msgstr "A sincronizar <b>%s</b>…"
+
+#~ msgid "Removing <b>$NAME</b> by <b>$ARTIST</b> from $DEVICE"
+#~ msgstr "A remover <b>$NAME</b> de <b>$ARTIST</b> do dispositivo $DEVICE"
+
+#~ msgid "Removing from <b>%s</b>…"
+#~ msgstr "A remover de <b>%s</b>…"
+
+#~ msgid "Finishing sync process…"
+#~ msgstr "A terminar sincronização…"
+
+#~ msgid "Cancelling Sync…"
+#~ msgstr "A cancelar sincronização…"
+
+#~ msgid "Import Complete"
+#~ msgstr "Importação terminada"
+
+#~ msgid "Your Library Has Been Imported."
+#~ msgstr "A sua biblioteca foi importada."
+
+#~ msgid "<b>Copying</b> files to <b>Music Folder</b>…"
+#~ msgstr "A <b>copiar</b> ficheiros para a <b>pasta de músicas</b>…"
+
+#~ msgid "Import to Library…"
+#~ msgstr "Importar para a coleção…"
+
+#~ msgid "Preferences"
+#~ msgstr "Preferências"
+
+#~ msgid "Search Music"
+#~ msgstr "Procurar faixas"
+
+#~ msgid "No songs in Queue"
+#~ msgstr "Sem faixas na fila de reprodução"
+
+#~ msgid ""
+#~ "To add songs to the queue, use the <b>secondary click</b> on an item and "
+#~ "choose <b>Queue</b>. When a song finishes, the queued songs will be "
+#~ "played first before the next song in the currently playing list."
+#~ msgstr ""
+#~ "Para adicionar faixas à fila de reprodução, utilize o <b>botão direito do "
+#~ "rato</b> e escolha <b>Colocar na fila</b>. Assim que uma faixa termine, "
+#~ "as faixas que estiverem na fila serão reproduzidas antes da faixa "
+#~ "seguinte da lista de reprodução."
+
+#~ msgid "No songs in History"
+#~ msgstr "Sem faixas no histórico"
+
+#~ msgid ""
+#~ "After a part of a song has been played, it is added to the history list.\n"
+#~ "You can use this list to see all the songs you have played during the "
+#~ "current session."
+#~ msgstr ""
+#~ "Assim que alguma parte de uma faixa seja reproduzida, esta é adicionada "
+#~ "ao histórico.\n"
+#~ "Pode utilizar esta lista para consultar todas as faixas que foram "
+#~ "reproduzidas durante a sessão."
+
+#~ msgid "Import Music"
+#~ msgstr "Importar músicas"
+
+#~ msgctxt "Name of the playlist"
+#~ msgid "Queue"
+#~ msgstr "Fila de Reprodução"
+
+#~ msgid "File not found"
+#~ msgstr "Ficheiro não encontrado"
+
+#~ msgid "The music file for <b>%s</b> by <b>%s</b> could not be found."
+#~ msgstr "O ficheiro da música <b>%s</b> de <b>%s</b> não foi encontrado."
+
+#~ msgid "%i music files could not be found."
+#~ msgstr "%i ficheiros de música não encontrados."
+
+#~ msgid "Rescan Library"
+#~ msgstr "Reanalisar coleção"
+
+#~ msgid "Remove Song"
+#~ msgstr "Remover faixa"
+
+#~ msgid "Find Song"
+#~ msgstr "Procurar Música"
+
+#~ msgid "Choose Music Folder"
+#~ msgstr "Escolha a pasta de músicas"
+
+#~ msgid "Would you like to install the %s plugin?"
+#~ msgstr "Deseja instalar o plugin %s?"
+
+#~ msgid ""
+#~ "This song cannot be played. The %s plugin is required to play the song."
+#~ msgstr ""
+#~ "Esta música não pode ser reproduzida. O plugin %s é necessário para "
+#~ "reproduzir a música."
+
+#~ msgid "Install Plugin"
+#~ msgstr "Instalar Plugin"
+
+#~ msgid "Title:"
+#~ msgstr "Título:"
+
+#~ msgid "Artist:"
+#~ msgstr "Artista:"
+
+#~ msgid "Album:"
+#~ msgstr "Álbum:"
+
+#~ msgid "Album Artist:"
+#~ msgstr "Artista do Álbum:"
+
+#~ msgid "Composer:"
+#~ msgstr "Compositor:"
+
+#~ msgid "Grouping:"
+#~ msgstr "Agrupamento:"
+
+#~ msgid "Genre:"
+#~ msgstr "Género:"
+
+#~ msgid "Year:"
+#~ msgstr "Ano:"
+
+#~ msgid "Track:"
+#~ msgstr "Faixa:"
+
+#~ msgid "Disc:"
+#~ msgstr "Disco:"
+
+#~ msgid "Rating:"
+#~ msgstr "Classificação:"
+
+#~ msgid "Comment:"
+#~ msgstr "Comentário:"
+
+#~ msgid "Close"
+#~ msgstr "Fechar"
+
+#~ msgid "Issues while importing from %s"
+#~ msgstr "Problemas ao importar músicas de %s"
+
+#~ msgid "Unable to import %d item. The file may be damaged."
+#~ msgid_plural "Unable to import %d items. The files may be damaged."
+#~ msgstr[0] ""
+#~ "Não foi possível importar o item %d. O ficheiros pode estar danificado."
+#~ msgstr[1] ""
+#~ "Não foi possível importar os itens %d. Os ficheiross podem estar "
+#~ "danificados."
+
+#~ msgid "Move all corrupted files to trash"
+#~ msgstr "Mover todos os ficheiros danificados para o lixo"
+
+#~ msgid "del"
+#~ msgstr "eliminar"
+
+#~ msgid "File Location"
+#~ msgstr "Localização do ficheiro"
+
+#~ msgid "Select individual files to move to trash:"
+#~ msgstr "Selecione os ficheiros a mover para o lixo:"
+
+#~ msgid "Move to Trash"
+#~ msgstr "Mover para o lixo"
+
+#~ msgid "Ignore"
+#~ msgstr "Ignorar"
+
+#~ msgid "Select Music Folder…"
+#~ msgstr "Escolha a pasta de músicas…"
+
+#~ msgid "Music Folder Location"
+#~ msgstr "Localização da pasta de músicas"
+
+#~ msgid "Library Management"
+#~ msgstr "Gestão da coleção"
+
+#~ msgid "Keep Music folder organized:"
+#~ msgstr "Manter pasta de músicas organizada:"
+
+#~ msgid "Write metadata to file:"
+#~ msgstr "Gravar detalhes no ficheiro:"
+
+#~ msgid "Copy imported files to Library:"
+#~ msgstr "Copiar para a coleção os ficheiros importados:"
+
+#~ msgid "Desktop Integration"
+#~ msgstr "Integração com o ambiente de trabalho"
+
+#~ msgid "Continue playback when closed:"
+#~ msgstr "Continuar reprodução quando fechado:"
+
+#~ msgid "Remove %d Song From Library?"
+#~ msgid_plural "Remove %d Songs From Library?"
+#~ msgstr[0] "Remover %d faixa da Biblioteca?"
+#~ msgstr[1] "Remover %d faixas da Biblioteca?"
+
+#~ msgid "Remove \"%s\" From Library?"
+#~ msgstr "Remover \"%s\" da Biblioteca?"
+
+#~ msgid ""
+#~ "This will remove the song from your library and from any device synced "
+#~ "automatically."
+#~ msgid_plural ""
+#~ "This will remove the songs from your library and from any device synced "
+#~ "automatically."
+#~ msgstr[0] ""
+#~ "Vai remover a faixa da Biblioteca e de todos os dispositivos que estejam "
+#~ "sincronizados automaticamente."
+#~ msgstr[1] ""
+#~ "Vai remover as faixas da Biblioteca e de todos os dispositivos que "
+#~ "estejam sincronizados automaticamente."
+
+#~ msgid "Remove from Library"
+#~ msgstr "Remover da coleção"
+
+#~ msgid "Set Music Folder?"
+#~ msgstr "Definir pasta de músicas?"
+
+#~ msgid ""
+#~ "Are you sure you want to set the music folder to %s? This will reset your "
+#~ "library and remove your playlists."
+#~ msgstr ""
+#~ "Tem a certeza de que pretende definir %s como a pasta de músicas? Se o "
+#~ "fizer, vai reiniciar a coleção e remover as listas de reprodução."
+
+#~ msgid "Export Playlists"
+#~ msgstr "Exportar listas de reprodução"
+
+#~ msgid "Set Music Folder"
+#~ msgstr "Definir pasta de músicas"
+
+#~ msgid "Playlist Title"
+#~ msgstr "Título da lista de reprodução"
+
+#~ msgid "any"
+#~ msgstr "qualquer"
+
+#~ msgid "all"
+#~ msgstr "todos"
+
+#~ msgid "Match"
+#~ msgstr "Coincide"
+
+#~ msgid "of the following:"
+#~ msgstr "do seguinte:"
+
+#~ msgid "Add"
+#~ msgstr "Adicionar"
+
+#~ msgid "Limit to"
+#~ msgstr "Limitar a"
+
+#~ msgid "items"
+#~ msgstr "itens"
+
+#~ msgid "Name of Playlist"
+#~ msgstr "Nome da lista de reprodução"
+
+#~ msgid "Rules"
+#~ msgstr "Regras"
+
+#~ msgid "Options"
+#~ msgstr "Opções"
+
+#~ msgid "Smart Playlist Editor"
+#~ msgstr "Editor de listas de reprodução inteligentes"
+
+#~ msgid "Remove"
+#~ msgstr "Remover"
+
+#~ msgid "Album"
+#~ msgstr "Álbum"
+
+#~ msgid "Artist"
+#~ msgstr "Artista"
+
+#~ msgid "Bitrate"
+#~ msgstr "Taxa de dados"
+
+#~ msgid "Comment"
+#~ msgstr "Comentário"
+
+#~ msgid "Composer"
+#~ msgstr "Compositor"
+
+#~ msgid "Date Added"
+#~ msgstr "Data de adição"
+
+#~ msgid "Genre"
+#~ msgstr "Género"
+
+#~ msgid "Grouping"
+#~ msgstr "Grupo"
+
+#~ msgid "Last Played"
+#~ msgstr "Última reprodução"
+
+#~ msgid "Length"
+#~ msgstr "Duração"
+
+#~ msgid "Playcount"
+#~ msgstr "Reproduções"
+
+#~ msgid "Rating"
+#~ msgstr "Avaliação"
+
+#~ msgid "Skipcount"
+#~ msgstr "Ignorada"
+
+#~ msgid "Title"
+#~ msgstr "Título"
+
+#~ msgid "Year"
+#~ msgstr "Ano"
+
+#~ msgid "URI"
+#~ msgstr "URI"
+
+#~ msgid "is"
+#~ msgstr "é"
+
+#~ msgid "contains"
+#~ msgstr "contém"
+
+#~ msgid "does not contain"
+#~ msgstr "não contém"
+
+#~ msgid "is exactly"
+#~ msgstr "exatamente"
+
+#~ msgid "is at most"
+#~ msgstr "no máximo"
+
+#~ msgid "is at least"
+#~ msgstr "no mínimo"
+
+#~ msgid "is within"
+#~ msgstr "entre"
+
+#~ msgid "is before"
+#~ msgstr "está antes"
+
+#~ msgid "seconds"
+#~ msgstr "segundos"
+
+#~ msgid "days ago"
+#~ msgstr "dias atrás"
+
+#~ msgid "kbps"
+#~ msgstr "kbps"
+
+#~ msgid "Sync will remove %i item from %s"
+#~ msgid_plural "Sync will remove %i items from %s"
+#~ msgstr[0] "A sincronização irá remover %i item de %s"
+#~ msgstr[1] "A sincronização irá remover %i itens de %s"
+
+#~ msgid ""
+#~ "If you continue to sync, media will be removed from %s since they are not "
+#~ "on the sync list. Would you like to import them to your library first?"
+#~ msgstr ""
+#~ "Se continuar a sincronização, os ficheiros serão removidos de %s, uma vez "
+#~ "que não estão incluídos na lista de sincronização. Pretende importar os "
+#~ "ficheiros para a coleção?"
+
+#~ msgid "Continue Syncing"
+#~ msgstr "Continuar sincronização"
+
+#~ msgid "Import"
+#~ msgstr "Importar"
+
+#~ msgid "Importing music from %s…"
+#~ msgstr "A importar músicas de %s…"
+
+#~ msgid "Adding files to library…"
+#~ msgstr "A adicionar ficheiros à coleção…"
+
+#~ msgid "<b>Importing</b> music to library…"
+#~ msgstr "A <b>importar</b> músicas para a coleção…"
+
+#~ msgid "All music files are already in your library"
+#~ msgstr "Todas as músicas já se encontram na biblioteca"
+
+#~ msgid "No files were imported."
+#~ msgstr "Nenhum ficheiro importado."
+
+#~ msgid "Rescanning music for changes. This may take a while…"
+#~ msgstr "A reanalisar coleção. Isto pode levar algum tempo…"
+
+#~ msgid "Added to your queue:"
+#~ msgstr "Adicionada à fila:"
+
+#~ msgid "%d Track"
+#~ msgid_plural "%d Tracks"
+#~ msgstr[0] "%d Faixa"
+#~ msgstr[1] "%d Faixas"
+
+#~ msgid "Favorite Songs"
+#~ msgstr "Faixas preferidas"
+
+#~ msgid "Recently Added"
+#~ msgstr "Adicionadas recentemente"
+
+#~ msgid "Recent Favorites"
+#~ msgstr "Preferidas recentemente"
+
+#~ msgid "Never Played"
+#~ msgstr "Nunca reproduzidas"
+
+#~ msgid "Over Played"
+#~ msgstr "Muito reproduzidas"
+
+#~ msgid "Not Recently Played"
+#~ msgstr "Não reproduzidas recentemente"
+
+#~ msgid "History"
+#~ msgstr "Histórico"
+
+#~ msgid "Playlists"
+#~ msgstr "Listas de reprodução"
+
+#~ msgid "Device Name:"
+#~ msgstr "Nome do dispositivo:"
+
+#~ msgid "Device Name"
+#~ msgstr "Nome do dispositivo"
+
+#~ msgid "Automatically sync when plugged in:"
+#~ msgstr "Sincronizar automaticamente quando inserido:"
+
+#~ msgid "Sync:"
+#~ msgstr "Sincronizar:"
+
+#~ msgid "Sync"
+#~ msgstr "Sincronizar"
+
+#~ msgid "All Music"
+#~ msgstr "Todas as faixas"
+
+#~ msgid "Sync Failed"
+#~ msgstr "Falha na sincronização"
+
+#~ msgid ""
+#~ "The playlist named %s is used to sync device %s, but could not be found."
+#~ msgstr ""
+#~ "A lista de reprodução %s é utilizada para sincronizar com o dispositivo "
+#~ "%s mas não foi encontrada."
+
+#~ msgid "Cannot Sync"
+#~ msgstr "Não pode sincronizar"
+
+#~ msgid ""
+#~ "Cannot sync device with selected sync settings. Not enough space on disk"
+#~ msgstr ""
+#~ "Não é possível a sincronização do dispositivo com as definições "
+#~ "escolhidas. Não tem espaço suficiente no disco"
+
+#~ msgid "Device is already doing an operation."
+#~ msgstr "Já está a decorre uma operação."
+
+#~ msgid "Cancelling…"
+#~ msgstr "A cancelar…"
+
+#~ msgid "Device operation has been cancelled and will stop after this media."
+#~ msgstr "A operação foi cancelada e irá terminar após este ficheiro."
+
+#~ msgid "No Results"
+#~ msgstr "Sem resultados"
+
+#~ msgid "Try another search"
+#~ msgstr "Tente outra pesquisa"
+
+#~ msgid "Genres"
+#~ msgstr "Géneros"
+
+#~ msgid "Artists"
+#~ msgstr "Artistas"
+
+#~ msgid "Albums"
+#~ msgstr "Álbuns"
+
+#~ msgid "Years"
+#~ msgstr "Anos"
+
+#~ msgid "Ratings"
+#~ msgstr "Avaliações"
+
+#~ msgid "Composers"
+#~ msgstr "Compositores"
+
+#~ msgid "Groupings"
+#~ msgstr "Grupos"
+
+#~ msgid "All Genres"
+#~ msgstr "Todos os géneros"
+
+#~ msgid "All %i Genres"
+#~ msgstr "Todos os %i géneros"
+
+#~ msgid "No Genres"
+#~ msgstr "Sem géneros"
+
+#~ msgid "All Artists"
+#~ msgstr "Todos os artistas"
+
+#~ msgid "All %i Artists"
+#~ msgstr "Todos os %i artistas"
+
+#~ msgid "No Artists"
+#~ msgstr "Sem artistas"
+
+#~ msgid "All Albums"
+#~ msgstr "Todos os álbuns"
+
+#~ msgid "All %i Albums"
+#~ msgstr "Todos os %i álbuns"
+
+#~ msgid "No Albums"
+#~ msgstr "Sem álbuns"
+
+#~ msgid "All %i Years"
+#~ msgstr "Todos os %i anos"
+
+#~ msgid "No Years"
+#~ msgstr "Sem anos"
+
+#~ msgid "All Ratings"
+#~ msgstr "Todas as avaliações"
+
+#~ msgid "No Ratings"
+#~ msgstr "Sem avaliações"
+
+#~ msgid "All Groupings"
+#~ msgstr "Todos os grupos"
+
+#~ msgid "All %i Groupings"
+#~ msgstr "Todos os %i grupos"
+
+#~ msgid "No Groupings"
+#~ msgstr "Sem grupos"
+
+#~ msgid "All Composers"
+#~ msgstr "Todos os compositores"
+
+#~ msgid "All %i Composers"
+#~ msgstr "Todos os %i compositores"
+
+#~ msgid "No Composers"
+#~ msgstr "Sem compositores"
+
+#~ msgid "Automatic"
+#~ msgstr "Automático"
+
+#~ msgid "On Left"
+#~ msgstr "À esquerda"
+
+#~ msgid "On Top"
+#~ msgstr "Em cima"
+
+#~ msgid "Unrated"
+#~ msgstr "Sem avaliação"
+
+#~ msgid "%u Star"
+#~ msgid_plural "%u Stars"
+#~ msgstr[0] "%u Estrela"
+#~ msgstr[1] "%u Estrelas"
+
+#~ msgid "%u kbps"
+#~ msgstr "%u kbps"
+
+#~ msgid "Never"
+#~ msgstr "Nunca"
+
+#~ msgctxt "List column title"
+#~ msgid "#"
+#~ msgstr "#"
+
+#~ msgctxt "List column title"
+#~ msgid "Track"
+#~ msgstr "Faixa"
+
+#~ msgctxt "List column title"
+#~ msgid "Title"
+#~ msgstr "Título"
+
+#~ msgctxt "List column title"
+#~ msgid "Length"
+#~ msgstr "Duração"
+
+#~ msgctxt "List column title"
+#~ msgid "Artist"
+#~ msgstr "Artista"
+
+#~ msgctxt "List column title"
+#~ msgid "Album"
+#~ msgstr "Álbum"
+
+#~ msgctxt "List column title"
+#~ msgid "Album Artist"
+#~ msgstr "Artista do álbum"
+
+#~ msgctxt "List column title"
+#~ msgid "Composer"
+#~ msgstr "Compositor"
+
+#~ msgctxt "List column title"
+#~ msgid "Genre"
+#~ msgstr "Género"
+
+#~ msgctxt "List column title"
+#~ msgid "Year"
+#~ msgstr "Ano"
+
+#~ msgctxt "List column title"
+#~ msgid "Grouping"
+#~ msgstr "Grupo"
+
+#~ msgctxt "List column title"
+#~ msgid "Bitrate"
+#~ msgstr "Taxa de dados"
+
+#~ msgctxt "List column title"
+#~ msgid "Rating"
+#~ msgstr "Avaliação"
+
+#~ msgctxt "List column title"
+#~ msgid "Plays"
+#~ msgstr "Reproduções"
+
+#~ msgctxt "List column title"
+#~ msgid "Skips"
+#~ msgstr "Ignorada"
+
+#~ msgctxt "List column title"
+#~ msgid "Date Added"
+#~ msgstr "Data de adição"
+
+#~ msgctxt "List column title"
+#~ msgid "Last Played"
+#~ msgstr "Última reprodução"
+
+#~ msgctxt "List column title (beats per minute)"
+#~ msgid "BPM"
+#~ msgstr "BPM"
+
+#~ msgctxt "List column title (file location)"
+#~ msgid "Location"
+#~ msgstr "Localização"
+
+#~ msgctxt "List column title"
+#~ msgid "File Size"
+#~ msgstr "Tamanho do ficheiro"
+
+#~ msgid "Autosize Columns"
+#~ msgstr "Ajustar colunas automaticamente"
+
+#~ msgid "1234 kbps"
+#~ msgstr "1234 kbps"
+
+#~ msgid "Sample List String"
+#~ msgstr "Exemplo de uma String"
+
+#~ msgid "Get Some Tunes"
+#~ msgstr "Obter músicas"
+
+#~ msgid "Add music to your library."
+#~ msgstr "Adicionar música à sua coleção."
+
+#~ msgid "Import music from a source into your library."
+#~ msgstr "Importar música de uma fonte para a biblioteca."
+
+#~ msgid "Change Music Folder"
+#~ msgstr "Trocar pasta de música"
+
+#~ msgid "Load music from a folder, a network or an external disk."
+#~ msgstr "Carregar músicas de uma pasta, rede ou disco externo."
+
+#~ msgid "Import your Music"
+#~ msgstr "Importar faixas"
+
+#~ msgid "Import all your Music from %s into your library."
+#~ msgstr "Importar todas as faixas de %s para a coleção."
+
+#~ msgid "Select Music Folder"
+#~ msgstr "Escolha a pasta de músicas"
+
+#~ msgid "No Songs"
+#~ msgstr "Sem faixas"
+
+#~ msgid "Updating playlist. Please wait."
+#~ msgstr "A atualizar lista de reprodução. Aguarde."
+
+#~ msgid ""
+#~ "To add songs to this playlist, use the <b>secondary click</b> on an item "
+#~ "and choose <b>Add to Playlist</b>."
+#~ msgstr ""
+#~ "Para adicionar músicas à lista de reprodução, utilize o <b>botão "
+#~ "secundário do rato</b> num item e escolha <b>Adicionar à lista de "
+#~ "reprodução</b>."
+
+#~ msgid "Edit Smart Playlist"
+#~ msgstr "Editar lista de reprodução inteligente"
+
+#~ msgid ""
+#~ "This playlist will be automatically populated with songs that match its "
+#~ "rules. To modify these rules, use the <b>secondary click</b> on it in the "
+#~ "sidebar and click on <b>Edit</b>. Optionally, you can click on the button "
+#~ "below."
+#~ msgstr ""
+#~ "Esta lista de reprodução será preenchida automaticamente com as faixas "
+#~ "que coincidam com as regras. Para modificar as regras, utilize o <b>botão "
+#~ "direito do rato</b> na barra lateral e escolha <b>Editar</b>. "
+#~ "Opcionalmente, também pode clicar no botão abaixo."
+
+#~ msgid "No media"
+#~ msgstr "Sem multimédia"
+
+#~ msgid "Set new album cover"
+#~ msgstr "Definir nova capa de álbum"
+
+#~ msgid "Image files"
+#~ msgstr "Ficheiros de imagem"
+
+#~ msgid "_Open"
+#~ msgstr "_Abrir"
+
+#~ msgid "_Cancel"
+#~ msgstr "_Cancelar"
+
+#~ msgid "Save preset"
+#~ msgstr "Gravar pré-ajustes"
+
+#~ msgid "Off"
+#~ msgstr "Desligado"
+
+#~ msgid "%s (Custom)"
+#~ msgstr "%s (Personalizar)"
+
+#~ msgid "%s (Custom %i)"
+#~ msgstr "%s (Personalizar %i)"
+
+#~ msgid "Custom Preset"
+#~ msgstr "Personalizar pré-ajuste"
+
+#~ msgid "Custom Preset %i"
+#~ msgstr "Personalizar %i"
+
+#~ msgid "Scroll to Current Song"
+#~ msgstr "Ir para a faixa em reprodução"
+
+#~ msgid "Show in File Browser…"
+#~ msgstr "Mostrar no explorador de ficheiros…"
+
+#~ msgid "Edit Song Info…"
+#~ msgstr "Editar informações da faixa…"
+
+#~ msgid "Other Actions"
+#~ msgstr "Outras Ações"
+
+#~ msgctxt "Action item (verb)"
+#~ msgid "Queue"
+#~ msgstr "Colocar na fila"
+
+#~ msgid "Add to Playlist"
+#~ msgstr "Adicionar à lista de reprodução"
+
+#~ msgid "Remove Song…"
+#~ msgstr "Remover faixa…"
+
+#~ msgid "Import to Library"
+#~ msgstr "Importar para a coleção"
+
+#~ msgid "Remove from Library…"
+#~ msgstr "Remover da Biblioteca…"
+
+#~ msgid "Remove from Device"
+#~ msgstr "Remover do dispositivo"
+
+#~ msgid "Remove from Queue"
+#~ msgstr "Remover da fila de reprodução"
+
+#~ msgid "New Playlist…"
+#~ msgstr "Nova lista de reprodução…"
+
+#~ msgid "Import %i of %i selected songs"
+#~ msgstr "Importar %i de %i faixas selecionadas"
+
+#~ msgid "Import %i song"
+#~ msgid_plural "Import %i songs"
+#~ msgstr[0] "Importar %i faixa"
+#~ msgstr[1] "Importar %i faixas"
+
+#~ msgid "Delete Current"
+#~ msgstr "Eliminar atual"
+
+#~ msgid "Rename"
+#~ msgstr "Mudar nome"
+
+#~ msgid "Edit…"
+#~ msgstr "Editar…"
+
+#~ msgid "Save as Playlist"
+#~ msgstr "Gravar como lista de reprodução"
+
+#~ msgid "Export…"
+#~ msgstr "Exportar…"
+
+#~ msgid "Eject"
+#~ msgstr "Ejetar"
+
+#~ msgid "New Playlist"
+#~ msgstr "Nova lista de reprodução"
+
+#~ msgid "New Smart Playlist"
+#~ msgstr "Nova lista de reprodução inteligente"
+
+#~ msgid "Import Playlists"
+#~ msgstr "Importar listas de reprodução"
+
+#~ msgid "Library"
+#~ msgstr "Coleção"
+
+#~ msgid "Devices"
+#~ msgstr "Dispositivos"
+
+#~ msgid "Network"
+#~ msgstr "Rede"
+
+#~ msgid "Add Playlist"
+#~ msgstr "Adicionar lista de reprodução"
+
+#~ msgid "Add Smart Playlist"
+#~ msgstr "Adicionar lista de reprodução inteligente"
+
+#~ msgid "Add Playlist…"
+#~ msgstr "Adicionar lista de reprodução…"
+
+#~ msgid "Equalizer: %s"
+#~ msgstr "Equalizador: %s"
+
+#~ msgid "Enable Repeat"
+#~ msgstr "Ativar repetição"
+
+#~ msgid "Disable Repeat"
+#~ msgstr "Desativar repetição"
+
+#~ msgid "Disable Shuffle"
+#~ msgstr "Desativar desorganização"
+
+#~ msgid "View as albums"
+#~ msgstr "Ver como álbuns"
+
+#~ msgid "View as list"
+#~ msgstr "Ver como lista"
+
+#~ msgid "View in columns"
+#~ msgstr "Ver em colunas"
+
+#~ msgid "No similar songs found"
+#~ msgstr "Não foram encontradas faixas semelhantes"
+
+#~ msgid ""
+#~ "There are no songs similar to the current song in your library. Make sure "
+#~ "all song info is correct and you are connected to the Internet. Some "
+#~ "songs may not have matches."
+#~ msgstr ""
+#~ "Não há músicas semelhantes à faixa atual na sua coleção. Confirme se os "
+#~ "dados da faixa estão corretos e se possui uma ligação à Internet. Algumas "
+#~ "músicas poderão não ter correspondência."
+
+#~ msgid "Similar"
+#~ msgstr "Semelhantes"
+
+#~ msgid "media"
+#~ msgstr "multimédia"
+
+#~ msgid "Similar Media"
+#~ msgstr "Multimédia semelhante"
+
+#~ msgid "Audio CD Invalid"
+#~ msgstr "CD áudio inválido"
+
+#~ msgid "Impossible to read the contents of this Audio CD"
+#~ msgstr "Não foi possível carregar o conteúdo deste CD"
+
+#~ msgid "Could not find Music Folder"
+#~ msgstr "Não foi possível encontrar a pasta de músicas"
+
+#~ msgid ""
+#~ "Please make sure that your music folder is accessible and mounted before "
+#~ "importing the CD."
+#~ msgstr ""
+#~ "Certifique-se que a sua pasta de músicas está acessível e montada antes "
+#~ "de importar o CD."
+
+#~ msgid ""
+#~ "The Application could not find any songs on the CD. No songs can be "
+#~ "imported"
+#~ msgstr ""
+#~ "A aplicação não encontrou nenhuma música no CD. Não existem músicas a "
+#~ "importar"
+
+#~ msgid "Song imported from Audio CD."
+#~ msgstr "Faixa importada do CD áudio."
+
+#~ msgid "%i songs imported from Audio CD."
+#~ msgstr "%i faixas importadas do CD áudio."
+
+#~ msgid "Importing track %u: %s"
+#~ msgstr "A importar faixa %u: %s"
+
+#~ msgid "CD import will be <b>cancelled</b> after current import."
+#~ msgstr "A importação do CD será <b>cancelada</b> após a importação atual."
+
+#~ msgid "Could not import this CD"
+#~ msgstr "Não foi possível importar este CD"
+
+#~ msgid "An Error Occurred"
+#~ msgstr "Ocorreu Um Erro"
+
+#~ msgid "Could not load this Audio CD."
+#~ msgstr "Não foi possível carregar este CD audio."
+
+#~ msgid "Importation of a song from Audio CD finished."
+#~ msgstr "Terminou a importação de uma faixa do CD."
+
+#~ msgid "Importation of %i songs from Audio CD finished."
+#~ msgstr "Terminou a importação de %i faixas do CD."
+
+#~ msgid "An error occured during the Import of this CD"
+#~ msgstr "Ocorreu um erro ao importar este CD"
+
+#~ msgid "There was an error while loading this Audio CD."
+#~ msgstr "Ocorreu um erro ao carregar o CD áudio."
+
+#~ msgid "Disk:"
+#~ msgstr "Disco:"
+
+#~ msgid "%s has imported your library."
+#~ msgstr "%s foi importada para a coleção."
+
+#~ msgid "Unable to import %d items from %s"
+#~ msgstr "Não foi possível importar %d itens de %s"
+
+#~ msgid "Remove from %s"
+#~ msgstr "Remover de %s"
+
+#~ msgid "Remove \"%s\" From %s?"
+#~ msgstr "Remover \"%s\" de %s?"
+
+#~ msgid "No Albums Found."
+#~ msgstr "Nenhum Álbum Encontrado."
+
+#~ msgid "No Songs Found."
+#~ msgstr "Nenhuma Música Encontrada."
+
+#~ msgid "%u second"
+#~ msgid_plural "%u seconds"
+#~ msgstr[0] "%u segundo"
+#~ msgstr[1] "%u segundos"
+
+#~ msgid "%u minute"
+#~ msgid_plural "%u minutes"
+#~ msgstr[0] "%u minuto"
+#~ msgstr[1] "%u minutos"
+
+#~ msgctxt "minutes and seconds"
+#~ msgid "%s and %s"
+#~ msgstr "%s e %s"
+
+#~ msgid "%u day"
+#~ msgid_plural "%u days"
+#~ msgstr[0] "%u dia"
+#~ msgstr[1] "%u dias"
+
+#~ msgid "%u hour"
+#~ msgid_plural "%u hours"
+#~ msgstr[0] "%u hora"
+#~ msgstr[1] "%u horas"
+
+#~ msgctxt "days, hours and minutes"
+#~ msgid "%s, %s and %s"
+#~ msgstr "%s, %s e %s"
+
+#~ msgctxt "days and hours"
+#~ msgid "%s and %s"
+#~ msgstr "%s e %s"
+
+#~ msgctxt "days and minutes"
+#~ msgid "%s and %s"
+#~ msgstr "%s e %s"
+
+#~ msgctxt "hours and minutes"
+#~ msgid "%s and %s"
+#~ msgstr "%s e %s"
+
+#~ msgid "Song"
+#~ msgstr "Faixa"
+
+#~ msgid "Repeat Artist"
+#~ msgstr "Repetir artista"
+
+#~ msgid "All"
+#~ msgstr "Tudo"
+
+#~ msgid "Hide"
+#~ msgstr "Ocultar"
+
+#~ msgid "Show Info Panel"
+#~ msgstr "Mostrar painel de informações"
+
+#~ msgid "Show"
+#~ msgstr "Mostrar"
+
+#~ msgid "Hide Info Panel"
+#~ msgstr "Ocultar painel de informações"
+
+#~ msgid "Free"
+#~ msgstr "Livre"
+
+#~ msgid "Using %s of %s (%.2f%)"
+#~ msgstr "A utilizar %s de %s (%.2f%)"
+
+#~ msgid "General"
+#~ msgstr "Geral"
+
+#~ msgid "Import from Device"
+#~ msgstr "Importar do dispositivo"
+
+#~ msgid "Import media from %s"
+#~ msgstr "Importar multimédia de %s"
+
+#~ msgid ""
+#~ "The following files were found on %s, but are not in your library. Check "
+#~ "all the files you would like to import."
+#~ msgstr ""
+#~ "Os seguintes ficheiros foram encontrados em %s, mas não existem na "
+#~ "coleção. Assinale os ficheiros que pretende importar."
+
+#~ msgid "Import all media"
+#~ msgstr "Importar todos"
+
+#~ msgid "Don't Import"
+#~ msgstr "Não importar"
+
+#~ msgid "Import %i items from %s"
+#~ msgstr "Importar %i itens de %s"
+
+#~ msgid "Import %s from %s"
+#~ msgstr "Importar %s de %s"
+
+#~ msgid "ID"
+#~ msgstr "ID"
+
+#~ msgid "Select individual media to import:"
+#~ msgstr "Selecione os ficheiros a importar:"
+
+#~ msgid "Check Item"
+#~ msgstr "Assinalar item"
+
+#~ msgid "Check Album"
+#~ msgstr "Assinalar álbum"
+
+#~ msgid "Check Artist"
+#~ msgstr "Assinalar artista"
+
+#~ msgid "Cannot Import"
+#~ msgstr "Não pode importar"
+
+#~ msgid ""
+#~ "Noise is already doing file operations. Please wait until those finish to "
+#~ "import from %s"
+#~ msgstr ""
+#~ "Música está a meio de uma operação de ficheiros. Aguarde que esta acabe "
+#~ "para importar de %s"
+
+#~ msgid "Import media to Library"
+#~ msgstr "Importar multimédia para a coleção"
+
+#~ msgid "Stop Syncing"
+#~ msgstr "Parar sincronização"
+
+#~ msgid "Sync will remove 1 item from %s"
+#~ msgstr "A sincronização irá remover 1 item de %s"
+
+#~ msgid "%u album"
+#~ msgid_plural "%u albums"
+#~ msgstr[0] "%u álbum"
+#~ msgstr[1] "%u álbuns"
+
+#~ msgctxt "Title format used on Album View Popup: $ALBUM by $ARTIST"
+#~ msgid "%s by %s"
+#~ msgstr "%s de %s"
+
+#~ msgctxt ""
+#~ "Format used on statusbar: $description, $total_duration, $total_file_size"
+#~ msgid "%s, %s, %s"
+#~ msgstr "%s, %s, %s"
+
+#~ msgid "OK"
+#~ msgstr "OK"
+
+#~ msgid "No External Songs"
+#~ msgstr "Sem faixas externas"
+
+#~ msgid ""
+#~ "There were no songs found on this device that are not in your library."
+#~ msgstr "Todas as faixas deste dispositivo já existem na sua coleção."
+
+#~ msgid "%i track"
+#~ msgid_plural "%i tracks"
+#~ msgstr[0] "%i faixa"
+#~ msgstr[1] "%i faixas"
+
+#~ msgid "%u song"
+#~ msgid_plural "%u songs"
+#~ msgstr[0] "%u música"
+#~ msgstr[1] "%u músicas"
+
+#~ msgctxt "Format used on statusbar: $description, $total_duration"
+#~ msgid "%s, %s"
+#~ msgstr "%s, %s"
+
+#~ msgid "translator-credits"
+#~ msgstr ""
+#~ "Launchpad Contributions:\n"
+#~ "  André Carvalho https://launchpad.net/~andrecarvalhopt\n"
+#~ "  André Filipe https://launchpad.net/~k23-live-gmail\n"
+#~ "  Carlo https://launchpad.net/~carlow3\n"
+#~ "  Christian Sousa https://launchpad.net/~chapadanastrombas\n"
+#~ "  Daniel Fore https://launchpad.net/~danrabbit\n"
+#~ "  Daniel Jorge https://launchpad.net/~daniel-mf-jorge\n"
+#~ "  Eduardo Renesto Estanquiere https://launchpad.net/~edure95\n"
+#~ "  Laurentino https://launchpad.net/~laurentinolopes\n"
+#~ "  Leo Soares https://launchpad.net/~leojrfs\n"
+#~ "  Pacha https://launchpad.net/~pacha56\n"
+#~ "  Paulo Truta https://launchpad.net/~pinheirotruta5\n"
+#~ "  Pedro Monteiro https://launchpad.net/~pedro.monteiro\n"
+#~ "  RDRR https://launchpad.net/~rubendrr\n"
+#~ "  Rafael da Silva Lima https://launchpad.net/~rafael-liverpool\n"
+#~ "  Sérgio Marques https://launchpad.net/~sergio+marques\n"
+#~ "  Tiago Branco https://launchpad.net/~tiagombranco\n"
+#~ "  Victor Martinez https://launchpad.net/~victored\n"
+#~ "  vasco https://launchpad.net/~vasco-m-nunes\n"
+#~ "  wesley tamagi https://launchpad.net/~tama-wes\n"
+#~ "  yEdubart https://launchpad.net/~vps1992"
+
+#~ msgid "Lyrics fetched from www.lyricsmania.com"
+#~ msgstr "Letra da faixa obtida em www.lyricsmania.com"
+
+#~ msgid "Edit"
+#~ msgstr "Editar"
+
+#~ msgid "Export..."
+#~ msgstr "Exportar..."
+
+#~ msgid "Podcasts"
+#~ msgstr "Podcasts"
+
+#~ msgid "Track"
+#~ msgstr "Faixa"
+
+#~ msgid "Plays"
+#~ msgstr "Reproduções"
+
+#~ msgid "BPM"
+#~ msgstr "BPM"
+
+#~ msgid "Done"
+#~ msgstr "Concluído"
+
+#~ msgid "Podcast"
+#~ msgstr "Podcast"
+
+#~ msgid "is not"
+#~ msgstr "não é"
+
+#~ msgid "Locate"
+#~ msgstr "Localizar"
+
+#~ msgid " on "
+#~ msgstr " em "
+
+#~ msgid "Station"
+#~ msgstr "Estação"
+
+#~ msgid "Episode"
+#~ msgstr "Episódio"
+
+#~ msgid "Name"
+#~ msgstr "Nome"
+
+#~ msgid "Date"
+#~ msgstr "Data"
+
+#~ msgid "Category"
+#~ msgstr "Categoria"
+
+#~ msgid "Success!"
+#~ msgstr "Sucesso!"
+
+#~ msgid "Try again"
+#~ msgstr "Tente novamente"
+
+#~ msgid "Pulser"
+#~ msgstr "Pulser"
+
+#~ msgid "Not Imported Files"
+#~ msgstr "Ficheiros não importados"
+
+#~ msgid "%s is already doing an import"
+#~ msgstr "%s já está a fazer uma importação"
+
+#~ msgid "Equalizer"
+#~ msgstr "Equalizador"
+
+#~ msgid "Importing track %i"
+#~ msgstr "A importar a faixa %i"
+
+#~ msgid "%s could not find any songs on the CD. No songs can be imported"
+#~ msgstr ""
+#~ "O %s não conseguiu encontrar faixas no CD. Não existem músicas a importar."
+
+#~ msgid "Ripping track 1"
+#~ msgstr "A extrair a faixa 1"
+
+#~ msgid "Unknown Album"
+#~ msgstr "Álbum desconhecido"
+
+#~ msgid "Unknown Title"
+#~ msgstr "Título desconhecido"
+
+#~ msgid "Unknown Artist"
+#~ msgstr "Artista desconhecido"
+
+#~ msgid "Radio Station"
+#~ msgstr "Estação de rádio"
+
+#~ msgid "Download new Episodes"
+#~ msgstr "Transferir novos episódios"
+
+#~ msgid "Import Stations"
+#~ msgstr "Importar estações"
+
+#~ msgid "Add Podcast"
+#~ msgstr "Adicionar podcast"
+
+#~ msgid "Lyrics"
+#~ msgstr "Letras das faixas"
+
+#~ msgid "Editing %s by %s"
+#~ msgstr "A editar %s de %s"
+
+#~ msgid "Metadata"
+#~ msgstr "Detalhes"
+
+#~ msgid "Do Nothing"
+#~ msgstr "Nada fazer"
+
+#~ msgid "Editing %s"
+#~ msgstr "A editar %s"
+
+#~ msgid "Editing %i songs"
+#~ msgstr "A editar %i faixas"
+
+#~ msgid "Album Artist"
+#~ msgstr "Artista do álbum"
+
+#~ msgid "Media Type"
+#~ msgstr "Tipo de multimédia"
+
+#~ msgid "Lyrics not found for \"%s\" by \"%s\""
+#~ msgstr "A letra para \"%s\" de \"%s\" não foi encontrada."
+
+#~ msgid ""
+#~ "You must wait until previous file operations finish before setting your "
+#~ "music folder"
+#~ msgstr ""
+#~ "Antes de definir a pasta de músicas, tem que esperar pelo término da "
+#~ "operações em curso."
+
+#~ msgid "Date Released"
+#~ msgstr "Data de disponibilização"
+
+#~ msgid "Audiobook"
+#~ msgstr "Livro áudio"
+
+#~ msgid "Locate Media"
+#~ msgstr "Localizar multimédia"
+
+#~ msgid "Remove Media"
+#~ msgstr "Remover multimédia"
+
+#~ msgid "Remove %d %s from %s?"
+#~ msgstr "Remover %d %s de %s?"
+
+#~ msgid ""
+#~ "This will remove the %s from your library and from any device that "
+#~ "automatically syncs with %s."
+#~ msgstr ""
+#~ "Vai remover %s da sua coleção e de qualquer dispositivo que esteja "
+#~ "sincronizado com %s."
+
+#~ msgid ""
+#~ "The music file for %s by %s could not be found. What would you like to do?"
+#~ msgstr ""
+#~ "O ficheiro de música para %s de %s não foi encontrado. O que pretende "
+#~ "fazer?"
+
+#~ msgid "Could not find media file"
+#~ msgstr "Não foi possível encontrar o ficheiro"
+
+#~ msgid "%s by %s"
+#~ msgstr "%s de %s"
+
+#~ msgid "%i albums"
+#~ msgstr "%i álbuns"
+
+#~ msgid "1 album"
+#~ msgstr "1 álbum"
+
+#~ msgid "All the songs in this device are already in your library."
+#~ msgstr "Todas as faixas do dispositivo já existem na sua coleção."
+
+#~ msgid "%i songs"
+#~ msgstr "%i faixas"
+
+#~ msgid "Import media from device"
+#~ msgstr "Importar ficheiros do dispositivo"
+
+#~ msgid "%s can't seem to find your music."
+#~ msgstr "O %s não consegue encontrar as suas músicas."
+
+#~ msgid "1 song"
+#~ msgstr "1 faixa"
+
+#~ msgid "1 track"
+#~ msgstr "1 faixa"
+
+#~ msgid "%i tracks"
+#~ msgstr "%i faixas"
+
+#~ msgid ""
+#~ "%s could not find songs similar to %s by %s in your library. Make sure "
+#~ "all song info is correct and you are connected to the Internet. Some "
+#~ "songs may not have matches."
+#~ msgstr ""
+#~ "O %s não conseguir encontrar faixas similares a %s de %s na coleção. "
+#~ "Certifique-se que as informações da faixa estão corretas e que está "
+#~ "ligado à Internet. Algumas faixas podem mesmo não ter similares."
+
+#~ msgid ""
+#~ "Import from device has been cancelled. Operation will stop after this "
+#~ "media."
+#~ msgstr ""
+#~ "A importação foi cancelada. A operação será terminada após esta faixa."
+
+#~ msgid "Cancelling Sync"
+#~ msgstr "A cancelar sincronização"
+
+#~ msgid ""
+#~ "In this view, %s will automatically find songs similar to the one you're "
+#~ "playing. You can then start playing those songs, or save them as a "
+#~ "playlist for later."
+#~ msgstr ""
+#~ "Nesta visualização, o %s vai procurar automaticamente as faixas similares "
+#~ "àquela que está a reproduzir. Pode então reproduzir as faixas encontradas "
+#~ "ou gravar as faixas como uma lista de reprodução."
+
+#~ msgid "Finding songs similar to %s by %s"
+#~ msgstr "A procurar faixas similares a %s de %s"
+
+#~ msgid "Cancelling Import"
+#~ msgstr "A cancelar importação"
+
+#~ msgid ""
+#~ "Device Sync has been cancelled. Operation will stop after this media."
+#~ msgstr ""
+#~ "A sincronização foi cancelada. A operação será terminada após esta faixa."
+
+#~ msgid "Skips"
+#~ msgstr "Ignorâncias"
+
+#~ msgid "%i kbps"
+#~ msgstr "%i kbps"
+
+#~ msgid "#"
+#~ msgstr "#"
+
+#~ msgid "Queue"
+#~ msgstr "Fila de reprodução"
+
+#~ msgid "Import this song"
+#~ msgstr "Importar esta faixa"
+
+#~ msgid "Import %i songs"
+#~ msgstr "Importar %i faixas"
+
+#~ msgid "1 Star"
+#~ msgstr "1 estrela"
+
+#~ msgid "%s Stars"
+#~ msgstr "%s estrelas"
+
+#~ msgid "All %i Ratings"
+#~ msgstr "Todas as %i avaliações"
+
+#~ msgid "Device is already being synced."
+#~ msgstr "O dispositivo já está a ser sincronizado."
+
+#~ msgid "All Podcasts"
+#~ msgstr "Todos os podcasts"
+
+#~ msgid "Recently Played"
+#~ msgstr "Reproduzidas recentemente"
+
+#~ msgid "Unheard Podcasts"
+#~ msgstr "Podcasts não reproduzidos"
+
+#~ msgid "Show Equalizer"
+#~ msgstr "Mostrar equalizador"
+
+#~ msgid "Hide Equalizer"
+#~ msgstr "Ocultar equalizador"
+
+#~ msgid "<b>Importing</b> music from <b>%s</b> to library."
+#~ msgstr "<b>A importar</b> as músicas de <b>%s</b> para a coleção."
+
+#~ msgid " by "
+#~ msgstr " de "
+
+#~ msgid "%i hours"
+#~ msgstr "%i horas"
+
+#~ msgid "1 minute"
+#~ msgstr "1 minuto"
+
+#~ msgid "1 day"
+#~ msgstr "1 dia"
+
+#~ msgid "1 hour"
+#~ msgstr "1 hora"
+
+#~ msgid "1 second"
+#~ msgstr "1 segundo"
+
+#~ msgid "%s seconds"
+#~ msgstr "%s segundos"
+
+#~ msgid "%i days"
+#~ msgstr "%i dias"
+
+#~ msgid "%i minutes"
+#~ msgstr "%i minutos"
+
+#~ msgid "%s and %s"
+#~ msgstr "%s e %s"
+
+#~ msgid "%s, %s and %s"
+#~ msgstr "%s, %s e %s"
+
+#~ msgid "Unknown Track"
+#~ msgstr "Faixa desconhecida"
+
+#~ msgid "%d second"
+#~ msgid_plural "%d seconds"
+#~ msgstr[0] "%d segundo"
+#~ msgstr[1] "%d segundos"
+
+#~ msgid "Enable Scrobbling"
+#~ msgstr "Ativar Scrobbling"
+
+#~ msgid "Complete login"
+#~ msgstr "Autenticação completa"
+
+#~ msgid "Unsuccessful. Click to try again."
+#~ msgstr "Sem êxito. Clique novamente."
+
+#~ msgid "Last.fm"
+#~ msgstr "Last.fm"
+
+#~ msgid "Click to redo the Last.fm Login Process"
+#~ msgstr "Clique para refazer a autenticação no Last.fm"
+
+#~ msgid "Scrobbling already Enabled"
+#~ msgstr "Scrobbling já ativado"
+
+#~ msgid "Write metadata to file"
+#~ msgstr "Gravar detalhes no ficheiro"
+
+#~ msgid "Unsuccessful. Click To Try Again."
+#~ msgstr "Inválido. Clique para tentar novamente."
+
+#~ msgid "Click to redo the Last.fm login process"
+#~ msgstr "Clique para refazer o inicio de sessão last.fm"
+
+#~ msgid "Last.fm Integration"
+#~ msgstr "Integração Last.fm"
+
+#~ msgid "Listen to music"
+#~ msgstr "Ouvir música"
+
+#~ msgid "Music Player"
+#~ msgstr "Reprodutor de músicas"
+
+#~ msgid "Importing music from %s..."
+#~ msgstr "A importar faixas de %s..."
+
+#~ msgid "Adding files to library..."
+#~ msgstr "Adicionar ficheiros à coleção..."
+
+#~ msgid "Adding music from %s to library..."
+#~ msgstr "Adicionar faixas de %s à coleção..."
+
+#~ msgid "Rescanning music for changes. This may take a while..."
+#~ msgstr "A analisar alterações. Poderá levar algum tempo."
+
+#~ msgid "%i media files could not be found. What would you like to do?"
+#~ msgstr "%i ficheiros não foram encontrados. O que pretende fazer?"
+
+#~ msgid ""
+#~ "Noise is already doing file operations. Please wait until those finish to "
+#~ "import from %d"
+#~ msgstr ""
+#~ "O Noise já está a executar operações. Tem que aguardar pelo fim das "
+#~ "operações para poder importar de %d"
+
+#~ msgid "Music Folder Location:"
+#~ msgstr "Localização da pasta de músicas"
+
+#~ msgid "Library Management:"
+#~ msgstr "Gestão da coleção:"
+
+#~ msgid "Desktop Integration:"
+#~ msgstr "Integração com a área de trabalho:"
+
+#~ msgid "Editing $NAME by $ARTIST"
+#~ msgstr "A editar $NAME de $ARTIST"
+
+#~ msgid "Lyrics not found for %s"
+#~ msgstr "Letra da faixa não encontrada para %s"
+
+#~ msgid "The name %s is already in use"
+#~ msgstr "O nome %s já está a ser utilizado"
+
+#~ msgid "Rescan Music Folder"
+#~ msgstr "Reanalisar pasta de músicas"
+
+#~ msgid "Rescanning music folder for changes"
+#~ msgstr "A analisar alterações na pasta de músicas"
+
+#~ msgid "Please make sure that your music folder is accessible and mounted."
+#~ msgstr "Certifique-se de que a pasta de músicas está acessível e montada."
+
+#~ msgid "%i Star"
+#~ msgid_plural "%i Stars"
+#~ msgstr[0] "%i estrela"
+#~ msgstr[1] "%i estrelas"
+
+#~ msgid "Display Album Art"
+#~ msgstr "Mostrar capa do álbum"
+
+#~ msgid "Change your music folder."
+#~ msgstr "Alterar pasta de músicas"
+
+#~ msgid "No songs on CD"
+#~ msgstr "O Cd não tem faixas"
+
+#~ msgid ""
+#~ "Please wait until %s is finished with the current import before importing "
+#~ "the CD."
+#~ msgstr ""
+#~ "Aguarde até que %s termine a importação atual antes de importar o CD."
+
+#~ msgid "CD Import Complete"
+#~ msgstr "Importação terminada"
+
+#~ msgid "%s has finished importing %i songs from Audio CD."
+#~ msgstr "O %s importou %i faixas do CD áudio."
+
+#~ msgid "Importing track %i: %s"
+#~ msgstr "Importação da faixa %i: %s"
+
+#~ msgid "Fetching similar songs"
+#~ msgstr "Obter músicas semelhantes"
+
+#~ msgid "Similar to %s"
+#~ msgstr "Semelhante a %s"
+
+#~ msgid "Similar Song View"
+#~ msgstr "Faixas semelhantes"
+
+#~ msgid "Scrobbling Already Enabled"
+#~ msgstr "O \"scrobbling\" já está ativo"
+
+#~ msgid "Complete Login"
+#~ msgstr "Inicie sessão"
+
+#~ msgid "There is not enough space on Device to complete the Sync…"
+#~ msgstr ""
+#~ "Não há espaço suficiente no dispositivo para terminar a sincronização..."
+
+#~ msgid ""
+#~ "To allow for Last.fm integration, you must give permission to %s. You "
+#~ "only need to do this once."
+#~ msgstr ""
+#~ "Para permitir a integração com o Last.fm, precisa de dar permissões a %s. "
+#~ "Só precisa de o fazer uma vez."
+
+#~ msgid "Give %s Permission"
+#~ msgstr "Dar permissão a %s"
+
+#~ msgid "Noise;Audio;Player;MP3;iPod;Play;Playlist;Media;CD;Phone;Songs;"
+#~ msgstr "Noise;Audio;Player;MP3;iPod;Play;Playlist;Media;CD;Phone;Songs;"
+
+#~ msgid "Required GStreamer plugin not installed"
+#~ msgstr "Requer o plugin GStreamer, que não está instalado"
+
+#~ msgid ""
+#~ "The plugin for media type %s is not installed.\n"
+#~ "What would you like to do?"
+#~ msgstr ""
+#~ "O plugin para os ficheiros do tipo %s não está instalado.\n"
+#~ "O que pretende fazer?"
+
+#~ msgid "Reset"
+#~ msgstr "Reiniciar"
+
+#~ msgid "<b>Stats</b>"
+#~ msgstr "Estatísticas"
+
+#~ msgid "Notifications:"
+#~ msgstr "Notificações"
+
+#~ msgid "Details"
+#~ msgstr "Detalhes"
+
+#~ msgid "About Noise"
+#~ msgstr "Sobre Música"
+
+#~ msgid "About Music"
+#~ msgstr "Sobre Música"

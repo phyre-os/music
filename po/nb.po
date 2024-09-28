@@ -1,0 +1,1872 @@
+# Norwegian Bokmal translation for noise
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the noise package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: noise\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-01 10:32+0000\n"
+"PO-Revision-Date: 2024-09-19 07:21+0000\n"
+"Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
+"Language-Team: Norwegian Bokmål <https://l10n.phyreos.io/projects/music/"
+"music/nb/>\n"
+"Language: nb\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.6.2\n"
+"X-Launchpad-Export-Date: 2017-04-14 05:41+0000\n"
+
+#: src/Application.vala:92 src/Views/NowPlayingView.vala:18
+#: src/Views/NowPlayingView.vala:116
+msgid "Music"
+msgstr "Musikk"
+
+#: src/MainWindow.vala:20
+#, fuzzy
+msgid "Shuffle"
+msgstr "Tilfeldig avspilling"
+
+#: src/MainWindow.vala:26
+msgid "Search titles in playlist"
+msgstr "Søk etter navn i spillelisten"
+
+#: src/MainWindow.vala:45
+msgid "Queue is Empty"
+msgstr "Køen er tom"
+
+#: src/MainWindow.vala:46
+msgid "Audio files opened from Files will appear here"
+msgstr "Lydfiler åpnet fra Filer vil vises her"
+
+#: src/MainWindow.vala:63
+msgid "Open Files…"
+msgstr "Åpne filer …"
+
+#: src/MainWindow.vala:167
+#, c-format
+msgid "%d invalid file was not added to the queue"
+msgid_plural "%d invalid files were not added to the queue"
+msgstr[0] "%d ugyldig fil ble ikke lagt til i køen"
+msgstr[1] "%d ugyldige filer ble ikke lagt til i køen"
+
+#: src/MainWindow.vala:215
+msgid "All files"
+msgstr "Alle filer"
+
+#: src/MainWindow.vala:220
+msgid "Music files"
+msgstr "Musikkfiler"
+
+#: src/MainWindow.vala:229
+msgid "Open"
+msgstr "Åpne"
+
+#: src/MainWindow.vala:233
+msgid "Open audio files"
+msgstr "Åpne lydfiler"
+
+#: src/MainWindow.vala:271
+msgid "Repeat None"
+msgstr "Ikke gjenta noe"
+
+#: src/MainWindow.vala:275
+msgid "Repeat All"
+msgstr "Gjenta alle"
+
+#: src/MainWindow.vala:279
+msgid "Repeat One"
+msgstr "Gjenta spor"
+
+#: src/PlaybackManager.vala:136
+#, c-format
+msgid "%d track was added to the queue"
+msgid_plural "%d tracks were added to the queue"
+msgstr[0] "%d spor lagt til i køen"
+msgstr[1] "%d spor lagt til i køen"
+
+#. Don't set artist for files without tags
+#: src/PlaybackManager.vala:196
+msgid "Unknown"
+msgstr "Ukjente"
+
+#: src/Views/NowPlayingView.vala:23 src/Views/NowPlayingView.vala:115
+msgid "Not playing"
+msgstr "Spiller ikke"
+
+#: src/Views/NowPlayingView.vala:45
+msgid "Previous"
+msgstr "Forrige"
+
+#: src/Views/NowPlayingView.vala:68
+msgid "Next"
+msgstr "Neste"
+
+#: src/Views/NowPlayingView.vala:93
+msgid "Play"
+msgstr "Avspill"
+
+#: src/Views/NowPlayingView.vala:96
+msgid "Pause"
+msgstr "Pause"
+
+#~ msgid "Importing <b>$NAME</b> by <b>$ARTIST</b> to library…"
+#~ msgstr "Importerer <b>$NAME</b> av <b>$ARTIST</b> til biblioteket…"
+
+#~ msgid "$NAME on $ALBUM"
+#~ msgstr "$NAME på $ALBUM"
+
+#~ msgid "$NAME by $ARTIST"
+#~ msgstr "$NAME av $ARTIST"
+
+#~ msgid "$NAME by $ARTIST on $ALBUM"
+#~ msgstr "$NAME av $ARTIST på $ALBUM"
+
+#~ msgid "Flat"
+#~ msgstr "Flat"
+
+#~ msgid "Classical"
+#~ msgstr "Klassisk"
+
+#~ msgid "Club"
+#~ msgstr "Klubb"
+
+#~ msgid "Dance"
+#~ msgstr "Dans"
+
+#~ msgid "Full Bass"
+#~ msgstr "Full bass"
+
+#~ msgid "Full Treble"
+#~ msgstr "Full Diskant"
+
+#~ msgid "Full Bass + Treble"
+#~ msgstr "Full bass + diskant"
+
+#~ msgid "Headphones"
+#~ msgstr "Hodetelefoner"
+
+#~ msgid "Large Hall"
+#~ msgstr "Storsal"
+
+#~ msgid "Live"
+#~ msgstr "Sanntid"
+
+#~ msgid "Party"
+#~ msgstr "Fest"
+
+#~ msgid "Pop"
+#~ msgstr "Pop"
+
+#~ msgid "Reggae"
+#~ msgstr "Reggae"
+
+#~ msgid "Rock"
+#~ msgstr "Rock"
+
+#~ msgid "Soft"
+#~ msgstr "Myk"
+
+#~ msgid "Ska"
+#~ msgstr "Ska"
+
+#~ msgid "Soft Rock"
+#~ msgstr "Soft Rock"
+
+#~ msgid "Techno"
+#~ msgstr "Techno"
+
+#~ msgid " (%d)"
+#~ msgstr " (%d)"
+
+#~ msgid "%s (%d)"
+#~ msgstr "%s (%d)"
+
+#~ msgid "%s (%i)"
+#~ msgstr "%s (%i)"
+
+#~ msgid "MPEG Version 3.0 Extended (*.m3u)"
+#~ msgstr "MPEG versjon 3.0 utvidet (*.m3u)"
+
+#~ msgid "Shoutcast Playlist Version 2.0 (*.pls)"
+#~ msgstr "Shoutcast spilleliste versjon 2.0 (*. Pls)"
+
+#~ msgid "Export Playlist"
+#~ msgstr "Eksportér spilleliste"
+
+#~ msgid "Save"
+#~ msgstr "Lagre"
+
+#~ msgid "Cancel"
+#~ msgstr "Avbryt"
+
+#~ msgid "Playlist"
+#~ msgstr "Spilleliste"
+
+#~ msgid "Import %s"
+#~ msgstr "Importer %s"
+
+#~ msgid "Unrecognized playlist file. Import failed."
+#~ msgstr "Ukjent spilleliste fil. Importering feilet."
+
+#~ msgid "%m/%e/%Y %l:%M %p"
+#~ msgstr "%m/%e/%Y %l:%M %p"
+
+#~ msgid "Empty device!"
+#~ msgstr "Enheten er tom!"
+
+#~ msgid "This device does not contain any music."
+#~ msgstr "Denne enheten har ingen musikk."
+
+#~ msgid "Android Phone"
+#~ msgstr "Android Telefon"
+
+#~ msgid "Audio Player"
+#~ msgstr "Lydspiller"
+
+#~ msgid "Adding <b>$NAME</b> by <b>$ARTIST</b> to $DEVICE"
+#~ msgstr "Legg til <b>$NAME</b> av <b>$ARTIST</b> til $DEVICE"
+
+#~ msgid "Syncing <b>%s</b>…"
+#~ msgstr "Synkroniserer <b>%s</b>…"
+
+#~ msgid "Removing <b>$NAME</b> by <b>$ARTIST</b> from $DEVICE"
+#~ msgstr "Fjerner <b>$NAME</b> av <b>$ARTIST</b> fra $DEVICE"
+
+#~ msgid "Removing from <b>%s</b>…"
+#~ msgstr "Fjerne fra <b>%s</b>…"
+
+#~ msgid "Finishing sync process…"
+#~ msgstr "Fullfører synkroniseringsprosessen…"
+
+#~ msgid "Cancelling Sync…"
+#~ msgstr "Avbryter synkronisering…"
+
+#~ msgid "Import Complete"
+#~ msgstr "Importering fullført"
+
+#~ msgid "Your Library Has Been Imported."
+#~ msgstr "Biblioteket ditt har blitt importert."
+
+#~ msgid "<b>Copying</b> files to <b>Music Folder</b>…"
+#~ msgstr "<b>Kopierer</b> filer til <b>Musikkmappe</b>…"
+
+#~ msgid "Import to Library…"
+#~ msgstr "Importer til bibliotek…"
+
+#~ msgid "Preferences"
+#~ msgstr "Innstillinger"
+
+#~ msgid "Search Music"
+#~ msgstr "Søk etter musikk"
+
+#~ msgid "No songs in Queue"
+#~ msgstr "Ingen sanger i køen"
+
+#~ msgid ""
+#~ "To add songs to the queue, use the <b>secondary click</b> on an item and "
+#~ "choose <b>Queue</b>. When a song finishes, the queued songs will be "
+#~ "played first before the next song in the currently playing list."
+#~ msgstr ""
+#~ "For å legge til en sang i køen, bruker du <b>høyreklikk</b> på en sang og "
+#~ "velger <b>kø</b>. om en sang er i køen, vil den bli spilt av for resten "
+#~ "av spillelisten."
+
+#~ msgid "No songs in History"
+#~ msgstr "Ingen sanger i Historikken"
+
+#~ msgid ""
+#~ "After a part of a song has been played, it is added to the history list.\n"
+#~ "You can use this list to see all the songs you have played during the "
+#~ "current session."
+#~ msgstr ""
+#~ "Etter en del av en sang har blitt spilt, blir den lagt til i "
+#~ "historikken.\n"
+#~ "Du kan bruke denne listen til å se alle sangene som du har spilt under "
+#~ "følgende økt."
+
+#~ msgid "Import Music"
+#~ msgstr "Importer musikk"
+
+#~ msgctxt "Name of the playlist"
+#~ msgid "Queue"
+#~ msgstr "Legg til i kø"
+
+#~ msgid "File not found"
+#~ msgstr "Fant ikke fil"
+
+#~ msgid "The music file for <b>%s</b> by <b>%s</b> could not be found."
+#~ msgstr "Musikkfilen for <b>%s</b> av <b>%s</b> ble ikke funnet."
+
+#~ msgid "%i music files could not be found."
+#~ msgstr "Fant ikke %i musikkfiler."
+
+#~ msgid "Rescan Library"
+#~ msgstr "Rescan Bibliotek"
+
+#~ msgid "Remove Song"
+#~ msgstr "Fjern sang"
+
+#~ msgid "Find Song"
+#~ msgstr "Finn sang"
+
+#~ msgid "Choose Music Folder"
+#~ msgstr "Velg musikkmappe"
+
+#~ msgid "Would you like to install the %s plugin?"
+#~ msgstr "Vil du installere %s-tillegget?"
+
+#~ msgid ""
+#~ "This song cannot be played. The %s plugin is required to play the song."
+#~ msgstr ""
+#~ "Denne sangen kan ikke spilles. %s-tillegget er påkrevd for avspilling."
+
+#~ msgid "Install Plugin"
+#~ msgstr "Installer programtillegg"
+
+#~ msgid "Title:"
+#~ msgstr "Tittel:"
+
+#~ msgid "Artist:"
+#~ msgstr "Artist:"
+
+#~ msgid "Album:"
+#~ msgstr "Album:"
+
+#~ msgid "Album Artist:"
+#~ msgstr "Albumartist:"
+
+#~ msgid "Composer:"
+#~ msgstr "Komponist:"
+
+#~ msgid "Grouping:"
+#~ msgstr "Gruppering:"
+
+#~ msgid "Genre:"
+#~ msgstr "Sjanger:"
+
+#~ msgid "Year:"
+#~ msgstr "År:"
+
+#~ msgid "Track:"
+#~ msgstr "Spor:"
+
+#~ msgid "Disc:"
+#~ msgstr "Plate:"
+
+#~ msgid "Rating:"
+#~ msgstr "Vurdering:"
+
+#~ msgid "Comment:"
+#~ msgstr "Kommentar:"
+
+#~ msgid "Close"
+#~ msgstr "Lukk"
+
+#~ msgid "Issues while importing from %s"
+#~ msgstr "Feil oppstod ved import fra %s"
+
+#~ msgid "Unable to import %d item. The file may be damaged."
+#~ msgid_plural "Unable to import %d items. The files may be damaged."
+#~ msgstr[0] "Kunne ikke importere %d element. Filen kan være skadet."
+#~ msgstr[1] "Kunne ikke importere %d elementer. Filene kan være skadet."
+
+#~ msgid "Move all corrupted files to trash"
+#~ msgstr "Flytt alle korrupte filer til papirkurv"
+
+#~ msgid "del"
+#~ msgstr "Slett"
+
+#~ msgid "File Location"
+#~ msgstr "Filplassering"
+
+#~ msgid "Select individual files to move to trash:"
+#~ msgstr "Velg individuelle filer for flytting til papirkurv:"
+
+#~ msgid "Move to Trash"
+#~ msgstr "Flytt til papirkurv"
+
+#~ msgid "Ignore"
+#~ msgstr "Ignorer"
+
+#~ msgid "Select Music Folder…"
+#~ msgstr "Velg musikkmappe…"
+
+#~ msgid "Music Folder Location"
+#~ msgstr "Musikkmappeplassering"
+
+#~ msgid "Library Management"
+#~ msgstr "Organisering av bibliotek"
+
+#~ msgid "Keep Music folder organized:"
+#~ msgstr "Hold mappen med musikk organisert:"
+
+#~ msgid "Write metadata to file:"
+#~ msgstr "Skriv metadata til fil:"
+
+#~ msgid "Copy imported files to Library:"
+#~ msgstr "Kopier de importerte filene til biblioteket:"
+
+#~ msgid "Desktop Integration"
+#~ msgstr "Skrivebordsintegrasjon"
+
+#~ msgid "Continue playback when closed:"
+#~ msgstr "Fortsett avspilling når lukket:"
+
+#~ msgid "Remove %d Song From Library?"
+#~ msgid_plural "Remove %d Songs From Library?"
+#~ msgstr[0] "Fjern %d sang fra biblioteket?"
+#~ msgstr[1] "Fjern %d sanger fra biblioteket?"
+
+#~ msgid "Remove \"%s\" From Library?"
+#~ msgstr "Fjern \"%s\" fra biblioteket?"
+
+#~ msgid ""
+#~ "This will remove the song from your library and from any device synced "
+#~ "automatically."
+#~ msgid_plural ""
+#~ "This will remove the songs from your library and from any device synced "
+#~ "automatically."
+#~ msgstr[0] ""
+#~ "Dette vil fjerne sangen fra ditt bibliotek samt enhver enhet som "
+#~ "synkroniseres automatisk."
+#~ msgstr[1] ""
+#~ "Dette vil fjerne sangene fra ditt bibliotek samt enhver enhet som "
+#~ "synkroniseres automatisk."
+
+#~ msgid "Remove from Library"
+#~ msgstr "Fjern fra bibliotek"
+
+#~ msgid "Set Music Folder?"
+#~ msgstr "Angi musikkmappe?"
+
+#~ msgid ""
+#~ "Are you sure you want to set the music folder to %s? This will reset your "
+#~ "library and remove your playlists."
+#~ msgstr ""
+#~ "Er du sikker på at du vil angi %s som musikkmappe? Dette vil "
+#~ "tilbakestille biblioteket og fjerne spillelistene dine."
+
+#~ msgid "Export Playlists"
+#~ msgstr "Eksporter spillelister"
+
+#~ msgid "Set Music Folder"
+#~ msgstr "Angi musikkmappe"
+
+#~ msgid "Playlist Title"
+#~ msgstr "Tittel på spilleliste"
+
+#~ msgid "any"
+#~ msgstr "enhver"
+
+#~ msgid "all"
+#~ msgstr "alle"
+
+#~ msgid "Match"
+#~ msgstr "Treff"
+
+#~ msgid "of the following:"
+#~ msgstr "av følgende:"
+
+#~ msgid "Add"
+#~ msgstr "Legg til"
+
+#~ msgid "Limit to"
+#~ msgstr "Avgrens til"
+
+#~ msgid "items"
+#~ msgstr "elementer"
+
+#~ msgid "Name of Playlist"
+#~ msgstr "Navn på spilleliste"
+
+#~ msgid "Rules"
+#~ msgstr "Regler"
+
+#~ msgid "Options"
+#~ msgstr "Alternativer"
+
+#~ msgid "Smart Playlist Editor"
+#~ msgstr "Smart spillelisteredigering"
+
+#~ msgid "Remove"
+#~ msgstr "Fjern"
+
+#~ msgid "Album"
+#~ msgstr "Album"
+
+#~ msgid "Artist"
+#~ msgstr "Artist"
+
+#~ msgid "Bitrate"
+#~ msgstr "Bitrate"
+
+#~ msgid "Comment"
+#~ msgstr "Kommentar"
+
+#~ msgid "Composer"
+#~ msgstr "Komponist"
+
+#~ msgid "Date Added"
+#~ msgstr "Dato lagt til"
+
+#~ msgid "Genre"
+#~ msgstr "Sjanger"
+
+#~ msgid "Grouping"
+#~ msgstr "Gruppering"
+
+#~ msgid "Last Played"
+#~ msgstr "Sist spilt"
+
+#~ msgid "Length"
+#~ msgstr "Varighet"
+
+#~ msgid "Playcount"
+#~ msgstr "Avspillinger"
+
+#~ msgid "Rating"
+#~ msgstr "Vurdering"
+
+#~ msgid "Skipcount"
+#~ msgstr "Hopptellinger"
+
+#~ msgid "Title"
+#~ msgstr "Tittel"
+
+#~ msgid "Year"
+#~ msgstr "År"
+
+#~ msgid "URI"
+#~ msgstr "URI"
+
+#~ msgid "is"
+#~ msgstr "er"
+
+#~ msgid "contains"
+#~ msgstr "inneholder"
+
+#~ msgid "does not contain"
+#~ msgstr "inneholder ikke"
+
+#~ msgid "is exactly"
+#~ msgstr "er nøyaktig"
+
+#~ msgid "is at most"
+#~ msgstr "er på det meste"
+
+#~ msgid "is at least"
+#~ msgstr "er i det minste"
+
+#~ msgid "is within"
+#~ msgstr "er innenfor"
+
+#~ msgid "is before"
+#~ msgstr "er før"
+
+#~ msgid "seconds"
+#~ msgstr "sekunder"
+
+#~ msgid "days ago"
+#~ msgstr "dager siden"
+
+#~ msgid "kbps"
+#~ msgstr "kbps"
+
+#~ msgid "Sync will remove %i item from %s"
+#~ msgid_plural "Sync will remove %i items from %s"
+#~ msgstr[0] "Synkronisering vil fjerne %i element fra %s"
+#~ msgstr[1] "Synkronisering vil fjerne %i elementer fra %s"
+
+#~ msgid ""
+#~ "If you continue to sync, media will be removed from %s since they are not "
+#~ "on the sync list. Would you like to import them to your library first?"
+#~ msgstr ""
+#~ "Om du fortsetter å synkronisere, vil media bli fjernet fra %s ettersom de "
+#~ "ikke er i synkroniseringslisten. Vil du importere dem til biblioteket "
+#~ "først?"
+
+#~ msgid "Continue Syncing"
+#~ msgstr "Fortsett synkroniseringen"
+
+#~ msgid "Import"
+#~ msgstr "Importer"
+
+#~ msgid "Importing music from %s…"
+#~ msgstr "Importerer musikk fra %s…"
+
+#~ msgid "Adding files to library…"
+#~ msgstr "Legger filer til bibliotek…"
+
+#~ msgid "<b>Importing</b> music to library…"
+#~ msgstr "<b>Importerer</b> musikk til bibliotek…"
+
+#~ msgid "All music files are already in your library"
+#~ msgstr "Alle musikkfiler er allerede i ditt bibliotek"
+
+#~ msgid "No files were imported."
+#~ msgstr "Ingen filer ble importert."
+
+#~ msgid "Rescanning music for changes. This may take a while…"
+#~ msgstr "Søker etter musikkendringer på nytt. Dette kan ta en stund…"
+
+#~ msgid "Added to your queue:"
+#~ msgstr "Lagt til i køen:"
+
+#~ msgid "%d Track"
+#~ msgid_plural "%d Tracks"
+#~ msgstr[0] "%d spor"
+#~ msgstr[1] "%d spor"
+
+#~ msgid "Favorite Songs"
+#~ msgstr "Favorittsanger"
+
+#~ msgid "Recently Added"
+#~ msgstr "Nylig lagt til"
+
+#~ msgid "Recent Favorites"
+#~ msgstr "Nylige favoritter"
+
+#~ msgid "Never Played"
+#~ msgstr "Aldri spilt"
+
+#~ msgid "Over Played"
+#~ msgstr "Overspilt"
+
+#~ msgid "Not Recently Played"
+#~ msgstr "Ikke spilt nylig"
+
+#~ msgid "History"
+#~ msgstr "Historikk"
+
+#~ msgid "Playlists"
+#~ msgstr "Spillelister"
+
+#~ msgid "Device Name:"
+#~ msgstr "Enhetsnavn:"
+
+#~ msgid "Device Name"
+#~ msgstr "Enhetsnavn"
+
+#~ msgid "Automatically sync when plugged in:"
+#~ msgstr "Synkorniser denne automatisk:"
+
+#~ msgid "Sync:"
+#~ msgstr "Synkroniser:"
+
+#~ msgid "Sync"
+#~ msgstr "Synkroniser"
+
+#~ msgid "All Music"
+#~ msgstr "All musikk"
+
+#~ msgid "Sync Failed"
+#~ msgstr "Synkronisering feilet"
+
+#~ msgid ""
+#~ "The playlist named %s is used to sync device %s, but could not be found."
+#~ msgstr ""
+#~ "Spillelisten %s som er brukt for synkronisering av %s, kunne ikke finnes."
+
+#~ msgid "Cannot Sync"
+#~ msgstr "Kan ikke synkronisere"
+
+#~ msgid ""
+#~ "Cannot sync device with selected sync settings. Not enough space on disk"
+#~ msgstr ""
+#~ "Kan ikke synkronisere med de valgte innstillingene. For lite diskplass"
+
+#~ msgid "Device is already doing an operation."
+#~ msgstr "Enheten gjør allerede en operasjon."
+
+#~ msgid "Cancelling…"
+#~ msgstr "Avbryter …"
+
+#~ msgid "Device operation has been cancelled and will stop after this media."
+#~ msgstr ""
+#~ "Drift av enheten har blitt kansellert og vil stoppe etter dette mediet."
+
+#~ msgid "No Results"
+#~ msgstr "Resultatløst"
+
+#~ msgid "Try another search"
+#~ msgstr "Prøv et søk til"
+
+#~ msgid "Genres"
+#~ msgstr "Sjangere"
+
+#~ msgid "Artists"
+#~ msgstr "Artister"
+
+#~ msgid "Albums"
+#~ msgstr "Album"
+
+#~ msgid "Years"
+#~ msgstr "År"
+
+#~ msgid "Ratings"
+#~ msgstr "Vurderinger"
+
+#~ msgid "Composers"
+#~ msgstr "Komponister"
+
+#~ msgid "Groupings"
+#~ msgstr "Grupperinger"
+
+#~ msgid "All Genres"
+#~ msgstr "Alle sjangere"
+
+#~ msgid "All %i Genres"
+#~ msgstr "alle %i sjangere"
+
+#~ msgid "No Genres"
+#~ msgstr "Ingen Sjangere"
+
+#~ msgid "All Artists"
+#~ msgstr "Alle artister"
+
+#~ msgid "All %i Artists"
+#~ msgstr "Alle %i Artister"
+
+#~ msgid "No Artists"
+#~ msgstr "Ingen Artister"
+
+#~ msgid "All Albums"
+#~ msgstr "Alle Album"
+
+#~ msgid "All %i Albums"
+#~ msgstr "Alle %i album"
+
+#~ msgid "No Albums"
+#~ msgstr "Ingen Album"
+
+#~ msgid "All %i Years"
+#~ msgstr "Alle %i år"
+
+#~ msgid "No Years"
+#~ msgstr "Ingen år"
+
+#~ msgid "All Ratings"
+#~ msgstr "Alle vurderinger"
+
+#~ msgid "No Ratings"
+#~ msgstr "Ingen Vurderinger"
+
+#~ msgid "All Groupings"
+#~ msgstr "Alle Grupperinger"
+
+#~ msgid "All %i Groupings"
+#~ msgstr "Alle %i Grupperinger"
+
+#~ msgid "No Groupings"
+#~ msgstr "Ingen Grupperinger"
+
+#~ msgid "All Composers"
+#~ msgstr "Alle Komponister"
+
+#~ msgid "All %i Composers"
+#~ msgstr "Alle %i Komponister"
+
+#~ msgid "No Composers"
+#~ msgstr "Ingen Komponister"
+
+#~ msgid "Automatic"
+#~ msgstr "Automatisk"
+
+#~ msgid "On Left"
+#~ msgstr "På venstre"
+
+#~ msgid "On Top"
+#~ msgstr "Øverst"
+
+#~ msgid "Unrated"
+#~ msgstr "Ikke vurdert"
+
+#~ msgid "%u Star"
+#~ msgid_plural "%u Stars"
+#~ msgstr[0] "%u Stjerne"
+#~ msgstr[1] "%u Stjerner"
+
+#~ msgid "%u kbps"
+#~ msgstr "%u kbps"
+
+#~ msgid "Never"
+#~ msgstr "Aldri"
+
+#~ msgctxt "List column title"
+#~ msgid "#"
+#~ msgstr "#"
+
+#~ msgctxt "List column title"
+#~ msgid "Track"
+#~ msgstr "Spor"
+
+#~ msgctxt "List column title"
+#~ msgid "Title"
+#~ msgstr "Tittel"
+
+#~ msgctxt "List column title"
+#~ msgid "Length"
+#~ msgstr "Lengde"
+
+#~ msgctxt "List column title"
+#~ msgid "Artist"
+#~ msgstr "Artist"
+
+#~ msgctxt "List column title"
+#~ msgid "Album"
+#~ msgstr "Album"
+
+#~ msgctxt "List column title"
+#~ msgid "Album Artist"
+#~ msgstr "Album artist"
+
+#~ msgctxt "List column title"
+#~ msgid "Composer"
+#~ msgstr "Komponist"
+
+#~ msgctxt "List column title"
+#~ msgid "Genre"
+#~ msgstr "Sjanger"
+
+#~ msgctxt "List column title"
+#~ msgid "Year"
+#~ msgstr "År"
+
+#~ msgctxt "List column title"
+#~ msgid "Grouping"
+#~ msgstr "Gruppering"
+
+#~ msgctxt "List column title"
+#~ msgid "Bitrate"
+#~ msgstr "Bithastighet"
+
+#~ msgctxt "List column title"
+#~ msgid "Rating"
+#~ msgstr "Vurdering"
+
+#~ msgctxt "List column title"
+#~ msgid "Plays"
+#~ msgstr "Spiller"
+
+#~ msgctxt "List column title"
+#~ msgid "Skips"
+#~ msgstr "Hopper over"
+
+#~ msgctxt "List column title"
+#~ msgid "Date Added"
+#~ msgstr "Dato lagt til"
+
+#~ msgctxt "List column title"
+#~ msgid "Last Played"
+#~ msgstr "Sist Spilt"
+
+#~ msgctxt "List column title (beats per minute)"
+#~ msgid "BPM"
+#~ msgstr "BPM"
+
+#~ msgctxt "List column title (file location)"
+#~ msgid "Location"
+#~ msgstr "Plassering"
+
+#~ msgctxt "List column title"
+#~ msgid "File Size"
+#~ msgstr "Filstørrelse"
+
+#~ msgid "Autosize Columns"
+#~ msgstr "Automatisk kolonnejustering"
+
+#~ msgid "1234 kbps"
+#~ msgstr "1234 kbps"
+
+#~ msgid "Sample List String"
+#~ msgstr "Eksempel på listelengde"
+
+#~ msgid "Get Some Tunes"
+#~ msgstr "Få tak i musikk"
+
+#~ msgid "Add music to your library."
+#~ msgstr "Legg til musikk i ditt bibliotek."
+
+#~ msgid "Import music from a source into your library."
+#~ msgstr "Importer musikk fra en kilde til ditt bibliotek."
+
+#~ msgid "Change Music Folder"
+#~ msgstr "Bytt musikkmappe"
+
+#~ msgid "Load music from a folder, a network or an external disk."
+#~ msgstr "Last musikk fra mappe, nettverks- eller ekstern disk."
+
+#~ msgid "Import your Music"
+#~ msgstr "Importer Music"
+
+#~ msgid "Import all your Music from %s into your library."
+#~ msgstr "Importer all musikken din fra%s til biblioteket."
+
+#~ msgid "Select Music Folder"
+#~ msgstr "Velg musikkmappe"
+
+#~ msgid "No Songs"
+#~ msgstr "Ingen sanger"
+
+#~ msgid "Updating playlist. Please wait."
+#~ msgstr "Oppdaterer spilleliste. Vent."
+
+#~ msgid ""
+#~ "To add songs to this playlist, use the <b>secondary click</b> on an item "
+#~ "and choose <b>Add to Playlist</b>."
+#~ msgstr ""
+#~ "For å legge til sanger i denne spillelisten, bruk <b>høyreklikk</b> på et "
+#~ "element og velg <b>Legg til i spilleliste</b>."
+
+#~ msgid "Edit Smart Playlist"
+#~ msgstr "Rediger smart spilleliste"
+
+#~ msgid ""
+#~ "This playlist will be automatically populated with songs that match its "
+#~ "rules. To modify these rules, use the <b>secondary click</b> on it in the "
+#~ "sidebar and click on <b>Edit</b>. Optionally, you can click on the button "
+#~ "below."
+#~ msgstr ""
+#~ "Denne spillelisten vil automatisk bli fylt med sanger som passer inn. For "
+#~ "å modifisere reglene for dette; bruk <b>høyreklikk</b> på spillelisten i "
+#~ "sidepanelet og klikk <b>Rediger</b>. Eventuelt kan du klikke på knappen "
+#~ "under."
+
+#~ msgid "No media"
+#~ msgstr "Inget medium"
+
+#~ msgid "Set new album cover"
+#~ msgstr "Sett nytt albumomslag"
+
+#~ msgid "Image files"
+#~ msgstr "Bildefiler"
+
+#~ msgid "_Open"
+#~ msgstr "_Åpne"
+
+#~ msgid "_Cancel"
+#~ msgstr "_Avbryt"
+
+#~ msgid "Save preset"
+#~ msgstr "Lagre forhåndsinnstilling"
+
+#~ msgid "Off"
+#~ msgstr "Av"
+
+#~ msgid "%s (Custom)"
+#~ msgstr "%s (Tilpasset)"
+
+#~ msgid "%s (Custom %i)"
+#~ msgstr "%s (Tilpasset %i)"
+
+#~ msgid "Custom Preset"
+#~ msgstr "Tilpasset forhåndsinnstilling"
+
+#~ msgid "Custom Preset %i"
+#~ msgstr "Tilpasset forhåndsinnstilling %i"
+
+#~ msgid "Scroll to Current Song"
+#~ msgstr "Bla til gjeldende sang"
+
+#~ msgid "Show in File Browser…"
+#~ msgstr "Vis i filbehandleren…"
+
+#~ msgid "Edit Song Info…"
+#~ msgstr "Endre sanginformasjon…"
+
+#~ msgid "Other Actions"
+#~ msgstr "Andre handlinger"
+
+#~ msgctxt "Action item (verb)"
+#~ msgid "Queue"
+#~ msgstr "Legg til i kø"
+
+#~ msgid "Add to Playlist"
+#~ msgstr "Legg til i spilleliste"
+
+#~ msgid "Remove Song…"
+#~ msgstr "Fjern sang…"
+
+#~ msgid "Import to Library"
+#~ msgstr "Importer til bibliotek"
+
+#~ msgid "Remove from Library…"
+#~ msgstr "Fjern fra bibliotek…"
+
+#~ msgid "Remove from Device"
+#~ msgstr "Fjern fra enhet"
+
+#~ msgid "Remove from Queue"
+#~ msgstr "Fjern fra køen"
+
+#~ msgid "New Playlist…"
+#~ msgstr "Ny spilleliste…"
+
+#~ msgid "Import %i of %i selected songs"
+#~ msgstr "Importer %i av %i valgte sanger"
+
+#~ msgid "Import %i song"
+#~ msgid_plural "Import %i songs"
+#~ msgstr[0] "Importer %i sang"
+#~ msgstr[1] "Importer %i sanger"
+
+#~ msgid "Delete Current"
+#~ msgstr "Slett gjeldende"
+
+#~ msgid "Rename"
+#~ msgstr "Endre navn"
+
+#~ msgid "Edit…"
+#~ msgstr "Rediger…"
+
+#~ msgid "Save as Playlist"
+#~ msgstr "Lagre som spilleliste"
+
+#~ msgid "Export…"
+#~ msgstr "Eksporter…"
+
+#~ msgid "Eject"
+#~ msgstr "Løs ut"
+
+#~ msgid "New Playlist"
+#~ msgstr "Ny spilleliste"
+
+#~ msgid "New Smart Playlist"
+#~ msgstr "Ny smart spilleliste"
+
+#~ msgid "Import Playlists"
+#~ msgstr "Importer spillelister"
+
+#~ msgid "Library"
+#~ msgstr "Bibliotek"
+
+#~ msgid "Devices"
+#~ msgstr "Enheter"
+
+#~ msgid "Network"
+#~ msgstr "Nettverk"
+
+#~ msgid "Add Playlist"
+#~ msgstr "Legg til spilleliste"
+
+#~ msgid "Add Smart Playlist"
+#~ msgstr "Ny smart spilleliste"
+
+#~ msgid "Add Playlist…"
+#~ msgstr "Legg til spilleliste …"
+
+#~ msgid "Equalizer: %s"
+#~ msgstr "Tonekontroll (EQ): %s"
+
+#~ msgid "Enable Repeat"
+#~ msgstr "Slå på gjentaking"
+
+#~ msgid "Disable Repeat"
+#~ msgstr "Slå av gjentagelse"
+
+#~ msgid "Disable Shuffle"
+#~ msgstr "Slå av shuffle"
+
+#~ msgid "View as albums"
+#~ msgstr "Vis som album"
+
+#~ msgid "View as list"
+#~ msgstr "Vis som liste"
+
+#~ msgid "View in columns"
+#~ msgstr "Vis i kolonner"
+
+#~ msgid "No similar songs found"
+#~ msgstr "Ingen sanger funnet"
+
+#~ msgid ""
+#~ "There are no songs similar to the current song in your library. Make sure "
+#~ "all song info is correct and you are connected to the Internet. Some "
+#~ "songs may not have matches."
+#~ msgstr ""
+#~ "Det er ingen sanger som ligner på sangen i biblioteket. Kontroller at all "
+#~ "sang info er riktig og du er koblet til Internett. Noen sanger har "
+#~ "kanskje ikke kopier."
+
+#~ msgid "Similar"
+#~ msgstr "Lignende"
+
+#~ msgid "media"
+#~ msgstr "media"
+
+#~ msgid "Similar Media"
+#~ msgstr "Liknende Media"
+
+#~ msgid "Audio CD Invalid"
+#~ msgstr "Lyd CD ugyldig"
+
+#~ msgid "Impossible to read the contents of this Audio CD"
+#~ msgstr "Umulig å lese innholdet i denne lyd-CDen"
+
+#~ msgid "Could not find Music Folder"
+#~ msgstr "Fant ikke musikkmappen"
+
+#~ msgid ""
+#~ "Please make sure that your music folder is accessible and mounted before "
+#~ "importing the CD."
+#~ msgstr ""
+#~ "Vennligst pass på at musikkmappen er tilgjengelig for bruk før "
+#~ "importering av CD."
+
+#~ msgid ""
+#~ "The Application could not find any songs on the CD. No songs can be "
+#~ "imported"
+#~ msgstr ""
+#~ "Applikasjonen kunne ikke finne noen sanger på CD. Ingen sanger kan "
+#~ "importeres"
+
+#~ msgid "Song imported from Audio CD."
+#~ msgstr "Spor importert fra lyd-CD"
+
+#~ msgid "%i songs imported from Audio CD."
+#~ msgstr "%s spor importert fra lyd-CD."
+
+#~ msgid "Importing track %u: %s"
+#~ msgstr "Importerer spor %u: %s"
+
+#~ msgid "CD import will be <b>cancelled</b> after current import."
+#~ msgstr ""
+#~ "Importering av CD vil bli <b>avsluttet</b> etter gjeldende importering."
+
+#~ msgid "Could not import this CD"
+#~ msgstr "Kunne ikke importere denne CD-en"
+
+#, fuzzy
+#~ msgid "An Error Occurred"
+#~ msgstr "Det oppstod en feil"
+
+#~ msgid "Could not load this Audio CD."
+#~ msgstr "Kunne ikke lese av materialet på denne CD-en."
+
+#~ msgid "Importation of a song from Audio CD finished."
+#~ msgstr "Innførsel av en sang fra lyd-CD ferdig."
+
+#~ msgid "Importation of %i songs from Audio CD finished."
+#~ msgstr "Innførsel av% i sanger fra lyd-CD ferdig."
+
+#~ msgid "An error occured during the Import of this CD"
+#~ msgstr "Det oppstod en feil under importeringen av denne CD"
+
+#~ msgid "There was an error while loading this Audio CD."
+#~ msgstr "Det oppstod en feil under lasting av lyd-CD."
+
+#~ msgid "Disk:"
+#~ msgstr "Disk:"
+
+#~ msgid "%s has imported your library."
+#~ msgstr "%s har importert biblioteket ditt."
+
+#~ msgid "Unable to import %d items from %s"
+#~ msgstr "Ute av stand til å importere %d elementer fra %s"
+
+#~ msgid "Remove from %s"
+#~ msgstr "Fjern fra %s"
+
+#~ msgid "Remove \"%s\" From %s?"
+#~ msgstr "Fjern ''%s'' fra %s?"
+
+#~ msgid "No Albums Found."
+#~ msgstr "Fant Ingen Album."
+
+#~ msgid "No Songs Found."
+#~ msgstr "Fant Ingen Sanger."
+
+#~ msgid "%u second"
+#~ msgid_plural "%u seconds"
+#~ msgstr[0] "%u sekund"
+#~ msgstr[1] "%u sekunder"
+
+#~ msgid "%u minute"
+#~ msgid_plural "%u minutes"
+#~ msgstr[0] "%u minutt"
+#~ msgstr[1] "%u minutter"
+
+#~ msgctxt "minutes and seconds"
+#~ msgid "%s and %s"
+#~ msgstr "%s og %s"
+
+#~ msgid "%u day"
+#~ msgid_plural "%u days"
+#~ msgstr[0] "%u dag"
+#~ msgstr[1] "%u dager"
+
+#~ msgid "%u hour"
+#~ msgid_plural "%u hours"
+#~ msgstr[0] "%u time"
+#~ msgstr[1] "%u timer"
+
+#~ msgctxt "days, hours and minutes"
+#~ msgid "%s, %s and %s"
+#~ msgstr "%s, %s og %s"
+
+#~ msgctxt "days and hours"
+#~ msgid "%s and %s"
+#~ msgstr "%s og %s"
+
+#~ msgctxt "days and minutes"
+#~ msgid "%s and %s"
+#~ msgstr "%s og %s"
+
+#~ msgctxt "hours and minutes"
+#~ msgid "%s and %s"
+#~ msgstr "%s og %s"
+
+#~ msgid "Song"
+#~ msgstr "Sang"
+
+#~ msgid "Repeat Artist"
+#~ msgstr "Gjenta Artist"
+
+#~ msgid "All"
+#~ msgstr "Alle"
+
+#~ msgid "Hide"
+#~ msgstr "Skjul"
+
+#~ msgid "Show Info Panel"
+#~ msgstr "Vis infopanel"
+
+#~ msgid "Show"
+#~ msgstr "Vis"
+
+#~ msgid "Hide Info Panel"
+#~ msgstr "Skjul infopanel"
+
+#~ msgid "Free"
+#~ msgstr "Gratis"
+
+#~ msgid "Using %s of %s (%.2f%)"
+#~ msgstr "Bruker %s av %s (%.2f%)"
+
+#~ msgid "General"
+#~ msgstr "Generelt"
+
+#~ msgid "Import from Device"
+#~ msgstr "Importer fra enhet"
+
+#~ msgid "Import media from %s"
+#~ msgstr "Importer media fra %s"
+
+#~ msgid ""
+#~ "The following files were found on %s, but are not in your library. Check "
+#~ "all the files you would like to import."
+#~ msgstr ""
+#~ "Følgende filer ble funnet på %s, men er ikke i biblioteket. Huk av alle "
+#~ "filene du vil importere."
+
+#~ msgid "Import all media"
+#~ msgstr "Importer all media"
+
+#~ msgid "Don't Import"
+#~ msgstr "Ikke importer"
+
+#~ msgid "Import %i items from %s"
+#~ msgstr "Importer %i fil fra %s"
+
+#~ msgid "Import %s from %s"
+#~ msgstr "Importer %s fra %s"
+
+#~ msgid "ID"
+#~ msgstr "ID"
+
+#~ msgid "Select individual media to import:"
+#~ msgstr "Importer inviduelt media:"
+
+#~ msgid "Check Item"
+#~ msgstr "Kontroller filen"
+
+#~ msgid "Check Album"
+#~ msgstr "Kontroller Album"
+
+#~ msgid "Check Artist"
+#~ msgstr "Kontroller Artist"
+
+#~ msgid "Cannot Import"
+#~ msgstr "Kunne ikke importere"
+
+#~ msgid ""
+#~ "Noise is already doing file operations. Please wait until those finish to "
+#~ "import from %s"
+#~ msgstr ""
+#~ "Nois bedriver allerede filoperasjoner. Vent til de er ferdige før du "
+#~ "importerer fra %s"
+
+#~ msgid "Import media to Library"
+#~ msgstr "Importer media til bibliotek"
+
+#~ msgid "Stop Syncing"
+#~ msgstr "Stopp synkroniseringen"
+
+#~ msgid "Sync will remove 1 item from %s"
+#~ msgstr "Synkronisering vil fjerne 1 element fra %s"
+
+#~ msgid "%u album"
+#~ msgid_plural "%u albums"
+#~ msgstr[0] "%u album"
+#~ msgstr[1] "%u albumer"
+
+#~ msgctxt "Title format used on Album View Popup: $ALBUM by $ARTIST"
+#~ msgid "%s by %s"
+#~ msgstr "%s av %s"
+
+#~ msgctxt ""
+#~ "Format used on statusbar: $description, $total_duration, $total_file_size"
+#~ msgid "%s, %s, %s"
+#~ msgstr "%s, %s, %s"
+
+#~ msgid "OK"
+#~ msgstr "OK"
+
+#~ msgid "No External Songs"
+#~ msgstr "Ingen eksterne sanger"
+
+#~ msgid ""
+#~ "There were no songs found on this device that are not in your library."
+#~ msgstr "Fant ingen sanger på enheten som ikke var i biblioteket ditt."
+
+#~ msgid "%i track"
+#~ msgid_plural "%i tracks"
+#~ msgstr[0] "%i spor"
+#~ msgstr[1] "%i spor"
+
+#~ msgid "%u song"
+#~ msgid_plural "%u songs"
+#~ msgstr[0] "%u sang"
+#~ msgstr[1] "%u sanger"
+
+#~ msgctxt "Format used on statusbar: $description, $total_duration"
+#~ msgid "%s, %s"
+#~ msgstr "%s, %s"
+
+#~ msgid "translator-credits"
+#~ msgstr ""
+#~ "Launchpad Contributions:\n"
+#~ "  Allan Nordhøy https://launchpad.net/~comradekingu\n"
+#~ "  Bariuz https://launchpad.net/~spaceboundprod-deactivatedaccount\n"
+#~ "  Daniel Fore https://launchpad.net/~danrabbit\n"
+#~ "  Magnus Meyer Hustveit https://launchpad.net/~dizzi90\n"
+#~ "  Niklas Fjeldberg https://launchpad.net/~niklasolai\n"
+#~ "  ProsjektX https://launchpad.net/~prosjektx\n"
+#~ "  Skandee https://launchpad.net/~skandee"
+
+#~ msgid "Lyrics fetched from www.lyricsmania.com"
+#~ msgstr "Tekster hentet fra www.lyricsmania.com"
+
+#~ msgid "Importing music from %s..."
+#~ msgstr "Importerer musikk fra %s..."
+
+#~ msgid "Adding files to library..."
+#~ msgstr "Legger til filer i biblioteket..."
+
+#~ msgid "Rescanning music for changes. This may take a while..."
+#~ msgstr "Leter etter endringer i musikken. Dette kan ta litt tid...."
+
+#~ msgid "Adding music from %s to library..."
+#~ msgstr "Legger til musikk fra %s til bilblioteket..."
+
+#~ msgid "%s is already doing an import"
+#~ msgstr "%s er allerede opptatt med en importering"
+
+#~ msgid "%s could not find any songs on the CD. No songs can be imported"
+#~ msgstr "%s Fant ingen spor på CDen. Ingen sanger vil bli importert"
+
+#~ msgid "%s has finished importing %i songs from Audio CD."
+#~ msgstr "%s er ferdig med å importere %i spor fra lyd-CD."
+
+#~ msgid ""
+#~ "Please wait until %s is finished with the current import before importing "
+#~ "the CD."
+#~ msgstr ""
+#~ "Vennligst vent til %s er ferdig med gjeldende importering før importering "
+#~ "av CDen."
+
+#~ msgid "CD Import Complete"
+#~ msgstr "CDen er ferdig importert"
+
+#~ msgid "No songs on CD"
+#~ msgstr "Ingen spor på CD"
+
+#~ msgid "Importing track %i"
+#~ msgstr "importerer spor %i"
+
+#~ msgid "Unknown Album"
+#~ msgstr "Ukjent Album"
+
+#~ msgid "Unknown Title"
+#~ msgstr "Ukjent Tittel"
+
+#~ msgid "Unknown Artist"
+#~ msgstr "Ukjent Artist"
+
+#~ msgid "Radio Station"
+#~ msgstr "Radiostasjon"
+
+#~ msgid "Download new Episodes"
+#~ msgstr "Last ned nye episoder"
+
+#~ msgid "Import Stations"
+#~ msgstr "Importer stasjoner"
+
+#~ msgid "Add Podcast"
+#~ msgstr "Legg til podcast"
+
+#~ msgid "Edit"
+#~ msgstr "Rediger"
+
+#~ msgid "Export..."
+#~ msgstr "Eksporter..."
+
+#~ msgid "Podcasts"
+#~ msgstr "Podcaster"
+
+#~ msgid "Equalizer"
+#~ msgstr "Lydinnstillinger"
+
+#~ msgid "Not Imported Files"
+#~ msgstr "ikke importerte filer"
+
+#~ msgid "Done"
+#~ msgstr "Fullført"
+
+#~ msgid "Lyrics"
+#~ msgstr "Tekster"
+
+#~ msgid "Editing %s by %s"
+#~ msgstr "Redigerer %s av %s"
+
+#~ msgid "Editing %s"
+#~ msgstr "Redigerer %s"
+
+#~ msgid "Metadata"
+#~ msgstr "Metadata"
+
+#~ msgid ""
+#~ "The plugin for media type %s is not installed.\n"
+#~ "What would you like to do?"
+#~ msgstr ""
+#~ "Programtillegget for mediatypen %s er ikke installert.\n"
+#~ "Hva vil du gjøre?"
+
+#~ msgid "Required GStreamer plugin not installed"
+#~ msgstr "Påkrevd GStreamer programtillegg ikke installert"
+
+#~ msgid "Do Nothing"
+#~ msgstr "Ikke gjør noe"
+
+#~ msgid "Track"
+#~ msgstr "Spor"
+
+#~ msgid "Editing %i songs"
+#~ msgstr "Redigerer %i sanger"
+
+#~ msgid "Album Artist"
+#~ msgstr "Albumartist"
+
+#~ msgid "Media Type"
+#~ msgstr "Mediatype"
+
+#~ msgid "Podcast"
+#~ msgstr "Podcast"
+
+#~ msgid "Lyrics not found for \"%s\" by \"%s\""
+#~ msgstr "Finner ikke tekster til \"%s\" av \"%s\""
+
+#~ msgid "Try again"
+#~ msgstr "Prøv igjen"
+
+#~ msgid ""
+#~ "You must wait until previous file operations finish before setting your "
+#~ "music folder"
+#~ msgstr ""
+#~ "Du må vente til foregående filoperasjoner er ferdige før du angir "
+#~ "musikkmappen din."
+
+#~ msgid "Date Released"
+#~ msgstr "Dato utgitt"
+
+#~ msgid "is not"
+#~ msgstr "er ikke"
+
+#~ msgid "Audiobook"
+#~ msgstr "Lydbok"
+
+#~ msgid "Unknown Track"
+#~ msgstr "Ukjent Spor"
+
+#~ msgid "Show Equalizer"
+#~ msgstr "Vis Equalizer"
+
+#~ msgid "Hide Equalizer"
+#~ msgstr "Skjul Equalizer"
+
+#~ msgid "Locate Media"
+#~ msgstr "Finn Media"
+
+#~ msgid "Remove Media"
+#~ msgstr "Fjern Media"
+
+#~ msgid "Station"
+#~ msgstr "Stasjon"
+
+#~ msgid "Remove %d %s from %s?"
+#~ msgstr "Fjern %d %s fra %s?"
+
+#~ msgid ""
+#~ "This will remove the %s from your library and from any device that "
+#~ "automatically syncs with %s."
+#~ msgstr ""
+#~ "Dette vil fjerne %s fra ditt bibliotek og fra alle enheter som blir "
+#~ "automatisk synkronisert med %s"
+
+#~ msgid "Cancelling Sync"
+#~ msgstr "avbryter synkronisering"
+
+#~ msgid ""
+#~ "The music file for %s by %s could not be found. What would you like to do?"
+#~ msgstr "Musikk filen %s av %s kunne ikke bli funnet. Hva vil du gjøre?"
+
+#~ msgid "Could not find media file"
+#~ msgstr "Kunne ikke finne media filen"
+
+#~ msgid "The name %s is already in use"
+#~ msgstr "Navnet %s er allerede i burk"
+
+#~ msgid "%i media files could not be found. What would you like to do?"
+#~ msgstr "%i media filen ble ikke funnet. Hva vil du gjøre?"
+
+#~ msgid ""
+#~ "Import from device has been cancelled. Operation will stop after this "
+#~ "media."
+#~ msgstr ""
+#~ "Importeringen fra enheten har blitt avbrutt. Stopper etter dette mediaet"
+
+#~ msgid "%s by %s"
+#~ msgstr "%s av %s"
+
+#~ msgid "Cancelling Import"
+#~ msgstr "Avbryter importeringen"
+
+#~ msgid ""
+#~ "Device Sync has been cancelled. Operation will stop after this media."
+#~ msgstr ""
+#~ "synkroniseringen med enheten har blitt avbrutt. Stopper etter dette "
+#~ "mediaet"
+
+#~ msgid "%s can't seem to find your music."
+#~ msgstr "%s finner ikke musikken din."
+
+#~ msgid "Change your music folder."
+#~ msgstr "Endre musikkmappe"
+
+#~ msgid "Locate"
+#~ msgstr "Lokaliser"
+
+#~ msgid "All the songs in this device are already in your library."
+#~ msgstr "Alle sangene på denne enheten er allerede i biblioteket ditt."
+
+#~ msgid "%i albums"
+#~ msgstr "%i album"
+
+#~ msgid "1 song"
+#~ msgstr "1 sang"
+
+#~ msgid "1 album"
+#~ msgstr "1 album"
+
+#~ msgid "%i songs"
+#~ msgstr "%i sanger"
+
+#~ msgid "%i tracks"
+#~ msgstr "%i tracks"
+
+#~ msgid "Pulser"
+#~ msgstr "Pulser"
+
+#~ msgid "Episode"
+#~ msgstr "Episode"
+
+#~ msgid "Name"
+#~ msgstr "Navn"
+
+#~ msgid "Date"
+#~ msgstr "Dato"
+
+#~ msgid "Category"
+#~ msgstr "Kategori"
+
+#~ msgid "%i kbps"
+#~ msgstr "%i kbps"
+
+#~ msgid "1 track"
+#~ msgstr "1 spor"
+
+#~ msgid "BPM"
+#~ msgstr "Slag per minutt"
+
+#~ msgid "#"
+#~ msgstr "Nr."
+
+#~ msgid "Skips"
+#~ msgstr "Hoppet over"
+
+#~ msgid "Plays"
+#~ msgstr "Avspillinger"
+
+#~ msgid "Queue"
+#~ msgstr "Legg i kø"
+
+#~ msgid "Import this song"
+#~ msgstr "Importer denne sangen"
+
+#~ msgid "Import %i songs"
+#~ msgstr "Importer %i sang"
+
+#~ msgid "%s Stars"
+#~ msgstr "%s Stjerner"
+
+#~ msgid "1 Star"
+#~ msgstr "1 stjerne"
+
+#~ msgid "All %i Ratings"
+#~ msgstr "Alle %i vurderinger"
+
+#~ msgid "All Podcasts"
+#~ msgstr "Alle Podcaster"
+
+#~ msgid "Device is already being synced."
+#~ msgstr "Enheten er allerede synkronisert"
+
+#~ msgid "Recently Played"
+#~ msgstr "Nylig spilt"
+
+#~ msgid "Unheard Podcasts"
+#~ msgstr "Ikke avspilte podcaster"
+
+#~ msgid "Please make sure that your music folder is accessible and mounted."
+#~ msgstr "Vennligst sjekk at musikkmappen er tilgjengelig og kopla til."
+
+#~ msgid " on "
+#~ msgstr " på "
+
+#~ msgid "<b>Importing</b> music from <b>%s</b> to library."
+#~ msgstr "<b>Importerer</b> musikk fra <b>%s</b> til bibliotek."
+
+#~ msgid "Rescanning music folder for changes"
+#~ msgstr "Rescan musikkmappen etter endringer"
+
+#~ msgid " by "
+#~ msgstr " av "
+
+#~ msgid "%s and %s"
+#~ msgstr "%s og %s"
+
+#~ msgid "%i hours"
+#~ msgstr "%i timer"
+
+#~ msgid "1 minute"
+#~ msgstr "Ett minutt"
+
+#~ msgid "1 day"
+#~ msgstr "En dag"
+
+#~ msgid "1 hour"
+#~ msgstr "En time"
+
+#~ msgid "%i minutes"
+#~ msgstr "%i minutter"
+
+#~ msgid "1 second"
+#~ msgstr "1 sekund"
+
+#~ msgid "%s seconds"
+#~ msgstr "%s sekunder"
+
+#~ msgid "%i days"
+#~ msgstr "%i Dag"
+
+#~ msgid "%s, %s and %s"
+#~ msgstr "%s, %s og %s"
+
+#~ msgid "%d second"
+#~ msgid_plural "%d seconds"
+#~ msgstr[0] "%d sekund"
+#~ msgstr[1] "%d sekunder"
+
+#~ msgid "Ripping track 1"
+#~ msgstr "Brenner spor 1"
+
+#~ msgid "Rescan Music Folder"
+#~ msgstr "Skann musikkmappen på nytt."
+
+#~ msgid "%i Star"
+#~ msgid_plural "%i Stars"
+#~ msgstr[0] "%i Stjerne"
+#~ msgstr[1] "%i Stjerner"
+
+#~ msgid "Listen to music"
+#~ msgstr "Lytt til musikk"
+
+#~ msgid "Music Player"
+#~ msgstr "Musikkavspiller"
+
+#~ msgid "Display Album Art"
+#~ msgstr "Vis albumcover"
+
+#~ msgid "Lyrics not found for %s"
+#~ msgstr "Tekster ikke funnet for %s"
+
+#~ msgid "Write metadata to file"
+#~ msgstr "Skriv metadata til fil"
+
+#~ msgid "Unsuccessful. Click To Try Again."
+#~ msgstr "Mislykket. Klikk for å gjøre et nytt forsøk."
+
+#~ msgid "Click to redo the Last.fm login process"
+#~ msgstr "Klikk for å gjenta Last.fm innlogging"
+
+#~ msgid "Success!"
+#~ msgstr "Fullført!"
+
+#~ msgid "Last.fm"
+#~ msgstr "Last.fm"
+
+#~ msgid "Last.fm Integration"
+#~ msgstr "Last.fm integrasjon"
+
+#~ msgid ""
+#~ "%s could not find songs similar to %s by %s in your library. Make sure "
+#~ "all song info is correct and you are connected to the Internet. Some "
+#~ "songs may not have matches."
+#~ msgstr ""
+#~ "%s kunne ikke finne sanger lignende %s av %s i ditt bibliotek. Besørg at "
+#~ "sanginfo er korrekt og at du har internettilknytning. For noen sanger vil "
+#~ "det ikke finnes lignende treff."
+
+#~ msgid "Similar to %s"
+#~ msgstr "Lignende %s"
+
+#~ msgid ""
+#~ "In this view, %s will automatically find songs similar to the one you're "
+#~ "playing. You can then start playing those songs, or save them as a "
+#~ "playlist for later."
+#~ msgstr ""
+#~ "I denne framtoningen vil %s automatisk finne sanger lignende den du "
+#~ "spiller for øyeblikket. Du kan starte avspillingen av disse sangene med "
+#~ "en gang eller legge dem til i spillelisten."
+
+#~ msgid "Similar Song View"
+#~ msgstr "Oversikt lignende sanger"
+
+#~ msgid "Finding songs similar to %s by %s"
+#~ msgstr "Finner sanger lignende %s av %s"
+
+#~ msgid "Fetching similar songs"
+#~ msgstr "Henter lignende sanger"
+
+#~ msgid "Scrobbling Already Enabled"
+#~ msgstr "Skråbbling allerede påslått"
+
+#~ msgid "Desktop Integration:"
+#~ msgstr "Integrering med skrivebordet:"
+
+#~ msgid ""
+#~ "Noise is already doing file operations. Please wait until those finish to "
+#~ "import from %d"
+#~ msgstr ""
+#~ "Noise gjør allerede filoperasjoner. Vennligst vent til de ferdig å "
+#~ "importere fra%d"
+
+#~ msgid "Editing $NAME by $ARTIST"
+#~ msgstr "Redigerer $NAME av $ARTIST"
+
+#~ msgid "Importing track %i: %s"
+#~ msgstr "Importerer spor %i: %s"
+
+#~ msgid "Complete Login"
+#~ msgstr "Fullfør Innlogging"
+
+#~ msgid "There is not enough space on Device to complete the Sync…"
+#~ msgstr "Det er ikke nok plass på enheten for å fullføre synkroniseringen..."
+
+#~ msgid ""
+#~ "To allow for Last.fm integration, you must give permission to %s. You "
+#~ "only need to do this once."
+#~ msgstr ""
+#~ "For å tillate Last.fm-integrasjon må du gi tilgang til %s. Du trenger "
+#~ "bare å gjøre dette én gang."
+
+#~ msgid "Give %s Permission"
+#~ msgstr "Gi %s tilgang"
+
+#~ msgid "Noise;Audio;Player;MP3;iPod;Play;Playlist;Media;CD;Phone;Songs;"
+#~ msgstr ""
+#~ "Noise;Audio;Spiller;MP3;iPod;Spill;Spilleliste;Media;CD;Telefon;Sanger;"
+
+#~ msgid "Reset"
+#~ msgstr "Nullstill"
+
+#~ msgid "<b>Stats</b>"
+#~ msgstr "<b>Statistikk</b>"
+
+#~ msgid "Notifications:"
+#~ msgstr "Varslinger:"
+
+#~ msgid "Details"
+#~ msgstr "Detaljer"
+
+#~ msgid "Library Management:"
+#~ msgstr "Biblioteksadministrasjon:"
+
+#~ msgid "Music Folder Location:"
+#~ msgstr "Plassering av musikkmappe:"
+
+#~ msgid "Complete login"
+#~ msgstr "Fullfør innlogging"
+
+#~ msgid "Import media from device"
+#~ msgstr "Importer media fra enhet"
+
+#~ msgid "Copy files to music folder when added to library"
+#~ msgstr "Kopier filer til musikkmappa når de legges til biblioteket"
+
+#~ msgid "Automatically download new podcast episodes"
+#~ msgstr "Last automatisk ned nye podcast-episoder"
+
+#~ msgid "Keep music folder organized"
+#~ msgstr "Hold musikkmappa organisert"
+
+#~ msgid "%i items"
+#~ msgstr "%i  elementer"
+
+#~ msgid "1 item"
+#~ msgstr "1 element"
+
+#~ msgid "Click on the button to edit playlist rules"
+#~ msgstr "Klikk på knappen for å redigere regler for spilleliste"
+
+#~ msgid "Unsuccessful. Click to try again."
+#~ msgstr "Mislyktes. Klikk for å prøve igjen"
+
+#~ msgid "Enable Scrobbling"
+#~ msgstr "Aktiver deling av sanginformasjon"
+
+#~ msgid "Click to redo the Last.fm Login Process"
+#~ msgstr "Klikk for å logge inn på Last.fm på nytt"
+
+#~ msgid "Scrobbling already Enabled"
+#~ msgstr "Deling av sanginformasjon allerede aktivert"
+
+#~ msgid "About Noise"
+#~ msgstr "Om Noise"
+
+#~ msgid "About Music"
+#~ msgstr "Om Musikk"

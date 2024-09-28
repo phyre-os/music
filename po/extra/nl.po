@@ -1,0 +1,257 @@
+# Dutch translation for beat-box
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the beat-box package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: beat-box\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-01 10:32+0000\n"
+"PO-Revision-Date: 2021-07-22 10:14+0000\n"
+"Last-Translator: Niels Van Laerhoven <niels1995@gmail.com>\n"
+"Language-Team: Dutch <https://l10n.phyreos.io/projects/music/extra/nl/>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.4.2\n"
+"X-Launchpad-Export-Date: 2017-03-07 05:56+0000\n"
+
+#: data/music.metainfo.xml.in:10 data/music.desktop.in:6
+msgid "Music"
+msgstr "Muziek"
+
+#: data/music.metainfo.xml.in:11
+msgid "Queue and play local audio files"
+msgstr ""
+
+#: data/music.metainfo.xml.in:13
+msgid ""
+"Quickly queue up and listen to your local music files without any extra "
+"frills. See embedded album artwork. Control playback with media keys or in "
+"the system audio indicator."
+msgstr ""
+
+#: data/music.metainfo.xml.in:18
+msgid "Quickly queue up your favorite tracks"
+msgstr ""
+
+#: data/music.metainfo.xml.in:59 data/music.metainfo.xml.in:70
+#: data/music.metainfo.xml.in:84
+msgid "Improvements:"
+msgstr ""
+
+#: data/music.metainfo.xml.in:61
+msgid "Toolbar shows a shadow when the view is scrolled"
+msgstr ""
+
+#: data/music.metainfo.xml.in:62
+msgid "Open audio files from within Music"
+msgstr ""
+
+#: data/music.metainfo.xml.in:63 data/music.metainfo.xml.in:73
+#: data/music.metainfo.xml.in:106
+msgid "Updated translations"
+msgstr "Bijgewerkte vertalingen"
+
+#: data/music.metainfo.xml.in:72
+msgid "Open folders in the filemanager with Music"
+msgstr ""
+
+#: data/music.metainfo.xml.in:86
+msgid "For tracks without a title, use the file name instead of the whole URI"
+msgstr ""
+
+#: data/music.metainfo.xml.in:87
+msgid "Skip invalid files instead of stopping playback"
+msgstr ""
+
+#: data/music.metainfo.xml.in:88
+msgid "Next and Repeat buttons always work regardless of repeat mode"
+msgstr ""
+
+#: data/music.metainfo.xml.in:89
+msgid ""
+"Now available in Catalan, Dutch, Finnish, French, German, Hebrew, Hungarian, "
+"Japanese, Korean, Kurdish, Marathi, Norwegian Bokmål, Polish, Portuguese, "
+"Russian, Simplified Chinese, Turkish, and Ukrainian"
+msgstr ""
+
+#: data/music.metainfo.xml.in:99
+msgid "Complete rewrite"
+msgstr ""
+
+#: data/music.metainfo.xml.in:105
+#, fuzzy
+msgid "Drop support for Last.FM"
+msgstr "CD-ROM wordt niet langer ondersteund"
+
+#: data/music.desktop.in:7
+msgid "Listen to music"
+msgstr "Luister naar muziek"
+
+#: data/music.desktop.in:9
+#, fuzzy
+msgid "Noise;Audio;Player;MP3;Play;Playlist;Media;Songs;"
+msgstr ""
+"Noise;Muziek;Speler;Audio;MP3;iPod;Afspeellijst;Speel;Media;CD;Telefoon;"
+"Liedjes;"
+
+#~ msgid "Phyre Ltd."
+#~ msgstr "Phyre Ltd."
+
+#~ msgid "Drop support for CD-ROM"
+#~ msgstr "CD-ROM wordt niet langer ondersteund"
+
+#, fuzzy
+#~ msgid "Minor visual improvements"
+#~ msgstr "Prestatieverbeteringen"
+
+#~ msgid "Music Player"
+#~ msgstr "Muziekspeler"
+
+#~ msgid "Fix removing items from the queue"
+#~ msgstr "Een probleem opgelost met het verwijderen van items uit de wachtrij"
+
+#~ msgid "Fix equalizer sliders not properly disabled sometimes"
+#~ msgstr "Herstel het niet altijd kunnen uitschakelen van equalizer schuiven"
+
+#~ msgid "Performance improvements"
+#~ msgstr "Prestatieverbeteringen"
+
+#~ msgid "Removed old gsignond vapi"
+#~ msgstr "De oude gsignond vapi is verwijderd"
+
+#~ msgid "LibraryWindow: Use Granite.MessageDialog for showing alerts"
+#~ msgstr ""
+#~ "LibraryWindow gebruikt nu Granite.MessageDialog om waarschuwingen te tonen"
+
+#~ msgid "PlaylistsUtils: Use Gtk.FileChooserNative"
+#~ msgstr "PlaylistsUtils gebruikt nu Gtk.FileChooserNative"
+
+#~ msgid "Accurately remember window size"
+#~ msgstr "De grootte van het venster wordt nu beter onthouden"
+
+#~ msgid "Scale album art properly at high resolutions"
+#~ msgstr "Albumhoezen worden op hoge resolutie goed geschaald"
+
+#~ msgid ""
+#~ "Accurately select Music Folder Location for directories with spaces in "
+#~ "name"
+#~ msgstr ""
+#~ "Het selecteren van een muziek map is verbeterd bij mappen met een spatie "
+#~ "in de mapnaam"
+
+#~ msgid "New MediaKeyListener path for gnome-settings-daemon"
+#~ msgstr "Een nieuwe MediaKeyListener pad voor gnome-settings-daemon"
+
+#~ msgid "AlbumView: double-click to play album"
+#~ msgstr "AlbumView: dubbel-klik op een album om dit af te spelen"
+
+#~ msgid "Associate with s3m files"
+#~ msgstr "Wordt geassocieerd met s3m bestanden"
+
+#~ msgid "Queue fixes"
+#~ msgstr "Problemen met de wachtrij opgelost"
+
+#~ msgid "Properly restore playlists"
+#~ msgstr "Afspeellijsten worden op een juiste manier hersteld"
+
+#~ msgid "Always respect custom music folder setting"
+#~ msgstr ""
+#~ "De instelling van een afwijkende muziekmap wordt nu altijd gerespecteerd"
+
+#~ msgid "Minor bug fixes"
+#~ msgstr "Kleine bugfixes"
+
+#~ msgid "Fix list and column view sorting"
+#~ msgstr ""
+#~ "Een probleem opgelost met het sorteren van de lijst- en kolomweergave"
+
+#~ msgid "Add orange accent color"
+#~ msgstr "Een oranje accent kleur toegevoegd"
+
+#~ msgid "Add shortcut accels to tooltips"
+#~ msgstr "Voeg sneltoets accels toe aan helpteksten"
+
+#~ msgid "Various UI changes"
+#~ msgstr "Diverse veranderingen aan de gebruikersinterface"
+
+#~ msgid "Shuffle fixes"
+#~ msgstr "Problemen met shuffle opgelost"
+
+#~ msgid "Initial MPRIS support"
+#~ msgstr "Directe MPRIS ondersteuning"
+
+#~ msgid "Detect library changes at startup."
+#~ msgstr "Detecteer veranderingen in de muziekbibliotheek bij het opstarten."
+
+#~ msgid "Support searching by URI"
+#~ msgstr "Ondersteuning voor zoeken door URI"
+
+#~ msgid "Change the queue mechanism to make it less confusing."
+#~ msgstr ""
+#~ "Het wachtrij mechanisme is veranderd zodat het minder verwarrend is."
+
+#~ msgid "Improve equalizer style."
+#~ msgstr "De styling van de equalizer is verbeterd."
+
+#~ msgid "Minor bug fixes."
+#~ msgstr "Kleine bugfixes."
+
+#~ msgid "Add rounded bottom window corner."
+#~ msgstr "De onderste hoeken van het venster zijn afgerond."
+
+#~ msgid "New translations"
+#~ msgstr "Nieuwe vertalingen"
+
+#~ msgid "Release for Loki."
+#~ msgstr "Release van Loki."
+
+#~ msgid "Add support for Opus Ogg"
+#~ msgstr "Ondersteuning voor Opus Ogg toegevoegd"
+
+#~ msgid "Fix Ctrl+Q support for non-Latin keyboard layouts"
+#~ msgstr ""
+#~ "Een probleem opgelost met sneltoets Ctrl-toets+Q voor niet-Latijnse "
+#~ "toetsenbord indelingen"
+
+#~ msgid "Reorganize media edition layout"
+#~ msgstr "De lay-out van de media editie is gereorganiseerd"
+
+#~ msgid "Port grid to support HiDPI displays"
+#~ msgstr "Grid bijgewerkt om HiDPI schermen te ondersteunen"
+
+#~ msgid "Update icons to latest elementary icon release"
+#~ msgstr "Iconen bijgewerkt naar de laatste elementary iconen versie"
+
+#~ msgid "Respect privacy mode"
+#~ msgstr "Respecteer privacy modus"
+
+#~ msgid "The official elementary music player"
+#~ msgstr "De officiële elementary muziekspeler"
+
+#, fuzzy
+#~ msgid ""
+#~ "Music is a fast and beautiful audio player with a focus on music and "
+#~ "libraries. It handles external devices and album art."
+#~ msgstr ""
+#~ "Muziek is een snelle en mooie audiospeler met een focus op muziek en "
+#~ "bibliotheken. Het ondersteunt externe toestellen, CD's en albumhoezen."
+
+#~ msgid "io.phyre.music"
+#~ msgstr "io.phyre.music"
+
+#~ msgid "multimedia-audio-player"
+#~ msgstr "multimedia-audio-player"
+
+#~ msgid "About Music"
+#~ msgstr "Over Muziek"
+
+#~ msgid "Noise"
+#~ msgstr "Noise"
+
+#~ msgid "About Noise"
+#~ msgstr "Over Noise"

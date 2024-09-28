@@ -1,0 +1,365 @@
+# Kurdish (Sorani) translation for noise
+# Copyright (c) 2014 Rosetta Contributors and Canonical Ltd 2014
+# This file is distributed under the same license as the noise package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: noise\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-01 10:32+0000\n"
+"PO-Revision-Date: 2022-10-07 18:57+0000\n"
+"Last-Translator: Aga Ismael <agaesmaeel@gmail.com>\n"
+"Language-Team: Kurdish (Central) <https://l10n.phyreos.io/projects/music/"
+"music/ckb/>\n"
+"Language: ckb\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.4.2\n"
+"X-Launchpad-Export-Date: 2017-03-07 05:56+0000\n"
+
+#: src/Application.vala:92 src/Views/NowPlayingView.vala:18
+#: src/Views/NowPlayingView.vala:116
+msgid "Music"
+msgstr "مۆسیقا"
+
+#: src/MainWindow.vala:20
+msgid "Shuffle"
+msgstr "بە تێکەڵی"
+
+#: src/MainWindow.vala:26
+msgid "Search titles in playlist"
+msgstr ""
+
+#: src/MainWindow.vala:45
+msgid "Queue is Empty"
+msgstr "نۆرە بەتاڵە"
+
+#: src/MainWindow.vala:46
+msgid "Audio files opened from Files will appear here"
+msgstr "پەڕگە دەنگییە کراوەکان لە فایلزەوە لێرە دەردەکەون"
+
+#: src/MainWindow.vala:63
+msgid "Open Files…"
+msgstr ""
+
+#: src/MainWindow.vala:167
+#, fuzzy, c-format
+#| msgid "%d track was added to the queue"
+#| msgid_plural "%d tracks were added to the queue"
+msgid "%d invalid file was not added to the queue"
+msgid_plural "%d invalid files were not added to the queue"
+msgstr[0] "تەنها %d تراک بۆ نۆرەکە زیاد کرا"
+msgstr[1] "%d تراک بۆ نۆرەکە زیاد کرا"
+
+#: src/MainWindow.vala:215
+#, fuzzy
+#| msgid "All Artists"
+msgid "All files"
+msgstr "هەموو هونەرمەندەکان"
+
+#: src/MainWindow.vala:220
+#, fuzzy
+#| msgid "Music Player"
+msgid "Music files"
+msgstr "لێدەری موسیک"
+
+#: src/MainWindow.vala:229
+msgid "Open"
+msgstr ""
+
+#: src/MainWindow.vala:233
+msgid "Open audio files"
+msgstr ""
+
+#: src/MainWindow.vala:271
+msgid "Repeat None"
+msgstr "هیچ دوبارەی مەکەوە"
+
+#: src/MainWindow.vala:275
+msgid "Repeat All"
+msgstr "هەمووی دوبارە بکەوە"
+
+#: src/MainWindow.vala:279
+msgid "Repeat One"
+msgstr "یەکجار دووبارەی بکەوە"
+
+#: src/PlaybackManager.vala:136
+#, c-format
+msgid "%d track was added to the queue"
+msgid_plural "%d tracks were added to the queue"
+msgstr[0] "تەنها %d تراک بۆ نۆرەکە زیاد کرا"
+msgstr[1] "%d تراک بۆ نۆرەکە زیاد کرا"
+
+#. Don't set artist for files without tags
+#: src/PlaybackManager.vala:196
+msgid "Unknown"
+msgstr "نه‌زانراو"
+
+#: src/Views/NowPlayingView.vala:23 src/Views/NowPlayingView.vala:115
+msgid "Not playing"
+msgstr "هیچ شتێک لێ نادرێت"
+
+#: src/Views/NowPlayingView.vala:45
+msgid "Previous"
+msgstr "پێشتر"
+
+#: src/Views/NowPlayingView.vala:68
+msgid "Next"
+msgstr "دواتر"
+
+#: src/Views/NowPlayingView.vala:93
+msgid "Play"
+msgstr "لێدان"
+
+#: src/Views/NowPlayingView.vala:96
+msgid "Pause"
+msgstr "وەستان"
+
+#~ msgid "Flat"
+#~ msgstr "پان"
+
+#~ msgid "Classical"
+#~ msgstr "کلاسیک"
+
+#~ msgid "Club"
+#~ msgstr "دیسکۆ"
+
+#~ msgid "Dance"
+#~ msgstr "هەڵپەڕکێ"
+
+#~ msgid "Headphones"
+#~ msgstr "بیستۆکی گوێ"
+
+#~ msgid "Live"
+#~ msgstr "ڕاستەوخۆ"
+
+#~ msgid "Party"
+#~ msgstr "فێستیڤاڵ"
+
+#~ msgid "Pop"
+#~ msgstr "پۆپ"
+
+#~ msgid "Reggae"
+#~ msgstr "ڕێگی"
+
+#~ msgid "Rock"
+#~ msgstr "ڕۆک"
+
+#~ msgid "Soft"
+#~ msgstr "نەرم"
+
+#~ msgid "Ska"
+#~ msgstr "سکا"
+
+#~ msgid "Soft Rock"
+#~ msgstr "ڕۆکی نەرم"
+
+#~ msgid "Techno"
+#~ msgstr "تێکنۆ"
+
+#~ msgid "Shoutcast Playlist Version 2.0 (*.pls)"
+#~ msgstr "لیستی گۆرانی شاووتکاست 2.0  (*.pls)"
+
+#~ msgid "Export Playlist"
+#~ msgstr "لیستی گۆرانیەکە پاشەکەوت بکە"
+
+#~ msgid "Playlist"
+#~ msgstr "لیستی گۆرانی"
+
+#~ msgid "Preferences"
+#~ msgstr "هەڵبژاردنەکان"
+
+#~ msgid "Search Music"
+#~ msgstr "گەڕان بۆ موزیک"
+
+#~ msgctxt "Name of the playlist"
+#~ msgid "Queue"
+#~ msgstr "ڕیز"
+
+#~ msgid "Album"
+#~ msgstr "ئەلبوم"
+
+#~ msgid "Artist"
+#~ msgstr "هونەرمەند"
+
+#~ msgid "Title"
+#~ msgstr "پێشناو"
+
+#~ msgid "Import"
+#~ msgstr "هێنانەناوەوە"
+
+#~ msgid "Favorite Songs"
+#~ msgstr "گۆرانیە دلخوازەکان"
+
+#~ msgid "Recently Added"
+#~ msgstr "گۆرانی تازە"
+
+#~ msgid "Never Played"
+#~ msgstr "هەرگیس لێنەدراو"
+
+#~ msgid "Over Played"
+#~ msgstr "زۆر لێدراو"
+
+#~ msgid "History"
+#~ msgstr "مێژوو"
+
+#~ msgid "Artists"
+#~ msgstr "هونەرمەندەکان"
+
+#~ msgid "Albums"
+#~ msgstr "ئەلبوومەکان"
+
+#~ msgid "Years"
+#~ msgstr "ساڵەکان"
+
+#~ msgid "Ratings"
+#~ msgstr "پلەکان"
+
+#~ msgid "Composers"
+#~ msgstr "کۆمپۆزەرەکان"
+
+#~ msgid "Groupings"
+#~ msgstr "گروپەکان"
+
+#~ msgid "All %i Artists"
+#~ msgstr "هەموو %i  هونەرمەدەکان"
+
+#~ msgid "All Ratings"
+#~ msgstr "هەموو پلەکان"
+
+#~ msgid "All Groupings"
+#~ msgstr "هەموو گروپەکان"
+
+#~ msgid "On Left"
+#~ msgstr "لەلای چەپ"
+
+#~ msgid "On Top"
+#~ msgstr "لە سەرەوە"
+
+#~ msgid "Unrated"
+#~ msgstr "بێپلە"
+
+#~ msgid "Never"
+#~ msgstr "هه‌رگیز"
+
+#~ msgctxt "List column title"
+#~ msgid "#"
+#~ msgstr "#"
+
+#~ msgctxt "List column title"
+#~ msgid "Track"
+#~ msgstr "گۆرانی"
+
+#~ msgctxt "List column title"
+#~ msgid "Title"
+#~ msgstr "ناونیشان"
+
+#~ msgctxt "List column title"
+#~ msgid "Length"
+#~ msgstr "درێژی"
+
+#~ msgctxt "List column title"
+#~ msgid "Artist"
+#~ msgstr "هونەرمەند"
+
+#~ msgctxt "List column title"
+#~ msgid "Album"
+#~ msgstr "ئەلبوم"
+
+#~ msgctxt "List column title"
+#~ msgid "Album Artist"
+#~ msgstr "هونەرمەندی ئەلبومەکە"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Composer"
+#~ msgstr "کۆمپۆزەرەکان"
+
+#~ msgctxt "List column title"
+#~ msgid "Genre"
+#~ msgstr "چەشن"
+
+#~ msgctxt "List column title"
+#~ msgid "Year"
+#~ msgstr "ساڵ"
+
+#~ msgctxt "List column title"
+#~ msgid "Grouping"
+#~ msgstr "گروپکردن"
+
+#~ msgctxt "List column title"
+#~ msgid "Bitrate"
+#~ msgstr "Bitrate"
+
+#~ msgctxt "List column title"
+#~ msgid "Rating"
+#~ msgstr "پله‌دانان"
+
+#~ msgctxt "List column title"
+#~ msgid "Plays"
+#~ msgstr "لێدان"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Last Played"
+#~ msgstr "زۆر لێدراو"
+
+#~ msgctxt "List column title (beats per minute)"
+#~ msgid "BPM"
+#~ msgstr "BPM"
+
+#~ msgctxt "List column title (file location)"
+#~ msgid "Location"
+#~ msgstr "ناوچه‌"
+
+#~ msgid "1234 kbps"
+#~ msgstr "1234 kbps"
+
+#~ msgid "Import your Music"
+#~ msgstr "تێکردنی موزیک"
+
+#~ msgctxt "Action item (verb)"
+#~ msgid "Queue"
+#~ msgstr "ڕیز"
+
+#~ msgid "New Playlist…"
+#~ msgstr "لیستێکی گۆرانی نوێ"
+
+#, fuzzy
+#~| msgid "New Playlist…"
+#~ msgid "Add Playlist…"
+#~ msgstr "لیستێکی گۆرانی نوێ"
+
+#, fuzzy
+#~ msgid "View as list"
+#~ msgstr "لیستی گۆرانی نوێ"
+
+#~ msgid "ID"
+#~ msgstr "پێناس"
+
+#~ msgctxt "Title format used on Album View Popup: $ALBUM by $ARTIST"
+#~ msgid "%s by %s"
+#~ msgstr "%s له‌لاین %s"
+
+#~ msgid "translator-credits"
+#~ msgstr ""
+#~ "Launchpad Contributions:\n"
+#~ "  Daniel Fore https://launchpad.net/~danrabbit\n"
+#~ "  Nalion https://launchpad.net/~naionali"
+
+#~ msgid "Radio Station"
+#~ msgstr "پەخشی رادیۆ"
+
+#~ msgid "Listen to music"
+#~ msgstr "گوێ لە گۆرانی بگرە"
+
+#~ msgid "Display Album Art"
+#~ msgstr "پیشاندانی وێنەی ئەلبومەکە"
+
+#~ msgid "%i Star"
+#~ msgid_plural "%i Stars"
+#~ msgstr[0] "%i ئەستێرە"
+#~ msgstr[1] "%i ئەستێرە"

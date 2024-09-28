@@ -1,0 +1,1071 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-01 10:32+0000\n"
+"PO-Revision-Date: 2021-07-31 05:06+0000\n"
+"Last-Translator: elSolus <tumbleweed@tuta.io>\n"
+"Language-Team: Punjabi <https://l10n.phyreos.io/projects/music/music/pa/"
+">\n"
+"Language: pa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.4.2\n"
+"X-Launchpad-Export-Date: 2017-03-07 05:54+0000\n"
+
+#: src/Application.vala:92 src/Views/NowPlayingView.vala:18
+#: src/Views/NowPlayingView.vala:116
+msgid "Music"
+msgstr "ਮਿਊਜ਼ਿਕ"
+
+#: src/MainWindow.vala:20
+#, fuzzy
+msgid "Shuffle"
+msgstr "ਫੈਂਟਣਾ ਚਾਲੂ ਕਰੋ"
+
+#: src/MainWindow.vala:26
+msgid "Search titles in playlist"
+msgstr ""
+
+#: src/MainWindow.vala:45
+msgid "Queue is Empty"
+msgstr ""
+
+#: src/MainWindow.vala:46
+msgid "Audio files opened from Files will appear here"
+msgstr ""
+
+#: src/MainWindow.vala:63
+msgid "Open Files…"
+msgstr ""
+
+#: src/MainWindow.vala:167
+#, c-format
+msgid "%d invalid file was not added to the queue"
+msgid_plural "%d invalid files were not added to the queue"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/MainWindow.vala:215
+#, fuzzy
+#| msgid "All Years"
+msgid "All files"
+msgstr "ਸਾਰੇ ਸਾਲ"
+
+#: src/MainWindow.vala:220
+#, fuzzy
+#| msgid "Music"
+msgid "Music files"
+msgstr "ਮਿਊਜ਼ਿਕ"
+
+#: src/MainWindow.vala:229
+msgid "Open"
+msgstr "ਖੋਲ੍ਹੋ"
+
+#: src/MainWindow.vala:233
+msgid "Open audio files"
+msgstr ""
+
+#: src/MainWindow.vala:271
+#, fuzzy
+msgid "Repeat None"
+msgstr "ਗੀਤ ਨੂੰ ਦੁਬਾਰਾ ਚਲਾਓ"
+
+#: src/MainWindow.vala:275
+#, fuzzy
+msgid "Repeat All"
+msgstr "ਗੀਤ ਨੂੰ ਦੁਬਾਰਾ ਚਲਾਓ"
+
+#: src/MainWindow.vala:279
+#, fuzzy
+msgid "Repeat One"
+msgstr "ਗੀਤ ਨੂੰ ਦੁਬਾਰਾ ਚਲਾਓ"
+
+#: src/PlaybackManager.vala:136
+#, c-format
+msgid "%d track was added to the queue"
+msgid_plural "%d tracks were added to the queue"
+msgstr[0] ""
+msgstr[1] ""
+
+#. Don't set artist for files without tags
+#: src/PlaybackManager.vala:196
+msgid "Unknown"
+msgstr "ਅਣਜਾਣ"
+
+#: src/Views/NowPlayingView.vala:23 src/Views/NowPlayingView.vala:115
+#, fuzzy
+msgid "Not playing"
+msgstr "ਨਵੀਂ ਪਲੇ-ਸੂਚੀ"
+
+#: src/Views/NowPlayingView.vala:45
+msgid "Previous"
+msgstr "ਪਿਛਲਾ"
+
+#: src/Views/NowPlayingView.vala:68
+msgid "Next"
+msgstr "ਅਗਲਾ"
+
+#: src/Views/NowPlayingView.vala:93
+msgid "Play"
+msgstr "ਚਲਾਓ"
+
+#: src/Views/NowPlayingView.vala:96
+msgid "Pause"
+msgstr "ਰੋਕੋ"
+
+#~ msgid "Importing <b>$NAME</b> by <b>$ARTIST</b> to library…"
+#~ msgstr "<b>$ARTIST</b> ਦੇ <b>$NAME</b> ਦੀ ਲਾਇਬ੍ਰੇਰੀ 'ਚ ਆਮਦ ਹੋ ਰਹੀ ਹੈ…"
+
+#~ msgid "$NAME on $ALBUM"
+#~ msgstr "$ALBUM ਵਿੱਚ $NAME"
+
+#~ msgid "$NAME by $ARTIST"
+#~ msgstr "$ARTIST ਦਾ ਗਾਇਆ/ਗਾਈ $NAME"
+
+#~ msgid "$NAME by $ARTIST on $ALBUM"
+#~ msgstr "$ALBUM ਵਿੱਚੋਂ $ARTIST ਦਾ ਗਾਇਆ $NAME"
+
+#~ msgid "Flat"
+#~ msgstr "ਫ਼ਲੈਟ"
+
+#~ msgid "Classical"
+#~ msgstr "ਕਲਾਸੀਕਲ"
+
+#~ msgid "Club"
+#~ msgstr "ਕਲੱਬ"
+
+#~ msgid "Dance"
+#~ msgstr "ਡਾਂਸ"
+
+#~ msgid "Full Bass"
+#~ msgstr "ਪੂਰੀ ਧਮਕ"
+
+#~ msgid "Full Treble"
+#~ msgstr "ਪੂਰੇ ਛੈਣੇ"
+
+#~ msgid "Full Bass + Treble"
+#~ msgstr "ਪੂਰੀ ਧਮਕ + ਛੈਣੇ"
+
+#~ msgid "Headphones"
+#~ msgstr "ਹੈੱਡਫ਼ੋਨ"
+
+#~ msgid "Large Hall"
+#~ msgstr "ਵੱਡਾ ਹਾਲ"
+
+#~ msgid "Live"
+#~ msgstr "ਲਾਈਵ"
+
+#~ msgid "Party"
+#~ msgstr "ਪਾਰਟੀ"
+
+#~ msgid "Pop"
+#~ msgstr "ਪੌਪ"
+
+#~ msgid "Reggae"
+#~ msgstr "ਰੈਗੇ"
+
+#~ msgid "Rock"
+#~ msgstr "ਰੌਕ"
+
+#~ msgid "Soft"
+#~ msgstr "ਨਰਮ"
+
+#~ msgid "Ska"
+#~ msgstr "ਸਕਾ"
+
+#~ msgid "Soft Rock"
+#~ msgstr "ਨਰਮ ਰੌਕ"
+
+#~ msgid "Techno"
+#~ msgstr "ਟੈਕਨੋ"
+
+#~ msgid " (%d)"
+#~ msgstr " (%d)"
+
+#~ msgid "%s (%d)"
+#~ msgstr "%s (%d)"
+
+#~ msgid "%s (%i)"
+#~ msgstr "%s (%i)"
+
+#~ msgid "MPEG Version 3.0 Extended (*.m3u)"
+#~ msgstr "ਐੱਮਪੀਈਜੀ ਵਰਜਨ 3.0 ਐਕਸਟੈਂਡਿਡ (*.m3u)"
+
+#~ msgid "Shoutcast Playlist Version 2.0 (*.pls)"
+#~ msgstr "ਸ਼ਾਊਟਕਾਸਟ ਪਲੇ-ਸੂਚੀ ਵਰਜਨ 2.0 (*.pls)"
+
+#~ msgid "Export Playlist"
+#~ msgstr "ਪਲੇ-ਸੂਚੀ ਦਰਾਮਦ ਕਰੋ"
+
+#~ msgid "Save"
+#~ msgstr "ਸਾਂਭੋ"
+
+#~ msgid "Cancel"
+#~ msgstr "ਰੱਦ ਕਰੋ"
+
+#~ msgid "Playlist"
+#~ msgstr "ਪਲੇ-ਸੂਚੀ"
+
+#~ msgid "Import %s"
+#~ msgstr "%s ਦੀ ਆਮਦ ਕਰੋ"
+
+#~ msgid "Unrecognized playlist file. Import failed."
+#~ msgstr "ਅਣਪਛਾਤੀ ਪਲੇ-ਸੂਚੀ ਫ਼ਾਇਲ। ਆਮਦ ਨਹੀਂ ਹੋ ਸਕੀ।"
+
+#~ msgid "Empty device!"
+#~ msgstr "ਡਿਵਾਈਸ ਖ਼ਾਲੀ ਕਰੋ!"
+
+#~ msgid "This device does not contain any music."
+#~ msgstr "ਇਸ ਡਿਵਾਈਸ ਵਿੱਚ ਕੋਈ ਸੰਗੀਤ ਨਹੀਂ ਹੈ।"
+
+#~ msgid "Android Phone"
+#~ msgstr "ਐਂਡਰਾਇਡ ਫ਼ੋਨ"
+
+#~ msgid "Audio Player"
+#~ msgstr "ਆਡੀਓ ਪਲੇਅਰ"
+
+#~ msgid "Adding <b>$NAME</b> by <b>$ARTIST</b> to $DEVICE"
+#~ msgstr "<b>$ARTIST</b> ਦੇ ਗਾਏ <b>$NAME</b> ਨੂੰ $DEVICE ਵਿੱਚ ਸ਼ਾਮਲ ਕੀਤਾ ਜਾ ਰਿਹੈ"
+
+#~ msgid "Syncing <b>%s</b>…"
+#~ msgstr "<b>%s</b> ਦਾ ਤਾਲਮੇਲ ਹੋ ਰਿਹੈ…"
+
+#~ msgid "Removing <b>$NAME</b> by <b>$ARTIST</b> from $DEVICE"
+#~ msgstr "<b>$ARTIST</b> ਦੇ ਗਾਏ <b>$NAME</b> ਨੂੰ $DEVICE ਵਿੱਚੋਂ ਹਟਾਇਆ ਜਾ ਰਿਹੈ"
+
+#~ msgid "Removing from <b>%s</b>…"
+#~ msgstr "<b>%s</b> ਵਿੱਚੋਂ ਹਟਾਇਆ ਜਾ ਰਿਹੈ…"
+
+#~ msgid "Finishing sync process…"
+#~ msgstr "ਤਾਲਮੇਲ ਦਾ ਕੰਮ ਮੁਕੰਮਲ ਹੋ ਰਿਹੈ…"
+
+#~ msgid "Cancelling Sync…"
+#~ msgstr "ਤਾਲਮੇਲ ਰੱਦ ਹੋ ਰਿਹੈ…"
+
+#~ msgid "Import Complete"
+#~ msgstr "ਆਮਦ ਮੁਕੰਮਲ"
+
+#~ msgid "Your Library Has Been Imported."
+#~ msgstr "ਤੁਹਾਡੀ ਲਾਇਬ੍ਰੇਰੀ ਦੀ ਆਮਦ ਹੋ ਚੁੱਕੀ ਹੈ।"
+
+#~ msgid "<b>Copying</b> files to <b>Music Folder</b>…"
+#~ msgstr "ਫ਼ਾਇਲਾਂ ਨੂੰ <b>ਮਿਊਜ਼ਿਕ ਫ਼ੋਲਡਰ</b> ਵਿੱਚ <b>ਨਕਲ</b> ਕੀਤਾ ਜਾ ਰਿਹੈ…"
+
+#~ msgid "Import to Library…"
+#~ msgstr "ਲਾਇਬ੍ਰੇਰੀ ਵਿੱਚ ਸ਼ਾਮਲ ਕਰੋ…"
+
+#~ msgid "Preferences"
+#~ msgstr "ਤਰਜੀਹਾਂ"
+
+#~ msgid "Search Music"
+#~ msgstr "ਸੰਗੀਤ ਖੋਜੋ"
+
+#~ msgid "No songs in Queue"
+#~ msgstr "ਕਤਾਰ ਵਿੱਚ ਕੋਈ ਗੀਤ ਨਹੀਂ ਹਨ"
+
+#~ msgid ""
+#~ "To add songs to the queue, use the <b>secondary click</b> on an item and "
+#~ "choose <b>Queue</b>. When a song finishes, the queued songs will be "
+#~ "played first before the next song in the currently playing list."
+#~ msgstr ""
+#~ "ਗੀਤਾਂ ਨੂੰ ਕਤਾਰ ਵਿੱਚ ਪਾਉਣ ਲਈ ਗੀਤ 'ਤੇ <b>ਸੱਜੀ ਕਲਿਕ</b> ਕਰੋ ਅਤੇ <b>ਕਤਾਰ ਵਿੱਚ ਪਾਓ</b> "
+#~ "ਚੁਣੋ। ਜਦੋਂ ਗੀਤ ਖ਼ਤਮ ਹੁੰਦਾ ਹੈ ਤਾਂ ਪਹਿਲਾਂ ਕਤਾਰ ਵਿਚਲੇ ਗੀਤਾਂ ਨੂੰ ਚਲਾਇਆ ਜਾਂਦੈ, ਮੌਜੂਦਾ ਪਲੇ-ਸੂਚੀ "
+#~ "ਵਿਚਲੇ ਗੀਤਾਂ ਤੋਂ ਵੀ ਪਹਿਲਾਂ।"
+
+#~ msgid "No songs in History"
+#~ msgstr "ਇਤਿਹਾਸ ਵਿੱਚ ਕੋਈ ਗੀਤ ਨਹੀਂ ਹਨ"
+
+#~ msgid ""
+#~ "After a part of a song has been played, it is added to the history list.\n"
+#~ "You can use this list to see all the songs you have played during the "
+#~ "current session."
+#~ msgstr ""
+#~ "ਜਦੋਂ ਗੀਤ ਦਾ ਕੁਝ ਹਿੱਸਾ ਚੱਲ ਜਾਵੇ ਤਾਂ ਇਹ ਇਤਿਹਾਸ ਵਿੱਚ ਸ਼ਾਮਲ ਹੋ ਜਾਂਦੈ।\n"
+#~ "ਤੁਸੀਂ ਆਪਣੇ ਮੌਜੂਦਾ ਸੈਸ਼ਨ ਵਿੱਚ ਚਲਾਏ ਗੀਤ ਵੇਖਣ ਲਈ ਇਹ ਇਤਿਹਾਸ ਵਾਲ਼ੀ ਸੂਚੀ ਵੇਖ ਸਕਦੇ ਹੋ।"
+
+#~ msgid "Import Music"
+#~ msgstr "ਮਿਊਜ਼ਿਕ ਦੀ ਆਮਦ ਕਰੋ"
+
+#~ msgctxt "Name of the playlist"
+#~ msgid "Queue"
+#~ msgstr "ਕਤਾਰ ਵਿੱਚ ਲਾਓ"
+
+#~ msgid "File not found"
+#~ msgstr "ਫ਼ਾਇਲ ਨਹੀਂ ਲੱਭੀ"
+
+#~ msgid "The music file for <b>%s</b> by <b>%s</b> could not be found."
+#~ msgstr "<b>%s</b> ਦੇ ਗਾਏ <b>%s</b> ਲਈ ਮਿਊਜ਼ਿਕ ਫ਼ਾਇਲ ਨਹੀਂ ਲੱਭੀ।"
+
+#~ msgid "%i music files could not be found."
+#~ msgstr "%i ਮਿਊਜ਼ਿਕ ਫ਼ਾਇਲਾਂ ਨਹੀਂ ਲੱਭੀਆਂ।"
+
+#~ msgid "Rescan Library"
+#~ msgstr "ਲਾਇਬ੍ਰੇਰੀ ਨੂੰ ਦੁਬਾਰਾ ਸਕੈਨ ਕਰੋ"
+
+#~ msgid "Remove Song"
+#~ msgstr "ਗੀਤ ਨੂੰ ਹਟਾਓ"
+
+#~ msgid "Find Song"
+#~ msgstr "ਗੀਤ ਲੱਭੋ"
+
+#~ msgid "Choose Music Folder"
+#~ msgstr "ਸੰਗੀਤ ਫ਼ੋਲਡਰ ਚੁਣੋ"
+
+#~ msgid "Would you like to install the %s plugin?"
+#~ msgstr "ਤੁਸੀਂ %s ਪਲੱਗਇਨ ਸਥਾਪਤ ਕਰਨਾ ਚਾਹੋਗੇ?"
+
+#~ msgid ""
+#~ "This song cannot be played. The %s plugin is required to play the song."
+#~ msgstr "ਇਹ ਗੀਤ ਚਲਾਇਆ ਨਹੀਂ ਜਾ ਸਕਦਾ। ਇਸਨੂੰ ਚਲਾਉਣ ਲਈ %s ਪਲੱਗਇਨ ਦੀ ਜ਼ਰੂਰਤ ਹੈ।"
+
+#~ msgid "Install Plugin"
+#~ msgstr "ਪਲੱਗਇਨ ਸਥਾਪਤ ਕਰੋ"
+
+#~ msgid "Title:"
+#~ msgstr "ਸਿਰਲੇਖ:"
+
+#~ msgid "Artist:"
+#~ msgstr "ਕਲਾਕਾਰ:"
+
+#~ msgid "Album:"
+#~ msgstr "ਐਲਬਮ:"
+
+#~ msgid "Album Artist:"
+#~ msgstr "ਐਲਬਮ ਕਲਾਕਾਰ:"
+
+#~ msgid "Composer:"
+#~ msgstr "ਸੰਗੀਤਕਾਰ:"
+
+#~ msgid "Grouping:"
+#~ msgstr "ਗਰੁੱਪ:"
+
+#~ msgid "Genre:"
+#~ msgstr "ਵੰਨਗੀ:"
+
+#~ msgid "Year:"
+#~ msgstr "ਸਾਲ:"
+
+#~ msgid "Track:"
+#~ msgstr "ਟਰੈਕ:"
+
+#~ msgid "Disc:"
+#~ msgstr "ਡਿਸਕ:"
+
+#~ msgid "Rating:"
+#~ msgstr "ਰੇਟਿੰਗ:"
+
+#~ msgid "Comment:"
+#~ msgstr "ਟਿੱਪਣੀ:"
+
+#~ msgid "Close"
+#~ msgstr "ਬੰਦ ਕਰੋ"
+
+#~ msgid "Issues while importing from %s"
+#~ msgstr "%s ਤੋਂ ਆਮਦ ਕਰਦੇ ਵੇਲ਼ੇ ਕੁਝ ਮਸਲੇ ਪੇਸ਼ ਆਏ"
+
+#~ msgid "Unable to import %d item. The file may be damaged."
+#~ msgid_plural "Unable to import %d items. The files may be damaged."
+#~ msgstr[0] "%d ਨਗ ਦੀ ਆਮਦ ਨਹੀਂ ਹੋ ਸਕੀ। ਫ਼ਾਇਲ ਖ਼ਰਾਬ ਹੋ ਸਕਦੀ ਹੈ।"
+#~ msgstr[1] "%d ਨਗਾਂ ਦੀ ਆਮਦ ਨਹੀਂ ਹੋ ਸਕੀ। ਫ਼ਾਇਲਾਂ ਖ਼ਰਾਬ ਹੋ ਸਕਦੀਆਂ ਹਨ।"
+
+#~ msgid "Move all corrupted files to trash"
+#~ msgstr "ਸਾਰੀਆਂ ਖ਼ਰਾਬ ਫ਼ਾਇਲਾਂ ਨੂੰ ਕੂੜੇਦਾਨ 'ਚ ਭੇਜੋ"
+
+#~ msgid "del"
+#~ msgstr "ਮਿਟਾਓ"
+
+#~ msgid "File Location"
+#~ msgstr "ਫ਼ਾਇਲ ਟਿਕਾਣਾ"
+
+#~ msgid "Select individual files to move to trash:"
+#~ msgstr "ਕੂੜੇਦਾਨ 'ਚ ਭੇਜਣ ਲਈ 'ਕੱਲੀ-'ਕੱਲੀ ਫ਼ਾਇਲ ਚੁਣੋ:"
+
+#~ msgid "Move to Trash"
+#~ msgstr "ਕੂੜੇਦਾਨ 'ਚ ਭੇਜੋ"
+
+#~ msgid "Ignore"
+#~ msgstr "ਨਜ਼ਰਅੰਦਾਜ਼ ਕਰੋ"
+
+#~ msgid "Select Music Folder…"
+#~ msgstr "ਮਿਊਜ਼ਿਕ ਫ਼ੋਲਡਰ ਚੁਣੋ…"
+
+#~ msgid "Music Folder Location"
+#~ msgstr "ਮਿਊਜ਼ਿਕ ਫ਼ੋਲਡਰ ਦਾ ਟਿਕਾਣਾ"
+
+#~ msgid "Library Management"
+#~ msgstr "ਲਾਇਬ੍ਰੇਰੀ ਦਾ ਪ੍ਰਬੰਧਨ"
+
+#~ msgid "Keep Music folder organized:"
+#~ msgstr "ਮਿਊਜ਼ਿਕ ਫ਼ੋਲਡਰ ਨੂੰ ਸਿਲਸਿਲੇਬੱਧ ਰੱਖੋ:"
+
+#~ msgid "Write metadata to file:"
+#~ msgstr "ਮੈਟਾਡੇਟਾ ਫ਼ਾਇਲ 'ਤੇ ਲਿਖੋ:"
+
+#~ msgid "Copy imported files to Library:"
+#~ msgstr "ਆਮਦ ਕੀਤੀਆਂ ਫ਼ਾਇਲਾਂ ਨੂੰ ਲਾਇਬ੍ਰੇਰੀ ਵਿੱਚ ਨਕਲ ਕਰੋ:"
+
+#~ msgid "Desktop Integration"
+#~ msgstr "ਡੈਸਕਟਾਪ ਅਨੁਕੂਲਤਾ"
+
+#~ msgid "Continue playback when closed:"
+#~ msgstr "ਬੰਦ ਕਰਨ ਤੋਂ ਬਾਅਦ ਵੀ ਸੰਗੀਤ ਚਲਦਾ ਰੱਖੋ:"
+
+#~ msgid "Remove %d Song From Library?"
+#~ msgid_plural "Remove %d Songs From Library?"
+#~ msgstr[0] "%d ਗੀਤ ਨੂੰ ਲਾਇਬ੍ਰੇਰੀ ਵਿੱਚੋਂ ਹਟਾਉਣਾ ਹੈ?"
+#~ msgstr[1] "%d ਗੀਤਾਂ ਨੂੰ ਲਾਇਬ੍ਰੇਰੀ ਵਿੱਚੋਂ ਹਟਾਉਣਾ ਹੈ?"
+
+#~ msgid "Remove \"%s\" From Library?"
+#~ msgstr "\"%s\" ਨੂੰ ਲਾਇਬ੍ਰੇਰੀ ਵਿੱਚੋਂ ਹਟਾਉਣਾ ਹੈ?"
+
+#~ msgid ""
+#~ "This will remove the song from your library and from any device synced "
+#~ "automatically."
+#~ msgid_plural ""
+#~ "This will remove the songs from your library and from any device synced "
+#~ "automatically."
+#~ msgstr[0] "ਇਹ ਗੀਤ ਨੂੰ ਤੁਹਾਡੀ ਲਾਇਬ੍ਰੇਰੀ ਅਤੇ ਆਟੋਮੈਟਿਕ ਤਾਲਮੇਲ ਦੀ ਡਿਵਾਈਸ ਵਿੱਚੋਂ ਹਟਾ ਦੇਵੇਗਾ।"
+#~ msgstr[1] "ਇਹ ਗੀਤਾਂ ਨੂੰ ਤੁਹਾਡੀ ਲਾਇਬ੍ਰੇਰੀ ਅਤੇ ਆਟੋਮੈਟਿਕ ਤਾਲਮੇਲ ਦੀ ਡਿਵਾਈਸ ਵਿੱਚੋਂ ਹਟਾ ਦੇਵੇਗਾ।"
+
+#~ msgid "Remove from Library"
+#~ msgstr "ਲਾਇਬ੍ਰੇਰੀ ਵਿੱਚੋਂ ਹਟਾਓ"
+
+#~ msgid "Set Music Folder?"
+#~ msgstr "ਸੰਗੀਤ ਫ਼ੋਲਡਰ ਸੈੱਟ ਕਰਨ ਹੈ?"
+
+#~ msgid ""
+#~ "Are you sure you want to set the music folder to %s? This will reset your "
+#~ "library and remove your playlists."
+#~ msgstr ""
+#~ "ਕੀ ਤੁਸੀਂ ਵਾਕਿਆ ਹੀ %s ਨੂੰ ਆਪਣੇ ਸੰਗੀਤ ਫ਼ੋਲਡਰ ਵਜੋਂ ਸੈੱਟ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ? ਇਹਦੇ ਨਾਲ਼ ਤੁਹਾਡੀ "
+#~ "ਲਾਇਬ੍ਰੇਰੀ ਰੀਸੈੱਟ ਹੋ ਜਾਵੇਗੀ ਅਤੇ ਤੁਹਾਡੀਆਂ ਪਲੇ-ਸੂਚੀਆਂ ਮਿਟ ਜਾਣਗੀਆਂ।"
+
+#~ msgid "Export Playlists"
+#~ msgstr "ਪਲੇ-ਸੂਚੀ ਦਰਾਮਦ ਕਰੋ"
+
+#~ msgid "Set Music Folder"
+#~ msgstr "ਸੰਗੀਤ ਫ਼ੋਲਡਰ ਸੈੱਟ ਕਰੋ"
+
+#~ msgid "Playlist Title"
+#~ msgstr "ਪਲੇ-ਸੂਚੀ ਦਾ ਨਾਂ"
+
+#~ msgid "any"
+#~ msgstr "ਕੋਈ ਵੀ"
+
+#~ msgid "all"
+#~ msgstr "ਸਾਰੇ"
+
+#~ msgid "Match"
+#~ msgstr "ਮੇਲ ਖਾਂਦਾ"
+
+#~ msgid "of the following:"
+#~ msgstr "ਇਹਨਾਂ ਵਿੱਚੋਂ:"
+
+#~ msgid "Add"
+#~ msgstr "ਜੋੜੋ"
+
+#~ msgid "Limit to"
+#~ msgstr "ਇਹਦੇ ਤੱਕ ਸੀਮਿਤ ਕਰੋ"
+
+#~ msgid "items"
+#~ msgstr "ਨਗ"
+
+#~ msgid "Name of Playlist"
+#~ msgstr "ਪਲੇ-ਸੂਚੀ ਦਾ ਨਾਂ"
+
+#~ msgid "Rules"
+#~ msgstr "ਨੇਮ"
+
+#~ msgid "Options"
+#~ msgstr "ਆਪਸ਼ਨਾਂ"
+
+#~ msgid "Smart Playlist Editor"
+#~ msgstr "ਚੁਸਤ ਪਲੇ-ਸੂਚੀ ਸੰਪਾਦਕ"
+
+#~ msgid "Remove"
+#~ msgstr "ਹਟਾਓ"
+
+#~ msgid "Album"
+#~ msgstr "ਐਲਬਮ"
+
+#~ msgid "Artist"
+#~ msgstr "ਕਲਾਕਾਰ"
+
+#~ msgid "Bitrate"
+#~ msgstr "ਬਿੱਟਰੇਟ"
+
+#~ msgid "Comment"
+#~ msgstr "ਟਿੱਪਣੀ"
+
+#~ msgid "Composer"
+#~ msgstr "ਸੰਗੀਤਕਾਰ"
+
+#~ msgid "Date Added"
+#~ msgstr "ਸ਼ਾਮਲ ਕਰਨ ਦੀ ਮਿਤੀ"
+
+#~ msgid "Genre"
+#~ msgstr "ਵੰਨਗੀ"
+
+#~ msgid "Grouping"
+#~ msgstr "ਗਰੁੱਪਿੰਗ"
+
+#~ msgid "Last Played"
+#~ msgstr "ਆਖ਼ਰੀ ਵਾਰ ਚਲਾਏ ਗਏ"
+
+#~ msgid "Length"
+#~ msgstr "ਲੰਬਾਈ"
+
+#~ msgid "Playcount"
+#~ msgstr "ਚਲਾਉਣ ਦੀ ਗਿਣਤੀ"
+
+#~ msgid "Rating"
+#~ msgstr "ਰੇਟਿੰਗ"
+
+#~ msgid "Skipcount"
+#~ msgstr "ਛੱਡ ਦੀ ਗਿਣਤੀ"
+
+#~ msgid "Title"
+#~ msgstr "ਸਿਰਲੇਖ"
+
+#~ msgid "Year"
+#~ msgstr "ਸਾਲ"
+
+#~ msgid "URI"
+#~ msgstr "ਪਤਾ"
+
+#~ msgid "is"
+#~ msgstr "ਹੈ"
+
+#~ msgid "contains"
+#~ msgstr "ਇਹ ਸਮੱਗਰੀ ਹੈ"
+
+#~ msgid "does not contain"
+#~ msgstr "ਇਹ ਸਮੱਗਰੀ ਨਹੀਂ"
+
+#~ msgid "is exactly"
+#~ msgstr "ਹੂ-ਬ-ਹੂ ਇੰਝ ਹੈ"
+
+#~ msgid "is at most"
+#~ msgstr "ਵੱਧ ਤੋਂ ਵੱਧ ਹੈ"
+
+#~ msgid "is at least"
+#~ msgstr "ਘੱਟੋ-ਘੱਟ ਹੈ"
+
+#~ msgid "is within"
+#~ msgstr "ਇਸਦੇ ਵਿੱਚ ਹੈ"
+
+#~ msgid "is before"
+#~ msgstr "ਪਹਿਲਾਂ ਹੈ"
+
+#~ msgid "seconds"
+#~ msgstr "ਸਕਿੰਟ"
+
+#~ msgid "days ago"
+#~ msgstr "ਦਿਨ ਪਹਿਲਾਂ"
+
+#~ msgid "kbps"
+#~ msgstr "ਕੇਬੀਪੀਐੱਸ"
+
+#~ msgid "Sync will remove %i item from %s"
+#~ msgid_plural "Sync will remove %i items from %s"
+#~ msgstr[0] "ਤਾਲਮੇਲ %s ਵਿੱਚੋਂ %i ਨਗ ਨੂੰ ਹਟਾ ਦੇਵੇਗਾ"
+#~ msgstr[1] "ਤਾਲਮੇਲ %s ਵਿੱਚੋਂ %i ਨਗਾਂ ਨੂੰ ਹਟਾ ਦੇਵੇਗਾ"
+
+#~ msgid ""
+#~ "If you continue to sync, media will be removed from %s since they are not "
+#~ "on the sync list. Would you like to import them to your library first?"
+#~ msgstr ""
+#~ "ਜੇ ਤੁਸੀਂ ਤਾਲਮੇਲ ਜਾਰੀ ਰੱਖਿਆ ਤਾਂ %s ਤੋਂ ਮੀਡੀਆ ਹਟਾ ਦਿੱਤਾ ਜਾਵੇਗਾ ਕਿਉਂਕਿ ਉਹ ਤਾਲਮੇਲ ਸੂਚੀ ਵਿੱਚ "
+#~ "ਨਹੀਂ ਹੈ। ਕੀ ਤੁਸੀਂ ਪਹਿਲਾਂ ਉਸਨੂੰ ਆਪਣੀ ਲਾਇਬ੍ਰੇਰੀ ਵਿੱਚ ਸ਼ਾਮਲ ਕਰਨਾ ਚਾਹੋਗੇ?"
+
+#~ msgid "Continue Syncing"
+#~ msgstr "ਤਾਲਮੇਲ ਜਾਰੀ ਰੱਖੋ"
+
+#~ msgid "Import"
+#~ msgstr "ਆਮਦ ਕਰੋ"
+
+#~ msgid "Importing music from %s…"
+#~ msgstr "%s ਵਿੱਚੋਂ ਸੰਗੀਤ ਦੀ ਆਮਦ ਹੋ ਰਹੀ ਹੈ…"
+
+#~ msgid "Adding files to library…"
+#~ msgstr "ਫ਼ਾਇਲਾਂ ਲਾਇਬ੍ਰੇਰੀ ਵਿੱਚ ਸ਼ਾਮਲ ਹੋ ਰਹੀਆਂ ਹਨ…"
+
+#~ msgid "<b>Importing</b> music to library…"
+#~ msgstr "ਲਾਇਬ੍ਰੇਰੀ ਵਿੱਚ ਸੰਗੀਤ ਦੀ <b>ਆਮਦ</b> ਹੋ ਰਹੀ ਹੈ…"
+
+#~ msgid "All music files are already in your library"
+#~ msgstr "ਸਾਰੀਆਂ ਸੰਗੀਤ ਫ਼ਾਇਲਾਂ ਤੁਹਾਡੀ ਲਾਇਬ੍ਰੇਰੀ ਵਿੱਚ ਪਹਿਲਾਂ ਹੀ ਮੌਜੂਦ ਹਨ"
+
+#~ msgid "No files were imported."
+#~ msgstr "ਕਿਸੇ ਵੀ ਫ਼ਾਇਲ ਦੀ ਆਮਦ ਨਹੀਂ ਕੀਤੀ ਗਈ।"
+
+#~ msgid "Rescanning music for changes. This may take a while…"
+#~ msgstr ""
+#~ "ਹੋਈਆਂ ਤਬਦੀਲੀਆਂ ਲਈ ਸੰਗੀਤ ਨੂੰ ਦੁਬਾਰਾ ਸਕੈਨ ਕੀਤਾ ਜਾ ਰਿਹੈ। ਇਸ ਵਿੱਚ ਥੋੜ੍ਹਾ ਜਿਹਾ ਵਕ਼ਤ ਲੱਗ ਸਕਦੈ…"
+
+#~ msgid "Added to your queue:"
+#~ msgstr "ਤੁਹਾਡੀ ਕਤਾਰ ਵਿੱਚ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ:"
+
+#~ msgid "%d Track"
+#~ msgid_plural "%d Tracks"
+#~ msgstr[0] "%d ਗੀਤ"
+#~ msgstr[1] "%d ਗੀਤ"
+
+#~ msgid "Favorite Songs"
+#~ msgstr "ਪਸੰਦੀਦਾ ਗੀਤ"
+
+#~ msgid "Recently Added"
+#~ msgstr "ਹਾਲ ਹੀ ਵਿੱਚ ਸ਼ਾਮਲ ਕੀਤੇ ਗਏ"
+
+#~ msgid "Recent Favorites"
+#~ msgstr "ਹਾਲੀਆ ਮਨਪਸੰਦ"
+
+#~ msgid "Never Played"
+#~ msgstr "ਕਦੇ ਵੀ ਨਾ ਚਲਾਏ ਗਏ"
+
+#~ msgid "Over Played"
+#~ msgstr "ਬਹੁਤ ਜ਼ਿਆਦਾ ਚਲਾਏ ਗਏ"
+
+#~ msgid "Not Recently Played"
+#~ msgstr "ਹਾਲ ਹੀ ਵਿੱਚ ਨਹੀਂ ਚਲਾਏ ਗਏ"
+
+#~ msgid "History"
+#~ msgstr "ਇਤਿਹਾਸ"
+
+#~ msgid "Playlists"
+#~ msgstr "ਪਲੇ-ਸੂਚੀਆਂ"
+
+#~ msgid "Device Name:"
+#~ msgstr "ਡਿਵਾਈਸ ਦਾ ਨਾਂ:"
+
+#~ msgid "Device Name"
+#~ msgstr "ਡਿਵਾਈਸ ਦਾ ਨਾਂ"
+
+#~ msgid "Automatically sync when plugged in:"
+#~ msgstr "ਕੰਪਿਊਟਰ ਨਾਲ਼ ਜੋੜਨ ਤੇ ਆਪਣੇ-ਆਪ ਤਾਲਮੇਲ ਕਰੋ:"
+
+#~ msgid "Sync:"
+#~ msgstr "ਤਾਲਮੇਲ:"
+
+#~ msgid "Sync"
+#~ msgstr "ਤਾਲਮੇਲ"
+
+#~ msgid "All Music"
+#~ msgstr "ਸਾਰਾ ਸੰਗੀਤ"
+
+#~ msgid "Sync Failed"
+#~ msgstr "ਤਾਲਮੇਲ ਨਾਕਾਮ ਰਿਹਾ"
+
+#~ msgid ""
+#~ "The playlist named %s is used to sync device %s, but could not be found."
+#~ msgstr "ਡਿਵਾਈਸ %s ਨੂੰ ਤਾਲਮੇਲ ਕਰਨ ਵਾਲ਼ੀ ਪਲੇਸੂਚੀ %s ਨਹੀਂ ਲੱਭੀ।"
+
+#~ msgid "Cannot Sync"
+#~ msgstr "ਤਾਲਮੇਲ ਨਹੀਂ ਹੋ ਸਕਦਾ"
+
+#~ msgid ""
+#~ "Cannot sync device with selected sync settings. Not enough space on disk"
+#~ msgstr ""
+#~ "ਚੁਣੀਆਂ ਹੋਈਆਂ ਤਾਲਮੇਲ ਸੈਟਿੰਗਾਂ ਨਾਲ਼ ਡਿਵਾਈਸ ਤਾਲਮੇਲ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸਕਦੀ। ਡਿਸਕ 'ਤੇ ਜਗ੍ਹਾ ਘੱਟ ਹੈ"
+
+#~ msgid "Device is already doing an operation."
+#~ msgstr "ਡਿਵਾਈਸ ਪਹਿਲਾਂ ਹੀ ਕੋਈ ਕਾਰਵਾਈ ਕਰ ਰਹੀ ਹੈ।"
+
+#~ msgid "Cancelling…"
+#~ msgstr "ਰੱਦ ਹੋ ਰਿਹੈ…"
+
+#~ msgid "Device operation has been cancelled and will stop after this media."
+#~ msgstr "ਡਿਵਾਈਸ ਕਾਰਵਾਈ ਰੱਦ ਕੀਤੀ ਗਈ ਹੈ ਅਤੇ ਇਸ ਮੀਡੀਏ ਤੋਂ ਬਾਅਦ ਰੁਕ ਜਾਵੇਗੀ।"
+
+#~ msgid "No Results"
+#~ msgstr "ਕੋਈ ਨਤੀਜੇ ਨਹੀਂ"
+
+#~ msgid "Try another search"
+#~ msgstr "ਇੱਕ ਹੋਰ ਖੋਜ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ"
+
+#~ msgid "Genres"
+#~ msgstr "ਵੰਨਗੀਆਂ"
+
+#~ msgid "Artists"
+#~ msgstr "ਕਲਾਕਾਰ"
+
+#~ msgid "Albums"
+#~ msgstr "ਐਲਬਮਾਂ"
+
+#~ msgid "Years"
+#~ msgstr "ਸਾਲ"
+
+#~ msgid "Ratings"
+#~ msgstr "ਰੇਟਿੰਗਾਂ"
+
+#~ msgid "Composers"
+#~ msgstr "ਸੰਗੀਤਕਾਰ"
+
+#~ msgid "Groupings"
+#~ msgstr "ਗਰੁੱਪਿੰਗਾਂ"
+
+#~ msgid "All Genres"
+#~ msgstr "ਸਾਰੀਆਂ ਵੰਨਗੀਆਂ"
+
+#~ msgid "All %i Genres"
+#~ msgstr "ਸਾਰੀਆਂ %i ਵੰਨਗੀਆਂ"
+
+#~ msgid "No Genres"
+#~ msgstr "ਕੋਈ ਵੰਨਗੀ ਨਹੀਂ"
+
+#~ msgid "All Artists"
+#~ msgstr "ਸਾਰੇ ਕਲਾਕਾਰ"
+
+#~ msgid "All %i Artists"
+#~ msgstr "ਸਾਰੇ %i ਕਲਾਕਾਰ"
+
+#~ msgid "No Artists"
+#~ msgstr "ਕੋਈ ਕਲਾਕਾਰ ਨਹੀਂ"
+
+#~ msgid "All Albums"
+#~ msgstr "ਸਾਰੀਆਂ ਐਲਬਮਾਂ"
+
+#~ msgid "All %i Albums"
+#~ msgstr "ਸਾਰੀਆਂ %i ਐਲਬਮਾਂ"
+
+#~ msgid "No Albums"
+#~ msgstr "ਕੋਈ ਐਲਬਮ ਨਹੀਂ"
+
+#~ msgid "All %i Years"
+#~ msgstr "ਸਾਰੇ %i ਸਾਲ"
+
+#~ msgid "No Years"
+#~ msgstr "ਕੋਈ ਸਾਲ ਨਹੀਂ"
+
+#~ msgid "All Ratings"
+#~ msgstr "ਸਾਰੀਆਂ ਰੇਟਿੰਗਾਂ"
+
+#~ msgid "No Ratings"
+#~ msgstr "ਕੋਈ ਰੇਟਿੰਗਾਂ ਨਹੀਂ"
+
+#~ msgid "All Groupings"
+#~ msgstr "ਸਾਰੀਆਂ ਗਰੁੱਪਿੰਗਾਂ"
+
+#~ msgid "All %i Groupings"
+#~ msgstr "ਸਾਰੀਆਂ %i ਗਰੁੱਪਿੰਗਾਂ"
+
+#~ msgid "No Groupings"
+#~ msgstr "ਕੋਈ ਗਰੁੱਪਿੰਗ ਨਹੀਂ"
+
+#~ msgid "All Composers"
+#~ msgstr "ਸਾਰੇ ਸੰਗੀਤਕਾਰ"
+
+#~ msgid "All %i Composers"
+#~ msgstr "ਸਾਰੇ %i ਸੰਗੀਤਕਾਰ"
+
+#~ msgid "No Composers"
+#~ msgstr "ਕੋਈ ਸੰਗੀਤਕਾਰ ਨਹੀਂ"
+
+#~ msgid "Automatic"
+#~ msgstr "ਖ਼ੁਦ-ਮੁਖ਼ਤਾਰ"
+
+#~ msgid "On Left"
+#~ msgstr "ਖੱਬੇ ਪਾਸੇ"
+
+#~ msgid "On Top"
+#~ msgstr "ਉੱਤੇ"
+
+#~ msgid "Unrated"
+#~ msgstr "ਬੇ-ਦਰਜਾ"
+
+#~ msgid "%u Star"
+#~ msgid_plural "%u Stars"
+#~ msgstr[0] "%u ਤਾਰਾ"
+#~ msgstr[1] "%u ਤਾਰੇ"
+
+#~ msgid "%u kbps"
+#~ msgstr "%u ਕੇਬੀਪੀਐੱਸ"
+
+#~ msgid "Never"
+#~ msgstr "ਕਦੇ ਵੀ ਨਹੀਂ"
+
+#~ msgctxt "List column title"
+#~ msgid "#"
+#~ msgstr "#"
+
+#~ msgctxt "List column title"
+#~ msgid "Track"
+#~ msgstr "ਗੀਤ"
+
+#~ msgctxt "List column title"
+#~ msgid "Title"
+#~ msgstr "ਨਾਂ"
+
+#~ msgctxt "List column title"
+#~ msgid "Length"
+#~ msgstr "ਲੰਬਾਈ"
+
+#~ msgctxt "List column title"
+#~ msgid "Artist"
+#~ msgstr "ਕਲਾਕਾਰ"
+
+#~ msgctxt "List column title"
+#~ msgid "Album"
+#~ msgstr "ਐਲਬਮ"
+
+#~ msgctxt "List column title"
+#~ msgid "Album Artist"
+#~ msgstr "ਐਲਬਮ ਕਲਾਕਾਰ"
+
+#~ msgctxt "List column title"
+#~ msgid "Composer"
+#~ msgstr "ਸੰਗੀਤਕਾਰ"
+
+#~ msgctxt "List column title"
+#~ msgid "Genre"
+#~ msgstr "ਵੰਨਗੀ"
+
+#~ msgctxt "List column title"
+#~ msgid "Year"
+#~ msgstr "ਸਾਲ"
+
+#~ msgctxt "List column title"
+#~ msgid "Grouping"
+#~ msgstr "ਗਰੁੱਪਿੰਗ"
+
+#~ msgctxt "List column title"
+#~ msgid "Bitrate"
+#~ msgstr "ਬਿੱਟਰੇਟ"
+
+#~ msgctxt "List column title"
+#~ msgid "Rating"
+#~ msgstr "ਦਰਜਾਬੰਦੀ"
+
+#~ msgctxt "List column title"
+#~ msgid "Plays"
+#~ msgstr "ਚਲਾਏ"
+
+#~ msgctxt "List column title"
+#~ msgid "Skips"
+#~ msgstr "ਛੱਡੇ"
+
+#~ msgctxt "List column title"
+#~ msgid "Date Added"
+#~ msgstr "ਸ਼ਾਮਲ ਕਰਨ ਦੀ ਮਿਤੀ"
+
+#~ msgctxt "List column title"
+#~ msgid "Last Played"
+#~ msgstr "ਆਖ਼ਰੀ ਵਾਰ ਚਲਾਏ"
+
+#~ msgctxt "List column title (beats per minute)"
+#~ msgid "BPM"
+#~ msgstr "ਬੀਪੀਐੱਮ"
+
+#~ msgctxt "List column title (file location)"
+#~ msgid "Location"
+#~ msgstr "ਟਿਕਾਣਾ"
+
+#~ msgctxt "List column title"
+#~ msgid "File Size"
+#~ msgstr "ਫ਼ਾਇਲ ਦਾ ਸਾਈਜ਼"
+
+#~ msgid "Autosize Columns"
+#~ msgstr "ਕਾਲਮਾਂ ਨੂੰ ਆਪਣੇ-ਆਪ ਸਾਈਜ਼ ਲੈਣ ਦਿਓ"
+
+#~ msgid "1234 kbps"
+#~ msgstr "1234 ਕੇਬੀਪੀਐੱਸ"
+
+#~ msgid "Sample List String"
+#~ msgstr "ਨਮੂਨਾ ਸੂਚੀ ਲਾਈਨ"
+
+#~ msgid "Get Some Tunes"
+#~ msgstr "ਕੋਈ ਗੀਤ-ਸੰਗੀਤ ਚਲਾਓ"
+
+#~ msgid "Add music to your library."
+#~ msgstr "ਆਪਣੀ ਲਾਇਬ੍ਰੇਰੀ 'ਚ ਸੰਗੀਤ ਸ਼ਾਮਲ ਕਰੋ।"
+
+#~ msgid "Import music from a source into your library."
+#~ msgstr "ਕਿਸੇ ਸਰੋਤ ਤੋਂ ਆਪਣੀ ਲਾਇਬ੍ਰੇਰੀ ਵਿੱਚ ਸੰਗੀਤ ਦੀ ਆਮਦ ਕਰੋ।"
+
+#~ msgid "Change Music Folder"
+#~ msgstr "ਸੰਗੀਤ ਫ਼ੋਲਡਰ ਬਦਲੋ"
+
+#~ msgid "Load music from a folder, a network or an external disk."
+#~ msgstr "ਕਿਸੇ ਫ਼ੋਲਡਰ, ਨੈੱਟਵਰਕ ਜਾਂ ਬਾਹਰੀ ਡਿਸਕ ਤੋਂ ਸੰਗੀਤ ਲੋਡ ਕਰੋ।"
+
+#~ msgid "Import your Music"
+#~ msgstr "ਆਪਣੇ ਸੰਗੀਤ ਦੀ ਆਮਦ ਕਰੋ"
+
+#~ msgid "Import all your Music from %s into your library."
+#~ msgstr "%s ਤੋਂ ਆਪਣੇ ਸਾਰੇ ਸੰਗੀਤ ਦੀ ਆਪਣੀ ਲਾਇਬ੍ਰੇਰੀ ਵਿੱਚ ਆਮਦ ਕਰੋ।"
+
+#~ msgid "Select Music Folder"
+#~ msgstr "ਸੰਗੀਤ ਫ਼ੋਲਡਰ ਚੁਣੋ"
+
+#~ msgid "No Songs"
+#~ msgstr "ਕੋਈ ਗੀਤ ਨਹੀਂ"
+
+#~ msgid "Updating playlist. Please wait."
+#~ msgstr "ਪਲੇ-ਸੂਚੀ ਅਪਡੇਟ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ। ਮਿਹਰਬਾਨੀ ਕਰਕੇ ਉਡੀਕ ਕਰੋ।"
+
+#~ msgid ""
+#~ "To add songs to this playlist, use the <b>secondary click</b> on an item "
+#~ "and choose <b>Add to Playlist</b>."
+#~ msgstr ""
+#~ "ਇਸ ਪਲੇ-ਸੂਚੀ ਵਿੱਚ ਗੀਤ ਸ਼ਾਮਲ ਕਰਨ ਲਈ ਗੀਤ 'ਤੇ <b>ਸੱਜੀ ਕਲਿੱਕ</b> ਕਰੋ ਅਤੇ <b>ਪਲੇ-ਸੂਚੀ ਵਿੱਚ "
+#~ "ਸ਼ਾਮਲ ਕਰੋ</b> ਚੁਣੋ।"
+
+#~ msgid "Edit Smart Playlist"
+#~ msgstr "ਚੁਸਤ ਪਲੇ-ਸੂਚੀ ਦਾ ਸੰਪਾਦਨ ਕਰੋ"
+
+#~ msgid ""
+#~ "This playlist will be automatically populated with songs that match its "
+#~ "rules. To modify these rules, use the <b>secondary click</b> on it in the "
+#~ "sidebar and click on <b>Edit</b>. Optionally, you can click on the button "
+#~ "below."
+#~ msgstr ""
+#~ "ਇਹ ਪਲੇ-ਸੂਚੀ ਆਪਣੇ-ਆਪ ਉਹਨਾਂ ਗੀਤ ਨਾਲ਼ ਭਰ ਜਾਵੇਗੀ ਜਿਹੜੇ ਇਹਦੇ ਨੇਮ ਨਾਲ਼ ਮੇਲ ਖਾਂਦੇ ਹੋਣਗੇ। ਇਹਨਾਂ "
+#~ "ਨੇਮਾਂ ਨੂੰ ਬਦਲਣ ਲਈ ਸਾਈਡਬਾਰ ਵਿੱਚ ਇਹਦੇ 'ਤੇ <b>ਸੱਜੀ ਕਲਿੱਕ</b> ਕਰੋ ਅਤੇ ਫਿਰ <b>ਸੰਪਾਦਿਤ ਕਰੋ</"
+#~ "b> 'ਤੇ ਕਲਿੱਕ ਕਰੋ। ਜਾਂ ਤੁਸੀਂ ਹੇਠਾਂ ਦਿੱਤੇ ਬਟਨ 'ਤੇ ਵੀ ਕਲਿੱਕ ਕਰ ਸਕਦੇ ਹੋ।"
+
+#~ msgid "No media"
+#~ msgstr "ਕੋਈ ਮੀਡੀਆ ਨਹੀਂ"
+
+#~ msgid "Set new album cover"
+#~ msgstr "ਨਵੀਂ ਐਲਬਮ ਤਸਵੀਰ ਸੈੱਟ ਕਰੋ"
+
+#~ msgid "Image files"
+#~ msgstr "ਤਸਵੀਰ ਫ਼ਾਇਲਾਂ"
+
+#~ msgid "_Open"
+#~ msgstr "_ਖੋਲ੍ਹੋ"
+
+#~ msgid "_Cancel"
+#~ msgstr "_ਰੱਦ ਕਰੋ"
+
+#~ msgid "Save preset"
+#~ msgstr "ਪ੍ਰੀਸੈੱਟ ਸਾਂਭੋ"
+
+#~ msgid "Off"
+#~ msgstr "ਬੰਦ ਕਰੋ"
+
+#~ msgid "%s (Custom)"
+#~ msgstr "%s (ਤਬਦੀਲੀਸ਼ੁਦਾ)"
+
+#~ msgid "%s (Custom %i)"
+#~ msgstr "%s (ਤਬਦੀਲੀਸ਼ੁਦਾ %i)"
+
+#~ msgid "Custom Preset"
+#~ msgstr "ਤਬਦੀਲੀਸ਼ੁਦਾ ਪ੍ਰੀਸੈੱਟ"
+
+#~ msgid "Custom Preset %i"
+#~ msgstr "ਤਬਦੀਲੀਸ਼ੁਦਾ ਪ੍ਰੀਸੈੱਟ %i"
+
+#~ msgid "Scroll to Current Song"
+#~ msgstr "ਚਲੰਤ ਗੀਤ 'ਤੇ ਜਾਓ"
+
+#~ msgid "Show in File Browser…"
+#~ msgstr "ਫ਼ਾਇਲ ਬ੍ਰਾਊਜ਼ਰ ਵਿੱਚ ਵਿਖਾਓ…"
+
+#~ msgid "Edit Song Info…"
+#~ msgstr "ਗੀਤ ਜਾਣਕਾਰੀ ਸੰਪਾਦਿਤ ਕਰੋ…"
+
+#~ msgid "Other Actions"
+#~ msgstr "ਹੋਰ ਕਾਰਵਾਈਆਂ"
+
+#~ msgctxt "Action item (verb)"
+#~ msgid "Queue"
+#~ msgstr "ਕਤਾਰ ਵਿੱਚ ਲਾਓ"
+
+#~ msgid "Add to Playlist"
+#~ msgstr "ਪਲੇ-ਸੂਚੀ 'ਚ ਸ਼ਾਮਲ ਕਰੋ"
+
+#~ msgid "Remove Song…"
+#~ msgstr "ਗੀਤ ਹਟਾਓ…"
+
+#~ msgid "Import to Library"
+#~ msgstr "ਲਾਇਬ੍ਰੇਰੀ ਵਿੱਚ ਆਮਦ ਕਰੋ"
+
+#~ msgid "Remove from Library…"
+#~ msgstr "ਲਾਇਬ੍ਰੇਰੀ 'ਚੋਂ ਹਟਾਓ…"
+
+#~ msgid "Remove from Device"
+#~ msgstr "ਡਿਵਾਈਸ ਤੋਂ ਹਟਾਓ"
+
+#~ msgid "Remove from Queue"
+#~ msgstr "ਕਤਾਰ 'ਚੋਂ ਹਟਾਓ"
+
+#~ msgid "New Playlist…"
+#~ msgstr "ਨਵੀਂ ਪਲੇ-ਸੂਚੀ…"
+
+#~ msgid "Import %i of %i selected songs"
+#~ msgstr "%i ਵਿੱਚੋਂ %i ਚੁਣੇ ਹੋਏ ਗੀਤਾਂ ਦੀ ਆਮਦ ਕਰੋ"
+
+#~ msgid "Import %i song"
+#~ msgid_plural "Import %i songs"
+#~ msgstr[0] "%i ਗੀਤ ਦੀ ਆਮਦ ਕਰੋ"
+#~ msgstr[1] "%i ਗੀਤਾਂ ਦੀ ਆਮਦ ਕਰੋ"
+
+#~ msgid "Delete Current"
+#~ msgstr "ਮੌਜੂਦਾ ਨੂੰ ਮਿਟਾਓ"
+
+#~ msgid "Rename"
+#~ msgstr "ਨਾਂ ਬਦਲੋ"
+
+#~ msgid "Edit…"
+#~ msgstr "ਸੰਪਾਦਿਤ ਕਰੋ…"
+
+#~ msgid "Save as Playlist"
+#~ msgstr "ਪਲੇ-ਸੂਚੀ ਵਜੋਂ ਸਾਂਭੋ"
+
+#~ msgid "Export…"
+#~ msgstr "ਦਰਾਮਦ ਕਰੋ…"
+
+#~ msgid "Eject"
+#~ msgstr "ਬਾਹਰ ਕੱਢੋ"
+
+#~ msgid "New Playlist"
+#~ msgstr "ਨਵੀਂ ਪਲੇ-ਸੂਚੀ"
+
+#~ msgid "New Smart Playlist"
+#~ msgstr "ਨਵੀਂ ਚੁਸਤ ਪਲੇ-ਸੂਚੀ"
+
+#~ msgid "Import Playlists"
+#~ msgstr "ਪਲੇ-ਸੂਚੀਆਂ ਦੀ ਆਮਦ ਕਰੋ"
+
+#~ msgid "Library"
+#~ msgstr "ਲਾਇਬ੍ਰੇਰੀ"
+
+#~ msgid "Devices"
+#~ msgstr "ਡਿਵਾਈਸਾਂ"
+
+#~ msgid "Network"
+#~ msgstr "ਨੈੱਟਵਰਕ"
+
+#~ msgid "Add Playlist"
+#~ msgstr "ਪਲੇ-ਸੂਚੀ ਸ਼ਾਮਲ ਕਰੋ"
+
+#~ msgid "Add Smart Playlist"
+#~ msgstr "ਚੁਸਤ ਪਲੇ-ਸੂਚੀ ਸ਼ਾਮਲ ਕਰੋ"
+
+#~ msgid "Add Playlist…"
+#~ msgstr "ਪਲੇ-ਸੂਚੀ ਸ਼ਾਮਲ ਕਰੋ…"
+
+#~ msgid "Equalizer: %s"
+#~ msgstr "ਈਕਵਾਲਾਈਜ਼ਰ: %s"
+
+#~ msgid "Enable Repeat"
+#~ msgstr "ਦੁਬਾਰਾ ਉਹੀ ਚਲਾਉਣਾ ਚਾਲੂ ਕਰੋ"
+
+#~ msgid "Disable Repeat"
+#~ msgstr "ਦੁਬਾਰਾ ਚਲਾਉਣਾ ਬੰਦ ਕਰੋ"
+
+#~ msgid "Disable Shuffle"
+#~ msgstr "ਫੈਂਟਣਾ ਬੰਦ ਕਰੋ"
+
+#~ msgid "View as albums"
+#~ msgstr "ਐਲਬਮਾਂ ਵਜੋਂ ਵੇਖੋ"
+
+#~ msgid "View as list"
+#~ msgstr "ਸੂਚੀ ਵਜੋਂ ਵੇਖੋ"
+
+#~ msgid "View in columns"
+#~ msgstr "ਕਾਲਮਾਂ ਵਜੋਂ ਵੇਖੋ"

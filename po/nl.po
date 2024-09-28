@@ -1,0 +1,1785 @@
+# Dutch translation for beat-box
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the beat-box package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: beat-box\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-01 10:32+0000\n"
+"PO-Revision-Date: 2024-05-15 20:13+0000\n"
+"Last-Translator: Dennis ten Hoove <dennistenhoove@protonmail.com>\n"
+"Language-Team: Dutch <https://l10n.phyreos.io/projects/music/music/nl/>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.5\n"
+"X-Launchpad-Export-Date: 2017-03-07 05:52+0000\n"
+
+#: src/Application.vala:92 src/Views/NowPlayingView.vala:18
+#: src/Views/NowPlayingView.vala:116
+msgid "Music"
+msgstr "Muziek"
+
+#: src/MainWindow.vala:20
+msgid "Shuffle"
+msgstr "Shuffle"
+
+#: src/MainWindow.vala:26
+msgid "Search titles in playlist"
+msgstr ""
+
+#: src/MainWindow.vala:45
+msgid "Queue is Empty"
+msgstr "Wachtrij is leeg"
+
+#: src/MainWindow.vala:46
+msgid "Audio files opened from Files will appear here"
+msgstr "Geluidsbestanden geopend met Bestanden zullen hier verschijnen"
+
+#: src/MainWindow.vala:63
+msgid "Open Files…"
+msgstr "Bestanden openen…"
+
+#: src/MainWindow.vala:167
+#, c-format
+msgid "%d invalid file was not added to the queue"
+msgid_plural "%d invalid files were not added to the queue"
+msgstr[0] "%d ongeldig bestand was niet ingevoegd in de wachtrij"
+msgstr[1] "%d ongeldige bestanden zijn niet ingevoegd in de wachtrij"
+
+#: src/MainWindow.vala:215
+msgid "All files"
+msgstr "Alle bestanden"
+
+#: src/MainWindow.vala:220
+msgid "Music files"
+msgstr "Muziekbestanden"
+
+#: src/MainWindow.vala:229
+msgid "Open"
+msgstr "Open"
+
+#: src/MainWindow.vala:233
+msgid "Open audio files"
+msgstr "Open audiobestand"
+
+#: src/MainWindow.vala:271
+msgid "Repeat None"
+msgstr "Niks herhalen"
+
+#: src/MainWindow.vala:275
+msgid "Repeat All"
+msgstr "Alles herhalen"
+
+#: src/MainWindow.vala:279
+msgid "Repeat One"
+msgstr "Een herhalen"
+
+#: src/PlaybackManager.vala:136
+#, c-format
+msgid "%d track was added to the queue"
+msgid_plural "%d tracks were added to the queue"
+msgstr[0] "%d nummer is toegevoegd aan de wachtrij"
+msgstr[1] "%d nummers zijn toegevoegd aan de wachtrij"
+
+#. Don't set artist for files without tags
+#: src/PlaybackManager.vala:196
+msgid "Unknown"
+msgstr "Onbekend"
+
+#: src/Views/NowPlayingView.vala:23 src/Views/NowPlayingView.vala:115
+msgid "Not playing"
+msgstr "Niet spelen"
+
+#: src/Views/NowPlayingView.vala:45
+msgid "Previous"
+msgstr "Vorige"
+
+#: src/Views/NowPlayingView.vala:68
+msgid "Next"
+msgstr "Volgende"
+
+#: src/Views/NowPlayingView.vala:93
+msgid "Play"
+msgstr "Afspelen"
+
+#: src/Views/NowPlayingView.vala:96
+msgid "Pause"
+msgstr "Pauze"
+
+#~ msgid "Importing <b>$NAME</b> by <b>$ARTIST</b> to library…"
+#~ msgstr "Importeren van <b>$NAME</b> door <b>$ARTIST</b> naar bibliotheek…"
+
+#~ msgid "$NAME on $ALBUM"
+#~ msgstr "$NAME op $ALBUM"
+
+#~ msgid "$NAME by $ARTIST"
+#~ msgstr "$NAME door $ARTIST"
+
+#~ msgid "$NAME by $ARTIST on $ALBUM"
+#~ msgstr "$NAME door $ARTIST op $ALBUM"
+
+#~ msgid "Flat"
+#~ msgstr "Plat"
+
+#~ msgid "Classical"
+#~ msgstr "Klassiek"
+
+#~ msgid "Club"
+#~ msgstr "Club"
+
+#~ msgid "Dance"
+#~ msgstr "Dance"
+
+#~ msgid "Full Bass"
+#~ msgstr "Maximale bas"
+
+#~ msgid "Full Treble"
+#~ msgstr "Maximale hoge tonen"
+
+#~ msgid "Full Bass + Treble"
+#~ msgstr "Maximale bas en hoge tonen"
+
+#~ msgid "Headphones"
+#~ msgstr "Koptelefoon"
+
+#~ msgid "Large Hall"
+#~ msgstr "Grote hal"
+
+#~ msgid "Live"
+#~ msgstr "Live"
+
+#~ msgid "Party"
+#~ msgstr "Feest"
+
+#~ msgid "Pop"
+#~ msgstr "Pop"
+
+#~ msgid "Reggae"
+#~ msgstr "Reggae"
+
+#~ msgid "Rock"
+#~ msgstr "Rock"
+
+#~ msgid "Soft"
+#~ msgstr "Zacht"
+
+#~ msgid "Ska"
+#~ msgstr "Ska"
+
+#~ msgid "Soft Rock"
+#~ msgstr "Softrock"
+
+#~ msgid "Techno"
+#~ msgstr "Techno"
+
+#~ msgid " (%d)"
+#~ msgstr " (%d)"
+
+#~ msgid "%s (%d)"
+#~ msgstr "%s (%d)"
+
+#~ msgid "%s (%i)"
+#~ msgstr "%s (%i)"
+
+#~ msgid "MPEG Version 3.0 Extended (*.m3u)"
+#~ msgstr "MPEG versie 3.0 uitgebreid (*.m3u)"
+
+#~ msgid "Shoutcast Playlist Version 2.0 (*.pls)"
+#~ msgstr "Shoutcast Afspeellijst Versie 2.0 (*.pls)"
+
+#~ msgid "Export Playlist"
+#~ msgstr "Afspeellijst exporteren"
+
+#~ msgid "Save"
+#~ msgstr "Opslaan"
+
+#~ msgid "Cancel"
+#~ msgstr "Annuleren"
+
+#~ msgid "Playlist"
+#~ msgstr "Afspeellijst"
+
+#~ msgid "Import %s"
+#~ msgstr "%s importeren"
+
+#~ msgid "Unrecognized playlist file. Import failed."
+#~ msgstr "Onherkenbaar afspeellijst bestand. Importeren mislukt."
+
+#~ msgid "%m/%e/%Y %l:%M %p"
+#~ msgstr "%d-%m-%Y %k:%M"
+
+#~ msgid "Empty device!"
+#~ msgstr "Leeg apparaat!"
+
+#~ msgid "This device does not contain any music."
+#~ msgstr "Dit apparaat bevat geen muziek."
+
+#~ msgid "Android Phone"
+#~ msgstr "Android telefoon"
+
+#~ msgid "Audio Player"
+#~ msgstr "Muziekspeler"
+
+#~ msgid "Adding <b>$NAME</b> by <b>$ARTIST</b> to $DEVICE"
+#~ msgstr "Toevoegen van <b>$NAME</b> door <b>$ARTIST</b> aan $DEVICE"
+
+#~ msgid "Syncing <b>%s</b>…"
+#~ msgstr "Synchroniseren <b>%s</b>…"
+
+#~ msgid "Removing <b>$NAME</b> by <b>$ARTIST</b> from $DEVICE"
+#~ msgstr "Verwijderen van <b>$NAME</b> door <b>$ARTIST</b> van $DEVICE"
+
+#~ msgid "Removing from <b>%s</b>…"
+#~ msgstr "Verwijderen van <b>%s</b>…"
+
+#~ msgid "Finishing sync process…"
+#~ msgstr "Synchronisatieproces afronden…"
+
+#~ msgid "Cancelling Sync…"
+#~ msgstr "Synchronisatie afbreken…"
+
+#~ msgid "Import Complete"
+#~ msgstr "Importeren voltooid"
+
+#~ msgid "Your Library Has Been Imported."
+#~ msgstr "Uw muziekbibliotheek is geïmporteerd."
+
+#~ msgid "<b>Copying</b> files to <b>Music Folder</b>…"
+#~ msgstr "Bestanden <b>kopiëren</b> naar <b>muziekmap</b>…"
+
+#~ msgid "Import to Library…"
+#~ msgstr "Importeer naar bibliotheek…"
+
+#~ msgid "Preferences"
+#~ msgstr "Voorkeuren"
+
+#~ msgid "Search Music"
+#~ msgstr "Zoek muziek"
+
+#~ msgid "No songs in Queue"
+#~ msgstr "Geen nummers in de wachtrij"
+
+#~ msgid ""
+#~ "To add songs to the queue, use the <b>secondary click</b> on an item and "
+#~ "choose <b>Queue</b>. When a song finishes, the queued songs will be "
+#~ "played first before the next song in the currently playing list."
+#~ msgstr ""
+#~ "Om items in de wachtlijst te zetten, klik met de <b>rechter muisknop</b> "
+#~ "op een nummer en selecteer je <b>Wachtlijst</b>. Wanneer een nummer "
+#~ "eindigt, zullen items voor het volgende nummer in de huidige wachtlijst "
+#~ "eerst afgespeeld worden."
+
+#~ msgid "No songs in History"
+#~ msgstr "Geen nummers in geschiedenis"
+
+#~ msgid ""
+#~ "After a part of a song has been played, it is added to the history list.\n"
+#~ "You can use this list to see all the songs you have played during the "
+#~ "current session."
+#~ msgstr ""
+#~ "Als er een nummer wordt afgespeeld, wordt deze toegevoegd aan de "
+#~ "Geschiedenis lijst.\n"
+#~ "Je kunt deze lijst gebruiken om de liedjes die je hebt afgespeeld te "
+#~ "bekijken."
+
+#~ msgid "Import Music"
+#~ msgstr "Importeer muziek"
+
+#~ msgctxt "Name of the playlist"
+#~ msgid "Queue"
+#~ msgstr "Wachtrij"
+
+#~ msgid "File not found"
+#~ msgstr "Bestand niet gevonden"
+
+#~ msgid "The music file for <b>%s</b> by <b>%s</b> could not be found."
+#~ msgstr ""
+#~ "Het muziek bestand voor <b>%s</b> door <b>%s</b> kan niet worden gevonden."
+
+#, fuzzy
+#~| msgid "%i music files could not be found?"
+#~ msgid "%i music files could not be found."
+#~ msgstr "%i muziekbestanden konden niet worden gevonden?"
+
+#~ msgid "Rescan Library"
+#~ msgstr "Scan bibliotheek opnieuw"
+
+#~ msgid "Remove Song"
+#~ msgstr "Verwijder nummer"
+
+#~ msgid "Find Song"
+#~ msgstr "Zoek nummer"
+
+#~ msgid "Choose Music Folder"
+#~ msgstr "Kies muziek-map"
+
+#~ msgid "Would you like to install the %s plugin?"
+#~ msgstr "Wilt u de %s plugin installeren?"
+
+#~ msgid ""
+#~ "This song cannot be played. The %s plugin is required to play the song."
+#~ msgstr ""
+#~ "Dit nummer kan niet worden afgespeeld. De %s plugin is nodig om deze af "
+#~ "te spelen."
+
+#~ msgid "Install Plugin"
+#~ msgstr "Installeer plug-in"
+
+#~ msgid "Title:"
+#~ msgstr "Titel:"
+
+#~ msgid "Artist:"
+#~ msgstr "Artiest:"
+
+#~ msgid "Album:"
+#~ msgstr "Album:"
+
+#~ msgid "Album Artist:"
+#~ msgstr "Album artiest:"
+
+#~ msgid "Composer:"
+#~ msgstr "Componist:"
+
+#~ msgid "Grouping:"
+#~ msgstr "Groepering:"
+
+#~ msgid "Genre:"
+#~ msgstr "Genre:"
+
+#~ msgid "Year:"
+#~ msgstr "Jaar:"
+
+#~ msgid "Track:"
+#~ msgstr "Nummer:"
+
+#~ msgid "Disc:"
+#~ msgstr "Disc:"
+
+#~ msgid "Rating:"
+#~ msgstr "Beoordeling:"
+
+#~ msgid "Comment:"
+#~ msgstr "Commentaar:"
+
+#~ msgid "Close"
+#~ msgstr "Sluiten"
+
+#~ msgid "Issues while importing from %s"
+#~ msgstr "Problemen tijdens het importeren van %s"
+
+#~ msgid "Unable to import %d item. The file may be damaged."
+#~ msgid_plural "Unable to import %d items. The files may be damaged."
+#~ msgstr[0] ""
+#~ "Kon %d item niet importeren. Het bestand is mogelijks beschadigd."
+#~ msgstr[1] ""
+#~ "Kon %d items niet importeren. De bestanden zijn mogelijks beschadigd."
+
+#~ msgid "Move all corrupted files to trash"
+#~ msgstr "Verplaats alle corrupte bestanden naar de prullenbak"
+
+#~ msgid "del"
+#~ msgstr "verwijderen"
+
+#~ msgid "File Location"
+#~ msgstr "Bestandslocatie"
+
+#~ msgid "Select individual files to move to trash:"
+#~ msgstr ""
+#~ "Selecteer afzonderlijke bestanden om naar de prullenbak te verplaatsen:"
+
+#~ msgid "Move to Trash"
+#~ msgstr "Naar prullenbak verplaatsen"
+
+#~ msgid "Ignore"
+#~ msgstr "Negeren"
+
+#~ msgid "Select Music Folder…"
+#~ msgstr "Selecteer muziekmap…"
+
+#~ msgid "Music Folder Location"
+#~ msgstr "Locatie muziekmap"
+
+#~ msgid "Library Management"
+#~ msgstr "Bibliotheekbeheer"
+
+#~ msgid "Keep Music folder organized:"
+#~ msgstr "Houd Muziekmap georganiseerd:"
+
+#~ msgid "Write metadata to file:"
+#~ msgstr "Schrijf metadata naar bestand:"
+
+#~ msgid "Copy imported files to Library:"
+#~ msgstr "Kopieer geïmporteerde bestanden naar bibliotheek:"
+
+#~ msgid "Desktop Integration"
+#~ msgstr "Desktop integratie"
+
+#~ msgid "Continue playback when closed:"
+#~ msgstr "Blijf afspelen op achtergrond:"
+
+#~ msgid "Remove %d Song From Library?"
+#~ msgid_plural "Remove %d Songs From Library?"
+#~ msgstr[0] "Verwijder %d nummer uit bibliotheek?"
+#~ msgstr[1] "Verwijder %d nummers uit bibliotheek?"
+
+#~ msgid "Remove \"%s\" From Library?"
+#~ msgstr "\"%s\" verwijderen uit bibliotheek?"
+
+#~ msgid ""
+#~ "This will remove the song from your library and from any device synced "
+#~ "automatically."
+#~ msgid_plural ""
+#~ "This will remove the songs from your library and from any device synced "
+#~ "automatically."
+#~ msgstr[0] ""
+#~ "Dit zal het nummer verwijderen uit uw muziekbibliotheek en van elk "
+#~ "apparaat dat automatisch synchroniseert."
+#~ msgstr[1] ""
+#~ "Dit zal de nummers verwijderen uit uw muziekbibliotheek en van elk "
+#~ "apparaat dat automatisch synchroniseert."
+
+#~ msgid "Remove from Library"
+#~ msgstr "Verwijderen uit bibliotheek"
+
+#~ msgid "Set Music Folder?"
+#~ msgstr "Muziek-map instellen?"
+
+#~ msgid ""
+#~ "Are you sure you want to set the music folder to %s? This will reset your "
+#~ "library and remove your playlists."
+#~ msgstr ""
+#~ "Weet je zeker dat je %s als muziekmap in wilt stellen? Dit zal je "
+#~ "muziekbibliotheek resetten en je afspeellijsten verwijderen."
+
+#~ msgid "Export Playlists"
+#~ msgstr "Afspeellijst exporteren"
+
+#~ msgid "Set Music Folder"
+#~ msgstr "Selecteer muziek-map"
+
+#~ msgid "Playlist Title"
+#~ msgstr "Afspeellijst-naam"
+
+#~ msgid "any"
+#~ msgstr "elk"
+
+#~ msgid "all"
+#~ msgstr "alle"
+
+#~ msgid "Match"
+#~ msgstr "Overeenkomst"
+
+#~ msgid "of the following:"
+#~ msgstr "van het volgende:"
+
+#~ msgid "Add"
+#~ msgstr "Toevoegen"
+
+#~ msgid "Limit to"
+#~ msgstr "Beperken tot"
+
+#~ msgid "items"
+#~ msgstr "items"
+
+#~ msgid "Name of Playlist"
+#~ msgstr "Afspeellijstnaam"
+
+#~ msgid "Rules"
+#~ msgstr "Regels"
+
+#~ msgid "Options"
+#~ msgstr "Voorkeuren"
+
+#~ msgid "Smart Playlist Editor"
+#~ msgstr "Slimme afspeellijst bewerker"
+
+#~ msgid "Remove"
+#~ msgstr "Verwijderen"
+
+#~ msgid "Album"
+#~ msgstr "Album"
+
+#~ msgid "Artist"
+#~ msgstr "Artiest"
+
+#~ msgid "Bitrate"
+#~ msgstr "Bitsnelheid"
+
+#~ msgid "Comment"
+#~ msgstr "Commentaar"
+
+#~ msgid "Composer"
+#~ msgstr "Componist"
+
+#~ msgid "Date Added"
+#~ msgstr "Datum toegevoegd"
+
+#~ msgid "Genre"
+#~ msgstr "Genre"
+
+#~ msgid "Grouping"
+#~ msgstr "Groepering"
+
+#~ msgid "Last Played"
+#~ msgstr "Laatst afgespeeld"
+
+#~ msgid "Length"
+#~ msgstr "Duur"
+
+#~ msgid "Playcount"
+#~ msgstr "Aantal keren afgespeeld"
+
+#~ msgid "Rating"
+#~ msgstr "Beoordeling"
+
+#~ msgid "Skipcount"
+#~ msgstr "Aantal keren overgeslagen"
+
+#~ msgid "Title"
+#~ msgstr "Titel"
+
+#~ msgid "Year"
+#~ msgstr "Jaar"
+
+#~ msgid "URI"
+#~ msgstr "URI"
+
+#~ msgid "is"
+#~ msgstr "is"
+
+#~ msgid "contains"
+#~ msgstr "bevat"
+
+#~ msgid "does not contain"
+#~ msgstr "bevat niet"
+
+#~ msgid "is exactly"
+#~ msgstr "is gelijk aan"
+
+#~ msgid "is at most"
+#~ msgstr "is maximaal"
+
+#~ msgid "is at least"
+#~ msgstr "is ten minste"
+
+#~ msgid "is within"
+#~ msgstr "is tussen"
+
+#~ msgid "is before"
+#~ msgstr "is voor"
+
+#~ msgid "seconds"
+#~ msgstr "seconden"
+
+#~ msgid "days ago"
+#~ msgstr "dagen geleden"
+
+#~ msgid "kbps"
+#~ msgstr "kbps"
+
+#~ msgid "Sync will remove %i item from %s"
+#~ msgid_plural "Sync will remove %i items from %s"
+#~ msgstr[0] "Synchronisatie zal %i item uit %s verwijderen"
+#~ msgstr[1] "Synchronisatie zal %i items uit %s verwijderen"
+
+#~ msgid ""
+#~ "If you continue to sync, media will be removed from %s since they are not "
+#~ "on the sync list. Would you like to import them to your library first?"
+#~ msgstr ""
+#~ "Als je doorgaat met synchroniseren zal media verwijderd worden van %s "
+#~ "aangezien deze niet op de synchronisatielijst staan. Wil je deze eerst "
+#~ "importeren in je muziekbibliotheek?"
+
+#~ msgid "Continue Syncing"
+#~ msgstr "Ga verder met het synchroniseren"
+
+#~ msgid "Import"
+#~ msgstr "Importeer"
+
+#~ msgid "Importing music from %s…"
+#~ msgstr "Muziek importeren van %s…"
+
+#~ msgid "Adding files to library…"
+#~ msgstr "Bestanden toevoegen aan bibliotheek…"
+
+#~ msgid "<b>Importing</b> music to library…"
+#~ msgstr "<b>Importeren</b> van muziek naar bibliotheek…"
+
+#~ msgid "All music files are already in your library"
+#~ msgstr "Alle muziekbestanden bevinden zich reeds in uw bibliotheek"
+
+#~ msgid "No files were imported."
+#~ msgstr "Er zijn geen bestanden geïmporteerd."
+
+#~ msgid "Rescanning music for changes. This may take a while…"
+#~ msgstr ""
+#~ "Muziek opnieuw aan het scannen voor veranderingen. Dit kan even duren…"
+
+#~ msgid "Added to your queue:"
+#~ msgstr "Toegevoegd aan je wachtrij:"
+
+#~ msgid "%d Track"
+#~ msgid_plural "%d Tracks"
+#~ msgstr[0] "%d Nummer"
+#~ msgstr[1] "%d Nummers"
+
+#~ msgid "Favorite Songs"
+#~ msgstr "Favoriete Nummers"
+
+#~ msgid "Recently Added"
+#~ msgstr "Recentelijk toegevoegd"
+
+#~ msgid "Recent Favorites"
+#~ msgstr "Recente favorieten"
+
+#~ msgid "Never Played"
+#~ msgstr "Nooit afgespeeld"
+
+#~ msgid "Over Played"
+#~ msgstr "Vaak gespeeld"
+
+#~ msgid "Not Recently Played"
+#~ msgstr "Niet recentelijk afgespeeld"
+
+#~ msgid "History"
+#~ msgstr "Geschiedenis"
+
+#~ msgid "Playlists"
+#~ msgstr "Afspeellijsten"
+
+#~ msgid "Device Name:"
+#~ msgstr "Apparaatnaam:"
+
+#~ msgid "Device Name"
+#~ msgstr "Apparaatnaam"
+
+#~ msgid "Automatically sync when plugged in:"
+#~ msgstr "Automatisch synchroniseren bij aankoppelen:"
+
+#~ msgid "Sync:"
+#~ msgstr "Synchroniseren:"
+
+#~ msgid "Sync"
+#~ msgstr "Synchroniseren"
+
+#~ msgid "All Music"
+#~ msgstr "Alle muziek"
+
+#~ msgid "Sync Failed"
+#~ msgstr "Synchronisatie mislukt"
+
+#~ msgid ""
+#~ "The playlist named %s is used to sync device %s, but could not be found."
+#~ msgstr ""
+#~ "De afspeellijst %s wordt gebruikt om apparaat %s te synchroniseren, maar "
+#~ "kon niet gevonden worden."
+
+#~ msgid "Cannot Sync"
+#~ msgstr "Kan niet synchroniseren"
+
+#~ msgid ""
+#~ "Cannot sync device with selected sync settings. Not enough space on disk"
+#~ msgstr ""
+#~ "Kan het apparaat niet synchroniseren met de geselecteerde instellingen. "
+#~ "Niet genoeg schijfruimte"
+
+#~ msgid "Device is already doing an operation."
+#~ msgstr "Het apparaat is al bezig met een operatie."
+
+#~ msgid "Cancelling…"
+#~ msgstr "Afbreken…"
+
+#~ msgid "Device operation has been cancelled and will stop after this media."
+#~ msgstr "Apparaat bewerking is geannuleerd en stopt na deze media."
+
+#~ msgid "No Results"
+#~ msgstr "Geen resultaten"
+
+#~ msgid "Try another search"
+#~ msgstr "Probeer een andere zoekopdracht"
+
+#~ msgid "Genres"
+#~ msgstr "Genres"
+
+#~ msgid "Artists"
+#~ msgstr "Artiesten"
+
+#~ msgid "Albums"
+#~ msgstr "Albums"
+
+#~ msgid "Years"
+#~ msgstr "Jaren"
+
+#~ msgid "Ratings"
+#~ msgstr "Waardering"
+
+#~ msgid "Composers"
+#~ msgstr "Componisten"
+
+#~ msgid "Groupings"
+#~ msgstr "Groeperingen"
+
+#~ msgid "All Genres"
+#~ msgstr "Alle Genres"
+
+#~ msgid "All %i Genres"
+#~ msgstr "Alle %i Genres"
+
+#~ msgid "No Genres"
+#~ msgstr "Geen Genres"
+
+#~ msgid "All Artists"
+#~ msgstr "Alle Artiesten"
+
+#~ msgid "All %i Artists"
+#~ msgstr "Alle %i Artiesten"
+
+#~ msgid "No Artists"
+#~ msgstr "Geen Artiesten"
+
+#~ msgid "All Albums"
+#~ msgstr "Alle Albums"
+
+#~ msgid "All %i Albums"
+#~ msgstr "Alle %i Albums"
+
+#~ msgid "No Albums"
+#~ msgstr "Geen Albums"
+
+#~ msgid "All %i Years"
+#~ msgstr "Alle %i Jaren"
+
+#~ msgid "No Years"
+#~ msgstr "Geen Jaren"
+
+#~ msgid "All Ratings"
+#~ msgstr "Alle Beoordelingen"
+
+#~ msgid "No Ratings"
+#~ msgstr "Geen Beoordelingen"
+
+#~ msgid "All Groupings"
+#~ msgstr "Alle groeperingen"
+
+#~ msgid "All %i Groupings"
+#~ msgstr "Alle %i groeperingen"
+
+#~ msgid "No Groupings"
+#~ msgstr "Geen groeperingen"
+
+#~ msgid "All Composers"
+#~ msgstr "Alle componisten"
+
+#~ msgid "All %i Composers"
+#~ msgstr "Alle %i componisten"
+
+#~ msgid "No Composers"
+#~ msgstr "Geen componisten"
+
+#~ msgid "Automatic"
+#~ msgstr "Automatisch"
+
+#~ msgid "On Left"
+#~ msgstr "Aan de linkerkant"
+
+#~ msgid "On Top"
+#~ msgstr "Bovenop"
+
+#~ msgid "Unrated"
+#~ msgstr "Niet beoordeeld"
+
+#~ msgid "%u Star"
+#~ msgid_plural "%u Stars"
+#~ msgstr[0] "%u Ster"
+#~ msgstr[1] "%u Sterren"
+
+#~ msgid "%u kbps"
+#~ msgstr "%u kbps"
+
+#~ msgid "Never"
+#~ msgstr "Nooit"
+
+#~ msgctxt "List column title"
+#~ msgid "#"
+#~ msgstr "#"
+
+#~ msgctxt "List column title"
+#~ msgid "Track"
+#~ msgstr "Nummer"
+
+#~ msgctxt "List column title"
+#~ msgid "Title"
+#~ msgstr "Titel"
+
+#~ msgctxt "List column title"
+#~ msgid "Length"
+#~ msgstr "Lengte"
+
+#~ msgctxt "List column title"
+#~ msgid "Artist"
+#~ msgstr "Artiest"
+
+#~ msgctxt "List column title"
+#~ msgid "Album"
+#~ msgstr "Album"
+
+#~ msgctxt "List column title"
+#~ msgid "Album Artist"
+#~ msgstr "Albumartiest"
+
+#~ msgctxt "List column title"
+#~ msgid "Composer"
+#~ msgstr "Componist"
+
+#~ msgctxt "List column title"
+#~ msgid "Genre"
+#~ msgstr "Genre"
+
+#~ msgctxt "List column title"
+#~ msgid "Year"
+#~ msgstr "Jaar"
+
+#~ msgctxt "List column title"
+#~ msgid "Grouping"
+#~ msgstr "Groepering"
+
+#~ msgctxt "List column title"
+#~ msgid "Bitrate"
+#~ msgstr "Bitsnelheid"
+
+#~ msgctxt "List column title"
+#~ msgid "Rating"
+#~ msgstr "Beoordeling"
+
+#~ msgctxt "List column title"
+#~ msgid "Plays"
+#~ msgstr "Afgespeeld"
+
+#~ msgctxt "List column title"
+#~ msgid "Skips"
+#~ msgstr "Doorgespoeld"
+
+#~ msgctxt "List column title"
+#~ msgid "Date Added"
+#~ msgstr "Datum toegevoegd"
+
+#~ msgctxt "List column title"
+#~ msgid "Last Played"
+#~ msgstr "Laatst afgespeeld"
+
+#~ msgctxt "List column title (beats per minute)"
+#~ msgid "BPM"
+#~ msgstr "BPM"
+
+#~ msgctxt "List column title (file location)"
+#~ msgid "Location"
+#~ msgstr "Locatie"
+
+#~ msgctxt "List column title"
+#~ msgid "File Size"
+#~ msgstr "Bestandsgrootte"
+
+#~ msgid "Autosize Columns"
+#~ msgstr "Pas kolommen automatisch aan"
+
+#~ msgid "1234 kbps"
+#~ msgstr "1234 kbps"
+
+#~ msgid "Sample List String"
+#~ msgstr "Dance (The war is over)"
+
+#~ msgid "Get Some Tunes"
+#~ msgstr "Scoor wat nummers"
+
+#~ msgid "Add music to your library."
+#~ msgstr "Voeg muziek toe aan je bibliotheek."
+
+#~ msgid "Import music from a source into your library."
+#~ msgstr "Importeer een nummer van een bron naar uw bibliotheek."
+
+#~ msgid "Change Music Folder"
+#~ msgstr "Wijzig muziekmap"
+
+#~ msgid "Load music from a folder, a network or an external disk."
+#~ msgstr "Laad muziek uit een map, een netwerk of een externe schijf."
+
+#~ msgid "Import your Music"
+#~ msgstr "Importeer je muziek"
+
+#~ msgid "Import all your Music from %s into your library."
+#~ msgstr "Importeer al je muziek uit %s naar je bibliotheek."
+
+#~ msgid "Select Music Folder"
+#~ msgstr "Selecteer muziekmap"
+
+#~ msgid "No Songs"
+#~ msgstr "Geen nummers"
+
+#~ msgid "Updating playlist. Please wait."
+#~ msgstr "Afspeellijst wordt bijgewerkt. Een moment geduld."
+
+#~ msgid ""
+#~ "To add songs to this playlist, use the <b>secondary click</b> on an item "
+#~ "and choose <b>Add to Playlist</b>."
+#~ msgstr ""
+#~ "Om nummers aan deze afspeellijst toe te voegen, gebruik de <b>rechter "
+#~ "muisknop</b> op een item en kies <b>Toevoegen aan afspeellijst</b>."
+
+#~ msgid "Edit Smart Playlist"
+#~ msgstr "Bewerk slimme afspeellijst"
+
+#~ msgid ""
+#~ "This playlist will be automatically populated with songs that match its "
+#~ "rules. To modify these rules, use the <b>secondary click</b> on it in the "
+#~ "sidebar and click on <b>Edit</b>. Optionally, you can click on the button "
+#~ "below."
+#~ msgstr ""
+#~ "De afspeellijst zal automatisch aangevuld worden met nummers die "
+#~ "overeenkomen met de opgegeven regels. Om deze regels aan te passen, "
+#~ "gebruik je de <b>rechter muisknop</b> op de regel in de kantlijn en klik "
+#~ "je op <b>Aanpassen</b>.  Je kan optioneel ook op de knop hieronder "
+#~ "klikken."
+
+#~ msgid "No media"
+#~ msgstr "Geen medium"
+
+#~ msgid "Set new album cover"
+#~ msgstr "Nieuwe albumillustratie kiezen"
+
+#~ msgid "Image files"
+#~ msgstr "Afbeeldingsbestanden"
+
+#~ msgid "_Open"
+#~ msgstr "_Open"
+
+#~ msgid "_Cancel"
+#~ msgstr "_Annuleer"
+
+#~ msgid "Save preset"
+#~ msgstr "Voorinstelling opslaan"
+
+#~ msgid "Off"
+#~ msgstr "Uit"
+
+#~ msgid "%s (Custom)"
+#~ msgstr "%s (aangepast)"
+
+#~ msgid "%s (Custom %i)"
+#~ msgstr "%s (aangepast %i)"
+
+#~ msgid "Custom Preset"
+#~ msgstr "Aangepaste voorinstelling"
+
+#~ msgid "Custom Preset %i"
+#~ msgstr "Aangepaste voorinstelling %i"
+
+#~ msgid "Scroll to Current Song"
+#~ msgstr "Scroll naar het huidige nummer"
+
+#~ msgid "Show in File Browser…"
+#~ msgstr "Toon in verkenner…"
+
+#~ msgid "Edit Song Info…"
+#~ msgstr "Bewerk informatie…"
+
+#~ msgid "Other Actions"
+#~ msgstr "Andere acties"
+
+#~ msgctxt "Action item (verb)"
+#~ msgid "Queue"
+#~ msgstr "In wachtrij zetten"
+
+#~ msgid "Add to Playlist"
+#~ msgstr "Toevoegen aan afspeellijst"
+
+#~ msgid "Remove Song…"
+#~ msgstr "Verwijder nummer…"
+
+#~ msgid "Import to Library"
+#~ msgstr "Importeren naar bibliotheek"
+
+#~ msgid "Remove from Library…"
+#~ msgstr "Verwijderen uit bibliotheek…"
+
+#~ msgid "Remove from Device"
+#~ msgstr "Verwijder van apparaat"
+
+#~ msgid "Remove from Queue"
+#~ msgstr "Verwijder van wachtrij"
+
+#~ msgid "New Playlist…"
+#~ msgstr "Nieuwe afspeellijst…"
+
+#~ msgid "Import %i of %i selected songs"
+#~ msgstr "Importeer %i van %i geselecteerde nummers"
+
+#~ msgid "Import %i song"
+#~ msgid_plural "Import %i songs"
+#~ msgstr[0] "Importeer %i liedje"
+#~ msgstr[1] "Importeer %i liedjes"
+
+#~ msgid "Delete Current"
+#~ msgstr "Huidige verwijderen"
+
+#~ msgid "Rename"
+#~ msgstr "Naam wijzigen"
+
+#~ msgid "Edit…"
+#~ msgstr "Bewerken…"
+
+#~ msgid "Save as Playlist"
+#~ msgstr "Als afspeellijst opslaan"
+
+#~ msgid "Export…"
+#~ msgstr "Exporteren…"
+
+#~ msgid "Eject"
+#~ msgstr "Uitwerpen"
+
+#~ msgid "New Playlist"
+#~ msgstr "Nieuwe afspeellijst"
+
+#~ msgid "New Smart Playlist"
+#~ msgstr "Nieuwe slimme afspeellijst"
+
+#~ msgid "Import Playlists"
+#~ msgstr "Afspeellijsten importeren"
+
+#~ msgid "Library"
+#~ msgstr "Bibliotheek"
+
+#~ msgid "Devices"
+#~ msgstr "Apparaten"
+
+#~ msgid "Network"
+#~ msgstr "Netwerk"
+
+#~ msgid "Add Playlist"
+#~ msgstr "Afspeellijst Toevoegen"
+
+#~ msgid "Add Smart Playlist"
+#~ msgstr "Voeg intelligente afspeellijst toe"
+
+#~ msgid "Add Playlist…"
+#~ msgstr "Afspeellijst Toevoegen…"
+
+#~ msgid "Equalizer: %s"
+#~ msgstr "Equalizer: %s"
+
+#~ msgid "Enable Repeat"
+#~ msgstr "Herhalen inschakelen"
+
+#~ msgid "Disable Repeat"
+#~ msgstr "Herhalen uitschakelen"
+
+#~ msgid "Disable Shuffle"
+#~ msgstr "Shuffle uitschakelen"
+
+#~ msgid "View as albums"
+#~ msgstr "Albumweergave"
+
+#~ msgid "View as list"
+#~ msgstr "Lijstweergave"
+
+#~ msgid "View in columns"
+#~ msgstr "Kolomweergave"
+
+#~ msgid "No similar songs found"
+#~ msgstr "Geen vergelijkbare liedjes gevonden"
+
+#~ msgid ""
+#~ "There are no songs similar to the current song in your library. Make sure "
+#~ "all song info is correct and you are connected to the Internet. Some "
+#~ "songs may not have matches."
+#~ msgstr ""
+#~ "Er zijn geen nummers vergelijkbaar met het huidige nummer in je "
+#~ "bibliotheek. Ga na of alle informatie over het nummer correct is, en dat "
+#~ "je met internet verbonden bent. Sommige nummers kunnen geen resultaten "
+#~ "hebben."
+
+#~ msgid "Similar"
+#~ msgstr "Vergelijkbaar"
+
+#~ msgid "media"
+#~ msgstr "media"
+
+#~ msgid "Similar Media"
+#~ msgstr "Vergelijkbare media"
+
+#~ msgid "Audio CD Invalid"
+#~ msgstr "Audio CD ongeldig"
+
+#~ msgid "Impossible to read the contents of this Audio CD"
+#~ msgstr "Onmogelijk om de inhoud van deze Audio CD te lezen"
+
+#~ msgid "Could not find Music Folder"
+#~ msgstr "Kon de muziek-map niet vinden"
+
+#~ msgid ""
+#~ "Please make sure that your music folder is accessible and mounted before "
+#~ "importing the CD."
+#~ msgstr ""
+#~ "Zorg ervoor dat u toegang heeft tot uw muziekmap  en deze aangekoppeld is "
+#~ "alvorens de CD te importeren."
+
+#~ msgid ""
+#~ "The Application could not find any songs on the CD. No songs can be "
+#~ "imported"
+#~ msgstr ""
+#~ "De applicatie kon geen liedjes vinden op de cd. Er zijn geen liedjes "
+#~ "geïmporteerd"
+
+#~ msgid "Song imported from Audio CD."
+#~ msgstr "Liedje geïmporteerd van Audio CD."
+
+#~ msgid "%i songs imported from Audio CD."
+#~ msgstr "%i liedjes geïmporteerd van de Audio CD."
+
+#~ msgid "Importing track %u: %s"
+#~ msgstr "Nummer %u importeren: %s"
+
+#~ msgid "CD import will be <b>cancelled</b> after current import."
+#~ msgstr "CD-importeren wordt <b>geannuleerd</b> na de huidig importering."
+
+#~ msgid "Could not import this CD"
+#~ msgstr "Deze cd kon niet geïmporteerd worden"
+
+#~ msgid "An Error Occurred"
+#~ msgstr "Er heeft zich een probleem voorgedaan"
+
+#~ msgid "Could not load this Audio CD."
+#~ msgstr "Kon de Audio CD niet laden."
+
+#~ msgid "Importation of a song from Audio CD finished."
+#~ msgstr "Klaar met het importeren van een liedje van de audio cd."
+
+#~ msgid "Importation of %i songs from Audio CD finished."
+#~ msgstr "Klaar met het importeren van %i liedjes van audio cd."
+
+#~ msgid "An error occured during the Import of this CD"
+#~ msgstr "Er is een fout opgetreden tijdens het importeren van deze CD"
+
+#~ msgid "There was an error while loading this Audio CD."
+#~ msgstr "Er was een probleem tijdens het laden van deze Audio CD."
+
+#~ msgid "Disk:"
+#~ msgstr "Schijf:"
+
+#~ msgid "%s has imported your library."
+#~ msgstr "%s heeft je muziekbibliotheek geimporteerd."
+
+#~ msgid "Unable to import %d items from %s"
+#~ msgstr "Kon %d items niet importeren van %s"
+
+#~ msgid "Remove from %s"
+#~ msgstr "Verwijder van %s"
+
+#~ msgid "Remove \"%s\" From %s?"
+#~ msgstr "Verwijder \"%s\" van %s?"
+
+#~ msgid "No Albums Found."
+#~ msgstr "Geen albums gevonden."
+
+#~ msgid "No Songs Found."
+#~ msgstr "Geen nummers gevonden."
+
+#~ msgid "%u second"
+#~ msgid_plural "%u seconds"
+#~ msgstr[0] "%u seconde"
+#~ msgstr[1] "%u seconden"
+
+#~ msgid "%u minute"
+#~ msgid_plural "%u minutes"
+#~ msgstr[0] "%u minuut"
+#~ msgstr[1] "%u minuten"
+
+#~ msgctxt "minutes and seconds"
+#~ msgid "%s and %s"
+#~ msgstr "%s en %s"
+
+#~ msgid "%u day"
+#~ msgid_plural "%u days"
+#~ msgstr[0] "%u dag"
+#~ msgstr[1] "%u dagen"
+
+#~ msgid "%u hour"
+#~ msgid_plural "%u hours"
+#~ msgstr[0] "%u uur"
+#~ msgstr[1] "%u uren"
+
+#~ msgctxt "days, hours and minutes"
+#~ msgid "%s, %s and %s"
+#~ msgstr "%s, %s en %s"
+
+#~ msgctxt "days and hours"
+#~ msgid "%s and %s"
+#~ msgstr "%s en %s"
+
+#~ msgctxt "days and minutes"
+#~ msgid "%s and %s"
+#~ msgstr "%s en %s"
+
+#~ msgctxt "hours and minutes"
+#~ msgid "%s and %s"
+#~ msgstr "%s en %s"
+
+#~ msgid "Song"
+#~ msgstr "Nummer"
+
+#~ msgid "Repeat Artist"
+#~ msgstr "Artiest herhalen"
+
+#~ msgid "All"
+#~ msgstr "Alle"
+
+#~ msgid "Hide"
+#~ msgstr "Verbergen"
+
+#~ msgid "Show Info Panel"
+#~ msgstr "Toon Infopaneel"
+
+#~ msgid "Show"
+#~ msgstr "Tonen"
+
+#~ msgid "Hide Info Panel"
+#~ msgstr "Verberg Infopaneel"
+
+#~ msgid "Free"
+#~ msgstr "Gratis"
+
+#~ msgid "Using %s of %s (%.2f%)"
+#~ msgstr "%s van %s in gebruik (%.2f%)"
+
+#~ msgid "General"
+#~ msgstr "Algemeen"
+
+#~ msgid "Import from Device"
+#~ msgstr "van apparaat importeren"
+
+#~ msgid "Import media from %s"
+#~ msgstr "Importeer media van %s"
+
+#~ msgid ""
+#~ "The following files were found on %s, but are not in your library. Check "
+#~ "all the files you would like to import."
+#~ msgstr ""
+#~ "De volgende bestanden zijn gevonden op %s, maar staan niet in je "
+#~ "bibliotheek. Selecteer alle bestanden die je wil importeren."
+
+#~ msgid "Import all media"
+#~ msgstr "Importeer alle media"
+
+#~ msgid "Don't Import"
+#~ msgstr "Niet importeren"
+
+#~ msgid "Import %i items from %s"
+#~ msgstr "Importeer %i items van %s"
+
+#~ msgid "Import %s from %s"
+#~ msgstr "Importeer %s van %s"
+
+#~ msgid "ID"
+#~ msgstr "ID"
+
+#~ msgid "Select individual media to import:"
+#~ msgstr "Selecteer individuele media om te importeren:"
+
+#~ msgid "Check Item"
+#~ msgstr "Controleer item"
+
+#~ msgid "Check Album"
+#~ msgstr "Controleer album"
+
+#~ msgid "Check Artist"
+#~ msgstr "Controleer artiest"
+
+#~ msgid "Cannot Import"
+#~ msgstr "Kan niet importeren"
+
+#~ msgid ""
+#~ "Noise is already doing file operations. Please wait until those finish to "
+#~ "import from %s"
+#~ msgstr ""
+#~ "Muziek is al bestandsoperaties aan het doen. Wacht alstublieft totdat die "
+#~ "klaar zijn om te importeren van %s"
+
+#~ msgid "Import media to Library"
+#~ msgstr "Importeer media naar de bibliotheek"
+
+#~ msgid "Stop Syncing"
+#~ msgstr "Stop synchroniseren"
+
+#~ msgid "Sync will remove 1 item from %s"
+#~ msgstr "Sync zal 1 item van %s verwijderen"
+
+#~ msgid "%u album"
+#~ msgid_plural "%u albums"
+#~ msgstr[0] "%u album"
+#~ msgstr[1] "%u albums"
+
+#~ msgctxt "Title format used on Album View Popup: $ALBUM by $ARTIST"
+#~ msgid "%s by %s"
+#~ msgstr "%s door %s"
+
+#~ msgctxt ""
+#~ "Format used on statusbar: $description, $total_duration, $total_file_size"
+#~ msgid "%s, %s, %s"
+#~ msgstr "%s, %s, %s"
+
+#~ msgid "OK"
+#~ msgstr "Ok"
+
+#~ msgid "No External Songs"
+#~ msgstr "Geen externe nummers"
+
+#~ msgid ""
+#~ "There were no songs found on this device that are not in your library."
+#~ msgstr ""
+#~ "Er zijn geen nummers gevonden op dit apparaat die niet aanwezig zijn in "
+#~ "uw bibliotheek."
+
+#~ msgid "%i track"
+#~ msgid_plural "%i tracks"
+#~ msgstr[0] "%i liedje"
+#~ msgstr[1] "%i liedjes"
+
+#~ msgid "%u song"
+#~ msgid_plural "%u songs"
+#~ msgstr[0] "%u nummer"
+#~ msgstr[1] "%u nummers"
+
+#~ msgctxt "Format used on statusbar: $description, $total_duration"
+#~ msgid "%s, %s"
+#~ msgstr "%s, %s"
+
+#~ msgid "translator-credits"
+#~ msgstr ""
+#~ "Launchpad Contributions:\n"
+#~ "  Bouke https://launchpad.net/~mnrbugi\n"
+#~ "  Daniel Fore https://launchpad.net/~danrabbit\n"
+#~ "  Dolores Verbraeken https://launchpad.net/~barbara-verbraeken\n"
+#~ "  Dragnadh https://launchpad.net/~dragnadh\n"
+#~ "  Emiel Beinema https://launchpad.net/~emiel\n"
+#~ "  Esté Tigele https://launchpad.net/~etigele\n"
+#~ "  Guy Spronck https://launchpad.net/~guy-spronck-n\n"
+#~ "  Jaap Broekhuizen https://launchpad.net/~jaapz-b\n"
+#~ "  Jaap K https://launchpad.net/~jaapkoornstra\n"
+#~ "  Jelle Licht https://launchpad.net/~wordempire\n"
+#~ "  Jonathan Moerman https://launchpad.net/~jonathanmoerman\n"
+#~ "  Kenneth Moody https://launchpad.net/~kennethmoody\n"
+#~ "  Maxim Van Damme https://launchpad.net/~maxim-vandamme\n"
+#~ "  Michiel De Mey https://launchpad.net/~de-mey-michiel\n"
+#~ "  Peter Nijssen https://launchpad.net/~ptnijssen\n"
+#~ "  Quinten Schelfhout https://launchpad.net/~quintenschelfhout\n"
+#~ "  Rick Kerkhof https://launchpad.net/~rick-2288\n"
+#~ "  Rolf C https://launchpad.net/~5-rolf-9\n"
+#~ "  Stef https://launchpad.net/~stef-oostveen\n"
+#~ "  Steven Roose https://launchpad.net/~stevenroose\n"
+#~ "  Thomas Berends https://launchpad.net/~thomasberends\n"
+#~ "  Unknown https://launchpad.net/~niels-verploegen-deactivatedaccount\n"
+#~ "  Victor Martinez https://launchpad.net/~victored\n"
+#~ "  bart panjer https://launchpad.net/~bartpanjer\n"
+#~ "  dinkyt https://launchpad.net/~rr-debruin\n"
+#~ "  karel https://launchpad.net/~mrpopo666\n"
+#~ "  kay van der Zander https://launchpad.net/~kay20\n"
+#~ "  needhelp007 https://launchpad.net/~iempie3\n"
+#~ "  wilco jacobs https://launchpad.net/~osswix"
+
+#~ msgid "Lyrics fetched from www.lyricsmania.com"
+#~ msgstr "Songteksten opgehaald van www.lyricsmania.com"
+
+#~ msgid "Add Podcast"
+#~ msgstr "Podcast toevoegen"
+
+#~ msgid "Download new Episodes"
+#~ msgstr "Nieuwe afleveringen downloaden"
+
+#~ msgid "Edit"
+#~ msgstr "Bewerken"
+
+#~ msgid "Export..."
+#~ msgstr "Exporteren..."
+
+#~ msgid "Podcasts"
+#~ msgstr "Podcasts"
+
+#~ msgid "#"
+#~ msgstr "#"
+
+#~ msgid "Track"
+#~ msgstr "Nummer"
+
+#~ msgid "Plays"
+#~ msgstr "Afgespeeld"
+
+#~ msgid "Skips"
+#~ msgstr "Doorgespoeld"
+
+#~ msgid "BPM"
+#~ msgstr "BPM"
+
+#~ msgid "Done"
+#~ msgstr "Gereed"
+
+#~ msgid "Podcast"
+#~ msgstr "Podcast"
+
+#~ msgid "is not"
+#~ msgstr "is niet"
+
+#~ msgid "Rescan Music Folder"
+#~ msgstr "Scan de muziek-map opnieuw"
+
+#~ msgid "Locate"
+#~ msgstr "Lokaliseer"
+
+#~ msgid "Change your music folder."
+#~ msgstr "Verander je muziek-map."
+
+#~ msgid "Queue"
+#~ msgstr "Wachtrij"
+
+#~ msgid "Unknown Artist"
+#~ msgstr "Onbekende artiest"
+
+#~ msgid " by "
+#~ msgstr " door "
+
+#~ msgid "Unknown Album"
+#~ msgstr "Onbekend album"
+
+#~ msgid " on "
+#~ msgstr " op "
+
+#~ msgid "<b>Importing</b> music from <b>%s</b> to library."
+#~ msgstr "<b>Importeer</b> muziek van <b>%s</b> naar de bibliotheek."
+
+#~ msgid "Rescanning music folder for changes"
+#~ msgstr "Muziek-map opnieuw scannen op veranderingen"
+
+#~ msgid "Please make sure that your music folder is accessible and mounted."
+#~ msgstr "Zorg ervoor dat de muziek-map beschikbaar is."
+
+#~ msgid "Import media from device"
+#~ msgstr "Importeer media van apparaat"
+
+#~ msgid "Import Stations"
+#~ msgstr "Stations importeren"
+
+#~ msgid "%s Stars"
+#~ msgstr "%s Sterren"
+
+#~ msgid "All %i Ratings"
+#~ msgstr "Alle %i Beoordelingen"
+
+#~ msgid "All Podcasts"
+#~ msgstr "Alle podcasts"
+
+#~ msgid "Equalizer"
+#~ msgstr "Toonregeling"
+
+#~ msgid "Not Imported Files"
+#~ msgstr "Niet geïmporteerde bestanden"
+
+#~ msgid ""
+#~ "The plugin for media type %s is not installed.\n"
+#~ "What would you like to do?"
+#~ msgstr ""
+#~ "De plug-in voor het bestandstype %s is niet geïnstalleerd.\n"
+#~ "Wat wilt u doen?"
+
+#~ msgid "Required GStreamer plugin not installed"
+#~ msgstr "De benodigde GStreamer plug-in is niet geïnstalleerd"
+
+#~ msgid "Lyrics"
+#~ msgstr "Liedteksten"
+
+#~ msgid "%s has finished importing %i songs from Audio CD."
+#~ msgstr "%s is klaar met %i nummers te importeren van de audio-CD"
+
+#~ msgid ""
+#~ "Please wait until %s is finished with the current import before importing "
+#~ "the CD."
+#~ msgstr ""
+#~ "even wachten tot %s klaar is met de huidige actie alvorens de CD te "
+#~ "importeren"
+
+#~ msgid "CD Import Complete"
+#~ msgstr "CD volledig geimporteerd"
+
+#~ msgid "Ripping track 1"
+#~ msgstr "track 1 aan het rippen"
+
+#~ msgid "No songs on CD"
+#~ msgstr "Geen nummers op de CD"
+
+#~ msgid "Importing music from %s..."
+#~ msgstr "Muziek aan het importeren uit %s..."
+
+#~ msgid "Radio Station"
+#~ msgstr "Radiostation"
+
+#~ msgid "Importing track %i"
+#~ msgstr "Track %i aan het importeren"
+
+#~ msgid "Adding music from %s to library..."
+#~ msgstr "Muziek uit %s aan het toevoegen aan bibliotheek..."
+
+#~ msgid "Show Equalizer"
+#~ msgstr "Toon Equalizer"
+
+#~ msgid "Hide Equalizer"
+#~ msgstr "Verberg Equalizer"
+
+#~ msgid "Album Artist"
+#~ msgstr "Albumartiest"
+
+#~ msgid "Try again"
+#~ msgstr "Opnieuw proberen"
+
+#~ msgid "Unknown Track"
+#~ msgstr "Onbekend Nummer"
+
+#~ msgid "Unknown Title"
+#~ msgstr "Titel onbekend"
+
+#~ msgid "%s and %s"
+#~ msgstr "%s en %s"
+
+#~ msgid "%d second"
+#~ msgid_plural "%d seconds"
+#~ msgstr[0] "%d seconde"
+#~ msgstr[1] "%d seconden"
+
+#~ msgid "%s, %s and %s"
+#~ msgstr "%s, %s en %s"
+
+#~ msgid "Adding files to library..."
+#~ msgstr "Bestanden aan bibliotheek toevoegen..."
+
+#~ msgid "Rescanning music for changes. This may take a while..."
+#~ msgstr "Muziek scannen op wijzigingen. Dit kan even duren..."
+
+#~ msgid "Listen to music"
+#~ msgstr "Luister naar muziek"
+
+#~ msgid "Music Player"
+#~ msgstr "Muziekspeler"
+
+#~ msgid "Do Nothing"
+#~ msgstr "Niets doen"
+
+#~ msgid ""
+#~ "The music file for %s by %s could not be found. What would you like to do?"
+#~ msgstr ""
+#~ "Het muziekbestand voor %s door %s kon niet gevonden worden. Wat wil je "
+#~ "doen?"
+
+#~ msgid "%i media files could not be found. What would you like to do?"
+#~ msgstr "%i mediabestanden konden niet gevonden worden. Wat wil je doen?"
+
+#~ msgid "Locate Media"
+#~ msgstr "Vind media"
+
+#~ msgid "Remove Media"
+#~ msgstr "Verwijder media"
+
+#~ msgid "Could not find media file"
+#~ msgstr "Kon mediabestand niet vinden"
+
+#~ msgid "Date Released"
+#~ msgstr "Uitgebracht op"
+
+#~ msgid ""
+#~ "You must wait until previous file operations finish before setting your "
+#~ "music folder"
+#~ msgstr ""
+#~ "Je moet wachten tot de vorige bestandsbewerkingen klaar zijn voordat je "
+#~ "je muziekmap in kan stellen"
+
+#~ msgid "Write metadata to file"
+#~ msgstr "Metagegevens naar bestand schrijven"
+
+#~ msgid "Editing %s by %s"
+#~ msgstr "%s door %s bewerken"
+
+#~ msgid "Metadata"
+#~ msgstr "Metadata"
+
+#~ msgid "Editing %i songs"
+#~ msgstr "%i nummers aan het bewerken"
+
+#~ msgid "Editing %s"
+#~ msgstr "%s bewerken"
+
+#~ msgid "Media Type"
+#~ msgstr "Mediatype"
+
+#~ msgid "The name %s is already in use"
+#~ msgstr "De naam %s is al in gebruik"
+
+#~ msgid "Lyrics not found for %s"
+#~ msgstr "Songtekst niet gevonden voor %s"
+
+#~ msgid ""
+#~ "Device Sync has been cancelled. Operation will stop after this media."
+#~ msgstr ""
+#~ "Apparaat synchronisatie is geannuleerd. De operatie stopt na deze media."
+
+#~ msgid "Import this song"
+#~ msgstr "Importeer dit nummer"
+
+#~ msgid "Import %i songs"
+#~ msgstr "Importeer %i nummers"
+
+#~ msgid "%s is already doing an import"
+#~ msgstr "%s is al bezig met importeren"
+
+#~ msgid "%s could not find any songs on the CD. No songs can be imported"
+#~ msgstr ""
+#~ "%s kan geen nummers vinden op de CD. Er kunnen geen nummers worden "
+#~ "geïmporteerd"
+
+#~ msgid ""
+#~ "To allow for Last.fm integration, you must give permission to %s. You "
+#~ "only need to do this once."
+#~ msgstr ""
+#~ "Om Last.fm integratie te activeren moet je toestemming geven aan %s. Dit "
+#~ "hoeft maar een keer."
+
+#~ msgid "Enable Scrobbling"
+#~ msgstr "Zet Scrobbling aan"
+
+#~ msgid "Success!"
+#~ msgstr "Gelukt!"
+
+#~ msgid "Unsuccessful. Click to try again."
+#~ msgstr "Onsuccesvol. Klik om het opnieuw te proberen."
+
+#~ msgid "Lyrics not found for \"%s\" by \"%s\""
+#~ msgstr "Songtekst niet gevonden voor \"%s\" door \"%s\""
+
+#~ msgid "Copy files to music folder when added to library"
+#~ msgstr ""
+#~ "Kopieer bestanden naar muziekmap als deze toegevoegd worden aan de "
+#~ "bibliotheek"
+
+#~ msgid "Automatically download new podcast episodes"
+#~ msgstr "Haal automatisch nieuwe podcast episodes binnen"
+
+#~ msgid "Keep music folder organized"
+#~ msgstr "Hou muziekmap georganiseerd"
+
+#~ msgid "Complete login"
+#~ msgstr "Voltooi login"
+
+#~ msgid "Station"
+#~ msgstr "Station"
+
+#~ msgid "Audiobook"
+#~ msgstr "Audioboek"
+
+#~ msgid "Last.fm Integration"
+#~ msgstr "Last.fm integratie"
+
+#~ msgid "Click to redo the Last.fm Login Process"
+#~ msgstr "Klik om opnieuw in te loggen via Last.fm"
+
+#~ msgid "Scrobbling already Enabled"
+#~ msgstr "Scrobbling is al geactiveerd"
+
+#~ msgid "Device is already being synced."
+#~ msgstr "Het apparaat wordt al gesynchroniseerd."
+
+#~ msgid "%s can't seem to find your music."
+#~ msgstr "%s kan jouw muziek niet vinden."
+
+#~ msgid "Display Album Art"
+#~ msgstr "Toon albumhoes"
+
+#~ msgid "%i Star"
+#~ msgid_plural "%i Stars"
+#~ msgstr[0] "%i ster"
+#~ msgstr[1] "%i sterren"
+
+#~ msgid "%i kbps"
+#~ msgstr "%i kbps"
+
+#~ msgid "Music Folder Location:"
+#~ msgstr "Muziekmap locatie:"
+
+#~ msgid "Last.fm"
+#~ msgstr "Last.fm"
+
+#~ msgid "Desktop Integration:"
+#~ msgstr "Desktopintegratie"
+
+#~ msgid "Library Management:"
+#~ msgstr "Bibliotheekmanagement"
+
+#~ msgid "Editing $NAME by $ARTIST"
+#~ msgstr "Bewerken van $NAME door $ARTIST"
+
+#~ msgid ""
+#~ "Noise is already doing file operations. Please wait until those finish to "
+#~ "import from %d"
+#~ msgstr ""
+#~ "Noise is al bezig met bestandsbewerkingen. Wacht totdat deze klaar zijn "
+#~ "om te importeren uit %d"
+
+#~ msgid "Click to redo the Last.fm login process"
+#~ msgstr "Klik om het Last.fm-loginproces opnieuw te proberen"
+
+#~ msgid "Scrobbling Already Enabled"
+#~ msgstr "Scrobbling is al aan"
+
+#~ msgid "Importing track %i: %s"
+#~ msgstr "Importeren van spoor %i: %s"
+
+#~ msgid "Unsuccessful. Click To Try Again."
+#~ msgstr "Mislukt. Klik om opnieuw te proberen"
+
+#~ msgid "There is not enough space on Device to complete the Sync…"
+#~ msgstr ""
+#~ "Er is niet voldoende opslagruimte op het apparaat om de synchronisatie te "
+#~ "voltooien"
+
+#~ msgid "Complete Login"
+#~ msgstr "Login afronden"
+
+#~ msgid "Cancelling Sync"
+#~ msgstr "Synchronisatie annuleren"
+
+#~ msgid "Cancelling Import"
+#~ msgstr "Importeren annuleren"
+
+#~ msgid "Give %s Permission"
+#~ msgstr "Geef %s toegangsrechten"
+
+#~ msgid "Noise;Audio;Player;MP3;iPod;Play;Playlist;Media;CD;Phone;Songs;"
+#~ msgstr ""
+#~ "Noise;Muziek;Speler;Audio;MP3;iPod;Afspeellijst;Speel;Media;CD;Telefoon;"
+#~ "Liedjes"
+
+#~ msgid "<b>Stats</b>"
+#~ msgstr "<b>Statistieken</b>"
+
+#~ msgid "About Noise"
+#~ msgstr "Over Noise"
+
+#~ msgid "Reset"
+#~ msgstr "Reset"
+
+#~ msgid "Details"
+#~ msgstr "Details"
+
+#~ msgid "Notifications:"
+#~ msgstr "Notificaties"
+
+#~ msgid "About Music"
+#~ msgstr "Over Muziek"

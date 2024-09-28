@@ -1,0 +1,1834 @@
+# Ukrainian translation for beat-box
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the beat-box package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: beat-box\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-01 10:32+0000\n"
+"PO-Revision-Date: 2024-08-15 10:16+0000\n"
+"Last-Translator: Ihor Hordiichuk <igor_ck@outlook.com>\n"
+"Language-Team: Ukrainian <https://l10n.phyreos.io/projects/music/music/uk/"
+">\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.6.2\n"
+"X-Launchpad-Export-Date: 2017-03-07 05:55+0000\n"
+
+#: src/Application.vala:92 src/Views/NowPlayingView.vala:18
+#: src/Views/NowPlayingView.vala:116
+msgid "Music"
+msgstr "Музика"
+
+#: src/MainWindow.vala:20
+msgid "Shuffle"
+msgstr "Перемішати"
+
+#: src/MainWindow.vala:26
+msgid "Search titles in playlist"
+msgstr "Пошук назв у списку відтворення"
+
+#: src/MainWindow.vala:45
+msgid "Queue is Empty"
+msgstr "Черга порожня"
+
+#: src/MainWindow.vala:46
+msgid "Audio files opened from Files will appear here"
+msgstr "Тут з'являться відкриті з Файлів аудіофайли"
+
+#: src/MainWindow.vala:63
+msgid "Open Files…"
+msgstr "Відкрити файли…"
+
+#: src/MainWindow.vala:167
+#, c-format
+msgid "%d invalid file was not added to the queue"
+msgid_plural "%d invalid files were not added to the queue"
+msgstr[0] "До черги не додано %d недійсний файл"
+msgstr[1] "До черги не додано %d недійсні файли"
+msgstr[2] "До черги не додано %d недійсних файлів"
+
+#: src/MainWindow.vala:215
+msgid "All files"
+msgstr "Додати файли"
+
+#: src/MainWindow.vala:220
+msgid "Music files"
+msgstr "Музичні файли"
+
+#: src/MainWindow.vala:229
+msgid "Open"
+msgstr "Відкрити"
+
+#: src/MainWindow.vala:233
+msgid "Open audio files"
+msgstr "Відкрити аудіофайли"
+
+#: src/MainWindow.vala:271
+msgid "Repeat None"
+msgstr "Не повторювати"
+
+#: src/MainWindow.vala:275
+msgid "Repeat All"
+msgstr "Повторювати всі"
+
+#: src/MainWindow.vala:279
+msgid "Repeat One"
+msgstr "Повторювати одну"
+
+#: src/PlaybackManager.vala:136
+#, c-format
+msgid "%d track was added to the queue"
+msgid_plural "%d tracks were added to the queue"
+msgstr[0] "%d доріжку додано до черги"
+msgstr[1] "%d доріжки додано до черги"
+msgstr[2] "%d доріжок додано до черги"
+
+#. Don't set artist for files without tags
+#: src/PlaybackManager.vala:196
+msgid "Unknown"
+msgstr "Невідомо"
+
+#: src/Views/NowPlayingView.vala:23 src/Views/NowPlayingView.vala:115
+msgid "Not playing"
+msgstr "Не відтворюється"
+
+#: src/Views/NowPlayingView.vala:45
+msgid "Previous"
+msgstr "Попередня"
+
+#: src/Views/NowPlayingView.vala:68
+msgid "Next"
+msgstr "Наступна"
+
+#: src/Views/NowPlayingView.vala:93
+msgid "Play"
+msgstr "Відтворити"
+
+#: src/Views/NowPlayingView.vala:96
+msgid "Pause"
+msgstr "Пауза"
+
+#~ msgid "Importing <b>$NAME</b> by <b>$ARTIST</b> to library…"
+#~ msgstr "Завантаження <b>$NAME</b> виконавця <b>$ARTIST</b> до бібліотеки…"
+
+#~ msgid "$NAME on $ALBUM"
+#~ msgstr "$NAME у $ALBUM"
+
+#~ msgid "$NAME by $ARTIST"
+#~ msgstr "$NAME, виконує $ARTIST"
+
+#~ msgid "$NAME by $ARTIST on $ALBUM"
+#~ msgstr "$NAME виконує $ARTIST в $ALBUM"
+
+#~ msgid "Flat"
+#~ msgstr "Звичайний"
+
+#~ msgid "Classical"
+#~ msgstr "Класичний"
+
+#~ msgid "Club"
+#~ msgstr "Клубний"
+
+#~ msgid "Dance"
+#~ msgstr "Танцювальний"
+
+#~ msgid "Full Bass"
+#~ msgstr "Підсилення низьких частот"
+
+#~ msgid "Full Treble"
+#~ msgstr "Підсилення високих частот"
+
+#~ msgid "Full Bass + Treble"
+#~ msgstr "Підсилення низьких + високих частот"
+
+#~ msgid "Headphones"
+#~ msgstr "Навушники"
+
+#~ msgid "Large Hall"
+#~ msgstr "Велика зала"
+
+#~ msgid "Live"
+#~ msgstr "Наживо"
+
+#~ msgid "Party"
+#~ msgstr "Вечірка"
+
+#~ msgid "Pop"
+#~ msgstr "Поп"
+
+#~ msgid "Reggae"
+#~ msgstr "Реггі"
+
+#~ msgid "Rock"
+#~ msgstr "Рок"
+
+#~ msgid "Soft"
+#~ msgstr "М’який"
+
+#~ msgid "Ska"
+#~ msgstr "Ска"
+
+#~ msgid "Soft Rock"
+#~ msgstr "Софт-рок"
+
+#~ msgid "Techno"
+#~ msgstr "Техно"
+
+#~ msgid " (%d)"
+#~ msgstr " (%d)"
+
+#~ msgid "%s (%d)"
+#~ msgstr "%s (%d)"
+
+#~ msgid "%s (%i)"
+#~ msgstr "%s (%i)"
+
+#~ msgid "MPEG Version 3.0 Extended (*.m3u)"
+#~ msgstr "MPEG розширеної версії 3.0 (*.m3u)"
+
+#~ msgid "Shoutcast Playlist Version 2.0 (*.pls)"
+#~ msgstr "Добірка Shoutcast версії 2.0 (*.pls)"
+
+#~ msgid "Export Playlist"
+#~ msgstr "Експортувати добірку"
+
+#~ msgid "Save"
+#~ msgstr "Зберегти"
+
+#~ msgid "Cancel"
+#~ msgstr "Скасувати"
+
+#~ msgid "Playlist"
+#~ msgstr "Добірка"
+
+#~ msgid "Import %s"
+#~ msgstr "Імпортувати %s"
+
+#~ msgid "Unrecognized playlist file. Import failed."
+#~ msgstr "Нерозпізнаний файл списку відтворення. Не вдалося імпортувати."
+
+#~ msgid "%m/%e/%Y %l:%M %p"
+#~ msgstr "%m/%e/%Y %l:%M %p"
+
+#~ msgid "Empty device!"
+#~ msgstr "Порожній пристрій!"
+
+#~ msgid "This device does not contain any music."
+#~ msgstr "Цей пристрій не містить жодного музичного файлу."
+
+#~ msgid "Android Phone"
+#~ msgstr "Телефон на Android"
+
+#~ msgid "Audio Player"
+#~ msgstr "Музичний програвач"
+
+#~ msgid "Adding <b>$NAME</b> by <b>$ARTIST</b> to $DEVICE"
+#~ msgstr "Додавання <b>$NAME</b> виконавця <b>$ARTIST</b> на $DEVICE"
+
+#~ msgid "Syncing <b>%s</b>…"
+#~ msgstr "Синхронізація <b>%s</b>…"
+
+#~ msgid "Removing <b>$NAME</b> by <b>$ARTIST</b> from $DEVICE"
+#~ msgstr "Вилучення <b>$NAME</b> виконавця <b>$ARTIST</b> з $DEVICE"
+
+#~ msgid "Removing from <b>%s</b>…"
+#~ msgstr "Вилучення з <b>%s</b>…"
+
+#~ msgid "Finishing sync process…"
+#~ msgstr "Завершення синхронізації…"
+
+#~ msgid "Cancelling Sync…"
+#~ msgstr "Скасування синхронізації…"
+
+#~ msgid "Import Complete"
+#~ msgstr "Імпортування завершено"
+
+#~ msgid "Your Library Has Been Imported."
+#~ msgstr "Ваша бібліотека була імпортована."
+
+#~ msgid "<b>Copying</b> files to <b>Music Folder</b>…"
+#~ msgstr "<b>Копіювання</b> файлів до <b>Музичної теки</b>…"
+
+#~ msgid "Import to Library…"
+#~ msgstr "Імпортувати до бібліотеки…"
+
+#~ msgid "Preferences"
+#~ msgstr "Налаштування"
+
+#~ msgid "Search Music"
+#~ msgstr "Шукати музику"
+
+#~ msgid "No songs in Queue"
+#~ msgstr "Немає пісень у черзі"
+
+#~ msgid ""
+#~ "To add songs to the queue, use the <b>secondary click</b> on an item and "
+#~ "choose <b>Queue</b>. When a song finishes, the queued songs will be "
+#~ "played first before the next song in the currently playing list."
+#~ msgstr ""
+#~ "Щоб додати пісні до черги, натисніть <b>правою кнопкою миші</b> на "
+#~ "елементі та виберіть <b>Додати до черги</b>. Коли попередня пісня "
+#~ "завершиться, розпочнеться відтворення з черги, перед наступною піснею зі "
+#~ "списку, що відтворюється в цю хвилину."
+
+#~ msgid "No songs in History"
+#~ msgstr "Немає пісень в історії"
+
+#~ msgid ""
+#~ "After a part of a song has been played, it is added to the history list.\n"
+#~ "You can use this list to see all the songs you have played during the "
+#~ "current session."
+#~ msgstr ""
+#~ "Коли частину пісні відтворено, вона додається до історії.\n"
+#~ "В цьому списку ви можете побачити всі пісні відтворені в цьому сеансі."
+
+#~ msgid "Import Music"
+#~ msgstr "Імпортувати музику"
+
+#~ msgctxt "Name of the playlist"
+#~ msgid "Queue"
+#~ msgstr "Черга"
+
+#~ msgid "File not found"
+#~ msgstr "Файл не знайдено"
+
+#~ msgid "The music file for <b>%s</b> by <b>%s</b> could not be found."
+#~ msgstr "Музичний файл для <b>%s</b> з <b>%s</b> не знайдено."
+
+#~ msgid "%i music files could not be found."
+#~ msgstr "Не знайдено %i музичних файлів."
+
+#~ msgid "Rescan Library"
+#~ msgstr "Сканувати бібліотеку повторно"
+
+#~ msgid "Remove Song"
+#~ msgstr "Вилучити пісню"
+
+#~ msgid "Find Song"
+#~ msgstr "Знайти пісню"
+
+#~ msgid "Choose Music Folder"
+#~ msgstr "Вибір теки з музикою"
+
+#~ msgid "Would you like to install the %s plugin?"
+#~ msgstr "Бажаєте встановити плагін %s?"
+
+#~ msgid ""
+#~ "This song cannot be played. The %s plugin is required to play the song."
+#~ msgstr ""
+#~ "Ця пісня не може бути відтворена. Потрібен плагін %s, щоб відтворити її."
+
+#~ msgid "Install Plugin"
+#~ msgstr "Встановити плагін"
+
+#~ msgid "Title:"
+#~ msgstr "Назва:"
+
+#~ msgid "Artist:"
+#~ msgstr "Виконавець:"
+
+#~ msgid "Album:"
+#~ msgstr "Альбом:"
+
+#~ msgid "Album Artist:"
+#~ msgstr "Виконавець альбому:"
+
+#~ msgid "Composer:"
+#~ msgstr "Композитор:"
+
+#~ msgid "Grouping:"
+#~ msgstr "Групування:"
+
+#~ msgid "Genre:"
+#~ msgstr "Жанр:"
+
+#~ msgid "Year:"
+#~ msgstr "Рік:"
+
+#~ msgid "Track:"
+#~ msgstr "Доріжка:"
+
+#~ msgid "Disc:"
+#~ msgstr "Диск:"
+
+#~ msgid "Rating:"
+#~ msgstr "Оцінка:"
+
+#~ msgid "Comment:"
+#~ msgstr "Комментар:"
+
+#~ msgid "Close"
+#~ msgstr "Закрити"
+
+#~ msgid "Issues while importing from %s"
+#~ msgstr "Проблеми під час імпортування з %s"
+
+#~ msgid "Unable to import %d item. The file may be damaged."
+#~ msgid_plural "Unable to import %d items. The files may be damaged."
+#~ msgstr[0] "Неможливо імпортувати %d елемент. Файл може бути пошкоджений."
+#~ msgstr[1] "Неможливо імпортувати %d елементи. Файли можуть бути пошкоджені."
+#~ msgstr[2] ""
+#~ "Неможливо імпортувати %d елементів. Файли можуть бути пошкоджені."
+
+#~ msgid "Move all corrupted files to trash"
+#~ msgstr "Перемістити всі пошкоджені файли у смітник"
+
+#~ msgid "del"
+#~ msgstr "видалити"
+
+#~ msgid "File Location"
+#~ msgstr "Розташування файла"
+
+#~ msgid "Select individual files to move to trash:"
+#~ msgstr "Вибрати окремі файли для переміщення до смітника:"
+
+#~ msgid "Move to Trash"
+#~ msgstr "Перемістити до смітника"
+
+#~ msgid "Ignore"
+#~ msgstr "Знехтувати"
+
+#~ msgid "Select Music Folder…"
+#~ msgstr "Вибрати теку з музикою…"
+
+#~ msgid "Music Folder Location"
+#~ msgstr "Розташування теки з музикою"
+
+#~ msgid "Library Management"
+#~ msgstr "Керування бібліотекою"
+
+#~ msgid "Keep Music folder organized:"
+#~ msgstr "Завжди впорядковувати музичну теку:"
+
+#~ msgid "Write metadata to file:"
+#~ msgstr "Записувати метадані до файлу:"
+
+#~ msgid "Copy imported files to Library:"
+#~ msgstr "Копіювати імпортовані файли до Бібліотеки:"
+
+#~ msgid "Desktop Integration"
+#~ msgstr "Інтеграція зі стільничним середовищем"
+
+#~ msgid "Continue playback when closed:"
+#~ msgstr "Продовжувати відтворення після закриття:"
+
+#~ msgid "Remove %d Song From Library?"
+#~ msgid_plural "Remove %d Songs From Library?"
+#~ msgstr[0] "Вилучити %d пісню з бібліотеки?"
+#~ msgstr[1] "Вилучити %d пісні з бібліотеки?"
+#~ msgstr[2] "Вилучити %d пісень з бібліотеки?"
+
+#~ msgid "Remove \"%s\" From Library?"
+#~ msgstr "Вилучити «%s» з бібліотеки?"
+
+#~ msgid ""
+#~ "This will remove the song from your library and from any device synced "
+#~ "automatically."
+#~ msgid_plural ""
+#~ "This will remove the songs from your library and from any device synced "
+#~ "automatically."
+#~ msgstr[0] ""
+#~ "Це вилучить пісню з вашої бібліотеки та з усіх інших синхронізованих "
+#~ "пристроїв автоматично."
+#~ msgstr[1] ""
+#~ "Це вилучить пісні з вашої бібліотеки та з усіх інших синхронізованих "
+#~ "пристроїв автоматично."
+#~ msgstr[2] ""
+#~ "Це вилучить пісні з вашої бібліотеки та з усіх інших синхронізованих "
+#~ "пристроїв автоматично."
+
+#~ msgid "Remove from Library"
+#~ msgstr "Вилучити з бібліотеки"
+
+#~ msgid "Set Music Folder?"
+#~ msgstr "Встановити теку з музикою?"
+
+#~ msgid ""
+#~ "Are you sure you want to set the music folder to %s? This will reset your "
+#~ "library and remove your playlists."
+#~ msgstr ""
+#~ "Ви впевнені, що бажаєте встановити %s текою з музикою? Це скине вашу "
+#~ "бібліотеку та вилучить ваші списки відтворення."
+
+#~ msgid "Export Playlists"
+#~ msgstr "Експортувати добірку"
+
+#~ msgid "Set Music Folder"
+#~ msgstr "Встановити теку з музикою"
+
+#~ msgid "Playlist Title"
+#~ msgstr "Назва списку відтворення"
+
+#~ msgid "any"
+#~ msgstr "жоден"
+
+#~ msgid "all"
+#~ msgstr "всі"
+
+#~ msgid "Match"
+#~ msgstr "Збігається"
+
+#~ msgid "of the following:"
+#~ msgstr "з таких:"
+
+#~ msgid "Add"
+#~ msgstr "Додати"
+
+#~ msgid "Limit to"
+#~ msgstr "Обмежити до"
+
+#~ msgid "items"
+#~ msgstr "елементи"
+
+#~ msgid "Name of Playlist"
+#~ msgstr "Назва списку відтворення"
+
+#~ msgid "Rules"
+#~ msgstr "Правила"
+
+#~ msgid "Options"
+#~ msgstr "Опції"
+
+#~ msgid "Smart Playlist Editor"
+#~ msgstr "Інтелектуальний редактор списку відтворення"
+
+#~ msgid "Remove"
+#~ msgstr "Вилучити"
+
+#~ msgid "Album"
+#~ msgstr "Альбом"
+
+#~ msgid "Artist"
+#~ msgstr "Виконавець"
+
+#~ msgid "Bitrate"
+#~ msgstr "Швидкість потоку даних"
+
+#~ msgid "Comment"
+#~ msgstr "Коментар"
+
+#~ msgid "Composer"
+#~ msgstr "Композитор"
+
+#~ msgid "Date Added"
+#~ msgstr "Дата додавання"
+
+#~ msgid "Genre"
+#~ msgstr "Жанр"
+
+#~ msgid "Grouping"
+#~ msgstr "Групування"
+
+#~ msgid "Last Played"
+#~ msgstr "Останнє відтворення"
+
+#~ msgid "Length"
+#~ msgstr "Тривалість"
+
+#~ msgid "Playcount"
+#~ msgstr "Кількість відтворень"
+
+#~ msgid "Rating"
+#~ msgstr "Оцінка"
+
+#~ msgid "Skipcount"
+#~ msgstr "Кількість пропущень"
+
+#~ msgid "Title"
+#~ msgstr "Назва"
+
+#~ msgid "Year"
+#~ msgstr "Рік"
+
+#~ msgid "URI"
+#~ msgstr "URI"
+
+#~ msgid "is"
+#~ msgstr "є"
+
+#~ msgid "contains"
+#~ msgstr "містить"
+
+#~ msgid "does not contain"
+#~ msgstr "не містить"
+
+#~ msgid "is exactly"
+#~ msgstr "такий самий"
+
+#~ msgid "is at most"
+#~ msgstr "більшою мірою"
+
+#~ msgid "is at least"
+#~ msgstr "меншою мірою"
+
+#~ msgid "is within"
+#~ msgstr "в межах"
+
+#~ msgid "is before"
+#~ msgstr "перед"
+
+#~ msgid "seconds"
+#~ msgstr "секунд"
+
+#~ msgid "days ago"
+#~ msgstr "днів тому"
+
+#~ msgid "kbps"
+#~ msgstr "кбіт/с"
+
+#~ msgid "Sync will remove %i item from %s"
+#~ msgid_plural "Sync will remove %i items from %s"
+#~ msgstr[0] "Синхронізація вилучить %i елемент із %s"
+#~ msgstr[1] "Синхронізація вилучить %i елементи з %s"
+#~ msgstr[2] "Синхронізація вилучить %i елементів із %s"
+
+#~ msgid ""
+#~ "If you continue to sync, media will be removed from %s since they are not "
+#~ "on the sync list. Would you like to import them to your library first?"
+#~ msgstr ""
+#~ "Якщо ви продовжите синхронізацію, медіа буде вилучено з %s, тому що вони "
+#~ "не в переліку синхронізації. Бажаєте спочатку імпортувати їх до "
+#~ "бібліотеки?"
+
+#~ msgid "Continue Syncing"
+#~ msgstr "Продовжити синхронізацію"
+
+#~ msgid "Import"
+#~ msgstr "Імпортувати"
+
+#~ msgid "Importing music from %s…"
+#~ msgstr "Імпорт музики з %s…"
+
+#~ msgid "Adding files to library…"
+#~ msgstr "Додавання файлів до бібліотеки…"
+
+#~ msgid "<b>Importing</b> music to library…"
+#~ msgstr "<b>Імпортування</b> музики до бібліотеки…"
+
+#~ msgid "All music files are already in your library"
+#~ msgstr "Всі музичні файли вже у вашій бібліотеці"
+
+#~ msgid "No files were imported."
+#~ msgstr "Файли не імпортовано."
+
+#~ msgid "Rescanning music for changes. This may take a while…"
+#~ msgstr "Перевірка музики на наявність змін. Зачекайте…"
+
+#~ msgid "Added to your queue:"
+#~ msgstr "Додано до черги:"
+
+#~ msgid "%d Track"
+#~ msgid_plural "%d Tracks"
+#~ msgstr[0] "%d доріжка"
+#~ msgstr[1] "%d доріжки"
+#~ msgstr[2] "%d доріжок"
+
+#~ msgid "Favorite Songs"
+#~ msgstr "Вподобані пісні"
+
+#~ msgid "Recently Added"
+#~ msgstr "Нещодавно додані"
+
+#~ msgid "Recent Favorites"
+#~ msgstr "Нещодавно вподобані"
+
+#~ msgid "Never Played"
+#~ msgstr "Ніколи не відтворювались"
+
+#~ msgid "Over Played"
+#~ msgstr "Найвідтворюваніші"
+
+#~ msgid "Not Recently Played"
+#~ msgstr "Давно не відтворювалися"
+
+#~ msgid "History"
+#~ msgstr "Історія"
+
+#~ msgid "Playlists"
+#~ msgstr "Списки відтворення"
+
+#~ msgid "Device Name:"
+#~ msgstr "Назва пристрою:"
+
+#~ msgid "Device Name"
+#~ msgstr "Назва пристрою"
+
+#~ msgid "Automatically sync when plugged in:"
+#~ msgstr "Автоматично синхронізувати коли під’єднано:"
+
+#~ msgid "Sync:"
+#~ msgstr "Синхронізувати:"
+
+#~ msgid "Sync"
+#~ msgstr "Синхронізація"
+
+#~ msgid "All Music"
+#~ msgstr "Вся музика"
+
+#~ msgid "Sync Failed"
+#~ msgstr "Не вдалося синхронізувати"
+
+#~ msgid ""
+#~ "The playlist named %s is used to sync device %s, but could not be found."
+#~ msgstr ""
+#~ "Добірку, з назвою %s, застосовано для синхронізації пристрою %s, але його "
+#~ "неможливо знайти."
+
+#~ msgid "Cannot Sync"
+#~ msgstr "Не вдалося синхронізувати"
+
+#~ msgid ""
+#~ "Cannot sync device with selected sync settings. Not enough space on disk"
+#~ msgstr ""
+#~ "Не вдалося синхронізувати пристрій за допомогою вибраних налаштувань. "
+#~ "Недостатньо простору на диску"
+
+#~ msgid "Device is already doing an operation."
+#~ msgstr "Пристрій вже виконує операцію."
+
+#~ msgid "Cancelling…"
+#~ msgstr "Скасування…"
+
+#~ msgid "Device operation has been cancelled and will stop after this media."
+#~ msgstr "Операція з пристроєм відмінена і буде зупиненна після цієї дії."
+
+#~ msgid "No Results"
+#~ msgstr "Немає результатів"
+
+#~ msgid "Try another search"
+#~ msgstr "Спробуйте інший варіант пошуку"
+
+#~ msgid "Genres"
+#~ msgstr "Жанри"
+
+#~ msgid "Artists"
+#~ msgstr "Виконавці"
+
+#~ msgid "Albums"
+#~ msgstr "Альбоми"
+
+#~ msgid "Years"
+#~ msgstr "Роки"
+
+#~ msgid "Ratings"
+#~ msgstr "Оцінки"
+
+#~ msgid "Composers"
+#~ msgstr "Композитори"
+
+#~ msgid "Groupings"
+#~ msgstr "Групи"
+
+#~ msgid "All Genres"
+#~ msgstr "Всі жанри"
+
+#~ msgid "All %i Genres"
+#~ msgstr "Всі %i жанри"
+
+#~ msgid "No Genres"
+#~ msgstr "Без жанрів"
+
+#~ msgid "All Artists"
+#~ msgstr "Всі виконавці"
+
+#~ msgid "All %i Artists"
+#~ msgstr "Всі %i виконавці"
+
+#~ msgid "No Artists"
+#~ msgstr "Без виконавців"
+
+#~ msgid "All Albums"
+#~ msgstr "Всі Альбоми"
+
+#~ msgid "All %i Albums"
+#~ msgstr "Всі %i Альбомів"
+
+#~ msgid "No Albums"
+#~ msgstr "Без альбомів"
+
+#~ msgid "All %i Years"
+#~ msgstr "Всі %i роки"
+
+#~ msgid "No Years"
+#~ msgstr "Без років"
+
+#~ msgid "All Ratings"
+#~ msgstr "Всі оцінки"
+
+#~ msgid "No Ratings"
+#~ msgstr "Без оцінок"
+
+#~ msgid "All Groupings"
+#~ msgstr "Всі групи"
+
+#~ msgid "All %i Groupings"
+#~ msgstr "Всі %i групи"
+
+#~ msgid "No Groupings"
+#~ msgstr "Без груп"
+
+#~ msgid "All Composers"
+#~ msgstr "Всі композитори"
+
+#~ msgid "All %i Composers"
+#~ msgstr "Всі %i композитори"
+
+#~ msgid "No Composers"
+#~ msgstr "Без композиторів"
+
+#~ msgid "Automatic"
+#~ msgstr "Автоматичний"
+
+#~ msgid "On Left"
+#~ msgstr "Ліворуч"
+
+#~ msgid "On Top"
+#~ msgstr "Вгорі"
+
+#~ msgid "Unrated"
+#~ msgstr "Без оцінки"
+
+#~ msgid "%u Star"
+#~ msgid_plural "%u Stars"
+#~ msgstr[0] "%u зірка"
+#~ msgstr[1] "%u зірки"
+#~ msgstr[2] "%u зірок"
+
+#~ msgid "%u kbps"
+#~ msgstr "%u кбіт/с"
+
+#~ msgid "Never"
+#~ msgstr "Ніколи"
+
+#~ msgctxt "List column title"
+#~ msgid "#"
+#~ msgstr "№"
+
+#~ msgctxt "List column title"
+#~ msgid "Track"
+#~ msgstr "Доріжка"
+
+#~ msgctxt "List column title"
+#~ msgid "Title"
+#~ msgstr "Назва"
+
+#~ msgctxt "List column title"
+#~ msgid "Length"
+#~ msgstr "Тривалість"
+
+#~ msgctxt "List column title"
+#~ msgid "Artist"
+#~ msgstr "Виконавець"
+
+#~ msgctxt "List column title"
+#~ msgid "Album"
+#~ msgstr "Альбом"
+
+#~ msgctxt "List column title"
+#~ msgid "Album Artist"
+#~ msgstr "Виконавець альбома"
+
+#~ msgctxt "List column title"
+#~ msgid "Composer"
+#~ msgstr "Композитор"
+
+#~ msgctxt "List column title"
+#~ msgid "Genre"
+#~ msgstr "Жанр"
+
+#~ msgctxt "List column title"
+#~ msgid "Year"
+#~ msgstr "Рік"
+
+#~ msgctxt "List column title"
+#~ msgid "Grouping"
+#~ msgstr "Групування"
+
+#~ msgctxt "List column title"
+#~ msgid "Bitrate"
+#~ msgstr "Швидкість потоку даних"
+
+#~ msgctxt "List column title"
+#~ msgid "Rating"
+#~ msgstr "Оцінка"
+
+#~ msgctxt "List column title"
+#~ msgid "Plays"
+#~ msgstr "Відтворень"
+
+#~ msgctxt "List column title"
+#~ msgid "Skips"
+#~ msgstr "Пропусків"
+
+#~ msgctxt "List column title"
+#~ msgid "Date Added"
+#~ msgstr "Дата додавання"
+
+#~ msgctxt "List column title"
+#~ msgid "Last Played"
+#~ msgstr "Востаннє відтворено"
+
+#~ msgctxt "List column title (beats per minute)"
+#~ msgid "BPM"
+#~ msgstr "Уд./хв."
+
+#~ msgctxt "List column title (file location)"
+#~ msgid "Location"
+#~ msgstr "Розташування"
+
+#~ msgctxt "List column title"
+#~ msgid "File Size"
+#~ msgstr "Розмір файла"
+
+#~ msgid "Autosize Columns"
+#~ msgstr "Авторозмір стовпців"
+
+#~ msgid "1234 kbps"
+#~ msgstr "1234 Кбіт/сек"
+
+#~ msgid "Sample List String"
+#~ msgstr "Простий список"
+
+#~ msgid "Get Some Tunes"
+#~ msgstr "Додайте кілька пісень"
+
+#~ msgid "Add music to your library."
+#~ msgstr "Додайте музику до вашої бібліотеки."
+
+#~ msgid "Import music from a source into your library."
+#~ msgstr "Імпортувати музику з вашого джерела до вашої бібліотеки."
+
+#~ msgid "Change Music Folder"
+#~ msgstr "Вибрати теку з музикою"
+
+#~ msgid "Load music from a folder, a network or an external disk."
+#~ msgstr "Завантажити музику з теки, мережі чи зовнішнього диску."
+
+#~ msgid "Import your Music"
+#~ msgstr "Імпортувати музику"
+
+#~ msgid "Import all your Music from %s into your library."
+#~ msgstr "Імпортувати всю музику з %s до вашої бібліотеки."
+
+#~ msgid "Select Music Folder"
+#~ msgstr "Вибрати теку з музикою"
+
+#~ msgid "No Songs"
+#~ msgstr "Немає пісень"
+
+#~ msgid "Updating playlist. Please wait."
+#~ msgstr "Оновлення списку відтворення. Зачекайте хвильку."
+
+#~ msgid ""
+#~ "To add songs to this playlist, use the <b>secondary click</b> on an item "
+#~ "and choose <b>Add to Playlist</b>."
+#~ msgstr ""
+#~ "Щоб додати пісні до списку відтворення, натисніть <b>правою кнопкою</b> "
+#~ "миші на елементі та виберіть <b>Додати до списку відтворення</b>."
+
+#~ msgid "Edit Smart Playlist"
+#~ msgstr "Змінити інтелектуальну добірку"
+
+#~ msgid ""
+#~ "This playlist will be automatically populated with songs that match its "
+#~ "rules. To modify these rules, use the <b>secondary click</b> on it in the "
+#~ "sidebar and click on <b>Edit</b>. Optionally, you can click on the button "
+#~ "below."
+#~ msgstr ""
+#~ "Ця добірка автоматично наповнюватися піснями, які відповідають її умовам. "
+#~ "Щоб змінити ці умови, натисніть на елементі в боковій панелі <b>правою "
+#~ "кнопкою миші</b> та виберіть <b>Змінити</b>. Або, ви можете натиснути на "
+#~ "кнопку внизу."
+
+#~ msgid "No media"
+#~ msgstr "Немає медіа"
+
+#~ msgid "Set new album cover"
+#~ msgstr "Встановити нову обкладинку для альбому"
+
+#~ msgid "Image files"
+#~ msgstr "Файли зображень"
+
+#~ msgid "_Open"
+#~ msgstr "_Відкрити"
+
+#~ msgid "_Cancel"
+#~ msgstr "_Скасувати"
+
+#~ msgid "Save preset"
+#~ msgstr "Зберегти налаштування"
+
+#~ msgid "Off"
+#~ msgstr "Вимк."
+
+#~ msgid "%s (Custom)"
+#~ msgstr "%s (Власні)"
+
+#~ msgid "%s (Custom %i)"
+#~ msgstr "%s (Власні %i)"
+
+#~ msgid "Custom Preset"
+#~ msgstr "Власні налаштування"
+
+#~ msgid "Custom Preset %i"
+#~ msgstr "Власні налаштування %i"
+
+#~ msgid "Scroll to Current Song"
+#~ msgstr "Прокрутити до цієї пісні"
+
+#~ msgid "Show in File Browser…"
+#~ msgstr "Показати у переглядачі файлів…"
+
+#~ msgid "Edit Song Info…"
+#~ msgstr "Змінити відомості про пісню…"
+
+#~ msgid "Other Actions"
+#~ msgstr "Інші дії"
+
+#~ msgctxt "Action item (verb)"
+#~ msgid "Queue"
+#~ msgstr "Додати до черги"
+
+#~ msgid "Add to Playlist"
+#~ msgstr "Додати до списку відтворення"
+
+#~ msgid "Remove Song…"
+#~ msgstr "Вилучити пісню…"
+
+#~ msgid "Import to Library"
+#~ msgstr "Імпорт до бібліотеки"
+
+#~ msgid "Remove from Library…"
+#~ msgstr "Видалити з бібліотеки…"
+
+#~ msgid "Remove from Device"
+#~ msgstr "Вилучити з пристрою"
+
+#~ msgid "Remove from Queue"
+#~ msgstr "Вилучити з черги"
+
+#~ msgid "New Playlist…"
+#~ msgstr "Нова добірка…"
+
+#~ msgid "Import %i of %i selected songs"
+#~ msgstr "Імпорт %i з %i вибраних пісень"
+
+#~ msgid "Import %i song"
+#~ msgid_plural "Import %i songs"
+#~ msgstr[0] "Імпортовано %i пісню"
+#~ msgstr[1] "Імпортовано %i пісні"
+#~ msgstr[2] "Імпортовано %i пісень"
+
+#~ msgid "Delete Current"
+#~ msgstr "Видалити поточний"
+
+#~ msgid "Rename"
+#~ msgstr "Перейменувати"
+
+#~ msgid "Edit…"
+#~ msgstr "Змінити…"
+
+#~ msgid "Save as Playlist"
+#~ msgstr "Зберегти як добірку"
+
+#~ msgid "Export…"
+#~ msgstr "Експортувати…"
+
+#~ msgid "Eject"
+#~ msgstr "Витягти"
+
+#~ msgid "New Playlist"
+#~ msgstr "Нова добірка"
+
+#~ msgid "New Smart Playlist"
+#~ msgstr "Нова інтелектуальна добірка"
+
+#~ msgid "Import Playlists"
+#~ msgstr "Імпортувати списки відтворення"
+
+#~ msgid "Library"
+#~ msgstr "Бібліотека"
+
+#~ msgid "Devices"
+#~ msgstr "Пристрої"
+
+#~ msgid "Network"
+#~ msgstr "Мережа"
+
+#~ msgid "Add Playlist"
+#~ msgstr "Додати добірку"
+
+#~ msgid "Add Smart Playlist"
+#~ msgstr "Додати інтелектуальну добірку"
+
+#~ msgid "Add Playlist…"
+#~ msgstr "Додати добірку…"
+
+#~ msgid "Equalizer: %s"
+#~ msgstr "Еквалайзер: %s"
+
+#~ msgid "Enable Repeat"
+#~ msgstr "Увімкнути повторення"
+
+#~ msgid "Disable Repeat"
+#~ msgstr "Вимкнути повторення"
+
+#~ msgid "Disable Shuffle"
+#~ msgstr "Вимкнути випадковий порядок"
+
+#~ msgid "View as albums"
+#~ msgstr "Подання у вигляді альбомів"
+
+#~ msgid "View as list"
+#~ msgstr "Подання списком"
+
+#~ msgid "View in columns"
+#~ msgstr "Подання стовпчиками"
+
+#~ msgid "No similar songs found"
+#~ msgstr "Не знайдено подібних пісень"
+
+#~ msgid ""
+#~ "There are no songs similar to the current song in your library. Make sure "
+#~ "all song info is correct and you are connected to the Internet. Some "
+#~ "songs may not have matches."
+#~ msgstr ""
+#~ "Немає пісень подібних до поточної в вашій бібліотеці. Переконайтеся в "
+#~ "правильності відомостей про пісню та з'єднання з Інтернетом. Деякі пісні "
+#~ "можуть не мати збігів."
+
+#~ msgid "Similar"
+#~ msgstr "Подібні"
+
+#~ msgid "media"
+#~ msgstr "медіа"
+
+#~ msgid "Similar Media"
+#~ msgstr "Подібні медіа"
+
+#~ msgid "Audio CD Invalid"
+#~ msgstr "Не дійсний CD з музикою"
+
+#~ msgid "Impossible to read the contents of this Audio CD"
+#~ msgstr "Неможливо зчитати файли з цього аудіо-диску."
+
+#~ msgid "Could not find Music Folder"
+#~ msgstr "Неможливо знайти каталог з музикою"
+
+#~ msgid ""
+#~ "Please make sure that your music folder is accessible and mounted before "
+#~ "importing the CD."
+#~ msgstr ""
+#~ "Будь ласка, переконайтеся, що ваша тека з музикою доступна та встановлена "
+#~ "перед імпортом CD."
+
+#~ msgid ""
+#~ "The Application could not find any songs on the CD. No songs can be "
+#~ "imported"
+#~ msgstr "Програма не може знайти жодної пісні на диску. Нічого імпортувати"
+
+#~ msgid "Song imported from Audio CD."
+#~ msgstr "Пісню було імпортовано з Аудіо CD."
+
+#~ msgid "%i songs imported from Audio CD."
+#~ msgstr "%i пісень імпортовано з Аудіо CD."
+
+#~ msgid "Importing track %u: %s"
+#~ msgstr "Імпортування доріжки %u: %s"
+
+#~ msgid "CD import will be <b>cancelled</b> after current import."
+#~ msgstr "Імпорт з CD буде <b>скасований</b> після поточного імпортування."
+
+#~ msgid "Could not import this CD"
+#~ msgstr "Цей CD імпортувати не вийшло"
+
+#~ msgid "An Error Occurred"
+#~ msgstr "Виникла помилка"
+
+#~ msgid "Could not load this Audio CD."
+#~ msgstr "Не вдається завантажити цей Аудіо CD."
+
+#~ msgid "Importation of a song from Audio CD finished."
+#~ msgstr "Імпортування пісні з аудіо-диску закінчено."
+
+#~ msgid "Importation of %i songs from Audio CD finished."
+#~ msgstr "Імпортування %i пісень з аудіо-диску закінчено."
+
+#~ msgid "An error occured during the Import of this CD"
+#~ msgstr "Виникла помилка при імпортуванні з диску"
+
+#~ msgid "There was an error while loading this Audio CD."
+#~ msgstr "Виникла помилка при завантаженні цього аудіо-диску."
+
+#~ msgid "Disk:"
+#~ msgstr "Диск:"
+
+#~ msgid "%s has imported your library."
+#~ msgstr "%s імпортував вашу бібліотеку"
+
+#~ msgid "Unable to import %d items from %s"
+#~ msgstr "Неможливо імпортувати %d елементи з %s"
+
+#~ msgid "Remove from %s"
+#~ msgstr "Вилучити з %s"
+
+#~ msgid "Remove \"%s\" From %s?"
+#~ msgstr "Вилучити \"%s\" з %s?"
+
+#~ msgid "No Albums Found."
+#~ msgstr "Не знайдено жодного альбому."
+
+#~ msgid "No Songs Found."
+#~ msgstr "Не знайдено жодної пісні."
+
+#~ msgid "%u second"
+#~ msgid_plural "%u seconds"
+#~ msgstr[0] "%u секунда"
+#~ msgstr[1] "%u секунди"
+#~ msgstr[2] "%u секунд"
+
+#~ msgid "%u minute"
+#~ msgid_plural "%u minutes"
+#~ msgstr[0] "%u хвилина"
+#~ msgstr[1] "%u хвилини"
+#~ msgstr[2] "%u хвилин"
+
+#~ msgctxt "minutes and seconds"
+#~ msgid "%s and %s"
+#~ msgstr "%s та %s"
+
+#~ msgid "%u day"
+#~ msgid_plural "%u days"
+#~ msgstr[0] "%u день"
+#~ msgstr[1] "%u дні"
+#~ msgstr[2] "%u днів"
+
+#~ msgid "%u hour"
+#~ msgid_plural "%u hours"
+#~ msgstr[0] "%u година"
+#~ msgstr[1] "%u години"
+#~ msgstr[2] "%u годин"
+
+#~ msgctxt "days, hours and minutes"
+#~ msgid "%s, %s and %s"
+#~ msgstr "%s, %s та %s"
+
+#~ msgctxt "days and hours"
+#~ msgid "%s and %s"
+#~ msgstr "%s та %s"
+
+#~ msgctxt "days and minutes"
+#~ msgid "%s and %s"
+#~ msgstr "%s та %s"
+
+#~ msgctxt "hours and minutes"
+#~ msgid "%s and %s"
+#~ msgstr "%s та %s"
+
+#~ msgid "Song"
+#~ msgstr "Композиція"
+
+#~ msgid "Repeat Artist"
+#~ msgstr "Повторити виконавця"
+
+#~ msgid "All"
+#~ msgstr "Все"
+
+#~ msgid "Hide"
+#~ msgstr "Приховати"
+
+#~ msgid "Show Info Panel"
+#~ msgstr "Показати інформаційну панель"
+
+#~ msgid "Show"
+#~ msgstr "Показати"
+
+#~ msgid "Hide Info Panel"
+#~ msgstr "Сховати інформаційну панель"
+
+#~ msgid "Free"
+#~ msgstr "Вільно"
+
+#~ msgid "Using %s of %s (%.2f%)"
+#~ msgstr "Використано %s з %s (%.2f%)"
+
+#~ msgid "General"
+#~ msgstr "Загальні"
+
+#~ msgid "Import from Device"
+#~ msgstr "Імпортувати з пристрою"
+
+#~ msgid "Import media from %s"
+#~ msgstr "Імпортувати медіа з %s"
+
+#~ msgid ""
+#~ "The following files were found on %s, but are not in your library. Check "
+#~ "all the files you would like to import."
+#~ msgstr ""
+#~ "Наступні файли знайдені на %s, але не в бібліотеці. Перегляньте файли для "
+#~ "імпортування."
+
+#~ msgid "Import all media"
+#~ msgstr "Імпортувати всі медіа"
+
+#~ msgid "Don't Import"
+#~ msgstr "Не імпортувати"
+
+#~ msgid "Import %i items from %s"
+#~ msgstr "Імпортувати %i елементів з %s"
+
+#~ msgid "Import %s from %s"
+#~ msgstr "Імпортувати %s з %s"
+
+#~ msgid "ID"
+#~ msgstr "ID"
+
+#~ msgid "Select individual media to import:"
+#~ msgstr "Вибрати окремі медіа для імпортування:"
+
+#~ msgid "Check Item"
+#~ msgstr "Перевірити елемент"
+
+#~ msgid "Check Album"
+#~ msgstr "Перевірити альбом"
+
+#~ msgid "Check Artist"
+#~ msgstr "Перевірити виконавця"
+
+#~ msgid "Cannot Import"
+#~ msgstr "Неможливо імпортувати"
+
+#~ msgid "Import media to Library"
+#~ msgstr "Імпортувати з носія в бібліотеку"
+
+#~ msgid "Stop Syncing"
+#~ msgstr "Зупинити синхронізацію"
+
+#~ msgid "Sync will remove 1 item from %s"
+#~ msgstr "Синхронізація вилучить 1 елемент з %s"
+
+#~ msgid "%u album"
+#~ msgid_plural "%u albums"
+#~ msgstr[0] "%u альбом"
+#~ msgstr[1] "%u альбоми"
+#~ msgstr[2] "%u альбомів"
+
+#~ msgctxt "Title format used on Album View Popup: $ALBUM by $ARTIST"
+#~ msgid "%s by %s"
+#~ msgstr "%s, виконує %s"
+
+#~ msgctxt ""
+#~ "Format used on statusbar: $description, $total_duration, $total_file_size"
+#~ msgid "%s, %s, %s"
+#~ msgstr "%s, %s, %s"
+
+#~ msgid "OK"
+#~ msgstr "OK"
+
+#~ msgid "No External Songs"
+#~ msgstr "Немає зовнішніх композицій"
+
+#~ msgid ""
+#~ "There were no songs found on this device that are not in your library."
+#~ msgstr ""
+#~ "Не знайдено жодної композиції на цьому пристрої, якої немає у вашій "
+#~ "бібліотеці."
+
+#~ msgid "%i track"
+#~ msgid_plural "%i tracks"
+#~ msgstr[0] "%i доріжка"
+#~ msgstr[1] "%i доріжки"
+#~ msgstr[2] "%i доріжок"
+
+#~ msgid "%u song"
+#~ msgid_plural "%u songs"
+#~ msgstr[0] "%u пісня"
+#~ msgstr[1] "%u пісні"
+#~ msgstr[2] "%u пісень"
+
+#~ msgctxt "Format used on statusbar: $description, $total_duration"
+#~ msgid "%s, %s"
+#~ msgstr "%s, %s"
+
+#~ msgid "translator-credits"
+#~ msgstr ""
+#~ "Launchpad Contributions:\n"
+#~ "  Alex Bereza https://launchpad.net/~bereza-alex\n"
+#~ "  Alexander Grechko https://launchpad.net/~alexxxander1111\n"
+#~ "  Andy Karaushu https://launchpad.net/~karandriy\n"
+#~ "  Asteo https://launchpad.net/~disterion-h\n"
+#~ "  Daniel Fore https://launchpad.net/~danrabbit\n"
+#~ "  Max_ym https://launchpad.net/~kontact-cat\n"
+#~ "  MozilaIP https://launchpad.net/~mr-mozila\n"
+#~ "  Orest https://launchpad.net/~falchuko\n"
+#~ "  PsyClip-R https://launchpad.net/~victor-sokyrko\n"
+#~ "  Roman Sytnyk https://launchpad.net/~roman-sytnyk\n"
+#~ "  Sergey Khruschak https://launchpad.net/~hsv\n"
+#~ "  Sergey Koptev https://launchpad.net/~djdante\n"
+#~ "  Sergii https://launchpad.net/~skrypnychenko-s\n"
+#~ "  Sergii Cynailo https://launchpad.net/~funeral20\n"
+#~ "  Sho0ter https://launchpad.net/~sho0ter\n"
+#~ "  Victor Martinez https://launchpad.net/~victored\n"
+#~ "  Voytsykh https://launchpad.net/~voytsykh\n"
+#~ "  Сулейман https://launchpad.net/~umudov-s-i13"
+
+#~ msgid "Lyrics fetched from www.lyricsmania.com"
+#~ msgstr "Тексти взято з www.lyricsmania.com"
+
+#~ msgid "Podcasts"
+#~ msgstr "Подкасти"
+
+#~ msgid "Locate"
+#~ msgstr "Розташування"
+
+#~ msgid "Change your music folder."
+#~ msgstr "Змінити каталог з музикою"
+
+#~ msgid "Queue"
+#~ msgstr "Черга"
+
+#~ msgid "Unknown Artist"
+#~ msgstr "Невідомий виконавець"
+
+#~ msgid " by "
+#~ msgstr " від "
+
+#~ msgid "Unknown Album"
+#~ msgstr "Невідомий альбом"
+
+#~ msgid " on "
+#~ msgstr " з "
+
+#~ msgid "<b>Importing</b> music from <b>%s</b> to library."
+#~ msgstr "<b>Імпортування</b> музики з <b>%s</b> до бібліотеки."
+
+#~ msgid "Rescanning music folder for changes"
+#~ msgstr "Виявлення змін в каталозі з музикою"
+
+#~ msgid "Please make sure that your music folder is accessible and mounted."
+#~ msgstr "Будь ласка, переконайтесь, що каталог з музикою доступний."
+
+#~ msgid "Importing music from %s..."
+#~ msgstr "Імпорт музики з %s..."
+
+#~ msgid "Adding files to library..."
+#~ msgstr "Додавання файлів до бібліотеки..."
+
+#~ msgid "No songs on CD"
+#~ msgstr "Не має пісень на CD"
+
+#~ msgid "Rescanning music for changes. This may take a while..."
+#~ msgstr "Повторне сканування для пошуку змін. Це може зайняти деякий час..."
+
+#~ msgid "Adding music from %s to library..."
+#~ msgstr "Додавання музики з «%s» в бібліотеку..."
+
+#~ msgid "%s is already doing an import"
+#~ msgstr "%s відбувається імпортування"
+
+#~ msgid "%s could not find any songs on the CD. No songs can be imported"
+#~ msgstr "%s не знадено жодної пісні на CD. Не має файлів для імпортування."
+
+#~ msgid "%s has finished importing %i songs from Audio CD."
+#~ msgstr "%s закінчилось імпортування %i пісень з CD ."
+
+#~ msgid ""
+#~ "Please wait until %s is finished with the current import before importing "
+#~ "the CD."
+#~ msgstr ""
+#~ "Будь ласка, зачекайте, поки %s закінчується поточний імпорт, перш ніж "
+#~ "витягнути CD."
+
+#~ msgid "CD Import Complete"
+#~ msgstr "CD Імпорт завершений"
+
+#~ msgid "Ripping track 1"
+#~ msgstr "Копіювання запису 1"
+
+#~ msgid "Importing track %i"
+#~ msgstr "Імпорт запису %i"
+
+#~ msgid "Unknown Title"
+#~ msgstr "Невідома Назва"
+
+#~ msgid "Radio Station"
+#~ msgstr "Радіостанція"
+
+#~ msgid "Download new Episodes"
+#~ msgstr "Завантажити нові епізоди"
+
+#~ msgid "Import Stations"
+#~ msgstr "Імпорт станцій"
+
+#~ msgid "Edit"
+#~ msgstr "Редагувати"
+
+#~ msgid "Add Podcast"
+#~ msgstr "Додати подкаст"
+
+#~ msgid "Export..."
+#~ msgstr "Експортувати…"
+
+#~ msgid "%i hours"
+#~ msgstr "%i годин(и)"
+
+#~ msgid "1 minute"
+#~ msgstr "1 хвилина"
+
+#~ msgid "1 day"
+#~ msgstr "1 день"
+
+#~ msgid "%s seconds"
+#~ msgstr "%s секунд(и)"
+
+#~ msgid "1 hour"
+#~ msgstr "1 година"
+
+#~ msgid "1 second"
+#~ msgstr "1 секунда"
+
+#~ msgid "%i days"
+#~ msgstr "%i днів"
+
+#~ msgid "%i minutes"
+#~ msgstr "%i хвилин(и)"
+
+#~ msgid "%s and %s"
+#~ msgstr "%s та %s"
+
+#~ msgid "%s, %s and %s"
+#~ msgstr "%s, %s та %s"
+
+#~ msgid "Show Equalizer"
+#~ msgstr "Показати еквалайзер"
+
+#~ msgid "Hide Equalizer"
+#~ msgstr "Приховати еквалайзер"
+
+#~ msgid "Equalizer"
+#~ msgstr "Еквалайзер"
+
+#~ msgid "Not Imported Files"
+#~ msgstr "Не імпортовані файли"
+
+#~ msgid "Unknown Track"
+#~ msgstr "Невідома доріжка"
+
+#~ msgid "Done"
+#~ msgstr "Виконано"
+
+#~ msgid "Lyrics"
+#~ msgstr "Текст пісні"
+
+#~ msgid "Editing %s by %s"
+#~ msgstr "Редагування %s з %s"
+
+#~ msgid "Metadata"
+#~ msgstr "Метадані"
+
+#~ msgid ""
+#~ "The plugin for media type %s is not installed.\n"
+#~ "What would you like to do?"
+#~ msgstr ""
+#~ "Додаток для медіа типу %s не встановлено.\n"
+#~ "Що ви бажаєте зробити?"
+
+#~ msgid "Required GStreamer plugin not installed"
+#~ msgstr "Необхідний додаток GStreamer не встановлено"
+
+#~ msgid "Do Nothing"
+#~ msgstr "Нічого не робити"
+
+#~ msgid "Track"
+#~ msgstr "Доріжка"
+
+#~ msgid "Editing %i songs"
+#~ msgstr "Редагування %i композицій"
+
+#~ msgid "Editing %s"
+#~ msgstr "Редагування %s"
+
+#~ msgid "Album Artist"
+#~ msgstr "Виконавець альбому"
+
+#~ msgid "Media Type"
+#~ msgstr "Тип носія"
+
+#~ msgid "Podcast"
+#~ msgstr "Подкаст"
+
+#~ msgid "Lyrics not found for \"%s\" by \"%s\""
+#~ msgstr "Слова не знайдено для \"%s\" з \"%s\""
+
+#~ msgid "Try again"
+#~ msgstr "Спробувати ще раз"
+
+#~ msgid ""
+#~ "You must wait until previous file operations finish before setting your "
+#~ "music folder"
+#~ msgstr ""
+#~ "Ви маєте зачекати поки попередні операції з файлом завершаться, тоді ви "
+#~ "зможете встановити теку з музикою"
+
+#~ msgid "Date Released"
+#~ msgstr "Дата виходу"
+
+#~ msgid "is not"
+#~ msgstr "не є"
+
+#~ msgid ""
+#~ "The music file for %s by %s could not be found. What would you like to do?"
+#~ msgstr "Музичний файл для %s з %s не вдалося знайти. Що ви бажаєте зробити?"
+
+#~ msgid "Could not find media file"
+#~ msgstr "Не вдалося знайти медіа-файл"
+
+#~ msgid "The name %s is already in use"
+#~ msgstr "Ім'я %s вже використовується"
+
+#~ msgid "%i media files could not be found. What would you like to do?"
+#~ msgstr "%i медіа файлів не вдалося знайти. Що ви бажаєте зробити?"
+
+#~ msgid "Locate Media"
+#~ msgstr "Розташувати медіа"
+
+#~ msgid "Remove Media"
+#~ msgstr "Вилучити медіа"
+
+#~ msgid "Station"
+#~ msgstr "Станція"
+
+#~ msgid "Remove %d %s from %s?"
+#~ msgstr "Вилучити %d %s з %s?"
+
+#~ msgid ""
+#~ "Import from device has been cancelled. Operation will stop after this "
+#~ "media."
+#~ msgstr ""
+#~ "Імпортування з пристроя було відмінено. Операція зупиниться після цього "
+#~ "медіа"
+
+#~ msgid ""
+#~ "This will remove the %s from your library and from any device that "
+#~ "automatically syncs with %s."
+#~ msgstr ""
+#~ "Це вилучить %s з бібліотеки і з всіх пристроїв, яке було автоматично "
+#~ "синхронізоване з %s."
+
+#~ msgid "Cancelling Sync"
+#~ msgstr "Відміна синхронізації"
+
+#~ msgid "Cancelling Import"
+#~ msgstr "Відміна імпортування"
+
+#~ msgid ""
+#~ "Device Sync has been cancelled. Operation will stop after this media."
+#~ msgstr ""
+#~ "Синхронізація пристроїв була відмінена. Операція буде зупинена після "
+#~ "цього медіа."
+
+#~ msgid "%s by %s"
+#~ msgstr "%s за %s"
+
+#~ msgid "%i albums"
+#~ msgstr "%i альбомІв"
+
+#~ msgid "1 album"
+#~ msgstr "1 альбом"
+
+#~ msgid "All the songs in this device are already in your library."
+#~ msgstr "Всі пісні, які є на пристрої вже у вашій бібліотеці."
+
+#~ msgid "%i songs"
+#~ msgstr "%i композицій"
+
+#~ msgid "1 song"
+#~ msgstr "1 композиція"
+
+#~ msgid "Episode"
+#~ msgstr "Епізод"
+
+#~ msgid "Name"
+#~ msgstr "Назва"
+
+#~ msgid "Date"
+#~ msgstr "Дата"
+
+#~ msgid "%i kbps"
+#~ msgstr "%i кбіт/сек"
+
+#~ msgid "1 track"
+#~ msgstr "1 доріжка"
+
+#~ msgid "%i tracks"
+#~ msgstr "%i доріжок"
+
+#~ msgid "Category"
+#~ msgstr "Категорія"
+
+#~ msgid "#"
+#~ msgstr "#"
+
+#~ msgid "Skips"
+#~ msgstr "Пропусків"
+
+#~ msgid "Plays"
+#~ msgstr "Відтворень"
+
+#~ msgid "BPM"
+#~ msgstr "Такт/хв."
+
+#~ msgid "Import this song"
+#~ msgstr "Імпортувати цю пісню"
+
+#~ msgid "%s Stars"
+#~ msgstr "%s зірок"
+
+#~ msgid "Import %i songs"
+#~ msgstr "Імпорт %i пісень"
+
+#~ msgid "1 Star"
+#~ msgstr "1 зірочка"
+
+#~ msgid "All %i Ratings"
+#~ msgstr "Всі %i оцінки"
+
+#~ msgid "All Podcasts"
+#~ msgstr "Всі подкасти"
+
+#~ msgid "Device is already being synced."
+#~ msgstr "Пристрій вже синхронізовано."
+
+#~ msgid "Recently Played"
+#~ msgstr "Нещодавно відтворені"
+
+#~ msgid "Unheard Podcasts"
+#~ msgstr "Невідтворені Подкасти"
+
+#~ msgid "%s can't seem to find your music."
+#~ msgstr "%s не може знайти Вашу музику."
+
+#~ msgid "Audiobook"
+#~ msgstr "Аудіокнига"
+
+#~ msgid "Pulser"
+#~ msgstr "Генератор імпульсів"
+
+#~ msgid "Lyrics not found for %s"
+#~ msgstr "Текст для %s не знайдено"
+
+#~ msgid "Display Album Art"
+#~ msgstr "Відобразити обкладинку альбому"
+
+#~ msgid "Scrobbling Already Enabled"
+#~ msgstr "Скроблінг уже активовано"
+
+#~ msgid "Last.fm"
+#~ msgstr "Last.fm"
+
+#~ msgid "%d second"
+#~ msgid_plural "%d seconds"
+#~ msgstr[0] "%d секунда"
+#~ msgstr[1] "%d секунди"
+#~ msgstr[2] "%d секунд"
+
+#~ msgid "Write metadata to file"
+#~ msgstr "Записувати метадані до файла"
+
+#~ msgid "Complete Login"
+#~ msgstr "Пройти авторизацію"
+
+#~ msgid "Unsuccessful. Click To Try Again."
+#~ msgstr "Невдало. Натисніть на \"Спробувати знову\"."
+
+#~ msgid "Success!"
+#~ msgstr "Успішно!"
+
+#~ msgid "Fetching similar songs"
+#~ msgstr "Отримую схожі пісні"
+
+#~ msgid "Last.fm Integration"
+#~ msgstr "Інтеграція з Last.fm"
+
+#~ msgid "Music Player"
+#~ msgstr "Музичний програвач"
+
+#~ msgid "Music Folder Location:"
+#~ msgstr "Розташування теки з музикою:"
+
+#~ msgid "Importing track %i: %s"
+#~ msgstr "Імпортування доріжки %i: %s"
+
+#~ msgid "There is not enough space on Device to complete the Sync…"
+#~ msgstr "Недостатньо місця на пристрої для завершення синхронізації..."
+
+#~ msgid ""
+#~ "Noise is already doing file operations. Please wait until those finish to "
+#~ "import from %d"
+#~ msgstr ""
+#~ "Noise виконує операції з файлами. Будь ласка зачекайте до закінчення "
+#~ "імпорту з %d"
+
+#~ msgid "Click to redo the Last.fm login process"
+#~ msgstr "Натисніть для повторення авторизації на Last.fm"
+
+#~ msgid "Listen to music"
+#~ msgstr "Слухати музику"
+
+#~ msgid "%i Star"
+#~ msgid_plural "%i Stars"
+#~ msgstr[0] "%i Зірка"
+#~ msgstr[1] "%i Зірки"
+#~ msgstr[2] "%i Зірок"
+
+#~ msgid "Give %s Permission"
+#~ msgstr "Надати дозвіл %s"
+
+#~ msgid "Noise;Audio;Player;MP3;iPod;Play;Playlist;Media;CD;Phone;Songs;"
+#~ msgstr ""
+#~ "Noise;Audio;Аудіо;Player;Програвач;MP3;iPod;Відтворення;Playlist;Список "
+#~ "відтворення;Плейлист;Медіа;Media;CD;Телефон;Пісні;Музика;"
+
+#~ msgid "Desktop Integration:"
+#~ msgstr "Інтеграція з робочим столом:"
+
+#~ msgid "Library Management:"
+#~ msgstr "Керування Бібліотекою:"
+
+#~ msgid ""
+#~ "To allow for Last.fm integration, you must give permission to %s. You "
+#~ "only need to do this once."
+#~ msgstr ""
+#~ "Для інтеграції з Last.fm, вам необхідно надати \"%s\" дозвіл. Дозвіл "
+#~ "достатньо надати лиш раз."
+
+#~ msgid "Rescan Music Folder"
+#~ msgstr "Пересканувати Теку з Музикою"
+
+#~ msgid "Editing $NAME by $ARTIST"
+#~ msgstr "Редагування $NAME виконавця $ARTIST"
+
+#~ msgid "Reset"
+#~ msgstr "Скинути"
+
+#~ msgid "Notifications:"
+#~ msgstr "Сповіщення:"
+
+#~ msgid "<b>Stats</b>"
+#~ msgstr "<b>Статистика</b>"
+
+#~ msgid "Details"
+#~ msgstr "Подробиці"
+
+#~ msgid "About Noise"
+#~ msgstr "Про Noise"
+
+#~ msgid "About Music"
+#~ msgstr "Про Музику"

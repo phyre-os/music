@@ -1,0 +1,192 @@
+# Norwegian Bokmal translation for noise
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the noise package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: noise\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-01 10:32+0000\n"
+"PO-Revision-Date: 2023-06-16 10:07+0000\n"
+"Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
+"Language-Team: Norwegian Bokmål <https://l10n.phyreos.io/projects/music/"
+"extra/nb/>\n"
+"Language: nb\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.17\n"
+"X-Launchpad-Export-Date: 2017-04-05 07:07+0000\n"
+
+#: data/music.metainfo.xml.in:10 data/music.desktop.in:6
+msgid "Music"
+msgstr "Musikk"
+
+#: data/music.metainfo.xml.in:11
+msgid "Queue and play local audio files"
+msgstr "Kølegg og spill lokale lydfiler"
+
+#: data/music.metainfo.xml.in:13
+msgid ""
+"Quickly queue up and listen to your local music files without any extra "
+"frills. See embedded album artwork. Control playback with media keys or in "
+"the system audio indicator."
+msgstr ""
+"Kølegg og lytt til dine lokale musikkfiler uten ekstra plunder. Vis innebygd "
+"omslagskunst. Kontroller avspilling med mediataster eller systempanelets "
+"indikator."
+
+#: data/music.metainfo.xml.in:18
+msgid "Quickly queue up your favorite tracks"
+msgstr "Legg til favorittspor i spilleliste raskt"
+
+#: data/music.metainfo.xml.in:59 data/music.metainfo.xml.in:70
+#: data/music.metainfo.xml.in:84
+msgid "Improvements:"
+msgstr "Forbedringer:"
+
+#: data/music.metainfo.xml.in:61
+msgid "Toolbar shows a shadow when the view is scrolled"
+msgstr ""
+
+#: data/music.metainfo.xml.in:62
+#, fuzzy
+#| msgid "Open folders in the filemanager with Music"
+msgid "Open audio files from within Music"
+msgstr "Åpne mapper i filbehandleren med Musikk"
+
+#: data/music.metainfo.xml.in:63 data/music.metainfo.xml.in:73
+#: data/music.metainfo.xml.in:106
+msgid "Updated translations"
+msgstr "Oppdaterte oversettelser"
+
+#: data/music.metainfo.xml.in:72
+msgid "Open folders in the filemanager with Music"
+msgstr "Åpne mapper i filbehandleren med Musikk"
+
+#: data/music.metainfo.xml.in:86
+#, fuzzy
+msgid "For tracks without a title, use the file name instead of the whole URI"
+msgstr "For spor uten navn kan man bruke filnavn istedenfor hele URI-en"
+
+#: data/music.metainfo.xml.in:87
+msgid "Skip invalid files instead of stopping playback"
+msgstr "Hopp over ugyldige filer istedenfor stopping av avspilling"
+
+#: data/music.metainfo.xml.in:88
+msgid "Next and Repeat buttons always work regardless of repeat mode"
+msgstr ""
+"«Neste» og «Gjenta»-knapper virker alltid uavhengig av gjentagelsesmodus"
+
+#: data/music.metainfo.xml.in:89
+msgid ""
+"Now available in Catalan, Dutch, Finnish, French, German, Hebrew, Hungarian, "
+"Japanese, Korean, Kurdish, Marathi, Norwegian Bokmål, Polish, Portuguese, "
+"Russian, Simplified Chinese, Turkish, and Ukrainian"
+msgstr ""
+"Nå tilgjengelig på katalansk, hollandsk, finsk, fransk, tysk, hebraisk, "
+"ungarsk, japansk, koreansk, kurdisk, marathi, bokmål, polsk, portugisisk, "
+"russisk, forenklet kinesisk, tyrkisk og ukrainsk."
+
+#: data/music.metainfo.xml.in:99
+msgid "Complete rewrite"
+msgstr "Fullstendig omskriving"
+
+#: data/music.metainfo.xml.in:105
+#, fuzzy
+msgid "Drop support for Last.FM"
+msgstr "Droppet støtte for CD-ROM"
+
+#: data/music.desktop.in:7
+msgid "Listen to music"
+msgstr "Lytt til musikk"
+
+#: data/music.desktop.in:9
+#, fuzzy
+msgid "Noise;Audio;Player;MP3;Play;Playlist;Media;Songs;"
+msgstr ""
+"Noise;Audio;Spiller;MP3;iPod;Spill;Spilleliste;Media;CD;Telefon;Sanger;"
+
+#~ msgid "Phyre Ltd."
+#~ msgstr "Phyre Ltd."
+
+#~ msgid "Fix an issue with saving smart playlists"
+#~ msgstr "Fikset et problem med lagring av smarte spillelister"
+
+#~ msgid "Drop support for CD-ROM"
+#~ msgstr "Droppet støtte for CD-ROM"
+
+#~ msgid "Dark style support"
+#~ msgstr "Støtte for mørk stil"
+
+#, fuzzy
+#~ msgid "Minor visual improvements"
+#~ msgstr "Ytelsesforbedringer"
+
+#~ msgid "Music Player"
+#~ msgstr "Musikkavspiller"
+
+#~ msgid "Drag and drop whole folders into the queue"
+#~ msgstr "Dra og slipp hele mapper inn i køen"
+
+#~ msgid "Fix removing items from the queue"
+#~ msgstr "Fikset fjerning av elementer fra køen"
+
+#~ msgid "Fix equalizer sliders not properly disabled sometimes"
+#~ msgstr "Fikset tonekontroll-glidebrytere som ikke alltid skrur seg av"
+
+#~ msgid "Performance improvements"
+#~ msgstr "Ytelsesforbedringer"
+
+#, fuzzy
+#~ msgid "Removed old gsignond vapi"
+#~ msgstr "Fjernet gammelt gsignond-VAPI"
+
+#~ msgid "Queue fixes"
+#~ msgstr "Kø-fikser"
+
+#~ msgid "Properly restore playlists"
+#~ msgstr "Ordentlig gjenoppretting av spillelister"
+
+#~ msgid "Minor bug fixes"
+#~ msgstr "Småfikser"
+
+#~ msgid "Various UI changes"
+#~ msgstr "Forskjellige grensesnittsendringer"
+
+#~ msgid "New translations"
+#~ msgstr "Nye oversettelser"
+
+#~ msgid "Add support for Opus Ogg"
+#~ msgstr "Tillagt støtte for Opus Ogg"
+
+#~ msgid "Respect privacy mode"
+#~ msgstr "Respekter personvernsmodus"
+
+#~ msgid "The official elementary music player"
+#~ msgstr "Det offisielle musikkprogrammet i elementary"
+
+#, fuzzy
+#~ msgid ""
+#~ "Music is a fast and beautiful audio player with a focus on music and "
+#~ "libraries. It handles external devices and album art."
+#~ msgstr ""
+#~ "Musikk er en rask og vakker lydavspiller med fokus på musikk og "
+#~ "ansamlinger derav. Den håndterer eksterne enheter, CD-er og platecover."
+
+#~ msgid "io.phyre.music"
+#~ msgstr "io.phyre.music"
+
+#~ msgid "multimedia-audio-player"
+#~ msgstr "multimedia-audio-player"
+
+#~ msgid "About Music"
+#~ msgstr "Om Musikk"
+
+#~ msgid "Noise"
+#~ msgstr "Noise"
+
+#~ msgid "About Noise"
+#~ msgstr "Om Noise"

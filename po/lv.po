@@ -1,0 +1,1203 @@
+# Latvian translation for noise
+# Copyright (c) 2013 Rosetta Contributors and Canonical Ltd 2013
+# This file is distributed under the same license as the noise package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: noise\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-01 10:32+0000\n"
+"PO-Revision-Date: 2015-12-21 13:43+0000\n"
+"Last-Translator: Daniel Fore <Unknown>\n"
+"Language-Team: Latvian <lv@li.org>\n"
+"Language: lv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : 2;\n"
+"X-Launchpad-Export-Date: 2017-03-07 05:53+0000\n"
+"X-Generator: Launchpad (build 18330)\n"
+
+#: src/Application.vala:92 src/Views/NowPlayingView.vala:18
+#: src/Views/NowPlayingView.vala:116
+msgid "Music"
+msgstr "Mūzika"
+
+#: src/MainWindow.vala:20
+#, fuzzy
+msgid "Shuffle"
+msgstr "Ieslēgt jaukšanu"
+
+#: src/MainWindow.vala:26
+msgid "Search titles in playlist"
+msgstr ""
+
+#: src/MainWindow.vala:45
+msgid "Queue is Empty"
+msgstr ""
+
+#: src/MainWindow.vala:46
+msgid "Audio files opened from Files will appear here"
+msgstr ""
+
+#: src/MainWindow.vala:63
+#, fuzzy
+#| msgid "Other Files"
+msgid "Open Files…"
+msgstr "Citi faili"
+
+#: src/MainWindow.vala:167
+#, c-format
+msgid "%d invalid file was not added to the queue"
+msgid_plural "%d invalid files were not added to the queue"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: src/MainWindow.vala:215
+#, fuzzy
+#| msgid "All Years"
+msgid "All files"
+msgstr "Visi gadi"
+
+#: src/MainWindow.vala:220
+#, fuzzy
+#| msgid "Music Player"
+msgid "Music files"
+msgstr "Mūzikas atskaņotājs"
+
+#: src/MainWindow.vala:229
+msgid "Open"
+msgstr "Atvērt"
+
+#: src/MainWindow.vala:233
+msgid "Open audio files"
+msgstr ""
+
+#: src/MainWindow.vala:271
+#, fuzzy
+msgid "Repeat None"
+msgstr "Atkārtot dziesmu"
+
+#: src/MainWindow.vala:275
+#, fuzzy
+msgid "Repeat All"
+msgstr "Atkārtot albumu"
+
+#: src/MainWindow.vala:279
+#, fuzzy
+msgid "Repeat One"
+msgstr "Atkārtot dziesmu"
+
+#: src/PlaybackManager.vala:136
+#, c-format
+msgid "%d track was added to the queue"
+msgid_plural "%d tracks were added to the queue"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#. Don't set artist for files without tags
+#: src/PlaybackManager.vala:196
+msgid "Unknown"
+msgstr "Nezināms izpildītājs/Nosaukums"
+
+#: src/Views/NowPlayingView.vala:23 src/Views/NowPlayingView.vala:115
+#, fuzzy
+msgid "Not playing"
+msgstr "Jauna dziesmu liste"
+
+#: src/Views/NowPlayingView.vala:45
+msgid "Previous"
+msgstr "Iepriekšējais"
+
+#: src/Views/NowPlayingView.vala:68
+msgid "Next"
+msgstr "Nākamais"
+
+#: src/Views/NowPlayingView.vala:93
+msgid "Play"
+msgstr "Atskaņot"
+
+#: src/Views/NowPlayingView.vala:96
+msgid "Pause"
+msgstr "Apturēt"
+
+#~ msgid "Importing <b>$NAME</b> by <b>$ARTIST</b> to library…"
+#~ msgstr "Importē <b>$ARTIST</b> - <b>$NAME</b> bibliotekā…"
+
+#~ msgid "$NAME on $ALBUM"
+#~ msgstr "$NAME - $ALBUM"
+
+#~ msgid "$NAME by $ARTIST"
+#~ msgstr "$NAME no $ARTIST"
+
+#~ msgid "$NAME by $ARTIST on $ALBUM"
+#~ msgstr "$NAME no $ARTIST kas atrodas $ALBUM"
+
+#~ msgid "Flat"
+#~ msgstr "Noklusējuma"
+
+#~ msgid "Classical"
+#~ msgstr "Klasiskā mūzika"
+
+#~ msgid "Club"
+#~ msgstr "Klubu mūzika"
+
+#~ msgid "Dance"
+#~ msgstr "Deju mūzika"
+
+#~ msgid "Full Bass"
+#~ msgstr "Pilns bass"
+
+#~ msgid "Full Treble"
+#~ msgstr "Pilns diskants"
+
+#~ msgid "Full Bass + Treble"
+#~ msgstr "Pilns bass un augšas"
+
+#~ msgid "Headphones"
+#~ msgstr "Austiņas"
+
+#~ msgid "Large Hall"
+#~ msgstr "Liela zāle"
+
+#~ msgid "Live"
+#~ msgstr "Dzīvajā"
+
+#~ msgid "Party"
+#~ msgstr "Ballīte"
+
+#~ msgid "Pop"
+#~ msgstr "Pops"
+
+#~ msgid "Reggae"
+#~ msgstr "Regejs"
+
+#~ msgid "Rock"
+#~ msgstr "Roks"
+
+#~ msgid "Soft"
+#~ msgstr "Mīksts"
+
+#~ msgid "Ska"
+#~ msgstr "Ska"
+
+#~ msgid "Soft Rock"
+#~ msgstr "Vieglais roks"
+
+#~ msgid "Techno"
+#~ msgstr "Tehno"
+
+#~ msgid " (%d)"
+#~ msgstr " (%d)"
+
+#~ msgid "%s (%d)"
+#~ msgstr "%s (%d)"
+
+#~ msgid "%s (%i)"
+#~ msgstr "%s (%i)"
+
+#~ msgid "MPEG Version 3.0 Extended (*.m3u)"
+#~ msgstr "MPEG versija 3.0 paplašināta (*.m3u)"
+
+#~ msgid "Shoutcast Playlist Version 2.0 (*.pls)"
+#~ msgstr "Shoutcast Playlist Versija 2.0 (*.pls)"
+
+#~ msgid "Export Playlist"
+#~ msgstr "Eksportēt dziesmu listi"
+
+#~ msgid "Save"
+#~ msgstr "Saglabāt"
+
+#~ msgid "Cancel"
+#~ msgstr "Atcelt"
+
+#~ msgid "Playlist"
+#~ msgstr "Dziesmu liste"
+
+#~ msgid "Import %s"
+#~ msgstr "Importēt %s"
+
+#~ msgid "Unrecognized playlist file. Import failed."
+#~ msgstr "Neatpazīstams fails. Imporēšana neizdevās."
+
+#~ msgid "%m/%e/%Y %l:%M %p"
+#~ msgstr "%m/%e/%Y %l:%M %p"
+
+#~ msgid "Empty device!"
+#~ msgstr "Tukša ierīce!"
+
+#~ msgid "This device does not contain any music."
+#~ msgstr "Šī ierīce nesatur nevienu mūzikas datni."
+
+#~ msgid "Android Phone"
+#~ msgstr "Android tālrunis"
+
+#~ msgid "Audio Player"
+#~ msgstr "Audio atskaņotājs"
+
+#~ msgid "Finishing sync process…"
+#~ msgstr "Pabeidz sinhronizēšanas procesu..."
+
+#~ msgid "Cancelling Sync…"
+#~ msgstr "Aptur sinhronizēšanu..."
+
+#~ msgid "Import Complete"
+#~ msgstr "Importēšana pabeigta"
+
+#~ msgid "<b>Copying</b> files to <b>Music Folder</b>…"
+#~ msgstr "<b>Kopē</b> failus <b>Mūzikas Direktorijā</b>…"
+
+#~ msgid "Import to Library…"
+#~ msgstr "Importēt bibliotēkā..."
+
+#~ msgid "Preferences"
+#~ msgstr "Preferences"
+
+#~ msgid "Search Music"
+#~ msgstr "Meklēt"
+
+#~ msgid "No songs in Queue"
+#~ msgstr "Atskaņošanas rindā nav skaņdarbu"
+
+#~ msgid "No songs in History"
+#~ msgstr "Atskaņošanas vēsturē nav skaņdarbu"
+
+#~ msgid "Import Music"
+#~ msgstr "Importēt skaņdarbus"
+
+#~ msgctxt "Name of the playlist"
+#~ msgid "Queue"
+#~ msgstr "Secība"
+
+#~ msgid "File not found"
+#~ msgstr "Datne nav atrasta"
+
+#, fuzzy
+#~| msgid "%i music files could not be found?"
+#~ msgid "%i music files could not be found."
+#~ msgstr "%i mūzikas datnes netika atrastas."
+
+#~ msgid "Rescan Library"
+#~ msgstr "Pārskanēt bibliotēku"
+
+#~ msgid "Remove Song"
+#~ msgstr "Dzēst skaņdarbu"
+
+#~ msgid "Find Song"
+#~ msgstr "Atrast dziesmu"
+
+#~ msgid "Choose Music Folder"
+#~ msgstr "Izvēlēties mūzikas mapi"
+
+#, fuzzy
+#~ msgid "Would you like to install the %s plugin?"
+#~ msgstr "Vai vēlaties instalēt spraudni %s?\n"
+
+#, fuzzy
+#~ msgid ""
+#~ "This song cannot be played. The %s plugin is required to play the song."
+#~ msgstr ""
+#~ "\n"
+#~ "Šo dziesmu nevar atskaņot. Tam ir nepieciešams spraudnis %s."
+
+#~ msgid "Install Plugin"
+#~ msgstr "Instalēt spraudni"
+
+#, fuzzy
+#~ msgid "Disc:"
+#~ msgstr "Disks"
+
+#~ msgid "Close"
+#~ msgstr "Aizvērt"
+
+#, fuzzy
+#~ msgid "Issues while importing from %s"
+#~ msgstr "Importē skaņdarbus no %s…"
+
+#~ msgid "del"
+#~ msgstr "dzēst"
+
+#~ msgid "File Location"
+#~ msgstr "Faila atrašanās vieta"
+
+#~ msgid "Move to Trash"
+#~ msgstr "Pārvietot uz miskasti"
+
+#~ msgid "Ignore"
+#~ msgstr "Ignorēt"
+
+#~ msgid "Select Music Folder…"
+#~ msgstr "Atzīmēt mūzikas mapi..."
+
+#~ msgid "Keep Music folder organized:"
+#~ msgstr "Turēt mūzikas mapi organizētu:"
+
+#~ msgid "Write metadata to file:"
+#~ msgstr "Rakstīt metadatus datnēs:"
+
+#~ msgid "Copy imported files to Library:"
+#~ msgstr "Kopēt importētās datnes bibliotēkā:"
+
+#~ msgid "Continue playback when closed:"
+#~ msgstr "Turpināt izpildīt, kad aizvērts:"
+
+#, fuzzy
+#~ msgid "Remove %d Song From Library?"
+#~ msgid_plural "Remove %d Songs From Library?"
+#~ msgstr[0] "Aizvākt no bibliotēkas"
+#~ msgstr[1] "Aizvākt no bibliotēkas"
+#~ msgstr[2] "Aizvākt no bibliotēkas"
+
+#, fuzzy
+#~ msgid "Remove \"%s\" From Library?"
+#~ msgstr "Aizvākt no bibliotēkas"
+
+#~ msgid "Remove from Library"
+#~ msgstr "Aizvākt no bibliotēkas"
+
+#~ msgid "Set Music Folder?"
+#~ msgstr "Vai iestatīt mūzikas mapi?"
+
+#~ msgid ""
+#~ "Are you sure you want to set the music folder to %s? This will reset your "
+#~ "library and remove your playlists."
+#~ msgstr ""
+#~ "Vai tiešām vēlaties mainīt mūzikas mapi uz %s? Šī darbība pārstatīs "
+#~ "bibliotēku un noņems atskaņošanas sarakstus."
+
+#~ msgid "Export Playlists"
+#~ msgstr "Eksportēt atskaņošanas sarakstu"
+
+#~ msgid "Set Music Folder"
+#~ msgstr "Iestatīt mūzikas mapi"
+
+#~ msgid "Playlist Title"
+#~ msgstr "Atskaņošanas saraksta virsraksts"
+
+#~ msgid "any"
+#~ msgstr "jebkurš"
+
+#~ msgid "all"
+#~ msgstr "viss"
+
+#~ msgid "Match"
+#~ msgstr "Atbilst"
+
+#~ msgid "of the following:"
+#~ msgstr "no sekojošajiem:"
+
+#~ msgid "Add"
+#~ msgstr "Pievienot"
+
+#~ msgid "Limit to"
+#~ msgstr "Ierobežot līdz"
+
+#~ msgid "items"
+#~ msgstr "vienumi"
+
+#~ msgid "Name of Playlist"
+#~ msgstr "Atskaņošanas saraksta nosaukums"
+
+#~ msgid "Rules"
+#~ msgstr "Noteikumi"
+
+#~ msgid "Options"
+#~ msgstr "Opcijas"
+
+#~ msgid "Album"
+#~ msgstr "Albums"
+
+#~ msgid "Artist"
+#~ msgstr "Izpildītājs"
+
+#~ msgid "Bitrate"
+#~ msgstr "Bitātrums"
+
+#~ msgid "Comment"
+#~ msgstr "Komentārs"
+
+#~ msgid "Composer"
+#~ msgstr "Komponists"
+
+#~ msgid "Date Added"
+#~ msgstr "Pievienošanas datums"
+
+#~ msgid "Genre"
+#~ msgstr "Žanrs"
+
+#~ msgid "Grouping"
+#~ msgstr "Grupēšana"
+
+#~ msgid "Last Played"
+#~ msgstr "Pēdējoreiz atskaņots"
+
+#~ msgid "Length"
+#~ msgstr "Ilgums"
+
+#~ msgid "Playcount"
+#~ msgstr "Atskaņošanu skaits"
+
+#~ msgid "Rating"
+#~ msgstr "Vērtējums"
+
+#~ msgid "Title"
+#~ msgstr "Nosaukums"
+
+#~ msgid "Year"
+#~ msgstr "Gads"
+
+#~ msgid "is"
+#~ msgstr "ir"
+
+#~ msgid "contains"
+#~ msgstr "satur"
+
+#~ msgid "does not contain"
+#~ msgstr "nesatur"
+
+#~ msgid "is exactly"
+#~ msgstr "ir tieši"
+
+#~ msgid "is before"
+#~ msgstr "ir pirms"
+
+#~ msgid "seconds"
+#~ msgstr "sekundes"
+
+#~ msgid "days ago"
+#~ msgstr "pirms dienām"
+
+#~ msgid "kbps"
+#~ msgstr "kb/s"
+
+#, fuzzy
+#~ msgid "Sync will remove %i item from %s"
+#~ msgid_plural "Sync will remove %i items from %s"
+#~ msgstr[0] "Sinhronizēšana noņems %i vienības no %s"
+#~ msgstr[1] "Sinhronizēšana noņems %i vienības no %s"
+#~ msgstr[2] "Sinhronizēšana noņems %i vienības no %s"
+
+#~ msgid "Continue Syncing"
+#~ msgstr "Turpināt sinhronizēšanu"
+
+#~ msgid "Import"
+#~ msgstr "Importēt"
+
+#~ msgid "Importing music from %s…"
+#~ msgstr "Importē skaņdarbus no %s…"
+
+#~ msgid "Adding files to library…"
+#~ msgstr "Pievienot datnes bibliotēkai"
+
+#~ msgid "<b>Importing</b> music to library…"
+#~ msgstr "<b>Importē</b> skaņdarbu bibliotēkā..."
+
+#~ msgid "Rescanning music for changes. This may take a while…"
+#~ msgstr "Skenē izmaiņas mūzikas bibliotēkā. Tas var aizņemt kādu brīdi..."
+
+#~ msgid "Added to your queue:"
+#~ msgstr "Pievienots atskaņošanas rindai:"
+
+#~ msgid "Favorite Songs"
+#~ msgstr "Mīļākie skaņdarbi"
+
+#~ msgid "Recently Added"
+#~ msgstr "Nesen pievienotie"
+
+#~ msgid "Recent Favorites"
+#~ msgstr "Nesen iecienītie"
+
+#~ msgid "Never Played"
+#~ msgstr "Nekad neatskaņotie"
+
+#~ msgid "Over Played"
+#~ msgstr "Bieži atskaņoti"
+
+#~ msgid "Not Recently Played"
+#~ msgstr "Kādu laiku neatskaņoti"
+
+#~ msgid "History"
+#~ msgstr "Vēsture"
+
+#~ msgid "Playlists"
+#~ msgstr "Atskaņošanas saraksti"
+
+#~ msgid "Device Name:"
+#~ msgstr "Ierīces nosaukums:"
+
+#~ msgid "Device Name"
+#~ msgstr "Ierīces nosaukums"
+
+#~ msgid "Automatically sync when plugged in:"
+#~ msgstr "Automātiski sinhronizēt kad pievienots"
+
+#~ msgid "Sync:"
+#~ msgstr "Sinhronizēt:"
+
+#~ msgid "Sync"
+#~ msgstr "Sinhronizēšana"
+
+#~ msgid "All Music"
+#~ msgstr "Visa mūzika"
+
+#~ msgid "Sync Failed"
+#~ msgstr "Sinhronizācijas kļūme"
+
+#~ msgid ""
+#~ "The playlist named %s is used to sync device %s, but could not be found."
+#~ msgstr ""
+#~ "Atskaņošanas saraksts %s tiek izmantots sinhronizējot %s, bet netika "
+#~ "atrasts."
+
+#~ msgid "Cannot Sync"
+#~ msgstr "Nevar sinhronizēt"
+
+#~ msgid ""
+#~ "Cannot sync device with selected sync settings. Not enough space on disk"
+#~ msgstr ""
+#~ "Nevar sinhronizēt ierīci izmantojot pašreizējos sinhronizācijas "
+#~ "iestatījumus. Nepietiek diska vietas."
+
+#~ msgid "Device is already doing an operation."
+#~ msgstr "Ierīce jau veic darbību."
+
+#~ msgid "Cancelling…"
+#~ msgstr "Atceļ…"
+
+#~ msgid "Device operation has been cancelled and will stop after this media."
+#~ msgstr "Ierīces darbība ir apturēta un tiks pārtraukta pēc šī mēdija."
+
+#, fuzzy
+#~ msgid "No Results"
+#~ msgstr "Nav reitingu"
+
+#~ msgid "Genres"
+#~ msgstr "Žanri"
+
+#~ msgid "Artists"
+#~ msgstr "Izpildītāji"
+
+#~ msgid "Albums"
+#~ msgstr "Albūmi"
+
+#~ msgid "Years"
+#~ msgstr "Gadi"
+
+#~ msgid "Ratings"
+#~ msgstr "Vērtējumi"
+
+#~ msgid "Composers"
+#~ msgstr "Komponisti"
+
+#~ msgid "Groupings"
+#~ msgstr "Grupēšanas"
+
+#~ msgid "All Genres"
+#~ msgstr "Visi žanri"
+
+#~ msgid "All %i Genres"
+#~ msgstr "Visi %i žanri"
+
+#~ msgid "No Genres"
+#~ msgstr "Nav žanru"
+
+#~ msgid "All Artists"
+#~ msgstr "Visi izpildītāji"
+
+#~ msgid "All %i Artists"
+#~ msgstr "Visi %i izpildītāji"
+
+#~ msgid "No Artists"
+#~ msgstr "Nav izpildītāju"
+
+#~ msgid "All Albums"
+#~ msgstr "Visi albūmi"
+
+#~ msgid "All %i Albums"
+#~ msgstr "Visi %i albūmi"
+
+#~ msgid "No Albums"
+#~ msgstr "Nav albumu"
+
+#~ msgid "All %i Years"
+#~ msgstr "Visi %i gadi"
+
+#~ msgid "No Years"
+#~ msgstr "Nav gadu"
+
+#~ msgid "All Ratings"
+#~ msgstr "Visi reitingi"
+
+#~ msgid "No Ratings"
+#~ msgstr "Nav reitingu"
+
+#~ msgid "All Groupings"
+#~ msgstr "Visi grupējumi"
+
+#~ msgid "All %i Groupings"
+#~ msgstr "Visi %i grupējumi"
+
+#~ msgid "No Groupings"
+#~ msgstr "Nav grupējumu"
+
+#~ msgid "All Composers"
+#~ msgstr "Visi komponisti"
+
+#~ msgid "All %i Composers"
+#~ msgstr "Visi %i komponisti"
+
+#~ msgid "No Composers"
+#~ msgstr "Nav komponistu"
+
+#~ msgid "Automatic"
+#~ msgstr "Automātisks"
+
+#~ msgid "On Left"
+#~ msgstr "Pa kreisi"
+
+#~ msgid "On Top"
+#~ msgstr "Augšā"
+
+#~ msgid "Unrated"
+#~ msgstr "Nav novērtējuma"
+
+#~ msgid "Never"
+#~ msgstr "Nekad"
+
+#~ msgctxt "List column title"
+#~ msgid "#"
+#~ msgstr "#"
+
+#~ msgctxt "List column title"
+#~ msgid "Track"
+#~ msgstr "Skaņdarbs"
+
+#~ msgctxt "List column title"
+#~ msgid "Title"
+#~ msgstr "Nosaukums"
+
+#~ msgctxt "List column title"
+#~ msgid "Length"
+#~ msgstr "Garums"
+
+#~ msgctxt "List column title"
+#~ msgid "Artist"
+#~ msgstr "Izpildītājs"
+
+#~ msgctxt "List column title"
+#~ msgid "Album"
+#~ msgstr "Albums"
+
+#~ msgctxt "List column title"
+#~ msgid "Album Artist"
+#~ msgstr "Albuma izpildītājs"
+
+#~ msgctxt "List column title"
+#~ msgid "Composer"
+#~ msgstr "Komponists"
+
+#~ msgctxt "List column title"
+#~ msgid "Genre"
+#~ msgstr "Žanrs"
+
+#~ msgctxt "List column title"
+#~ msgid "Year"
+#~ msgstr "Gads"
+
+#~ msgctxt "List column title"
+#~ msgid "Grouping"
+#~ msgstr "Grupēšana"
+
+#~ msgctxt "List column title"
+#~ msgid "Bitrate"
+#~ msgstr "Bitrāža"
+
+#~ msgctxt "List column title"
+#~ msgid "Rating"
+#~ msgstr "Vērtējums"
+
+#~ msgctxt "List column title"
+#~ msgid "Plays"
+#~ msgstr "Atskaņo"
+
+#~ msgctxt "List column title"
+#~ msgid "Skips"
+#~ msgstr "Izlaisti"
+
+#~ msgctxt "List column title"
+#~ msgid "Date Added"
+#~ msgstr "Pievienošanas datums"
+
+#~ msgctxt "List column title"
+#~ msgid "Last Played"
+#~ msgstr "Pēdējoreiz atskaņots"
+
+#~ msgctxt "List column title (beats per minute)"
+#~ msgid "BPM"
+#~ msgstr "Sitieni minūtē"
+
+#~ msgctxt "List column title (file location)"
+#~ msgid "Location"
+#~ msgstr "Atrašanās vieta"
+
+#~ msgctxt "List column title"
+#~ msgid "File Size"
+#~ msgstr "Faila izmērs"
+
+#~ msgid "Autosize Columns"
+#~ msgstr "Kolonnu automātiska mērogošana"
+
+#~ msgid "1234 kbps"
+#~ msgstr "1234 kbps"
+
+#~ msgid "Sample List String"
+#~ msgstr "Tie Your Mother Down"
+
+#~ msgid "Get Some Tunes"
+#~ msgstr "Iegūt kādu skaņdarbu"
+
+#~ msgid "Add music to your library."
+#~ msgstr "Pievienot skaņdarbus bibliotēkai."
+
+#~ msgid "Change Music Folder"
+#~ msgstr "Mainīt audio direktoriju"
+
+#~ msgid "Load music from a folder, a network or an external disk."
+#~ msgstr "Ielādēt skaņdarbus no direktorijas, tīkla vai ārējā diska."
+
+#~ msgid "Import your Music"
+#~ msgstr "Importēt manu mūziku"
+
+#~ msgid "Import all your Music from %s into your library."
+#~ msgstr "Importēt visus skaņdarbus no %s skaņdarbu bibliotēkā"
+
+#~ msgid "Select Music Folder"
+#~ msgstr "Izvēlēties skaņdarbu direktoriju"
+
+#~ msgid "No Songs"
+#~ msgstr "Nav skaņdarbu"
+
+#~ msgid ""
+#~ "To add songs to this playlist, use the <b>secondary click</b> on an item "
+#~ "and choose <b>Add to Playlist</b>."
+#~ msgstr ""
+#~ "Lai pievienotu skaņdarbus šim sarakstam izmantojiet <b>labo peles "
+#~ "klikšķi</b> uz skaņdarba un izvēlieties <b>Pievienot sarakstam</b>"
+
+#~ msgid "Edit Smart Playlist"
+#~ msgstr "Rediģēt gudro repertuāru"
+
+#~ msgid ""
+#~ "This playlist will be automatically populated with songs that match its "
+#~ "rules. To modify these rules, use the <b>secondary click</b> on it in the "
+#~ "sidebar and click on <b>Edit</b>. Optionally, you can click on the button "
+#~ "below."
+#~ msgstr ""
+#~ "Šis atskaņošanas saraksts tiks automātiski aizpildīts ar skaņdarbiem, kas "
+#~ "atbilst saraksta parametriem. Lai labotu šos parametrus, izmantojiet "
+#~ "<b>labo peles klikšķi</b> sānu panelī un spiediet <b>Labot</b>. Opcionāli "
+#~ "varat izmantot pogu zemāk."
+
+#~ msgid "No media"
+#~ msgstr "Nav datu nesēja"
+
+#~ msgid "Off"
+#~ msgstr "Izslēgt"
+
+#~ msgid "Scroll to Current Song"
+#~ msgstr "Ritināt uz pašreizējo skaņdarbu"
+
+#, fuzzy
+#~ msgid "Show in File Browser…"
+#~ msgstr "Radīt failu pārlūkā"
+
+#, fuzzy
+#~ msgid "Edit Song Info…"
+#~ msgstr "Labot skaņdarba informāciju"
+
+#, fuzzy
+#~ msgid "Other Actions"
+#~ msgstr "Citas darbības"
+
+#~ msgctxt "Action item (verb)"
+#~ msgid "Queue"
+#~ msgstr "Rinda"
+
+#~ msgid "Add to Playlist"
+#~ msgstr "Pievienot atskaņošanas sarakstam"
+
+#, fuzzy
+#~ msgid "Remove Song…"
+#~ msgstr "Dzēst skaņdarbu"
+
+#~ msgid "Import to Library"
+#~ msgstr "Importēt fonotēkā"
+
+#, fuzzy
+#~ msgid "Remove from Library…"
+#~ msgstr "Aizvākt no bibliotēkas"
+
+#~ msgid "Remove from Device"
+#~ msgstr "Aizvākt no ierīces"
+
+#~ msgid "Remove from Queue"
+#~ msgstr "Aizvākt no atskaņošanas rindas"
+
+#~ msgid "New Playlist…"
+#~ msgstr "Jauns atskaņošanas saraksts…"
+
+#~ msgid "Import %i of %i selected songs"
+#~ msgstr "Importēt %i no %i izvēlētajiem skaņdarbiem"
+
+#~ msgid "Import %i song"
+#~ msgid_plural "Import %i songs"
+#~ msgstr[0] "Importēt %i skaņdarbu"
+#~ msgstr[1] "Importēt %i skaņdarbus"
+#~ msgstr[2] "Importēt %i skaņdarbus"
+
+#~ msgid "Rename"
+#~ msgstr "Pārsaukt"
+
+#~ msgid "Save as Playlist"
+#~ msgstr "Saglabāt kā atskaņošanas sarakstu"
+
+#~ msgid "Export…"
+#~ msgstr "Eksportēt..."
+
+#~ msgid "Eject"
+#~ msgstr "Izgrūst"
+
+#~ msgid "New Playlist"
+#~ msgstr "Jauns atskaņošanas saraksts"
+
+#~ msgid "New Smart Playlist"
+#~ msgstr "Jauns gudrais atskaņošanas saraksts"
+
+#~ msgid "Import Playlists"
+#~ msgstr "Importēt atskaņošanas sarakstu"
+
+#~ msgid "Library"
+#~ msgstr "Bibliotēka"
+
+#~ msgid "Devices"
+#~ msgstr "Ierīces"
+
+#~ msgid "Network"
+#~ msgstr "Tīkls"
+
+#~ msgid "Add Playlist"
+#~ msgstr "Pievienot atskaņošanas sarakstu"
+
+#~ msgid "Add Smart Playlist"
+#~ msgstr "Pievienot gudro atskaņošanas sarakstu"
+
+#, fuzzy
+#~| msgid "Add Playlist"
+#~ msgid "Add Playlist…"
+#~ msgstr "Pievienot atskaņošanas sarakstu"
+
+#~ msgid "Enable Repeat"
+#~ msgstr "Ieslēgt atkārtošanu"
+
+#~ msgid "Disable Repeat"
+#~ msgstr "Izslēgt atkārtošanu"
+
+#~ msgid "Disable Shuffle"
+#~ msgstr "Izslēgt jaukšanu"
+
+#, fuzzy
+#~ msgid "View as albums"
+#~ msgstr "Skatīt kā sarakstu"
+
+#, fuzzy
+#~ msgid "View as list"
+#~ msgstr "Skatīt kā sarakstu"
+
+#, fuzzy
+#~ msgid "View in columns"
+#~ msgstr "Skatīt kolonnās"
+
+#~ msgid "No similar songs found"
+#~ msgstr "Līdzīgas dziesmas netika atrastas"
+
+#~ msgid "Similar"
+#~ msgstr "Līdzīgs"
+
+#~ msgid "media"
+#~ msgstr "medijs"
+
+#, fuzzy
+#~ msgid "An Error Occurred"
+#~ msgstr "Kļūda"
+
+#~ msgid "Importation of a song from Audio CD finished."
+#~ msgstr "Dziesmu importēšana no CD diska ir pabeigta."
+
+#~ msgid "Importation of %i songs from Audio CD finished."
+#~ msgstr "%i dziesmu importēšana no CD diska ir pabeigta."
+
+#~ msgid "An error occured during the Import of this CD"
+#~ msgstr "Kļūda mēģinot importēt CD disku"
+
+#~ msgid "%s has imported your library."
+#~ msgstr "%s tika importēts bibliotēkā."
+
+#~ msgid "Remove from %s"
+#~ msgstr "Noņemt no %s"
+
+#~ msgid "No Albums Found."
+#~ msgstr "Nav neviena albūma."
+
+#~ msgid "No Songs Found."
+#~ msgstr "Skaņdarbi nav atrasti"
+
+#~ msgid "%u second"
+#~ msgid_plural "%u seconds"
+#~ msgstr[0] "%u sekunde"
+#~ msgstr[1] "%u sekundes"
+#~ msgstr[2] "%u sekunžu"
+
+#~ msgid "%u minute"
+#~ msgid_plural "%u minutes"
+#~ msgstr[0] "%u minūte"
+#~ msgstr[1] "%u minūtes"
+#~ msgstr[2] "%u minūtes"
+
+#~ msgctxt "minutes and seconds"
+#~ msgid "%s and %s"
+#~ msgstr "%s un %s"
+
+#~ msgid "%u day"
+#~ msgid_plural "%u days"
+#~ msgstr[0] "%u diena"
+#~ msgstr[1] "%u dienas"
+#~ msgstr[2] "%u dienas"
+
+#~ msgid "%u hour"
+#~ msgid_plural "%u hours"
+#~ msgstr[0] "%u stunda"
+#~ msgstr[1] "%u stundas"
+#~ msgstr[2] "%u stundas"
+
+#~ msgctxt "days, hours and minutes"
+#~ msgid "%s, %s and %s"
+#~ msgstr "%s, %s un %s"
+
+#~ msgctxt "days and hours"
+#~ msgid "%s and %s"
+#~ msgstr "%s un %s"
+
+#~ msgctxt "days and minutes"
+#~ msgid "%s and %s"
+#~ msgstr "%s un %s"
+
+#~ msgctxt "hours and minutes"
+#~ msgid "%s and %s"
+#~ msgstr "%s un %s"
+
+#~ msgid "Song"
+#~ msgstr "Dziesma"
+
+#~ msgid "Repeat Artist"
+#~ msgstr "Atkārtot izpildītāju"
+
+#~ msgid "All"
+#~ msgstr "Visi"
+
+#~ msgid "Hide"
+#~ msgstr "Slēpt"
+
+#~ msgid "Show Info Panel"
+#~ msgstr "Rādīt informācijas panelī"
+
+#~ msgid "Show"
+#~ msgstr "Rādīt"
+
+#~ msgid "Hide Info Panel"
+#~ msgstr "Paslēgt informācijas panelī"
+
+#~ msgid "Free"
+#~ msgstr "Brīvs"
+
+#~ msgid "General"
+#~ msgstr "Vispārīgi"
+
+#~ msgid "Import from Device"
+#~ msgstr "Importēt no ierīces"
+
+#~ msgid "Don't Import"
+#~ msgstr "Neimportēt"
+
+#~ msgid "Import %i items from %s"
+#~ msgstr "Importēt %i vienības no %s"
+
+#~ msgid "Import %s from %s"
+#~ msgstr "Importēt %s no %s"
+
+#~ msgid "ID"
+#~ msgstr "ID"
+
+#~ msgid "Select individual media to import:"
+#~ msgstr "Atzīmējiet katru mediju datni, ko importēt:"
+
+#~ msgid "Cannot Import"
+#~ msgstr "Nevar importēt"
+
+#~ msgid "Import media to Library"
+#~ msgstr "Importēt medijus bibliotēkā"
+
+#~ msgid "Stop Syncing"
+#~ msgstr "Apturēt sinhronizēšanu"
+
+#~ msgid "Sync will remove 1 item from %s"
+#~ msgstr "Sinhronizēšana noņems 1 vienību no %s"
+
+#~ msgid "%u album"
+#~ msgid_plural "%u albums"
+#~ msgstr[0] "%u albums"
+#~ msgstr[1] "%u albumi"
+#~ msgstr[2] "%u albumi"
+
+#~ msgctxt "Title format used on Album View Popup: $ALBUM by $ARTIST"
+#~ msgid "%s by %s"
+#~ msgstr "%s, ko izpilda %s"
+
+#~ msgctxt ""
+#~ "Format used on statusbar: $description, $total_duration, $total_file_size"
+#~ msgid "%s, %s, %s"
+#~ msgstr "%s, %s, %s"
+
+#~ msgid "OK"
+#~ msgstr "Labi"
+
+#~ msgid "No External Songs"
+#~ msgstr "Nav ārēju ierakstu"
+
+#~ msgid ""
+#~ "There were no songs found on this device that are not in your library."
+#~ msgstr "Šajā ierīcē atrasti ieraksti kas nav tavā bibliotēkā"
+
+#~ msgid "%i track"
+#~ msgid_plural "%i tracks"
+#~ msgstr[0] "%i skaņdarbs"
+#~ msgstr[1] "%i skaņdarbi"
+#~ msgstr[2] "%i skaņdarbi"
+
+#~ msgid "%u song"
+#~ msgid_plural "%u songs"
+#~ msgstr[0] "%u skaņdarbi"
+#~ msgstr[1] "%u skaņdarbi"
+#~ msgstr[2] "%u skaņdarbi"
+
+#~ msgctxt "Format used on statusbar: $description, $total_duration"
+#~ msgid "%s, %s"
+#~ msgstr "%s, %s"
+
+#~ msgid "translator-credits"
+#~ msgstr ""
+#~ "Launchpad Contributions:\n"
+#~ "  Armands Skolmeisters https://launchpad.net/~arseniuss\n"
+#~ "  Daniel Fore https://launchpad.net/~danrabbit\n"
+#~ "  Jānis Marks Gailis https://launchpad.net/~jeanmarc-gailis\n"
+#~ "  Matiss Treinis https://launchpad.net/~mrtreinis\n"
+#~ "  marhis https://launchpad.net/~marhis"
+
+#~ msgid "Radio Station"
+#~ msgstr "Radio stacija"
+
+#~ msgid "Rescan Music Folder"
+#~ msgstr "Pārbaudīt izmaiņas fonotēkā"
+
+#~ msgid "%d second"
+#~ msgid_plural "%d seconds"
+#~ msgstr[0] "%d sekunde"
+#~ msgstr[1] "%d sekundes"
+#~ msgstr[2] "%d sekunžu"
+
+#~ msgid "Listen to music"
+#~ msgstr "Klausies muziku"
+
+#~ msgid "Unknown Artist"
+#~ msgstr "Nezināms izpildītājs"
+
+#~ msgid "All Podcasts"
+#~ msgstr "Visi podkāsti"
+
+#~ msgid "Podcasts"
+#~ msgstr "Podkāsti"
+
+#~ msgid "%i kbps"
+#~ msgstr "%i kbps"
+
+#~ msgid "Display Album Art"
+#~ msgstr "Attēlot albūma attēlu"
+
+#~ msgid "%i Star"
+#~ msgid_plural "%i Stars"
+#~ msgstr[0] "%i zvaigzne"
+#~ msgstr[1] "%i zvaigznes"
+#~ msgstr[2] "%i zvaigznes"
+
+#~ msgid "Noise;Audio;Player;MP3;iPod;Play;Playlist;Media;CD;Phone;Songs;"
+#~ msgstr "Noise;Audio;Player;MP3;iPod;Play;Playlist;Media;CD;Phone;Songs;"
+
+#~ msgid "Lyrics"
+#~ msgstr "Dziesmu vārdi"
+
+#~ msgid "Details"
+#~ msgstr "Detaļas"
+
+#~ msgid "Editing %i songs"
+#~ msgstr "Rediģē %i dziesmas"
+
+#~ msgid "Editing %s"
+#~ msgstr "Rediģē %s"
+
+#~ msgid "Editing $NAME by $ARTIST"
+#~ msgstr "Labot $NAME pēc $ARTIST"
+
+#~ msgid "Track"
+#~ msgstr "Celiņš"
+
+#~ msgid "Album Artist"
+#~ msgstr "Albuma izpildītājs"
+
+#~ msgid "Library Management:"
+#~ msgstr "Bibliotēkas pārvaldīšana:"
+
+#~ msgid "Music Folder Location:"
+#~ msgstr "Mūzikas mapes vieta:"
+
+#~ msgid "Notifications:"
+#~ msgstr "Paziņojumi:"
+
+#~ msgid ""
+#~ "Noise is already doing file operations. Please wait until those finish to "
+#~ "import from %d"
+#~ msgstr ""
+#~ "Noise jau veic datņu operācijas. Lūdzu sagaidiet līdz tiks pabeigta "
+#~ "importēšana no %d"
+
+#~ msgid "Date Released"
+#~ msgstr "Izlaišanas datums"
+
+#~ msgid "Unknown Album"
+#~ msgstr "Nezināms albums"
+
+#~ msgid "Unknown Track"
+#~ msgstr "Nezināms celiņš"
+
+#~ msgid "Success!"
+#~ msgstr "Veiksmīgi!"
+
+#~ msgid "Last.fm"
+#~ msgstr "Last.fm"
+
+#~ msgid "There is not enough space on Device to complete the Sync…"
+#~ msgstr "Ierīcē nav pietiekoši daudz atmiņas, lai pabeigtu sinhronizēšanu..."
+
+#~ msgid "Importing track %i: %s"
+#~ msgstr "Importē celiņu %i: %s"

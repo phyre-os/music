@@ -1,0 +1,543 @@
+msgid ""
+msgstr ""
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-01 10:32+0000\n"
+"PO-Revision-Date: 2018-08-29 19:33+0000\n"
+"Last-Translator: Carmina16 <mistresssilvara@hotmail.com>\n"
+"Language-Team: Occidental <https://weblate.phyreos.io/projects/music/"
+"music/ie/>\n"
+"Language: ie\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.0.1\n"
+
+#: src/Application.vala:92 src/Views/NowPlayingView.vala:18
+#: src/Views/NowPlayingView.vala:116
+msgid "Music"
+msgstr "Musica"
+
+#: src/MainWindow.vala:20
+msgid "Shuffle"
+msgstr ""
+
+#: src/MainWindow.vala:26
+msgid "Search titles in playlist"
+msgstr ""
+
+#: src/MainWindow.vala:45
+msgid "Queue is Empty"
+msgstr ""
+
+#: src/MainWindow.vala:46
+msgid "Audio files opened from Files will appear here"
+msgstr ""
+
+#: src/MainWindow.vala:63
+msgid "Open Files…"
+msgstr ""
+
+#: src/MainWindow.vala:167
+#, c-format
+msgid "%d invalid file was not added to the queue"
+msgid_plural "%d invalid files were not added to the queue"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/MainWindow.vala:215
+#, fuzzy
+#| msgid "All %i Genres"
+msgid "All files"
+msgstr "Omni %i genres"
+
+#: src/MainWindow.vala:220
+#, fuzzy
+#| msgid "Music"
+msgid "Music files"
+msgstr "Musica"
+
+#: src/MainWindow.vala:229
+msgid "Open"
+msgstr "Aperter"
+
+#: src/MainWindow.vala:233
+msgid "Open audio files"
+msgstr ""
+
+#: src/MainWindow.vala:271
+msgid "Repeat None"
+msgstr ""
+
+#: src/MainWindow.vala:275
+msgid "Repeat All"
+msgstr ""
+
+#: src/MainWindow.vala:279
+msgid "Repeat One"
+msgstr ""
+
+#: src/PlaybackManager.vala:136
+#, c-format
+msgid "%d track was added to the queue"
+msgid_plural "%d tracks were added to the queue"
+msgstr[0] ""
+msgstr[1] ""
+
+#. Don't set artist for files without tags
+#: src/PlaybackManager.vala:196
+msgid "Unknown"
+msgstr "Ínconosset"
+
+#: src/Views/NowPlayingView.vala:23 src/Views/NowPlayingView.vala:115
+#, fuzzy
+msgid "Not playing"
+msgstr "Nov playlist"
+
+#: src/Views/NowPlayingView.vala:45
+msgid "Previous"
+msgstr ""
+
+#: src/Views/NowPlayingView.vala:68
+msgid "Next"
+msgstr ""
+
+#: src/Views/NowPlayingView.vala:93
+msgid "Play"
+msgstr ""
+
+#: src/Views/NowPlayingView.vala:96
+msgid "Pause"
+msgstr ""
+
+#~ msgid "Importing <b>$NAME</b> by <b>$ARTIST</b> to library…"
+#~ msgstr "Importation de <b>$NAME</b> de <b>$ARTIST</b> in li biblioteca…"
+
+#~ msgid "$NAME on $ALBUM"
+#~ msgstr "$NAME in $ALBUM"
+
+#~ msgid "$NAME by $ARTIST"
+#~ msgstr "$NAME de $ARTIST"
+
+#~ msgid "$NAME by $ARTIST on $ALBUM"
+#~ msgstr "$NAME de $ARTIST ex $ALBUM"
+
+#~ msgid "Flat"
+#~ msgstr "Plat"
+
+#~ msgid "Classical"
+#~ msgstr "Classic"
+
+#~ msgid "Dance"
+#~ msgstr "Dansa"
+
+#~ msgid "Full Bass"
+#~ msgstr "Ampli basses"
+
+#~ msgid "Party"
+#~ msgstr "Festa"
+
+#~ msgid " (%d)"
+#~ msgstr " (%d)"
+
+#~ msgid "%s (%i)"
+#~ msgstr "%s (%i)"
+
+#~ msgid "MPEG Version 3.0 Extended (*.m3u)"
+#~ msgstr "MPEG Version 3.0 extendet (*.m3u)"
+
+#~ msgid "Shoutcast Playlist Version 2.0 (*.pls)"
+#~ msgstr "Playlist Shoutcast Version 2.0 (*.pls)"
+
+#~ msgid "Export Playlist"
+#~ msgstr "Exportar playlist"
+
+#~ msgid "Save"
+#~ msgstr "Gardar"
+
+#~ msgid "Cancel"
+#~ msgstr "Anullar"
+
+#~ msgid "Playlist"
+#~ msgstr "Playlist"
+
+#~ msgid "Import %s"
+#~ msgstr "Importar %s"
+
+#~ msgid "Unrecognized playlist file. Import failed."
+#~ msgstr "Ínreconosset file de playlist. Importation ne successat."
+
+#~ msgid "%m/%e/%Y %l:%M %p"
+#~ msgstr "%e.%m.%Y %H:%M"
+
+#~ msgid "Empty device!"
+#~ msgstr "Aparate es vacui!"
+
+#~ msgid "This device does not contain any music."
+#~ msgstr "Ti-ci aparate ne contene musica."
+
+#~ msgid "Android Phone"
+#~ msgstr "Telefon Android"
+
+#~ msgid "Audio Player"
+#~ msgstr "Reproductor de audio"
+
+#~ msgid "Adding <b>$NAME</b> by <b>$ARTIST</b> to $DEVICE"
+#~ msgstr "Adjuntente <b>$NAME</b> de <b>$ARTIST</b> a $DEVICE"
+
+#~ msgid "Syncing <b>%s</b>…"
+#~ msgstr "Sincronisation de <b>%s</b>…"
+
+#~ msgid "Removing <b>$NAME</b> by <b>$ARTIST</b> from $DEVICE"
+#~ msgstr "Removente <b>$NAME</b> de <b>$ARTIST</b> ex $DEVICE"
+
+#~ msgid "Removing from <b>%s</b>…"
+#~ msgstr "Removente ex <b>%s</b>…"
+
+#~ msgid ""
+#~ "This song cannot be played. The %s plugin is required to play the song."
+#~ msgstr ""
+#~ "Ti-ci canzone ne posset esser reproductet. Li plugin «%s» es besonat por "
+#~ "reproducter it."
+
+#~ msgid "Install Plugin"
+#~ msgstr "Installar plugin"
+
+#~ msgid "Title:"
+#~ msgstr "Titul:"
+
+#~ msgid "Artist:"
+#~ msgstr "Artist:"
+
+#~ msgid "Album:"
+#~ msgstr "Album:"
+
+#~ msgid "Album Artist:"
+#~ msgstr "Artist del album:"
+
+#~ msgid "Composer:"
+#~ msgstr "Compositor:"
+
+#~ msgid "Genre:"
+#~ msgstr "Genre:"
+
+#~ msgid "Year:"
+#~ msgstr "Annu:"
+
+#~ msgid "Track:"
+#~ msgstr "Track:"
+
+#~ msgid "Rating:"
+#~ msgstr "Evaluation:"
+
+#~ msgid "Comment:"
+#~ msgstr "Comenta:"
+
+#~ msgid "Close"
+#~ msgstr "Cluder"
+
+#~ msgid "del"
+#~ msgstr "Del"
+
+#~ msgid "File Location"
+#~ msgstr "Localisation"
+
+#~ msgid "Move to Trash"
+#~ msgstr "Mover al Paper-corb"
+
+#~ msgid "Ignore"
+#~ msgstr "Ignorar"
+
+#~ msgid "Write metadata to file:"
+#~ msgstr "Gardar metadata in files:"
+
+#~ msgid "Copy imported files to Library:"
+#~ msgstr "Copiar importat files al biblioteca:"
+
+#~ msgid "Remove %d Song From Library?"
+#~ msgid_plural "Remove %d Songs From Library?"
+#~ msgstr[0] "Remover %d canzone ex li biblioteca?"
+#~ msgstr[1] "Remover %d canzones ex li biblioteca?"
+
+#~ msgid "Remove \"%s\" From Library?"
+#~ msgstr "Remover «%s» ex li biblioteca?"
+
+#~ msgid "Remove from Library"
+#~ msgstr "Remover ex li biblioteca"
+
+#~ msgid "Export Playlists"
+#~ msgstr "Exportar playlistes"
+
+#~ msgid "Playlist Title"
+#~ msgstr "Titul del playlist"
+
+#~ msgid "any"
+#~ msgstr "quelcunc"
+
+#~ msgid "all"
+#~ msgstr "omni"
+
+#~ msgid "of the following:"
+#~ msgstr "del sequente:"
+
+#~ msgid "Add"
+#~ msgstr "Adjunter"
+
+#~ msgid "Limit to"
+#~ msgstr "Limitar a"
+
+#~ msgid "items"
+#~ msgstr "elementes"
+
+#~ msgid "Name of Playlist"
+#~ msgstr "Nómine del playlist"
+
+#~ msgid "Rules"
+#~ msgstr "Regules"
+
+#~ msgid "Options"
+#~ msgstr "Optiones"
+
+#~ msgid "Remove"
+#~ msgstr "Remover"
+
+#~ msgid "Album"
+#~ msgstr "Album"
+
+#~ msgid "Artist"
+#~ msgstr "Artist"
+
+#~ msgid "Comment"
+#~ msgstr "Comenta"
+
+#~ msgid "Composer"
+#~ msgstr "Compositor"
+
+#~ msgid "Date Added"
+#~ msgstr "Adjuntet"
+
+#~ msgid "Genre"
+#~ msgstr "Genre"
+
+#~ msgid "Last Played"
+#~ msgstr "Reproductet"
+
+#~ msgid "Length"
+#~ msgstr "Duration"
+
+#~ msgid "Playcount"
+#~ msgstr "Reproductet, vezes"
+
+#~ msgid "Rating"
+#~ msgstr "Evaluation"
+
+#~ msgid "Title"
+#~ msgstr "Titul"
+
+#~ msgid "Year"
+#~ msgstr "Annu"
+
+#~ msgid "is"
+#~ msgstr "es"
+
+#~ msgid "contains"
+#~ msgstr "contene"
+
+#~ msgid "does not contain"
+#~ msgstr "ne contene"
+
+#~ msgid "is exactly"
+#~ msgstr "es exactmen"
+
+#~ msgid "is at most"
+#~ msgstr "es admaxim"
+
+#~ msgid "is at least"
+#~ msgstr "es adminim"
+
+#~ msgid "is within"
+#~ msgstr "es inter"
+
+#~ msgid "is before"
+#~ msgstr "es ante"
+
+#~ msgid "seconds"
+#~ msgstr "secondes"
+
+#~ msgid "days ago"
+#~ msgstr "dies, ante"
+
+#~ msgid "Sync will remove %i item from %s"
+#~ msgid_plural "Sync will remove %i items from %s"
+#~ msgstr[0] "Li sincronisation va remover %i element ex %s"
+#~ msgstr[1] "Li sincronisation va remover %i elementes ex %s"
+
+#~ msgid "Continue Syncing"
+#~ msgstr "Continuar li sincronisation"
+
+#~ msgid "Importing music from %s…"
+#~ msgstr "Importante musica ex %s…"
+
+#~ msgid "Adding files to library…"
+#~ msgstr "Adjuntente files al biblioteca…"
+
+#~ msgid "<b>Importing</b> music to library…"
+#~ msgstr "<b>Importante</b> musica in li biblioteca…"
+
+#~ msgid "No files were imported."
+#~ msgstr "Null files esset importat."
+
+#~ msgid "%d Track"
+#~ msgid_plural "%d Tracks"
+#~ msgstr[0] "%d track"
+#~ msgstr[1] "%d tracks"
+
+#~ msgid "Recently Added"
+#~ msgstr "Recentmen adjuntet"
+
+#~ msgid "History"
+#~ msgstr "Diarium"
+
+#~ msgid "Playlists"
+#~ msgstr "Playlistes"
+
+#~ msgid "Device Name:"
+#~ msgstr "Nómine del aparate:"
+
+#~ msgid "Device Name"
+#~ msgstr "Nómine del aparate"
+
+#~ msgid "Automatically sync when plugged in:"
+#~ msgstr "Sincronisar automaticmen pos li conexion:"
+
+#~ msgid "Sync:"
+#~ msgstr "Sincronisar:"
+
+#~ msgid "Sync"
+#~ msgstr "Sincronisar"
+
+#~ msgid "All Music"
+#~ msgstr "Li tot musica"
+
+#~ msgid "Sync Failed"
+#~ msgstr "Sincronisation ne successat"
+
+#~ msgid ""
+#~ "The playlist named %s is used to sync device %s, but could not be found."
+#~ msgstr ""
+#~ "Li playlist «%s» es usat por sincronisar li aparate %s, ma it ne es "
+#~ "trovat."
+
+#~ msgid "Cannot Sync"
+#~ msgstr "Sincronisation es ínpossibil"
+
+#~ msgid "Cancelling…"
+#~ msgstr "Anullante…"
+
+#~ msgid "No Results"
+#~ msgstr "Null resultas"
+
+#~ msgid "Genres"
+#~ msgstr "Genres"
+
+#~ msgid "Artists"
+#~ msgstr "Artistes"
+
+#~ msgid "Albums"
+#~ msgstr "Albums"
+
+#~ msgid "Years"
+#~ msgstr "Annus"
+
+#~ msgid "Ratings"
+#~ msgstr "Evaluationes"
+
+#~ msgid "Composers"
+#~ msgstr "Compositores"
+
+#~ msgid "All Genres"
+#~ msgstr "Li tot genres"
+
+#~ msgid "No Genres"
+#~ msgstr "Null genres"
+
+#~ msgid "All Artists"
+#~ msgstr "Li tot artistes"
+
+#~ msgid "All %i Artists"
+#~ msgstr "Omni %i artistes"
+
+#~ msgid "No Artists"
+#~ msgstr "Null artistes"
+
+#~ msgctxt "List column title"
+#~ msgid "Rating"
+#~ msgstr "Evaluation"
+
+#~ msgctxt "List column title"
+#~ msgid "Plays"
+#~ msgstr "Reproductiones"
+
+#~ msgctxt "List column title"
+#~ msgid "Date Added"
+#~ msgstr "Adjuntet"
+
+#~ msgctxt "List column title"
+#~ msgid "Last Played"
+#~ msgstr "Reproductet"
+
+#~ msgctxt "List column title (file location)"
+#~ msgid "Location"
+#~ msgstr "Localisation"
+
+#~ msgctxt "List column title"
+#~ msgid "File Size"
+#~ msgstr "Grandore del file"
+
+#~ msgid "Autosize Columns"
+#~ msgstr "Autoadjustar columnes"
+
+#~ msgid "Sample List String"
+#~ msgstr "Alcun canzone exemplari"
+
+#~ msgid "Add music to your library."
+#~ msgstr "Adjunter musica a vor biblioteca."
+
+#~ msgid "Change Music Folder"
+#~ msgstr "Changear li fólder de musica"
+
+#~ msgid "Import your Music"
+#~ msgstr "Importar vor musica"
+
+#~ msgid "Import all your Music from %s into your library."
+#~ msgstr "Importar li tot musica ex «%s» al vor biblioteca."
+
+#~ msgid "Select Music Folder"
+#~ msgstr "Selecter li fólder de musica"
+
+#~ msgid "No Songs"
+#~ msgstr "Null canzones"
+
+#~ msgid "No media"
+#~ msgstr "Null medie"
+
+#, fuzzy
+#~| msgid "Playlist"
+#~ msgid "Add Playlist…"
+#~ msgstr "Playlist"
+
+#, fuzzy
+#~ msgid "View as list"
+#~ msgstr "Nov playlist"
+
+#~ msgid "Audio CD Invalid"
+#~ msgstr "Audio-CD es ínvalid"
+
+#~ msgid "Could not find Music Folder"
+#~ msgstr "Ne successat trovar li fólder de musica"
+
+#~ msgid "Importing track %u: %s"
+#~ msgstr "Importante track %u: %s"
+
+#~ msgid "Disk:"
+#~ msgstr "Disco:"

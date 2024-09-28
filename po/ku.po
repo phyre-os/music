@@ -1,0 +1,606 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-01 10:32+0000\n"
+"PO-Revision-Date: 2018-02-11 00:08+0000\n"
+"Last-Translator: Rokar <mail@rokar.de>\n"
+"Language-Team: Kurdish <https://weblate.phyreos.io/projects/music/music/"
+"ku/>\n"
+"Language: ku\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.18\n"
+"X-Launchpad-Export-Date: 2017-03-07 05:53+0000\n"
+
+#: src/Application.vala:92 src/Views/NowPlayingView.vala:18
+#: src/Views/NowPlayingView.vala:116
+msgid "Music"
+msgstr "Mûzîk"
+
+#: src/MainWindow.vala:20
+msgid "Shuffle"
+msgstr ""
+
+#: src/MainWindow.vala:26
+msgid "Search titles in playlist"
+msgstr ""
+
+#: src/MainWindow.vala:45
+msgid "Queue is Empty"
+msgstr ""
+
+#: src/MainWindow.vala:46
+msgid "Audio files opened from Files will appear here"
+msgstr ""
+
+#: src/MainWindow.vala:63
+msgid "Open Files…"
+msgstr ""
+
+#: src/MainWindow.vala:167
+#, c-format
+msgid "%d invalid file was not added to the queue"
+msgid_plural "%d invalid files were not added to the queue"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/MainWindow.vala:215
+#, fuzzy
+#| msgid "All Albums"
+msgid "All files"
+msgstr "Hemû Album"
+
+#: src/MainWindow.vala:220
+#, fuzzy
+#| msgid "Music"
+msgid "Music files"
+msgstr "Mûzîk"
+
+#: src/MainWindow.vala:229
+msgid "Open"
+msgstr "Veke"
+
+#: src/MainWindow.vala:233
+msgid "Open audio files"
+msgstr ""
+
+#: src/MainWindow.vala:271
+#, fuzzy
+msgid "Repeat None"
+msgstr "Albumê Dubare Bike"
+
+#: src/MainWindow.vala:275
+#, fuzzy
+msgid "Repeat All"
+msgstr "Albumê Dubare Bike"
+
+#: src/MainWindow.vala:279
+#, fuzzy
+msgid "Repeat One"
+msgstr "Albumê Dubare Bike"
+
+#: src/PlaybackManager.vala:136
+#, c-format
+msgid "%d track was added to the queue"
+msgid_plural "%d tracks were added to the queue"
+msgstr[0] ""
+msgstr[1] ""
+
+#. Don't set artist for files without tags
+#: src/PlaybackManager.vala:196
+msgid "Unknown"
+msgstr "Nenas"
+
+#: src/Views/NowPlayingView.vala:23 src/Views/NowPlayingView.vala:115
+#, fuzzy
+msgid "Not playing"
+msgstr "Playlîsta nû"
+
+#: src/Views/NowPlayingView.vala:45
+msgid "Previous"
+msgstr "Paş de"
+
+#: src/Views/NowPlayingView.vala:68
+msgid "Next"
+msgstr "Pêşve"
+
+#: src/Views/NowPlayingView.vala:93
+msgid "Play"
+msgstr "Lê bide"
+
+#: src/Views/NowPlayingView.vala:96
+msgid "Pause"
+msgstr "Raweste"
+
+#~ msgid "Importing <b>$NAME</b> by <b>$ARTIST</b> to library…"
+#~ msgstr "hawirdin <b>$NAME</b> by <b>$ARTIST</b> li pirtûkxane…"
+
+#~ msgid "Flat"
+#~ msgstr "Dûz"
+
+#~ msgid "Classical"
+#~ msgstr "Klasîk"
+
+#~ msgid "Club"
+#~ msgstr "Club"
+
+#~ msgid "Dance"
+#~ msgstr "Dans"
+
+#~ msgid "Full Bass"
+#~ msgstr "Dengê zil tijî"
+
+#~ msgid "Full Treble"
+#~ msgstr "Dengê sêcar tijî"
+
+#~ msgid "Full Bass + Treble"
+#~ msgstr "Dengê zil tijî + Sêcar"
+
+#~ msgid "Headphones"
+#~ msgstr "Pêbihîstok"
+
+#~ msgid "Live"
+#~ msgstr "Jiyan"
+
+#~ msgid "Party"
+#~ msgstr "Cejn"
+
+#~ msgid "Pop"
+#~ msgstr "pop"
+
+#~ msgid "Reggae"
+#~ msgstr "reggae"
+
+#~ msgid "Rock"
+#~ msgstr "Hişk (rock)"
+
+#~ msgid "Soft"
+#~ msgstr "Nerm"
+
+#~ msgid "Ska"
+#~ msgstr "ska"
+
+#~ msgid "Techno"
+#~ msgstr "Tekno"
+
+#~ msgid " (%d)"
+#~ msgstr " (%d)"
+
+#~ msgid "%s (%d)"
+#~ msgstr "%s (%d)"
+
+#~ msgid "%s (%i)"
+#~ msgstr "%s (%i)"
+
+#~ msgid "Save"
+#~ msgstr "Tomar Bike"
+
+#~ msgid "Cancel"
+#~ msgstr "Betal bike"
+
+#~ msgid "Playlist"
+#~ msgstr "Lîsteya lêdanê"
+
+#~ msgid "Import %s"
+#~ msgstr "Têxe %s"
+
+#~ msgid "%m/%e/%Y %l:%M %p"
+#~ msgstr "%m/%e/%Y %l:%M %p"
+
+#~ msgid "Preferences"
+#~ msgstr "Vebijêrk"
+
+#~ msgctxt "Name of the playlist"
+#~ msgid "Queue"
+#~ msgstr "Dor"
+
+#~ msgid "File not found"
+#~ msgstr "Pel nehate dîtin"
+
+#~ msgid "Title:"
+#~ msgstr "Sernav:"
+
+#~ msgid "Artist:"
+#~ msgstr "Hunermend:"
+
+#~ msgid "Album:"
+#~ msgstr "Album:"
+
+#~ msgid "Composer:"
+#~ msgstr "Bestekar:"
+
+#~ msgid "Grouping:"
+#~ msgstr "Komkirin:"
+
+#~ msgid "Genre:"
+#~ msgstr "Cure:"
+
+#~ msgid "Year:"
+#~ msgstr "Sal:"
+
+#~ msgid "Track:"
+#~ msgstr "Stran:"
+
+#~ msgid "Rating:"
+#~ msgstr "Ecibandin:"
+
+#~ msgid "Comment:"
+#~ msgstr "Şîrove:"
+
+#~ msgid "Close"
+#~ msgstr "Bigire"
+
+#~ msgid "del"
+#~ msgstr "Jê bibe"
+
+#~ msgid "File Location"
+#~ msgstr "Cihê Pelî"
+
+#~ msgid "Move to Trash"
+#~ msgstr "Biavêje Çopê"
+
+#~ msgid "Ignore"
+#~ msgstr "Nebîne"
+
+#~ msgid "Desktop Integration"
+#~ msgstr "Yekkerbûna Sermasê"
+
+#, fuzzy
+#~ msgid "Remove %d Song From Library?"
+#~ msgid_plural "Remove %d Songs From Library?"
+#~ msgstr[0] "Ji pirtûkxaneyê rake"
+#~ msgstr[1] "Ji pirtûkxaneyê rake"
+
+#, fuzzy
+#~ msgid "Remove \"%s\" From Library?"
+#~ msgstr "Ji pirtûkxaneyê rake"
+
+#~ msgid "Remove from Library"
+#~ msgstr "Ji pirtûkxaneyê rake"
+
+#~ msgid "all"
+#~ msgstr "hemû"
+
+#~ msgid "Add"
+#~ msgstr "Zêde bike"
+
+#~ msgid "Limit to"
+#~ msgstr "Bi sînor bike"
+
+#~ msgid "items"
+#~ msgstr "hêman"
+
+#~ msgid "Options"
+#~ msgstr "Vebijêrk"
+
+#~ msgid "Remove"
+#~ msgstr "Rake"
+
+#~ msgid "Album"
+#~ msgstr "Albûm"
+
+#~ msgid "Artist"
+#~ msgstr "Hunermend"
+
+#~ msgid "Bitrate"
+#~ msgstr "Rêjeya Bit"
+
+#~ msgid "Comment"
+#~ msgstr "Şîrove"
+
+#~ msgid "Composer"
+#~ msgstr "Bestekar"
+
+#~ msgid "Genre"
+#~ msgstr "Cure"
+
+#~ msgid "Last Played"
+#~ msgstr "Lêdanên Dawî yê"
+
+#~ msgid "Length"
+#~ msgstr "Dirêjahî"
+
+#~ msgid "Playcount"
+#~ msgstr "Hejamra lêdanê"
+
+#~ msgid "Rating"
+#~ msgstr "Ecibandin"
+
+#~ msgid "Title"
+#~ msgstr "Sernav"
+
+#~ msgid "Year"
+#~ msgstr "Sal"
+
+#~ msgid "is"
+#~ msgstr "Zimanê Îzlandî"
+
+#~ msgid "contains"
+#~ msgstr "werdigire"
+
+#~ msgid "does not contain"
+#~ msgstr "wernagire"
+
+#~ msgid "is before"
+#~ msgstr "pêşî ya"
+
+#~ msgid "seconds"
+#~ msgstr "çirke"
+
+#~ msgid "kbps"
+#~ msgstr "kbit/s"
+
+#~ msgid "Import"
+#~ msgstr "Têxe"
+
+#~ msgid "Recently Added"
+#~ msgstr "Nû Têxistî"
+
+#~ msgid "Never Played"
+#~ msgstr "ji binî nehatiye lêdan"
+
+#~ msgid "History"
+#~ msgstr "Dîrok"
+
+#~ msgid "Playlists"
+#~ msgstr "Lîsteya lêdanê"
+
+#~ msgid "Device Name"
+#~ msgstr "Navê Cîhaz"
+
+#~ msgid "Sync"
+#~ msgstr "Wekhev bike"
+
+#~ msgid "Genres"
+#~ msgstr "Cure"
+
+#~ msgid "Artists"
+#~ msgstr "Hunermend"
+
+#~ msgid "Albums"
+#~ msgstr "Albûm"
+
+#~ msgid "Years"
+#~ msgstr "Sal"
+
+#~ msgid "Composers"
+#~ msgstr "Awazsaz"
+
+#~ msgid "Groupings"
+#~ msgstr "Dabeşkirin"
+
+#~ msgid "All Artists"
+#~ msgstr "Hemû Hunermend"
+
+#~ msgid "Automatic"
+#~ msgstr "Otomatîk"
+
+#~ msgid "Never"
+#~ msgstr "Hîç"
+
+#~ msgctxt "List column title"
+#~ msgid "#"
+#~ msgstr "#"
+
+#~ msgctxt "List column title"
+#~ msgid "Track"
+#~ msgstr "Parçe"
+
+#~ msgctxt "List column title"
+#~ msgid "Title"
+#~ msgstr "Sernav"
+
+#~ msgctxt "List column title"
+#~ msgid "Length"
+#~ msgstr "Dirêjahî"
+
+#~ msgctxt "List column title"
+#~ msgid "Artist"
+#~ msgstr "Hunermend"
+
+#~ msgctxt "List column title"
+#~ msgid "Album"
+#~ msgstr "Albûm"
+
+#~ msgctxt "List column title"
+#~ msgid "Album Artist"
+#~ msgstr "Hunermendê Albumê"
+
+#~ msgctxt "List column title"
+#~ msgid "Composer"
+#~ msgstr "Bestekar"
+
+#~ msgctxt "List column title"
+#~ msgid "Genre"
+#~ msgstr "Cure"
+
+#~ msgctxt "List column title"
+#~ msgid "Year"
+#~ msgstr "Sal"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Grouping"
+#~ msgstr "Komkirin:"
+
+#~ msgctxt "List column title"
+#~ msgid "Bitrate"
+#~ msgstr "Rêjeya Bit"
+
+#~ msgctxt "List column title"
+#~ msgid "Rating"
+#~ msgstr "Ecibandin"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Plays"
+#~ msgstr "Lê bide"
+
+#~ msgctxt "List column title"
+#~ msgid "Last Played"
+#~ msgstr "Lêdanên Dawî yê"
+
+#~ msgctxt "List column title (beats per minute)"
+#~ msgid "BPM"
+#~ msgstr "BPM"
+
+#~ msgctxt "List column title (file location)"
+#~ msgid "Location"
+#~ msgstr "Cîh"
+
+#~ msgctxt "List column title"
+#~ msgid "File Size"
+#~ msgstr "Mezinahiya Pelê"
+
+#~ msgid "Edit Smart Playlist"
+#~ msgstr "Lîsteya Lêdanê yê Biaqil Biguherîne"
+
+#~ msgid "Image files"
+#~ msgstr "Pelên wêne"
+
+#~ msgid "_Open"
+#~ msgstr "_Veke"
+
+#~ msgid "_Cancel"
+#~ msgstr "_Betal"
+
+#~ msgid "Off"
+#~ msgstr "Girtî"
+
+#, fuzzy
+#~ msgid "Other Actions"
+#~ msgstr "Vebijêrk"
+
+#, fuzzy
+#~ msgctxt "Action item (verb)"
+#~ msgid "Queue"
+#~ msgstr "Dor"
+
+#~ msgid "Add to Playlist"
+#~ msgstr "Têxe Lîsteya Lêxistinê"
+
+#, fuzzy
+#~ msgid "Remove Song…"
+#~ msgstr "Rake"
+
+#, fuzzy
+#~ msgid "Remove from Library…"
+#~ msgstr "Ji pirtûkxaneyê rake"
+
+#~ msgid "Rename"
+#~ msgstr "Nav biguherîne"
+
+#~ msgid "Edit…"
+#~ msgstr "Serastbike …"
+
+#~ msgid "Eject"
+#~ msgstr "Bavêje"
+
+#~ msgid "New Playlist"
+#~ msgstr "Lîsta Lêdanê Nû"
+
+#~ msgid "Import Playlists"
+#~ msgstr "Lîsta lêdanê werbigire"
+
+#~ msgid "Library"
+#~ msgstr "Pirtûkxane"
+
+#~ msgid "Devices"
+#~ msgstr "Amûr"
+
+#~ msgid "Network"
+#~ msgstr "Tor"
+
+#, fuzzy
+#~| msgid "Add to Playlist"
+#~ msgid "Add Playlist…"
+#~ msgstr "Têxe Lîsteya Lêxistinê"
+
+#, fuzzy
+#~ msgid "View as albums"
+#~ msgstr "Wekî lîste bibîne"
+
+#, fuzzy
+#~ msgid "View as list"
+#~ msgstr "Wekî lîste bibîne"
+
+#~ msgid "media"
+#~ msgstr "medya"
+
+#~ msgid "%u second"
+#~ msgid_plural "%u seconds"
+#~ msgstr[0] "%u çirk"
+#~ msgstr[1] "%u çirke"
+
+#~ msgid "%u minute"
+#~ msgid_plural "%u minutes"
+#~ msgstr[0] "%u deq"
+#~ msgstr[1] "%u deqe"
+
+#~ msgctxt "minutes and seconds"
+#~ msgid "%s and %s"
+#~ msgstr "%s û %s"
+
+#~ msgid "%u day"
+#~ msgid_plural "%u days"
+#~ msgstr[0] "%u dan"
+#~ msgstr[1] "%u dane"
+
+#~ msgid "%u hour"
+#~ msgid_plural "%u hours"
+#~ msgstr[0] "%u saet"
+#~ msgstr[1] "%u saeta"
+
+#~ msgctxt "days, hours and minutes"
+#~ msgid "%s, %s and %s"
+#~ msgstr "%s, %s û %s"
+
+#~ msgctxt "days and hours"
+#~ msgid "%s and %s"
+#~ msgstr "%s û %s"
+
+#~ msgctxt "days and minutes"
+#~ msgid "%s and %s"
+#~ msgstr "%s û %s"
+
+#~ msgctxt "hours and minutes"
+#~ msgid "%s and %s"
+#~ msgstr "%s û %s"
+
+#~ msgid "All"
+#~ msgstr "Giştî"
+
+#~ msgid "Hide"
+#~ msgstr "Veşêre"
+
+#~ msgid "Show"
+#~ msgstr "Nîşandan"
+
+#~ msgid "Free"
+#~ msgstr "Azad"
+
+#~ msgid "General"
+#~ msgstr "Gîştî"
+
+#~ msgid "ID"
+#~ msgstr "ID"
+
+#~ msgctxt "Title format used on Album View Popup: $ALBUM by $ARTIST"
+#~ msgid "%s by %s"
+#~ msgstr "%s ji aliyê %s"
+
+#~ msgid "OK"
+#~ msgstr "BAŞ E"
+
+#~ msgctxt "Format used on statusbar: $description, $total_duration"
+#~ msgid "%s, %s"
+#~ msgstr "%s, %s"
+
+#~ msgid "translator-credits"
+#~ msgstr ""
+#~ "Launchpad Contributions:\n"
+#~ "  Daniel Fore https://launchpad.net/~danrabbit\n"
+#~ "  Rokar ✌ https://launchpad.net/~rokarali"

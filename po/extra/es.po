@@ -1,0 +1,272 @@
+# Spanish translation for beat-box
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the beat-box package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: beat-box\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-01 10:32+0000\n"
+"PO-Revision-Date: 2024-09-09 10:20+0000\n"
+"Last-Translator: Italo Felipe Capasso Ballesteros <edwood.grant@gmail.com>\n"
+"Language-Team: Spanish <https://l10n.phyreos.io/projects/music/extra/es/>"
+"\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.6.2\n"
+"X-Launchpad-Export-Date: 2017-03-07 05:56+0000\n"
+
+#: data/music.metainfo.xml.in:10 data/music.desktop.in:6
+msgid "Music"
+msgstr "Música"
+
+#: data/music.metainfo.xml.in:11
+msgid "Queue and play local audio files"
+msgstr "Reproduzca archivos de audio locales"
+
+#: data/music.metainfo.xml.in:13
+msgid ""
+"Quickly queue up and listen to your local music files without any extra "
+"frills. See embedded album artwork. Control playback with media keys or in "
+"the system audio indicator."
+msgstr ""
+"Agregue y escuche la música local de su computador sin complicaciones. "
+"Consulte la carátula del álbum incrustada. Controle la reproducción con "
+"teclas multimedia o en el indicador de audio del sistema."
+
+#: data/music.metainfo.xml.in:18
+msgid "Quickly queue up your favorite tracks"
+msgstr "Ponga rápidamente en la cola de reproducción sus pistas favoritas"
+
+#: data/music.metainfo.xml.in:59 data/music.metainfo.xml.in:70
+#: data/music.metainfo.xml.in:84
+msgid "Improvements:"
+msgstr "Mejoras:"
+
+#: data/music.metainfo.xml.in:61
+msgid "Toolbar shows a shadow when the view is scrolled"
+msgstr "La barra de herramientas ahora muestra una sombra al desplazar la vista"
+
+#: data/music.metainfo.xml.in:62
+msgid "Open audio files from within Music"
+msgstr "Ahora se pueden archivos de audio dentro de Music"
+
+#: data/music.metainfo.xml.in:63 data/music.metainfo.xml.in:73
+#: data/music.metainfo.xml.in:106
+msgid "Updated translations"
+msgstr "Traducciones actualizadas"
+
+#: data/music.metainfo.xml.in:72
+msgid "Open folders in the filemanager with Music"
+msgstr ""
+"Ahora se pueden abrir carpetas en Música desde el administrador de archivos"
+
+#: data/music.metainfo.xml.in:86
+msgid "For tracks without a title, use the file name instead of the whole URI"
+msgstr ""
+"Para archivos sin título, ahora se muestra el nombre del archivo en vez de "
+"la ruta completa"
+
+#: data/music.metainfo.xml.in:87
+msgid "Skip invalid files instead of stopping playback"
+msgstr ""
+"Ahora los archivos no válidos se omiten en vez de detener la reproducción"
+
+#: data/music.metainfo.xml.in:88
+msgid "Next and Repeat buttons always work regardless of repeat mode"
+msgstr ""
+"Los botones de «Siguiente» y «Repetir» ahora funcionan siempre sin importar "
+"el modo de repetición"
+
+#: data/music.metainfo.xml.in:89
+msgid ""
+"Now available in Catalan, Dutch, Finnish, French, German, Hebrew, Hungarian, "
+"Japanese, Korean, Kurdish, Marathi, Norwegian Bokmål, Polish, Portuguese, "
+"Russian, Simplified Chinese, Turkish, and Ukrainian"
+msgstr ""
+"Ahora disponible en catalán, holandés, finlandés, francés, alemán, hebreo, "
+"húngaro, japonés, coreano, kurdo, marathi, bokmål noruego, polaco, "
+"portugués, ruso, chino simplificado, turco y ucraniano"
+
+#: data/music.metainfo.xml.in:99
+msgid "Complete rewrite"
+msgstr "Reescritura completa"
+
+#: data/music.metainfo.xml.in:105
+msgid "Drop support for Last.FM"
+msgstr "Eliminado soporte para Last.FM"
+
+#: data/music.desktop.in:7
+msgid "Listen to music"
+msgstr "Escucha música"
+
+#: data/music.desktop.in:9
+msgid "Noise;Audio;Player;MP3;Play;Playlist;Media;Songs;"
+msgstr ""
+"Ruido; Audio; Reproductor; MP3; Reproducción; Lista de reproducción; Medios; "
+"Canciones;"
+
+#~ msgid "Phyre Ltd."
+#~ msgstr "Phyre Ltd."
+
+#~ msgid "Fix an issue with saving smart playlists"
+#~ msgstr ""
+#~ "Corregido un problema al guardar listas de reproducción inteligentes"
+
+#~ msgid "Drop support for CD-ROM"
+#~ msgstr "Ya no se admiten CD-ROM"
+
+#~ msgid "Dark style support"
+#~ msgstr "Agregado soporte para modo oscuro"
+
+#~ msgid "Minor visual improvements"
+#~ msgstr "Pequeñas mejoras visuales"
+
+#~ msgid "Music Player"
+#~ msgstr "Reproductor de música"
+
+#~ msgid "Fix removing items from the queue"
+#~ msgstr "Corrección de la eliminación de elementos de la cola"
+
+#~ msgid "Fix equalizer sliders not properly disabled sometimes"
+#~ msgstr ""
+#~ "Corrección de los controles deslizantes del ecualizador que a veces no "
+#~ "están desactivados correctamente"
+
+#~ msgid "Performance improvements"
+#~ msgstr "Mejoras de rendimiento"
+
+#~ msgid "Removed old gsignond vapi"
+#~ msgstr "Se eliminó la antigua VAPI gsignond"
+
+#~ msgid "LibraryWindow: Use Granite.MessageDialog for showing alerts"
+#~ msgstr "LibraryWindow: Usar Granite.MessageDialog para mostrar alertas"
+
+#~ msgid "PlaylistsUtils: Use Gtk.FileChooserNative"
+#~ msgstr "PlaylistsUtils: Usar Gtk.FileChooserNative"
+
+#~ msgid "Accurately remember window size"
+#~ msgstr "Se recuerda con precisión el tamaño de la ventana"
+
+#~ msgid "Scale album art properly at high resolutions"
+#~ msgstr "Se escala la cubierta del álbum correctamente en resoluciones altas"
+
+#~ msgid ""
+#~ "Accurately select Music Folder Location for directories with spaces in "
+#~ "name"
+#~ msgstr ""
+#~ "Selección precisa de la ubicación de la carpeta de música en directorios "
+#~ "con espacios en el nombre"
+
+#~ msgid "New MediaKeyListener path for gnome-settings-daemon"
+#~ msgstr "Ruta nueva de MediaKeyListener para gnome-settings-daemon"
+
+#~ msgid "AlbumView: double-click to play album"
+#~ msgstr "AlbumView: pulse dos veces para reproducir el álbum"
+
+#~ msgid "Associate with s3m files"
+#~ msgstr "Asociación con archivos s3m"
+
+#~ msgid "Queue fixes"
+#~ msgstr "Arreglos en la cola"
+
+#~ msgid "Properly restore playlists"
+#~ msgstr "Se restauran adecuadamente las listas de reproducción"
+
+#~ msgid "Always respect custom music folder setting"
+#~ msgstr ""
+#~ "Se respeta siempre la configuración personalizada de la carpeta de música"
+
+#~ msgid "Minor bug fixes"
+#~ msgstr "Correcciones de errores menores"
+
+#~ msgid "Fix list and column view sorting"
+#~ msgstr "Se arregló la ordenación de las vistas de lista y por columnas"
+
+#~ msgid "Add orange accent color"
+#~ msgstr "Se añadió el color de realce naranja"
+
+#~ msgid "Add shortcut accels to tooltips"
+#~ msgstr "Se añadieron atajos a las descripciones emergentes"
+
+#~ msgid "Various UI changes"
+#~ msgstr "Varios cambios en la interfaz de usuario"
+
+#~ msgid "Shuffle fixes"
+#~ msgstr "Correcciones en el modo aleatorio"
+
+#~ msgid "Initial MPRIS support"
+#~ msgstr "Compatibilidad inicial con MPRIS"
+
+#~ msgid "Detect library changes at startup."
+#~ msgstr "Se detectan cambios en la fonoteca al iniciar."
+
+#~ msgid "Support searching by URI"
+#~ msgstr "Se permiten las búsquedas por URI"
+
+#~ msgid "Change the queue mechanism to make it less confusing."
+#~ msgstr "Se cambió el mecanismo de la cola para que sea menos confuso."
+
+#~ msgid "Improve equalizer style."
+#~ msgstr "Se mejoró el estilo del ecualizador."
+
+#~ msgid "Minor bug fixes."
+#~ msgstr "Correcciones de errores menores."
+
+#~ msgid "Add rounded bottom window corner."
+#~ msgstr "Agregar la esquina inferior redondeada de la ventana."
+
+#~ msgid "New translations"
+#~ msgstr "Traducciones nuevas"
+
+#~ msgid "Release for Loki."
+#~ msgstr "Lanzamiento de Loki."
+
+#~ msgid "Add support for Opus Ogg"
+#~ msgstr "Se añadió compatibilidad con Opus Ogg"
+
+#~ msgid "Fix Ctrl+Q support for non-Latin keyboard layouts"
+#~ msgstr ""
+#~ "Corrección de compatibilidad de Ctrl+Q para diseños de teclado no latinos"
+
+#~ msgid "Reorganize media edition layout"
+#~ msgstr "Se reorganizó la disposición de edición de medios"
+
+#~ msgid "Port grid to support HiDPI displays"
+#~ msgstr "Se reescribió la cuadrícula para admitir pantallas HiDPI"
+
+#~ msgid "Update icons to latest elementary icon release"
+#~ msgstr "Se actualizó a la versión más reciente de los iconos de elementary"
+
+#~ msgid "Respect privacy mode"
+#~ msgstr "Se respeta el modo de privacidad"
+
+#~ msgid "The official elementary music player"
+#~ msgstr "El reproductor de música oficial de elementary OS"
+
+#~ msgid ""
+#~ "Music is a fast and beautiful audio player with a focus on music and "
+#~ "libraries. It handles external devices and album art."
+#~ msgstr ""
+#~ "Música es un reproductor de audio rápido y elegante que se centra en la "
+#~ "música y las bibliotecas. Gestiona dispositivos externos y carátulas de "
+#~ "álbumes."
+
+#~ msgid "io.phyre.music"
+#~ msgstr "io.phyre.music"
+
+#~ msgid "multimedia-audio-player"
+#~ msgstr "multimedia-audio-player"
+
+#~ msgid "About Music"
+#~ msgstr "Acerca del reproductor de música"
+
+#~ msgid "Noise"
+#~ msgstr "Reproductor de música"
+
+#~ msgid "About Noise"
+#~ msgstr "Acerca del reproductor de música"

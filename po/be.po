@@ -1,0 +1,384 @@
+# Belarusian translation for noise
+# Copyright (c) 2013 Rosetta Contributors and Canonical Ltd 2013
+# This file is distributed under the same license as the noise package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: noise\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-01 10:32+0000\n"
+"PO-Revision-Date: 2015-12-21 13:45+0000\n"
+"Last-Translator: Daniel Fore <Unknown>\n"
+"Language-Team: Belarusian <be@li.org>\n"
+"Language: be\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Launchpad-Export-Date: 2017-03-07 05:51+0000\n"
+"X-Generator: Launchpad (build 18330)\n"
+
+#: src/Application.vala:92 src/Views/NowPlayingView.vala:18
+#: src/Views/NowPlayingView.vala:116
+msgid "Music"
+msgstr "Музыка"
+
+#: src/MainWindow.vala:20
+msgid "Shuffle"
+msgstr ""
+
+#: src/MainWindow.vala:26
+msgid "Search titles in playlist"
+msgstr ""
+
+#: src/MainWindow.vala:45
+msgid "Queue is Empty"
+msgstr ""
+
+#: src/MainWindow.vala:46
+msgid "Audio files opened from Files will appear here"
+msgstr ""
+
+#: src/MainWindow.vala:63
+msgid "Open Files…"
+msgstr ""
+
+#: src/MainWindow.vala:167
+#, c-format
+msgid "%d invalid file was not added to the queue"
+msgid_plural "%d invalid files were not added to the queue"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: src/MainWindow.vala:215
+msgid "All files"
+msgstr ""
+
+#: src/MainWindow.vala:220
+#, fuzzy
+#| msgid "Music Player"
+msgid "Music files"
+msgstr "Прайгравальнік музыкі"
+
+#: src/MainWindow.vala:229
+msgid "Open"
+msgstr ""
+
+#: src/MainWindow.vala:233
+msgid "Open audio files"
+msgstr ""
+
+#: src/MainWindow.vala:271
+msgid "Repeat None"
+msgstr ""
+
+#: src/MainWindow.vala:275
+msgid "Repeat All"
+msgstr ""
+
+#: src/MainWindow.vala:279
+msgid "Repeat One"
+msgstr ""
+
+#: src/PlaybackManager.vala:136
+#, c-format
+msgid "%d track was added to the queue"
+msgid_plural "%d tracks were added to the queue"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#. Don't set artist for files without tags
+#: src/PlaybackManager.vala:196
+msgid "Unknown"
+msgstr "Невядомы"
+
+#: src/Views/NowPlayingView.vala:23 src/Views/NowPlayingView.vala:115
+#, fuzzy
+msgid "Not playing"
+msgstr "Новы спіс прайгравання"
+
+#: src/Views/NowPlayingView.vala:45
+msgid "Previous"
+msgstr ""
+
+#: src/Views/NowPlayingView.vala:68
+msgid "Next"
+msgstr ""
+
+#: src/Views/NowPlayingView.vala:93
+msgid "Play"
+msgstr ""
+
+#: src/Views/NowPlayingView.vala:96
+msgid "Pause"
+msgstr ""
+
+#~ msgid "Flat"
+#~ msgstr "Плоскі"
+
+#~ msgid "Classical"
+#~ msgstr "Клясыка"
+
+#~ msgid "Club"
+#~ msgstr "Клубная"
+
+#~ msgid "Dance"
+#~ msgstr "Танцавальная"
+
+#~ msgid "Full Bass"
+#~ msgstr "Толькі Басс"
+
+#~ msgid "Full Treble"
+#~ msgstr "Толькі Высокія Частоты"
+
+#~ msgid "Full Bass + Treble"
+#~ msgstr "Толькі Басс + Высокія Частоты"
+
+#~ msgid "Headphones"
+#~ msgstr "Навушнікі"
+
+#~ msgid "Live"
+#~ msgstr "Жывы гук"
+
+#~ msgid "Party"
+#~ msgstr "Вечарына"
+
+#~ msgid "Pop"
+#~ msgstr "Поп"
+
+#~ msgid "Reggae"
+#~ msgstr "Рэгі"
+
+#~ msgid "Rock"
+#~ msgstr "Рок"
+
+#~ msgid "Ska"
+#~ msgstr "Ска"
+
+#~ msgid "Soft Rock"
+#~ msgstr "Лёгкі рок"
+
+#~ msgid "Techno"
+#~ msgstr "Тэхна"
+
+#~ msgid "Playlist"
+#~ msgstr "Спіс прайгравання"
+
+#~ msgid "Unrecognized playlist file. Import failed."
+#~ msgstr "Невядомы файл плэйліста. Імпарт не выкананы"
+
+#~ msgctxt "Name of the playlist"
+#~ msgid "Queue"
+#~ msgstr "Чарга"
+
+#~ msgid "Remove Song"
+#~ msgstr "Выдаліць Песню"
+
+#, fuzzy
+#~ msgid "Remove %d Song From Library?"
+#~ msgid_plural "Remove %d Songs From Library?"
+#~ msgstr[0] "Выдаліць з Бібліятэкі"
+#~ msgstr[1] "Выдаліць з Бібліятэкі"
+#~ msgstr[2] "Выдаліць з Бібліятэкі"
+
+#, fuzzy
+#~ msgid "Remove \"%s\" From Library?"
+#~ msgstr "Выдаліць з Бібліятэкі"
+
+#~ msgid "Remove from Library"
+#~ msgstr "Выдаліць з Бібліятэкі"
+
+#~ msgid "History"
+#~ msgstr "Гісторыя"
+
+#~ msgid "Device Name:"
+#~ msgstr "Назва Прылады:"
+
+#~ msgid "Device Name"
+#~ msgstr "Назва прылады"
+
+#~ msgid "Automatically sync when plugged in:"
+#~ msgstr "Аўтаматычная сінхранізацыя пры падключэнні:"
+
+#~ msgid "Sync:"
+#~ msgstr "Сінхранізацыя:"
+
+#~ msgid "All Music"
+#~ msgstr "Уся Музыка"
+
+#~ msgid "Sync Failed"
+#~ msgstr "Сінхранізацыя Не Удалася"
+
+#~ msgid "Cannot Sync"
+#~ msgstr "Немагчыма Сінхранізаваць"
+
+#~ msgid ""
+#~ "Cannot sync device with selected sync settings. Not enough space on disk"
+#~ msgstr ""
+#~ "Немагчыма сінхранізаваць прыладу з выбранымі наладкамі  сінхранізацыі. Не "
+#~ "хапае месца на дыску"
+
+#~ msgid "Genres"
+#~ msgstr "Жанры"
+
+#~ msgid "Artists"
+#~ msgstr "Мастакі"
+
+#~ msgid "Albums"
+#~ msgstr "Альбомы"
+
+#~ msgid "Never"
+#~ msgstr "Ніколі"
+
+#~ msgctxt "List column title"
+#~ msgid "Track"
+#~ msgstr "Аўдыясцежка"
+
+#~ msgctxt "List column title"
+#~ msgid "Title"
+#~ msgstr "Назва"
+
+#~ msgctxt "List column title"
+#~ msgid "Length"
+#~ msgstr "Даўжыня"
+
+#~ msgctxt "List column title"
+#~ msgid "Artist"
+#~ msgstr "Мастак"
+
+#~ msgctxt "List column title"
+#~ msgid "Album"
+#~ msgstr "Альбом"
+
+#~ msgctxt "List column title"
+#~ msgid "Album Artist"
+#~ msgstr "Выканаўца альбома"
+
+#~ msgctxt "List column title"
+#~ msgid "Composer"
+#~ msgstr "Кампазітар"
+
+#~ msgctxt "List column title"
+#~ msgid "Genre"
+#~ msgstr "Жанар"
+
+#~ msgctxt "List column title"
+#~ msgid "Year"
+#~ msgstr "Год"
+
+#~ msgctxt "List column title"
+#~ msgid "Bitrate"
+#~ msgstr "Частата бітаў"
+
+#~ msgctxt "List column title"
+#~ msgid "Rating"
+#~ msgstr "Рэйтынг"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Plays"
+#~ msgstr "Спіс прайгравання"
+
+#~ msgctxt "List column title"
+#~ msgid "Date Added"
+#~ msgstr "Дата дадання"
+
+#~ msgctxt "List column title"
+#~ msgid "Last Played"
+#~ msgstr "Апошні раз гучала"
+
+#~ msgctxt "List column title (beats per minute)"
+#~ msgid "BPM"
+#~ msgstr "Удараў на хвіліну"
+
+#~ msgctxt "List column title (file location)"
+#~ msgid "Location"
+#~ msgstr "Размяшчэнне"
+
+#~ msgctxt "List column title"
+#~ msgid "File Size"
+#~ msgstr "Памер файла"
+
+#, fuzzy
+#~ msgid "Show in File Browser…"
+#~ msgstr "Паказаць у Файлавым Браўзары"
+
+#, fuzzy
+#~ msgid "Edit Song Info…"
+#~ msgstr "Рэдагаваць Інфармацыю Песні"
+
+#, fuzzy
+#~ msgid "Other Actions"
+#~ msgstr "Іншы Файлы"
+
+#~ msgctxt "Action item (verb)"
+#~ msgid "Queue"
+#~ msgstr "Чарга"
+
+#~ msgid "Add to Playlist"
+#~ msgstr "Дадаць у спіс прайгравання"
+
+#, fuzzy
+#~ msgid "Remove Song…"
+#~ msgstr "Выдаліць Песню"
+
+#~ msgid "Import to Library"
+#~ msgstr "Імпартаваць у Бібліятэку"
+
+#, fuzzy
+#~ msgid "Remove from Library…"
+#~ msgstr "Выдаліць з Бібліятэкі"
+
+#~ msgid "Remove from Device"
+#~ msgstr "Выдаліць з Прылады"
+
+#~ msgid "Remove from Queue"
+#~ msgstr "Выдаліць з Чаргі"
+
+#, fuzzy
+#~| msgid "Add to Playlist"
+#~ msgid "Add Playlist…"
+#~ msgstr "Дадаць у спіс прайгравання"
+
+#, fuzzy
+#~ msgid "View as list"
+#~ msgstr "Новы спіс прайгравання"
+
+#~ msgctxt "minutes and seconds"
+#~ msgid "%s and %s"
+#~ msgstr "%s і %s"
+
+#~ msgctxt "days and hours"
+#~ msgid "%s and %s"
+#~ msgstr "%s і %s"
+
+#~ msgctxt "days and minutes"
+#~ msgid "%s and %s"
+#~ msgstr "%s і %s"
+
+#~ msgctxt "hours and minutes"
+#~ msgid "%s and %s"
+#~ msgstr "%s і %s"
+
+#~ msgid "translator-credits"
+#~ msgstr ""
+#~ "Launchpad Contributions:\n"
+#~ "  Alexander Rosolko https://launchpad.net/~rosolko\n"
+#~ "  Daniel Fore https://launchpad.net/~danrabbit\n"
+#~ "  Yan Pavolny https://launchpad.net/~pavolny"
+
+#~ msgid "Listen to music"
+#~ msgstr "Слухаць музыку"
+
+#~ msgid "All Podcasts"
+#~ msgstr "Усе Падкасты"
+
+#~ msgid "Podcasts"
+#~ msgstr "Падкасты"
+
+#~ msgid "Display Album Art"
+#~ msgstr "Адлюстроўваць Вокладкі Альбомаў"

@@ -1,0 +1,1828 @@
+# Malay translation for noise
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the noise package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: noise\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-01 10:32+0000\n"
+"PO-Revision-Date: 2015-12-21 13:43+0000\n"
+"Last-Translator: Daniel Fore <Unknown>\n"
+"Language-Team: Malay <ms@li.org>\n"
+"Language: ms\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Launchpad-Export-Date: 2017-03-07 05:54+0000\n"
+"X-Generator: Launchpad (build 18330)\n"
+
+#: src/Application.vala:92 src/Views/NowPlayingView.vala:18
+#: src/Views/NowPlayingView.vala:116
+msgid "Music"
+msgstr "Muzik"
+
+#: src/MainWindow.vala:20
+#, fuzzy
+msgid "Shuffle"
+msgstr "Benarkan Kocok"
+
+#: src/MainWindow.vala:26
+msgid "Search titles in playlist"
+msgstr ""
+
+#: src/MainWindow.vala:45
+msgid "Queue is Empty"
+msgstr ""
+
+#: src/MainWindow.vala:46
+msgid "Audio files opened from Files will appear here"
+msgstr ""
+
+#: src/MainWindow.vala:63
+#, fuzzy
+#| msgid "Other Files"
+msgid "Open Files…"
+msgstr "Fail Lain"
+
+#: src/MainWindow.vala:167
+#, c-format
+msgid "%d invalid file was not added to the queue"
+msgid_plural "%d invalid files were not added to the queue"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/MainWindow.vala:215
+#, fuzzy
+#| msgid "All Years"
+msgid "All files"
+msgstr "Semua Tahun"
+
+#: src/MainWindow.vala:220
+#, fuzzy
+#| msgid "Music Folder"
+msgid "Music files"
+msgstr "Folder Muzik"
+
+#: src/MainWindow.vala:229
+msgid "Open"
+msgstr "Buka"
+
+#: src/MainWindow.vala:233
+msgid "Open audio files"
+msgstr ""
+
+#: src/MainWindow.vala:271
+#, fuzzy
+msgid "Repeat None"
+msgstr "Ulang Lagu"
+
+#: src/MainWindow.vala:275
+#, fuzzy
+msgid "Repeat All"
+msgstr "Ulang Album"
+
+#: src/MainWindow.vala:279
+#, fuzzy
+msgid "Repeat One"
+msgstr "Ulang Lagu"
+
+#: src/PlaybackManager.vala:136
+#, c-format
+msgid "%d track was added to the queue"
+msgid_plural "%d tracks were added to the queue"
+msgstr[0] ""
+msgstr[1] ""
+
+#. Don't set artist for files without tags
+#: src/PlaybackManager.vala:196
+msgid "Unknown"
+msgstr "Tidak diketahui"
+
+#: src/Views/NowPlayingView.vala:23 src/Views/NowPlayingView.vala:115
+#, fuzzy
+msgid "Not playing"
+msgstr "Senarai main baru"
+
+#: src/Views/NowPlayingView.vala:45
+msgid "Previous"
+msgstr "Terdahulu"
+
+#: src/Views/NowPlayingView.vala:68
+msgid "Next"
+msgstr "Berikutnya"
+
+#: src/Views/NowPlayingView.vala:93
+msgid "Play"
+msgstr "Main"
+
+#: src/Views/NowPlayingView.vala:96
+msgid "Pause"
+msgstr "Jeda"
+
+#~ msgid "Importing <b>$NAME</b> by <b>$ARTIST</b> to library…"
+#~ msgstr "Mengimport <b>$NAME</b> oleh <b>$ARTIST</b> ke pustaka…"
+
+#~ msgid "$NAME on $ALBUM"
+#~ msgstr "$NAME pada $ALBUM"
+
+#~ msgid "$NAME by $ARTIST"
+#~ msgstr "$NAME oleh $ARTIST"
+
+#~ msgid "$NAME by $ARTIST on $ALBUM"
+#~ msgstr "$NAME oleh $ARTIST pada $ALBUM"
+
+#~ msgid "Flat"
+#~ msgstr "Rata"
+
+#~ msgid "Classical"
+#~ msgstr "Klasik"
+
+#~ msgid "Club"
+#~ msgstr "Kelab"
+
+#~ msgid "Dance"
+#~ msgstr "Dance"
+
+#~ msgid "Full Bass"
+#~ msgstr "Bass Penuh"
+
+#~ msgid "Full Treble"
+#~ msgstr "Trebel Penuh"
+
+#~ msgid "Full Bass + Treble"
+#~ msgstr "Bass + Trebel Penuh"
+
+#~ msgid "Headphones"
+#~ msgstr "Fon Kepala"
+
+#~ msgid "Large Hall"
+#~ msgstr "Dewan Besar"
+
+#~ msgid "Live"
+#~ msgstr "Langsung"
+
+#~ msgid "Party"
+#~ msgstr "Pesta"
+
+#~ msgid "Pop"
+#~ msgstr "Pop"
+
+#~ msgid "Reggae"
+#~ msgstr "Reggae"
+
+#~ msgid "Rock"
+#~ msgstr "Rock"
+
+#~ msgid "Soft"
+#~ msgstr "Soft"
+
+#~ msgid "Ska"
+#~ msgstr "Ska"
+
+#~ msgid "Soft Rock"
+#~ msgstr "Soft Rock"
+
+#~ msgid "Techno"
+#~ msgstr "Techno"
+
+#~ msgid " (%d)"
+#~ msgstr " (%d)"
+
+#~ msgid "%s (%d)"
+#~ msgstr "%s (%d)"
+
+#~ msgid "%s (%i)"
+#~ msgstr "%s (%i)"
+
+#~ msgid "MPEG Version 3.0 Extended (*.m3u)"
+#~ msgstr "Versi MPEG 3.0 Sambungan (*.m3u)"
+
+#~ msgid "Shoutcast Playlist Version 2.0 (*.pls)"
+#~ msgstr "Senarai Main Shoutcast Versi 2.0 (*.pls)"
+
+#~ msgid "Export Playlist"
+#~ msgstr "Eksport Senarai Main"
+
+#~ msgid "Save"
+#~ msgstr "Simpan"
+
+#~ msgid "Cancel"
+#~ msgstr "Batal"
+
+#~ msgid "Playlist"
+#~ msgstr "Senarai main"
+
+#~ msgid "Import %s"
+#~ msgstr "Import %s"
+
+#~ msgid "Unrecognized playlist file. Import failed."
+#~ msgstr "Fail senarai main tidak dikenali. Import mengalami kegagalan."
+
+#~ msgid "%m/%e/%Y %l:%M %p"
+#~ msgstr "%m/%e/%Y %l:%M %p"
+
+#~ msgid "Empty device!"
+#~ msgstr "Peranti kosong!"
+
+#~ msgid "This device does not contain any music."
+#~ msgstr "Peranti ini tidak mengandungi sebarang muzik."
+
+#~ msgid "Android Phone"
+#~ msgstr "Telefon Android"
+
+#~ msgid "Audio Player"
+#~ msgstr "Pemain Audio"
+
+#~ msgid "Adding <b>$NAME</b> by <b>$ARTIST</b> to $DEVICE"
+#~ msgstr "Menambah <b>$NAME</b> oleh <b>$ARTIST</b> ke $DEVICE"
+
+#~ msgid "Syncing <b>%s</b>…"
+#~ msgstr "Menyegerak <b>%s</b>…"
+
+#~ msgid "Removing <b>$NAME</b> by <b>$ARTIST</b> from $DEVICE"
+#~ msgstr "Membuang <b>$NAME</b> oleh <b>$ARTIST</b> daripada $DEVICE"
+
+#~ msgid "Removing from <b>%s</b>…"
+#~ msgstr "Membuang dari <b>%s</b>…"
+
+#~ msgid "Finishing sync process…"
+#~ msgstr "Menyelesaikan proses segerak..."
+
+#~ msgid "Cancelling Sync…"
+#~ msgstr "Membatalkan Segerak..."
+
+#~ msgid "Import Complete"
+#~ msgstr "Proses Mengimport Selesai"
+
+#~ msgid "<b>Copying</b> files to <b>Music Folder</b>…"
+#~ msgstr "<b>Menyalin</b> fail ke <b>Folder Muzik </b>…"
+
+#~ msgid "Import to Library…"
+#~ msgstr "Import ke Pustaka..."
+
+#~ msgid "Preferences"
+#~ msgstr "Keutamaan"
+
+#~ msgid "Search Music"
+#~ msgstr "Gelintar Muzik"
+
+#~ msgid "No songs in Queue"
+#~ msgstr "Tiada lagu dalam Baris Gilir"
+
+#~ msgid ""
+#~ "To add songs to the queue, use the <b>secondary click</b> on an item and "
+#~ "choose <b>Queue</b>. When a song finishes, the queued songs will be "
+#~ "played first before the next song in the currently playing list."
+#~ msgstr ""
+#~ "Untuk menambah lagu ke baris  gilir, guna <b>klik kedua</b> pada item dan "
+#~ "pilih <b>Baris Gilir</b>. Bila lagu selesai dimainkan, lagu dibaris gilir "
+#~ "akan dimainkan dahulu sebelum lagi berikutnya dalam senarai main."
+
+#~ msgid "No songs in History"
+#~ msgstr "Tiada lagu dalam Sejarah"
+
+#~ msgid ""
+#~ "After a part of a song has been played, it is added to the history list.\n"
+#~ "You can use this list to see all the songs you have played during the "
+#~ "current session."
+#~ msgstr ""
+#~ "Selepas sebahagian lagu telah dimainkan, ia akan ditambah ke senarai.\n"
+#~ "Sejarah. Anda  boleh guna senarai ini untuk melihat semua lagu yang anda "
+#~ "telah\n"
+#~ "main ketika sesi semasa."
+
+#~ msgid "Import Music"
+#~ msgstr "Import Muzik"
+
+#~ msgctxt "Name of the playlist"
+#~ msgid "Queue"
+#~ msgstr "Baris Gilir"
+
+#~ msgid "File not found"
+#~ msgstr "Fail tidak ditemui"
+
+#~ msgid "The music file for <b>%s</b> by <b>%s</b> could not be found."
+#~ msgstr "Fail muzik untuk <b>%s</b> oleh <b>%s</b> tidak ditemui."
+
+#, fuzzy
+#~| msgid "%i music files could not be found?"
+#~ msgid "%i music files could not be found."
+#~ msgstr "Fail muzik %i tidak ditemui?"
+
+#~ msgid "Rescan Library"
+#~ msgstr "Imbas Semula Pustaka"
+
+#~ msgid "Remove Song"
+#~ msgstr "Buang Lagu"
+
+#~ msgid "Find Song"
+#~ msgstr "Cari Lagu"
+
+#~ msgid "Choose Music Folder"
+#~ msgstr "Pilih Folder Muzik"
+
+#, fuzzy
+#~ msgid "Would you like to install the %s plugin?"
+#~ msgstr "Anda mahu pasang pemalam %s?\n"
+
+#, fuzzy
+#~ msgid ""
+#~ "This song cannot be played. The %s plugin is required to play the song."
+#~ msgstr ""
+#~ "\n"
+#~ "Lagu ini tidak dapat dimainkan. Pemalam %s diperlukan untuk memainkan "
+#~ "lagu."
+
+#~ msgid "Install Plugin"
+#~ msgstr "Pasang Pemalam"
+
+#, fuzzy
+#~ msgid "Disc:"
+#~ msgstr "Cakera"
+
+#~ msgid "Close"
+#~ msgstr "Tutup"
+
+#, fuzzy
+#~ msgid "Issues while importing from %s"
+#~ msgstr "Mengimport muzik dari %s..."
+
+#, fuzzy
+#~ msgid "Unable to import %d item. The file may be damaged."
+#~ msgid_plural "Unable to import %d items. The files may be damaged."
+#~ msgstr[0] "%s tidak boleh improt %d item. Fail mungkin rosak."
+#~ msgstr[1] "%s tidak boleh improt %d item. Fail mungkin rosak."
+
+#~ msgid "Move all corrupted files to trash"
+#~ msgstr "Buang semua fail rosak ke tong sampah"
+
+#~ msgid "del"
+#~ msgstr "del"
+
+#~ msgid "File Location"
+#~ msgstr "Lokasi Fail"
+
+#~ msgid "Select individual files to move to trash:"
+#~ msgstr "Pilih fail individu untuk dialih ke tong sampah:"
+
+#~ msgid "Move to Trash"
+#~ msgstr "Alih ke Tong Sampah"
+
+#~ msgid "Ignore"
+#~ msgstr "Abai"
+
+#~ msgid "Select Music Folder…"
+#~ msgstr "Pilih Folder Muzik..."
+
+#~ msgid "Music Folder Location"
+#~ msgstr "Lokasi Folder Muzik"
+
+#~ msgid "Library Management"
+#~ msgstr "Pengurusan Pustaka"
+
+#~ msgid "Keep Music folder organized:"
+#~ msgstr "Kekalkan folder Muzik terurus:"
+
+#~ msgid "Write metadata to file:"
+#~ msgstr "Tulis data meta ke fail:"
+
+#~ msgid "Copy imported files to Library:"
+#~ msgstr "Salin fail terimport ke Pustaka:"
+
+#~ msgid "Continue playback when closed:"
+#~ msgstr "Teruskan main balik bila ditutup:"
+
+#, fuzzy
+#~ msgid "Remove %d Song From Library?"
+#~ msgid_plural "Remove %d Songs From Library?"
+#~ msgstr[0] "Buang %d Lagu Dari %s?"
+#~ msgstr[1] "Buang %d Lagu Dari %s?"
+
+#, fuzzy
+#~ msgid "Remove \"%s\" From Library?"
+#~ msgstr "Buang dari Pustaka"
+
+#, fuzzy
+#~ msgid ""
+#~ "This will remove the song from your library and from any device synced "
+#~ "automatically."
+#~ msgid_plural ""
+#~ "This will remove the songs from your library and from any device synced "
+#~ "automatically."
+#~ msgstr[0] ""
+#~ "Ia akan buang lagu dari pustaka anda dan dari sebarang peranti yang "
+#~ "disegerak secara automatik dengan %s."
+#~ msgstr[1] ""
+#~ "Ia akan buang lagu dari pustaka anda dan dari sebarang peranti yang "
+#~ "disegerak secara automatik dengan %s."
+
+#~ msgid "Remove from Library"
+#~ msgstr "Buang dari Pustaka"
+
+#~ msgid "Set Music Folder?"
+#~ msgstr "Tetapkan Folder Muzik?"
+
+#~ msgid ""
+#~ "Are you sure you want to set the music folder to %s? This will reset your "
+#~ "library and remove your playlists."
+#~ msgstr ""
+#~ "Anda pasti hendak tetapkan folder muzik ke %s? Ia akan tetapkan semula "
+#~ "pustaka dan buang senarai main anda."
+
+#~ msgid "Export Playlists"
+#~ msgstr "Eksport Senarai Main"
+
+#~ msgid "Set Music Folder"
+#~ msgstr "Tetapkan Folder Muzik"
+
+#~ msgid "Playlist Title"
+#~ msgstr "Tajuk Senarai Main"
+
+#~ msgid "any"
+#~ msgstr "sebarang"
+
+#~ msgid "all"
+#~ msgstr "semua"
+
+#~ msgid "Match"
+#~ msgstr "Padan"
+
+#~ msgid "of the following:"
+#~ msgstr "yang berikut:"
+
+#~ msgid "Add"
+#~ msgstr "Tambah"
+
+#~ msgid "Limit to"
+#~ msgstr "Hadkan ke"
+
+#~ msgid "items"
+#~ msgstr "item"
+
+#~ msgid "Name of Playlist"
+#~ msgstr "Nama Senarai Main"
+
+#~ msgid "Rules"
+#~ msgstr "Peraturan"
+
+#~ msgid "Options"
+#~ msgstr "Pilihan"
+
+#~ msgid "Smart Playlist Editor"
+#~ msgstr "Penyunting Senarai Main Pintar"
+
+#~ msgid "Remove"
+#~ msgstr "Buang"
+
+#~ msgid "Album"
+#~ msgstr "Album"
+
+#~ msgid "Artist"
+#~ msgstr "Artis"
+
+#~ msgid "Bitrate"
+#~ msgstr "Kadar Bit"
+
+#~ msgid "Comment"
+#~ msgstr "Ulasan"
+
+#~ msgid "Composer"
+#~ msgstr "Penggubah"
+
+#~ msgid "Date Added"
+#~ msgstr "Tarikh Ditambah"
+
+#~ msgid "Genre"
+#~ msgstr "Genre"
+
+#~ msgid "Grouping"
+#~ msgstr "Pengumpulan"
+
+#~ msgid "Last Played"
+#~ msgstr "Terakhir Dimain"
+
+#~ msgid "Length"
+#~ msgstr "Jangka masa"
+
+#~ msgid "Playcount"
+#~ msgstr "Kiraan Main"
+
+#~ msgid "Rating"
+#~ msgstr "Penarafan"
+
+#~ msgid "Skipcount"
+#~ msgstr "Kiraan Langkau"
+
+#~ msgid "Title"
+#~ msgstr "Tajuk"
+
+#~ msgid "Year"
+#~ msgstr "Tahun"
+
+#~ msgid "is"
+#~ msgstr "adalah"
+
+#~ msgid "contains"
+#~ msgstr "mengandungi"
+
+#~ msgid "does not contain"
+#~ msgstr "tidak mengandungi"
+
+#~ msgid "is exactly"
+#~ msgstr "dengan tepat"
+
+#~ msgid "is at most"
+#~ msgstr "adalah keseluruhannya"
+
+#~ msgid "is at least"
+#~ msgstr "adalah sekurang-kurangnya"
+
+#~ msgid "is within"
+#~ msgstr "adalah didalam"
+
+#~ msgid "is before"
+#~ msgstr "adalah sebelum"
+
+#~ msgid "seconds"
+#~ msgstr "saat"
+
+#~ msgid "days ago"
+#~ msgstr "hari yang lalu"
+
+#~ msgid "kbps"
+#~ msgstr "kbps"
+
+#, fuzzy
+#~ msgid "Sync will remove %i item from %s"
+#~ msgid_plural "Sync will remove %i items from %s"
+#~ msgstr[0] "Segerak akan buang %i item dari %s"
+#~ msgstr[1] "Segerak akan buang %i item dari %s"
+
+#~ msgid ""
+#~ "If you continue to sync, media will be removed from %s since they are not "
+#~ "on the sync list. Would you like to import them to your library first?"
+#~ msgstr ""
+#~ "Jika anda teruskan segerak, media akan dibuang dari %s kerana ia tiada "
+#~ "dalam senarai segerak. Anda hendak import ia ke dalam pustaka anda dahulu"
+
+#~ msgid "Continue Syncing"
+#~ msgstr "Terus Menyegerak"
+
+#~ msgid "Import"
+#~ msgstr "Import"
+
+#~ msgid "Importing music from %s…"
+#~ msgstr "Mengimport muzik dari %s..."
+
+#~ msgid "Adding files to library…"
+#~ msgstr "Menambah fail ke pustaka..."
+
+#~ msgid "<b>Importing</b> music to library…"
+#~ msgstr "<b>Mengimport</b> muzik ke pustaka…"
+
+#~ msgid "All music files are already in your library"
+#~ msgstr "Semua fail muzik sudah ada di dalam pustaka anda"
+
+#~ msgid "No files were imported."
+#~ msgstr "Tiada fail diimport."
+
+#~ msgid "Rescanning music for changes. This may take a while…"
+#~ msgstr "Mengimbas semula muzik untuk perubahan. Ia mengambil masa..."
+
+#~ msgid "Added to your queue:"
+#~ msgstr "Ditambah ke baris gilir anda:"
+
+#~ msgid "Favorite Songs"
+#~ msgstr "Lagu Kegemaran"
+
+#~ msgid "Recently Added"
+#~ msgstr "Baru Ditambah"
+
+#~ msgid "Recent Favorites"
+#~ msgstr "Kegemaran baru-baru ini"
+
+#~ msgid "Never Played"
+#~ msgstr "Tidak Pernah Dimainkan"
+
+#~ msgid "Over Played"
+#~ msgstr "Terlebih Main"
+
+#~ msgid "Not Recently Played"
+#~ msgstr "Tiada Dimain Baru-baru Ini"
+
+#~ msgid "History"
+#~ msgstr "Sejarah"
+
+#~ msgid "Playlists"
+#~ msgstr "Senarai Main"
+
+#~ msgid "Device Name:"
+#~ msgstr "Nama Peranti:"
+
+#~ msgid "Device Name"
+#~ msgstr "Nama Peranti"
+
+#~ msgid "Automatically sync when plugged in:"
+#~ msgstr "Segerak secara automatik bila dipalamkan:"
+
+#~ msgid "Sync:"
+#~ msgstr "Segerak"
+
+#~ msgid "Sync"
+#~ msgstr "Segerak"
+
+#~ msgid "All Music"
+#~ msgstr "Semua Muzik"
+
+#~ msgid "Sync Failed"
+#~ msgstr "Segerak Mengalami Kegagaln"
+
+#~ msgid ""
+#~ "The playlist named %s is used to sync device %s, but could not be found."
+#~ msgstr ""
+#~ "Senarai main bernama %s digunakan untuk segerakan peranti %s, tetapi "
+#~ "tidak ditemui."
+
+#~ msgid "Cannot Sync"
+#~ msgstr "Tidak Dapat Segerak"
+
+#~ msgid ""
+#~ "Cannot sync device with selected sync settings. Not enough space on disk"
+#~ msgstr ""
+#~ "Tidak dapat segerak peranti dengan tetapan segerak terpilih. Ruang cakera "
+#~ "tidak mencukupi"
+
+#~ msgid "Device is already doing an operation."
+#~ msgstr "Peranti sudah membuat operasi."
+
+#~ msgid "Cancelling…"
+#~ msgstr "Membatalkan..."
+
+#~ msgid "Device operation has been cancelled and will stop after this media."
+#~ msgstr ""
+#~ "Operasi peranti telah dibatalkan dan akan berhenti selepas media ini."
+
+#, fuzzy
+#~ msgid "No Results"
+#~ msgstr "Tanpa Penarapan"
+
+#~ msgid "Genres"
+#~ msgstr "Genre"
+
+#~ msgid "Artists"
+#~ msgstr "Artis"
+
+#~ msgid "Albums"
+#~ msgstr "Album"
+
+#~ msgid "Years"
+#~ msgstr "Tahun"
+
+#~ msgid "Ratings"
+#~ msgstr "Penarafan"
+
+#~ msgid "Composers"
+#~ msgstr "Penggubah"
+
+#~ msgid "Groupings"
+#~ msgstr "Pengumpulan"
+
+#~ msgid "All Genres"
+#~ msgstr "Semua Genre"
+
+#~ msgid "All %i Genres"
+#~ msgstr "Semua %i Genre"
+
+#~ msgid "No Genres"
+#~ msgstr "Tanpa Genre"
+
+#~ msgid "All Artists"
+#~ msgstr "Semua Artis"
+
+#~ msgid "All %i Artists"
+#~ msgstr "Semua %i Artis"
+
+#~ msgid "No Artists"
+#~ msgstr "Tanpa Artis"
+
+#~ msgid "All Albums"
+#~ msgstr "Semua Album"
+
+#~ msgid "All %i Albums"
+#~ msgstr "Semua %i Album"
+
+#~ msgid "No Albums"
+#~ msgstr "Tanpa Album"
+
+#~ msgid "All %i Years"
+#~ msgstr "Semua %i Tahun"
+
+#~ msgid "No Years"
+#~ msgstr "Tanpa Tahun"
+
+#~ msgid "All Ratings"
+#~ msgstr "Semua Penarafan"
+
+#~ msgid "No Ratings"
+#~ msgstr "Tanpa Penarapan"
+
+#~ msgid "All Groupings"
+#~ msgstr "Semua Pengumpulan"
+
+#~ msgid "All %i Groupings"
+#~ msgstr "Semua %i Pengumpulan"
+
+#~ msgid "No Groupings"
+#~ msgstr "Tiada Pengumpulan"
+
+#~ msgid "All Composers"
+#~ msgstr "Semua Penggubah"
+
+#~ msgid "All %i Composers"
+#~ msgstr "Semua %i Penggubah"
+
+#~ msgid "No Composers"
+#~ msgstr "Tiada Penggubah"
+
+#~ msgid "Automatic"
+#~ msgstr "Automatik"
+
+#~ msgid "On Left"
+#~ msgstr "Disebelah Kiri"
+
+#~ msgid "On Top"
+#~ msgstr "Di Atas"
+
+#~ msgid "Unrated"
+#~ msgstr "Tidak ditarafkan"
+
+#~ msgid "Never"
+#~ msgstr "Tidak Sesekali"
+
+#~ msgctxt "List column title"
+#~ msgid "#"
+#~ msgstr "#"
+
+#~ msgctxt "List column title"
+#~ msgid "Track"
+#~ msgstr "Trek"
+
+#~ msgctxt "List column title"
+#~ msgid "Title"
+#~ msgstr "Tajuk"
+
+#~ msgctxt "List column title"
+#~ msgid "Length"
+#~ msgstr "Panjang"
+
+#~ msgctxt "List column title"
+#~ msgid "Artist"
+#~ msgstr "Artis"
+
+#~ msgctxt "List column title"
+#~ msgid "Album"
+#~ msgstr "Album"
+
+#~ msgctxt "List column title"
+#~ msgid "Album Artist"
+#~ msgstr "Artis Album"
+
+#~ msgctxt "List column title"
+#~ msgid "Composer"
+#~ msgstr "Penggubah"
+
+#~ msgctxt "List column title"
+#~ msgid "Genre"
+#~ msgstr "Genre"
+
+#~ msgctxt "List column title"
+#~ msgid "Year"
+#~ msgstr "Tahun"
+
+#~ msgctxt "List column title"
+#~ msgid "Grouping"
+#~ msgstr "Pengumpulan"
+
+#~ msgctxt "List column title"
+#~ msgid "Bitrate"
+#~ msgstr "Kadar Bit"
+
+#~ msgctxt "List column title"
+#~ msgid "Rating"
+#~ msgstr "Penarafan"
+
+#~ msgctxt "List column title"
+#~ msgid "Plays"
+#~ msgstr "Main"
+
+#~ msgctxt "List column title"
+#~ msgid "Skips"
+#~ msgstr "Langkau"
+
+#~ msgctxt "List column title"
+#~ msgid "Date Added"
+#~ msgstr "Tarikh Ditambah"
+
+#~ msgctxt "List column title"
+#~ msgid "Last Played"
+#~ msgstr "Terakhir Dimainkan"
+
+#~ msgctxt "List column title (beats per minute)"
+#~ msgid "BPM"
+#~ msgstr "BPM"
+
+#~ msgctxt "List column title (file location)"
+#~ msgid "Location"
+#~ msgstr "Lokasi"
+
+#~ msgctxt "List column title"
+#~ msgid "File Size"
+#~ msgstr "Saiz Fail"
+
+#~ msgid "Autosize Columns"
+#~ msgstr "Lajur Saiz Sendiri"
+
+#~ msgid "1234 kbps"
+#~ msgstr "1234 kbps"
+
+#~ msgid "Sample List String"
+#~ msgstr "Rentetan Senarai Sampel"
+
+#~ msgid "Get Some Tunes"
+#~ msgstr "Dapatkan Beberapa Tona"
+
+#~ msgid "Add music to your library."
+#~ msgstr "Tambah muzik ke pustaka anda"
+
+#~ msgid "Import music from a source into your library."
+#~ msgstr "Import muzik dari satu sumber ke dalam pustaka anda."
+
+#~ msgid "Change Music Folder"
+#~ msgstr "Ubah Folder Muzik"
+
+#~ msgid "Load music from a folder, a network or an external disk."
+#~ msgstr "Muat muzik dari folder, rangkaian atau cakera luaran."
+
+#~ msgid "Import your Music"
+#~ msgstr "Import Muzik anda"
+
+#~ msgid "Import all your Music from %s into your library."
+#~ msgstr "Import semua muzik anda dari %s ke dalam pustaka anda."
+
+#~ msgid "Select Music Folder"
+#~ msgstr "Pilih Folder Muzik"
+
+#~ msgid "No Songs"
+#~ msgstr "Tiada Lagu"
+
+#~ msgid "Updating playlist. Please wait."
+#~ msgstr "Mengemaskini senarai main. Tunggu sebentar."
+
+#~ msgid ""
+#~ "To add songs to this playlist, use the <b>secondary click</b> on an item "
+#~ "and choose <b>Add to Playlist</b>."
+#~ msgstr ""
+#~ "Untuk menambah lagu ke senarai main, guna <b>klik sekunder</b> pada item "
+#~ "dan pilih <b>Tambah ke Senarai Main</b>."
+
+#~ msgid "Edit Smart Playlist"
+#~ msgstr "Sunting Senarai Main Pintar"
+
+#~ msgid ""
+#~ "This playlist will be automatically populated with songs that match its "
+#~ "rules. To modify these rules, use the <b>secondary click</b> on it in the "
+#~ "sidebar and click on <b>Edit</b>. Optionally, you can click on the button "
+#~ "below."
+#~ msgstr ""
+#~ "Senarai main ini akan dipopulasikan secara automatik dengan lagu yang "
+#~ "anda padankan peraturannya. Untuk ubahsuai peraturan ini, guna  <b>klik "
+#~ "sekunder</b> padanya dalam palang sisi dan klik <b>Sunting</b>. Selain "
+#~ "itu, anda boleh klik pada butang dibawah."
+
+#~ msgid "No media"
+#~ msgstr "Tiada Media"
+
+#~ msgid "Set new album cover"
+#~ msgstr "Tetapkan kulit album baharu"
+
+#~ msgid "Image files"
+#~ msgstr "Fail imej"
+
+#~ msgid "_Open"
+#~ msgstr "B_uka"
+
+#~ msgid "_Cancel"
+#~ msgstr "_Batal"
+
+#~ msgid "Save preset"
+#~ msgstr "Simpan praset"
+
+#~ msgid "Off"
+#~ msgstr "Dimatikan"
+
+#~ msgid "%s (Custom)"
+#~ msgstr "%s (Suai)"
+
+#~ msgid "%s (Custom %i)"
+#~ msgstr "%s (Suai %i)"
+
+#~ msgid "Custom Preset"
+#~ msgstr "Praset Suai"
+
+#~ msgid "Custom Preset %i"
+#~ msgstr "Praset Suai %i"
+
+#~ msgid "Scroll to Current Song"
+#~ msgstr "Tatal ke Lagu Semasa"
+
+#, fuzzy
+#~ msgid "Show in File Browser…"
+#~ msgstr "Papar dalam Pelayar Fail"
+
+#, fuzzy
+#~ msgid "Edit Song Info…"
+#~ msgstr "Sunting Maklumat Lagu"
+
+#, fuzzy
+#~ msgid "Other Actions"
+#~ msgstr "Tindakan lain"
+
+#~ msgctxt "Action item (verb)"
+#~ msgid "Queue"
+#~ msgstr "Baris Gilir"
+
+#~ msgid "Add to Playlist"
+#~ msgstr "Tambah ke Senarai main"
+
+#, fuzzy
+#~ msgid "Remove Song…"
+#~ msgstr "Buang Lagu"
+
+#~ msgid "Import to Library"
+#~ msgstr "Import ke Pustaka"
+
+#, fuzzy
+#~ msgid "Remove from Library…"
+#~ msgstr "Buang dari Pustaka"
+
+#~ msgid "Remove from Device"
+#~ msgstr "Buang dari Peranti"
+
+#~ msgid "Remove from Queue"
+#~ msgstr "Buang dari Baris Gilir"
+
+#~ msgid "New Playlist…"
+#~ msgstr "Senarai Main Baru..."
+
+#~ msgid "Import %i of %i selected songs"
+#~ msgstr "Import %i dari %i lagu terpilih"
+
+#~ msgid "Import %i song"
+#~ msgid_plural "Import %i songs"
+#~ msgstr[0] "Import %i lagu"
+#~ msgstr[1] "Import %i lagu"
+
+#~ msgid "Delete Current"
+#~ msgstr "Padam Semasa"
+
+#~ msgid "Rename"
+#~ msgstr "Nama Semula"
+
+#~ msgid "Edit…"
+#~ msgstr "Sunting..."
+
+#~ msgid "Save as Playlist"
+#~ msgstr "Simpan sebagai Senarai Main"
+
+#~ msgid "Export…"
+#~ msgstr "eksport..."
+
+#~ msgid "Eject"
+#~ msgstr "Lenting"
+
+#~ msgid "New Playlist"
+#~ msgstr "Senarai Main Baru"
+
+#~ msgid "New Smart Playlist"
+#~ msgstr "Senarai Main Pintar Baru"
+
+#~ msgid "Import Playlists"
+#~ msgstr "Import Senarai Main"
+
+#~ msgid "Library"
+#~ msgstr "Pustaka"
+
+#~ msgid "Devices"
+#~ msgstr "Peranti"
+
+#~ msgid "Network"
+#~ msgstr "Rangkaian"
+
+#~ msgid "Add Playlist"
+#~ msgstr "Tambah Senarai Main"
+
+#~ msgid "Add Smart Playlist"
+#~ msgstr "Tambah Senarai Main Pintar"
+
+#, fuzzy
+#~| msgid "Add Playlist"
+#~ msgid "Add Playlist…"
+#~ msgstr "Tambah Senarai Main"
+
+#~ msgid "Enable Repeat"
+#~ msgstr "Benarkan Ulang"
+
+#~ msgid "Disable Repeat"
+#~ msgstr "Lumpuhkan Ulang"
+
+#~ msgid "Disable Shuffle"
+#~ msgstr "Lumpuhkan Kocok"
+
+#, fuzzy
+#~ msgid "View as albums"
+#~ msgstr "Lihat sebagai Album"
+
+#, fuzzy
+#~ msgid "View as list"
+#~ msgstr "Lihat sebagai Senarai"
+
+#, fuzzy
+#~ msgid "View in columns"
+#~ msgstr "Lihat dalam Lajur"
+
+#~ msgid "No similar songs found"
+#~ msgstr "Tiada lagu yang serupa ditemui"
+
+#~ msgid ""
+#~ "There are no songs similar to the current song in your library. Make sure "
+#~ "all song info is correct and you are connected to the Internet. Some "
+#~ "songs may not have matches."
+#~ msgstr ""
+#~ "Tiada lagu yang serupa dengan lagu semasa di dalam pustaka anda. Pastikan "
+#~ "semua maklumat lagu adalah betul dan anda bersambung dengan Internet. "
+#~ "Sesetengah lagu mungkin tidak mempunyai padanan."
+
+#~ msgid "Similar"
+#~ msgstr "Seakan"
+
+#~ msgid "media"
+#~ msgstr "media"
+
+#~ msgid "Similar Media"
+#~ msgstr "Media Serupa"
+
+#~ msgid "Audio CD Invalid"
+#~ msgstr "CD Audio Tidak Sah"
+
+#~ msgid "Impossible to read the contents of this Audio CD"
+#~ msgstr "Mustahil dapat membaca kandungan CD Audio ini"
+
+#~ msgid "Could not find Music Folder"
+#~ msgstr "Tidak dapat cari Folder Muzik"
+
+#~ msgid ""
+#~ "Please make sure that your music folder is accessible and mounted before "
+#~ "importing the CD."
+#~ msgstr ""
+#~ "Sila pastikan folder muzik anda boleh dicapai dan dilekap sebelum "
+#~ "mengimport CD."
+
+#~ msgid ""
+#~ "The Application could not find any songs on the CD. No songs can be "
+#~ "imported"
+#~ msgstr ""
+#~ "Aplikasi tidak dapat cari sebarang lagu di dalam CD ini. Tiada lagu dapat "
+#~ "diimport"
+
+#, fuzzy
+#~ msgid "Song imported from Audio CD."
+#~ msgstr "Import lagu dari CD audio"
+
+#, fuzzy
+#~ msgid "%i songs imported from Audio CD."
+#~ msgstr "%s telag selesai mengimport satu lagu dari CD Audio."
+
+#~ msgid "CD import will be <b>cancelled</b> after current import."
+#~ msgstr "Import CD akan <b>dibatalkan</b> selepas import semasa."
+
+#, fuzzy
+#~ msgid "An Error Occurred"
+#~ msgstr "Ralat Berlaku"
+
+#, fuzzy
+#~ msgid "Could not load this Audio CD."
+#~ msgstr "%s tidak dapat baca kandungan CD Audio ini"
+
+#~ msgid "Importation of a song from Audio CD finished."
+#~ msgstr "Pengimportan lagu dari CD Audio telah selesai."
+
+#~ msgid "Importation of %i songs from Audio CD finished."
+#~ msgstr "Pengimportan %i lagu dari CD Audio telah selesai."
+
+#~ msgid "An error occured during the Import of this CD"
+#~ msgstr "Ralat berlaku semasa mengimport CD ini"
+
+#~ msgid "There was an error while loading this Audio CD."
+#~ msgstr "Terdapat ralat semasa memuatkan CD Audio ini."
+
+#~ msgid "%s has imported your library."
+#~ msgstr "%s telah mengimport pustaka anda."
+
+#~ msgid "Unable to import %d items from %s"
+#~ msgstr "Tidak boleh import %d item dari %s"
+
+#~ msgid "Remove from %s"
+#~ msgstr "Buang dari %s"
+
+#~ msgid "Remove \"%s\" From %s?"
+#~ msgstr "buang \"%s\" Dari %s?"
+
+#~ msgid "No Albums Found."
+#~ msgstr "Tiada Album Ditemui."
+
+#~ msgid "No Songs Found."
+#~ msgstr "Tiada Lagu Ditemui."
+
+#~ msgid "%u second"
+#~ msgid_plural "%u seconds"
+#~ msgstr[0] "%u saat"
+#~ msgstr[1] "%u saat"
+
+#~ msgid "%u minute"
+#~ msgid_plural "%u minutes"
+#~ msgstr[0] "%u minit"
+#~ msgstr[1] "%u minit"
+
+#~ msgctxt "minutes and seconds"
+#~ msgid "%s and %s"
+#~ msgstr "%s dan %s"
+
+#~ msgid "%u day"
+#~ msgid_plural "%u days"
+#~ msgstr[0] "%u hari"
+#~ msgstr[1] "%u hari"
+
+#~ msgid "%u hour"
+#~ msgid_plural "%u hours"
+#~ msgstr[0] "%u jam"
+#~ msgstr[1] "%u jam"
+
+#~ msgctxt "days, hours and minutes"
+#~ msgid "%s, %s and %s"
+#~ msgstr "%s, %s dan %s"
+
+#~ msgctxt "days and hours"
+#~ msgid "%s and %s"
+#~ msgstr "%s dan %s"
+
+#~ msgctxt "days and minutes"
+#~ msgid "%s and %s"
+#~ msgstr "%s dan %s"
+
+#~ msgctxt "hours and minutes"
+#~ msgid "%s and %s"
+#~ msgstr "%s dan %s"
+
+#~ msgid "Song"
+#~ msgstr "Lagu"
+
+#~ msgid "Repeat Artist"
+#~ msgstr "Ulang Artis"
+
+#~ msgid "All"
+#~ msgstr "Semua"
+
+#~ msgid "Hide"
+#~ msgstr "Sembunyi"
+
+#~ msgid "Show Info Panel"
+#~ msgstr "Papar Panel Maklumat"
+
+#~ msgid "Show"
+#~ msgstr "Papar"
+
+#~ msgid "Hide Info Panel"
+#~ msgstr "Sembunyi Panel Maklumat"
+
+#~ msgid "Free"
+#~ msgstr "Bebas"
+
+#~ msgid "Using %s of %s (%.2f%)"
+#~ msgstr "Menggunakan %s dari %s (%.2f%)"
+
+#~ msgid "General"
+#~ msgstr "Am"
+
+#~ msgid "Import from Device"
+#~ msgstr "Import dari Peranti"
+
+#~ msgid "Import media from %s"
+#~ msgstr "Import media dari %s"
+
+#~ msgid ""
+#~ "The following files were found on %s, but are not in your library. Check "
+#~ "all the files you would like to import."
+#~ msgstr ""
+#~ "Fail berikut ditemui pada %s, tetapi bukan dalam pustaka anda. Tanda "
+#~ "semua fail yang anda hendak import."
+
+#~ msgid "Import all media"
+#~ msgstr "Import semua media"
+
+#~ msgid "Don't Import"
+#~ msgstr "Jangan Import"
+
+#~ msgid "Import %i items from %s"
+#~ msgstr "Import %i item dari %s"
+
+#~ msgid "Import %s from %s"
+#~ msgstr "Import %s dari %s"
+
+#~ msgid "ID"
+#~ msgstr "ID"
+
+#~ msgid "Select individual media to import:"
+#~ msgstr "Pilih media individu untuk diimport:"
+
+#~ msgid "Check Item"
+#~ msgstr "Semak Item"
+
+#~ msgid "Check Album"
+#~ msgstr "Semak Album"
+
+#~ msgid "Check Artist"
+#~ msgstr "Semak Artis"
+
+#~ msgid "Cannot Import"
+#~ msgstr "Tidak dapat Import"
+
+#~ msgid "Import media to Library"
+#~ msgstr "Import media ke Pustaka"
+
+#~ msgid "Stop Syncing"
+#~ msgstr "Henti Menyegerak"
+
+#~ msgid "Sync will remove 1 item from %s"
+#~ msgstr "Segerak akan buang 1 item dari %s"
+
+#~ msgid "%u album"
+#~ msgid_plural "%u albums"
+#~ msgstr[0] "%u album"
+#~ msgstr[1] "%u album"
+
+#~ msgctxt "Title format used on Album View Popup: $ALBUM by $ARTIST"
+#~ msgid "%s by %s"
+#~ msgstr "%s oleh %s"
+
+#~ msgctxt ""
+#~ "Format used on statusbar: $description, $total_duration, $total_file_size"
+#~ msgid "%s, %s, %s"
+#~ msgstr "%s, %s, %s"
+
+#~ msgid "OK"
+#~ msgstr "OK"
+
+#~ msgid "No External Songs"
+#~ msgstr "Tiada Lagu Luaran"
+
+#~ msgid ""
+#~ "There were no songs found on this device that are not in your library."
+#~ msgstr ""
+#~ "Tiada lagu ditemui dalam peranti ini yang mana bukan dalam pustaka anda."
+
+#~ msgid "%i track"
+#~ msgid_plural "%i tracks"
+#~ msgstr[0] "%i trek"
+#~ msgstr[1] "%i trek"
+
+#~ msgid "%u song"
+#~ msgid_plural "%u songs"
+#~ msgstr[0] "%u lagu"
+#~ msgstr[1] "%u lagu"
+
+#~ msgctxt "Format used on statusbar: $description, $total_duration"
+#~ msgid "%s, %s"
+#~ msgstr "%s, %s"
+
+#~ msgid "translator-credits"
+#~ msgstr ""
+#~ "Launchpad Contributions:\n"
+#~ "  Daniel Fore https://launchpad.net/~danrabbit\n"
+#~ "  abuyop https://launchpad.net/~abuyop"
+
+#~ msgid "Lyrics fetched from www.lyricsmania.com"
+#~ msgstr "Lirik diperoleh dari www.lyricsmania.com"
+
+#~ msgid "Recently Played"
+#~ msgstr "Baru Dimainkan"
+
+#~ msgid "Show Equalizer"
+#~ msgstr "Papar Penyama"
+
+#~ msgid "Queue"
+#~ msgstr "Baris Gilir"
+
+#~ msgid "Unknown Album"
+#~ msgstr "Album Tidak Diketahui"
+
+#~ msgid " by "
+#~ msgstr " oleh "
+
+#~ msgid "Unknown Artist"
+#~ msgstr "Penyanyi/Artis tidak diketahui"
+
+#~ msgid "1 Star"
+#~ msgstr "1 Bintang"
+
+#~ msgid "Name"
+#~ msgstr "Nama"
+
+#~ msgid "Station"
+#~ msgstr "Stesen"
+
+#~ msgid "Date"
+#~ msgstr "Tarikh"
+
+#~ msgid "Category"
+#~ msgstr "Kategori"
+
+#~ msgid "Podcast"
+#~ msgstr "Podcast"
+
+#~ msgid "Track"
+#~ msgstr "Trek"
+
+#~ msgid "Skips"
+#~ msgstr "Langkau"
+
+#~ msgid "Plays"
+#~ msgstr "Dimainkan"
+
+#~ msgid "BPM"
+#~ msgstr "BPM"
+
+#~ msgid "Podcasts"
+#~ msgstr "Podcast"
+
+#~ msgid "1 album"
+#~ msgstr "1 album"
+
+#~ msgid "1 day"
+#~ msgstr "1 hari"
+
+#~ msgid "1 second"
+#~ msgstr "1 saat"
+
+#~ msgid "%s seconds"
+#~ msgstr "%s saat"
+
+#~ msgid "1 track"
+#~ msgstr "1 trek"
+
+#~ msgid "%i hours"
+#~ msgstr "%i jam"
+
+#~ msgid "1 minute"
+#~ msgstr "1 minit"
+
+#~ msgid "1 hour"
+#~ msgstr "1 jam"
+
+#~ msgid "%i minutes"
+#~ msgstr "%i minit"
+
+#~ msgid "Unknown Title"
+#~ msgstr "Tajuk Tidak Diketahui"
+
+#~ msgid "%s and %s"
+#~ msgstr "%s dan %s"
+
+#~ msgid "%s, %s and %s"
+#~ msgstr "%s, %s dan %s"
+
+#~ msgid "Do Nothing"
+#~ msgstr "Jangan Buat Apa-apa"
+
+#~ msgid "Lyrics"
+#~ msgstr "Lirik"
+
+#~ msgid "Done"
+#~ msgstr "Selesai"
+
+#~ msgid "Metadata"
+#~ msgstr "Data meta"
+
+#~ msgid "Editing %s"
+#~ msgstr "Menyunting %s"
+
+#~ msgid "Media Type"
+#~ msgstr "Jenis Media"
+
+#~ msgid "Try again"
+#~ msgstr "Cuba lagi"
+
+#~ msgid "Album Artist"
+#~ msgstr "Artis Album"
+
+#~ msgid "is not"
+#~ msgstr "bukanlah"
+
+#~ msgid "Equalizer"
+#~ msgstr "Penyama"
+
+#~ msgid "Edit"
+#~ msgstr "Sunting"
+
+#~ msgid "Export..."
+#~ msgstr "Eksport..."
+
+#~ msgid "Add Podcast"
+#~ msgstr "Tambah Podcast"
+
+#~ msgid "Adding files to library..."
+#~ msgstr "Menambah fail ke pustaka..."
+
+#~ msgid "Rescan Music Folder"
+#~ msgstr "Imbas Semula Folder Muzik"
+
+#~ msgid "Rescanning music for changes. This may take a while..."
+#~ msgstr "Mengimbas semula muzik untuk perubahan. Ia mengambil masa..."
+
+#~ msgid "Adding music from %s to library..."
+#~ msgstr "Menambah muzik dari %s ke pustaka..."
+
+#~ msgid "Importing music from %s..."
+#~ msgstr "Mengimport muzik dari %s..."
+
+#~ msgid "Unheard Podcasts"
+#~ msgstr "Podcast Belum Didengari"
+
+#~ msgid " on "
+#~ msgstr " pada "
+
+#~ msgid "Hide Equalizer"
+#~ msgstr "Sembunyi Penyama"
+
+#~ msgid "Please make sure that your music folder is accessible and mounted."
+#~ msgstr "Sila pastikan folder muzik anda boleh dicapai dan dilekap."
+
+#~ msgid "<b>Importing</b> music from <b>%s</b> to library."
+#~ msgstr "<b>Mengimport</b> muzik dari pustaka <b>%s</b>."
+
+#~ msgid "Rescanning music folder for changes"
+#~ msgstr "Mengimbas semula folder muzik untuk perubahan"
+
+#~ msgid ""
+#~ "Import from device has been cancelled. Operation will stop after this "
+#~ "media."
+#~ msgstr ""
+#~ "Import dari peranti telah dibatalkan. Operasi akan henti selepas media "
+#~ "ini."
+
+#~ msgid "Cancelling Sync"
+#~ msgstr "Membatalkan Segerak"
+
+#~ msgid "Cancelling Import"
+#~ msgstr "Membatalkan Import"
+
+#~ msgid ""
+#~ "Device Sync has been cancelled. Operation will stop after this media."
+#~ msgstr ""
+#~ "Segerak peranti telah dibatalkan. Operasi akan henti selepas media ini."
+
+#~ msgid "%s Stars"
+#~ msgstr "%s Bintang"
+
+#~ msgid "All %i Ratings"
+#~ msgstr "Semua %i Penarafan"
+
+#~ msgid "Episode"
+#~ msgstr "Episod"
+
+#~ msgid "Pulser"
+#~ msgstr "Pendenyut"
+
+#~ msgid "#"
+#~ msgstr "#"
+
+#~ msgid "%i kbps"
+#~ msgstr "%i kbps"
+
+#~ msgid "Import this song"
+#~ msgstr "Import lagu ini"
+
+#~ msgid "Import %i songs"
+#~ msgstr "Import %i lagu"
+
+#~ msgid "%s by %s"
+#~ msgstr "%s oleh %s"
+
+#~ msgid "Device is already being synced."
+#~ msgstr "Peranti sudah disegerakan."
+
+#~ msgid "Finding songs similar to %s by %s"
+#~ msgstr "Mencari lagu yang sama dengan %s oleh %s"
+
+#~ msgid "Fetching similar songs"
+#~ msgstr "Mendapatkan lagu yang sama"
+
+#~ msgid ""
+#~ "%s could not find songs similar to %s by %s in your library. Make sure "
+#~ "all song info is correct and you are connected to the Internet. Some "
+#~ "songs may not have matches."
+#~ msgstr ""
+#~ "%s tidak dapat cari lagu yang serupa dengan %s oleh %s dalam pustaka "
+#~ "anda. Pastikan semua maklumat lagu adalah betul dan anda bersambung "
+#~ "dengan Internet. Beberapa lagu mungkin tidak mempunyai padanan."
+
+#~ msgid "Similar to %s"
+#~ msgstr "Seakan %s"
+
+#~ msgid ""
+#~ "In this view, %s will automatically find songs similar to the one you're "
+#~ "playing. You can then start playing those songs, or save them as a "
+#~ "playlist for later."
+#~ msgstr ""
+#~ "Dalam paparan ini, %s akan cari lagu yang serupa secara automatik dengan "
+#~ "lagu yang anda sedang mainkan. Anda boleh mula memainkan lagu tersebut, "
+#~ "atau simpan ia sebagai senarai main kemudian."
+
+#~ msgid "Similar Song View"
+#~ msgstr "Paparan Lagu yang Serupa"
+
+#~ msgid "%i albums"
+#~ msgstr "%i album"
+
+#~ msgid "All the songs in this device are already in your library."
+#~ msgstr "Semua lagu dalam peranti ini sudah ada dalam pustaka anda."
+
+#~ msgid "%s can't seem to find your music."
+#~ msgstr "%s tidak dapat cari muzik anda."
+
+#~ msgid "Change your music folder."
+#~ msgstr "Ubah folder muzik anda."
+
+#~ msgid "Locate"
+#~ msgstr "Cari"
+
+#~ msgid "Import media from device"
+#~ msgstr "Import media dari peranti"
+
+#~ msgid "%i songs"
+#~ msgstr "%i lagu"
+
+#~ msgid "1 song"
+#~ msgstr "1 lagu"
+
+#~ msgid "%i tracks"
+#~ msgstr "%i trek"
+
+#~ msgid "Locate Media"
+#~ msgstr "Cari Media"
+
+#~ msgid "Remove Media"
+#~ msgstr "Buang Media"
+
+#~ msgid "Not Imported Files"
+#~ msgstr "Bukan Fail Terimport"
+
+#~ msgid "%i days"
+#~ msgstr "%i hari"
+
+#~ msgid "Editing %s by %s"
+#~ msgstr "Menyunting %s dengan %s"
+
+#~ msgid ""
+#~ "The plugin for media type %s is not installed.\n"
+#~ "What would you like to do?"
+#~ msgstr ""
+#~ "Pemalam untuk jenis media %s tidak dipasang.\n"
+#~ "Apa anda hendak lakukan?"
+
+#~ msgid "Required GStreamer plugin not installed"
+#~ msgstr "Pemalam GStreamer yang diperlukan tidak dipasang"
+
+#~ msgid ""
+#~ "The music file for %s by %s could not be found. What would you like to do?"
+#~ msgstr "Fail muzik %s oleh %s tidak ditemui. Apa anda hendak lakukan?"
+
+#~ msgid "Could not find media file"
+#~ msgstr "Tidak dapat cari fail media"
+
+#~ msgid "%i media files could not be found. What would you like to do?"
+#~ msgstr "%i fail media tidak dapat ditemui. Apa anda hendak lakukan?"
+
+#~ msgid "Lyrics not found for \"%s\" by \"%s\""
+#~ msgstr "Lirik tidak ditemui bagi \"%s\" oleh \"%s\""
+
+#~ msgid "Editing %i songs"
+#~ msgstr "Menyunting %i lagu"
+
+#~ msgid ""
+#~ "This will remove the %s from your library and from any device that "
+#~ "automatically syncs with %s."
+#~ msgstr ""
+#~ "Ia akan buang %s dari pustaka anda dan mana-mana peranti yang segerak "
+#~ "secara automatik dengan %s."
+
+#~ msgid "Remove %d %s from %s?"
+#~ msgstr "Buang %d %s dari %s?"
+
+#~ msgid "Audiobook"
+#~ msgstr "Buku Audio"
+
+#~ msgid ""
+#~ "You must wait until previous file operations finish before setting your "
+#~ "music folder"
+#~ msgstr ""
+#~ "Anda mesti tunggu sehingga operasi fail terdahulu selesai sebelum "
+#~ "menetapkan folder muzik anda"
+
+#~ msgid "The name %s is already in use"
+#~ msgstr "Nama %s sudah digunakan"
+
+#~ msgid "Date Released"
+#~ msgstr "Tarikh Dilepaskan"
+
+#~ msgid "Radio Station"
+#~ msgstr "Stesen Radio"
+
+#~ msgid "%s is already doing an import"
+#~ msgstr "%s sudah membuat pengimportan"
+
+#~ msgid "%s could not find any songs on the CD. No songs can be imported"
+#~ msgstr ""
+#~ "%s tidak dapat cari sebarang lagu dalam CD. Tiada lagu boleh diimport"
+
+#~ msgid "%s has finished importing %i songs from Audio CD."
+#~ msgstr "%s telah selesai mengimport %i lagu dari CD Audio."
+
+#~ msgid ""
+#~ "Please wait until %s is finished with the current import before importing "
+#~ "the CD."
+#~ msgstr ""
+#~ "Sila tunggu sehingga %s selesai dengan import semasa sebelum mengimport "
+#~ "CD."
+
+#~ msgid "CD Import Complete"
+#~ msgstr "Import CD Selesai"
+
+#~ msgid "No songs on CD"
+#~ msgstr "Tiada lagu dalam CD"
+
+#~ msgid "Ripping track 1"
+#~ msgstr "Meretas trek 1"
+
+#~ msgid "Importing track %i"
+#~ msgstr "Mengimport trek %i"
+
+#~ msgid "Download new Episodes"
+#~ msgstr "Muat turun Episod baru"
+
+#~ msgid "Import Stations"
+#~ msgstr "Import Stesen"
+
+#~ msgid "All Podcasts"
+#~ msgstr "Semua Podcast"
+
+#~ msgid "Unknown Track"
+#~ msgstr "Trek Tidak Diketahui"
+
+#~ msgid "%d second"
+#~ msgid_plural "%d seconds"
+#~ msgstr[0] "%d saat"
+#~ msgstr[1] "%d saat"
+
+#~ msgid "Enable Scrobbling"
+#~ msgstr "Benarkan Scrobbling"
+
+#~ msgid "Unsuccessful. Click to try again."
+#~ msgstr "Tidak berjaya. Klik untuk cuba lagi."
+
+#~ msgid "Scrobbling already Enabled"
+#~ msgstr "Scrobbling sudah Dibenarkan"
+
+#~ msgid "Success!"
+#~ msgstr "Berjaya!"
+
+#~ msgid "Complete login"
+#~ msgstr "Daftar masuk selesai"
+
+#~ msgid "Last.fm"
+#~ msgstr "Last.fm"
+
+#~ msgid "Click to redo the Last.fm Login Process"
+#~ msgstr "Klik untuk buat semula Proses Daftar Masuk Last.fm"
+
+#~ msgid ""
+#~ "To allow for Last.fm integration, you must give permission to %s. You "
+#~ "only need to do this once."
+#~ msgstr ""
+#~ "Untuk membenarkan penyepaduan Last.fm, anda mesti beri keizinan kepada "
+#~ "%s. Anda perlu buat ini sekali sahaja."
+
+#~ msgid "%i items"
+#~ msgstr "%i item"
+
+#~ msgid "1 item"
+#~ msgstr "1 item"
+
+#~ msgid "Click on the button to edit playlist rules"
+#~ msgstr "Klik pada butang untuk sunting peraturan senarai main"
+
+#~ msgid "Last.fm Integration"
+#~ msgstr "Penyepaduan Last.fm"
+
+#~ msgid "Copy files to music folder when added to library"
+#~ msgstr "Salin fail ke folder muzik bila tambah ke pustaka"
+
+#~ msgid "Automatically download new podcast episodes"
+#~ msgstr "Muat turun episod podcast baru secara automatik"
+
+#~ msgid "Keep music folder organized"
+#~ msgstr "Kekalkan folder muzik diurus"
+
+#~ msgid "Write metadata to file"
+#~ msgstr "Tulis data meta ke fail"
+
+#~ msgid "Unsuccessful. Click To Try Again."
+#~ msgstr "Tidak berjaya. Klik Untuk Cuba Lagi"
+
+#~ msgid "Click to redo the Last.fm login process"
+#~ msgstr "Klik untuk buat semula proses daftar masuk Last.fm"
+
+#~ msgid "Display Album Art"
+#~ msgstr "Papar Seni Kulit Album"
+
+#~ msgid "Lyrics not found for %s"
+#~ msgstr "Lirik untuk %s tidak ditemui"
+
+#~ msgid "Scrobbling Already Enabled"
+#~ msgstr "Scroble Sudah Dibenarkan"
+
+#~ msgid "Complete Login"
+#~ msgstr "Lengkapkan Daftar Masuk"
+
+#~ msgid "%i Star"
+#~ msgid_plural "%i Stars"
+#~ msgstr[0] "%i Bintang"
+#~ msgstr[1] "%i Bintang"
+
+#~ msgid "Listen to music"
+#~ msgstr "Dengari muzik"
+
+#~ msgid "Music Player"
+#~ msgstr "Pemain Muzik"
+
+#~ msgid "Desktop Integration:"
+#~ msgstr "Penyepaduan Desktop:"
+
+#~ msgid "Library Management:"
+#~ msgstr "Pengurusan Pustaka:"
+
+#~ msgid ""
+#~ "Noise is already doing file operations. Please wait until those finish to "
+#~ "import from %d"
+#~ msgstr ""
+#~ "Noise suda membuat operasi fail. Sila tunggu sehingga ia selesai "
+#~ "mengimport dari %d"
+
+#~ msgid "Music Folder Location:"
+#~ msgstr "Lokasi Folder Muzik:"
+
+#~ msgid "Editing $NAME by $ARTIST"
+#~ msgstr "Menyunting $NAME oleh $ARTIST"
+
+#~ msgid "Importing track %i: %s"
+#~ msgstr "Mengimport trek %i: %s"
+
+#~ msgid "There is not enough space on Device to complete the Sync…"
+#~ msgstr "Ruang tidak mencukupu dalam Peranti untuk selesaikan Segerak..."
+
+#~ msgid "Give %s Permission"
+#~ msgstr "Beri %s Keizinan"
+
+#~ msgid "Noise;Audio;Player;MP3;iPod;Play;Playlist;Media;CD;Phone;Songs;"
+#~ msgstr ""
+#~ "Noise;Audio;Pemain;MP3;iPod;Main;Senarai Main;Media;CD;Telefon;Lagu;"
+
+#~ msgid "Reset"
+#~ msgstr "Tetap Semula"
+
+#~ msgid "<b>Stats</b>"
+#~ msgstr "<b>Stat</b>"
+
+#~ msgid "Notifications:"
+#~ msgstr "Pemberitahuan:"
+
+#~ msgid "Details"
+#~ msgstr "Perincian"
+
+#~ msgid "About Noise"
+#~ msgstr "Perihal Noise"
+
+#~ msgid "About Music"
+#~ msgstr "Perihal Muzik"

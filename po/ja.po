@@ -1,0 +1,1572 @@
+# Japanese translation for noise
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the noise package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: noise\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-01 10:32+0000\n"
+"PO-Revision-Date: 2024-08-07 16:16+0000\n"
+"Last-Translator: Ryo Nakano <ryonakaknock3@gmail.com>\n"
+"Language-Team: Japanese <https://l10n.phyreos.io/projects/music/music/ja/"
+">\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.6.2\n"
+"X-Launchpad-Export-Date: 2017-03-07 05:53+0000\n"
+
+#: src/Application.vala:92 src/Views/NowPlayingView.vala:18
+#: src/Views/NowPlayingView.vala:116
+msgid "Music"
+msgstr "ミュージック"
+
+#: src/MainWindow.vala:20
+msgid "Shuffle"
+msgstr "シャッフル"
+
+#: src/MainWindow.vala:26
+msgid "Search titles in playlist"
+msgstr "プレイリスト内のタイトルを検索"
+
+#: src/MainWindow.vala:45
+msgid "Queue is Empty"
+msgstr "キューは空です"
+
+#: src/MainWindow.vala:46
+msgid "Audio files opened from Files will appear here"
+msgstr "“ファイル”から開いた音声ファイルがここに表示されます"
+
+#: src/MainWindow.vala:63
+msgid "Open Files…"
+msgstr "ファイルを開く…"
+
+#: src/MainWindow.vala:167
+#, c-format
+msgid "%d invalid file was not added to the queue"
+msgid_plural "%d invalid files were not added to the queue"
+msgstr[0] "無効な %d 項目のファイルはキューに追加されませんでした"
+
+#: src/MainWindow.vala:215
+msgid "All files"
+msgstr "すべてのファイル"
+
+#: src/MainWindow.vala:220
+msgid "Music files"
+msgstr "音楽ファイル"
+
+#: src/MainWindow.vala:229
+msgid "Open"
+msgstr "開く"
+
+#: src/MainWindow.vala:233
+msgid "Open audio files"
+msgstr "音声ファイルを開く"
+
+#: src/MainWindow.vala:271
+msgid "Repeat None"
+msgstr "リピートしない"
+
+#: src/MainWindow.vala:275
+msgid "Repeat All"
+msgstr "全曲リピート"
+
+#: src/MainWindow.vala:279
+msgid "Repeat One"
+msgstr "一曲リピート"
+
+#: src/PlaybackManager.vala:136
+#, c-format
+msgid "%d track was added to the queue"
+msgid_plural "%d tracks were added to the queue"
+msgstr[0] "%d 曲をキューに追加しました"
+
+#. Don't set artist for files without tags
+#: src/PlaybackManager.vala:196
+msgid "Unknown"
+msgstr "不明"
+
+#: src/Views/NowPlayingView.vala:23 src/Views/NowPlayingView.vala:115
+msgid "Not playing"
+msgstr "再生停止中"
+
+#: src/Views/NowPlayingView.vala:45
+msgid "Previous"
+msgstr "前へ"
+
+#: src/Views/NowPlayingView.vala:68
+msgid "Next"
+msgstr "次へ"
+
+#: src/Views/NowPlayingView.vala:93
+msgid "Play"
+msgstr "再生"
+
+#: src/Views/NowPlayingView.vala:96
+msgid "Pause"
+msgstr "一時停止"
+
+#~ msgid "Importing <b>$NAME</b> by <b>$ARTIST</b> to library…"
+#~ msgstr "<b>$NAME</b> - <b>$ARTIST</b> をライブラリにインポートしています…"
+
+#~ msgid "$NAME on $ALBUM"
+#~ msgstr "$NAME - $ALBUM"
+
+#~ msgid "$NAME by $ARTIST"
+#~ msgstr "$NAME - $ARTIST"
+
+#~ msgid "$NAME by $ARTIST on $ALBUM"
+#~ msgstr "$NAME - $ARTIST - $ALBUM"
+
+#~ msgid "Flat"
+#~ msgstr "フラット"
+
+#~ msgid "Classical"
+#~ msgstr "クラッシック"
+
+#~ msgid "Club"
+#~ msgstr "クラブ"
+
+#~ msgid "Dance"
+#~ msgstr "ダンス"
+
+#~ msgid "Full Bass"
+#~ msgstr "フルベース"
+
+#~ msgid "Full Treble"
+#~ msgstr "フルトレブル"
+
+#~ msgid "Full Bass + Treble"
+#~ msgstr "フルベース+トレブル"
+
+#~ msgid "Headphones"
+#~ msgstr "ヘッドフォン"
+
+#~ msgid "Large Hall"
+#~ msgstr "大ホール"
+
+#~ msgid "Live"
+#~ msgstr "ライブ"
+
+#~ msgid "Party"
+#~ msgstr "パーティー"
+
+#~ msgid "Pop"
+#~ msgstr "ポップ"
+
+#~ msgid "Reggae"
+#~ msgstr "レゲエ"
+
+#~ msgid "Rock"
+#~ msgstr "ロック"
+
+#~ msgid "Soft"
+#~ msgstr "ソフト"
+
+#~ msgid "Ska"
+#~ msgstr "スカ"
+
+#~ msgid "Soft Rock"
+#~ msgstr "ソフトロック"
+
+#~ msgid "Techno"
+#~ msgstr "テクノ"
+
+#~ msgid " (%d)"
+#~ msgstr " (%d)"
+
+#~ msgid "%s (%d)"
+#~ msgstr "%s (%d)"
+
+#~ msgid "%s (%i)"
+#~ msgstr "%s (%i)"
+
+#~ msgid "MPEG Version 3.0 Extended (*.m3u)"
+#~ msgstr "MPEG バージョン 3.0 拡張 (*.m3u)"
+
+#~ msgid "Shoutcast Playlist Version 2.0 (*.pls)"
+#~ msgstr "Shoutcast プレイリストバージョン 2.0 (*.pls)"
+
+#~ msgid "Export Playlist"
+#~ msgstr "プレイリストのエクスポート"
+
+#~ msgid "Save"
+#~ msgstr "保存"
+
+#~ msgid "Cancel"
+#~ msgstr "キャンセル"
+
+#~ msgid "Playlist"
+#~ msgstr "プレイリスト"
+
+#~ msgid "Import %s"
+#~ msgstr "%s のインポート"
+
+#~ msgid "Unrecognized playlist file. Import failed."
+#~ msgstr "認識できないプレイリストファイルです。インポートに失敗しました。"
+
+#~ msgid "%m/%e/%Y %l:%M %p"
+#~ msgstr "%Y/%m/%d %p %l:%M"
+
+#~ msgid "Empty device!"
+#~ msgstr "デバイスが空です！"
+
+#~ msgid "This device does not contain any music."
+#~ msgstr "このデバイスには曲がありません。"
+
+#~ msgid "Android Phone"
+#~ msgstr "Android フォン"
+
+#~ msgid "Audio Player"
+#~ msgstr "オーディオプレイヤー"
+
+#~ msgid "Adding <b>$NAME</b> by <b>$ARTIST</b> to $DEVICE"
+#~ msgstr "<b>$ARTIST</b> の <b>$NAME</b> を $DEVICE に追加しています"
+
+#~ msgid "Syncing <b>%s</b>…"
+#~ msgstr "<b>%s</b> を同期しています…"
+
+#~ msgid "Removing <b>$NAME</b> by <b>$ARTIST</b> from $DEVICE"
+#~ msgstr "<b>$ARTIST</b> の <b>$NAME</b> を $DEVICE から削除しています"
+
+#~ msgid "Removing from <b>%s</b>…"
+#~ msgstr "<b>%s</b> から削除しています…"
+
+#~ msgid "Finishing sync process…"
+#~ msgstr "同期プロセスを終了しています…"
+
+#~ msgid "Cancelling Sync…"
+#~ msgstr "同期を取り消しています…"
+
+#~ msgid "Import Complete"
+#~ msgstr "インポート完了"
+
+#~ msgid "Your Library Has Been Imported."
+#~ msgstr "ライブラリにインポートされました。"
+
+#~ msgid "<b>Copying</b> files to <b>Music Folder</b>…"
+#~ msgstr "ファイルを<b>ミュージックフォルダー</b>に<b>コピー</b>しています…"
+
+#~ msgid "Import to Library…"
+#~ msgstr "ライブラリにインポート…"
+
+#~ msgid "Preferences"
+#~ msgstr "設定"
+
+#~ msgid "Search Music"
+#~ msgstr "曲を検索"
+
+#~ msgid "No songs in Queue"
+#~ msgstr "キューに曲がありません"
+
+#~ msgid ""
+#~ "To add songs to the queue, use the <b>secondary click</b> on an item and "
+#~ "choose <b>Queue</b>. When a song finishes, the queued songs will be "
+#~ "played first before the next song in the currently playing list."
+#~ msgstr ""
+#~ "キューに曲を追加するには、項目上で<b>副ボタンをクリック</b>して<b>キュー</"
+#~ "b>を選択します。曲が終わると、現在のプレイリストの次の曲の前にキューの曲が"
+#~ "先に再生されます。"
+
+#~ msgid "No songs in History"
+#~ msgstr "履歴に曲がありません"
+
+#~ msgid ""
+#~ "After a part of a song has been played, it is added to the history list.\n"
+#~ "You can use this list to see all the songs you have played during the "
+#~ "current session."
+#~ msgstr ""
+#~ "曲の一部が再生された後、その曲は履歴リストに追加されます。\n"
+#~ "このリストを使用して、現在のセッションで再生したすべての曲を表示できます。"
+
+#~ msgid "Import Music"
+#~ msgstr "曲をインポート"
+
+#~ msgctxt "Name of the playlist"
+#~ msgid "Queue"
+#~ msgstr "キュー"
+
+#~ msgid "File not found"
+#~ msgstr "ファイルが見つかりませんでした"
+
+#~ msgid "The music file for <b>%s</b> by <b>%s</b> could not be found."
+#~ msgstr "音楽ファイル <b>%s</b> / <b>%s</b> を見つけられませんでした。"
+
+#~ msgid "%i music files could not be found."
+#~ msgstr "%i個の音楽ファイルを見つけられませんでした。"
+
+#~ msgid "Rescan Library"
+#~ msgstr "ライブラリを再スキャン"
+
+#~ msgid "Remove Song"
+#~ msgstr "曲を削除"
+
+#~ msgid "Find Song"
+#~ msgstr "曲を検索"
+
+#~ msgid "Choose Music Folder"
+#~ msgstr "ミュージックフォルダーを選択"
+
+#~ msgid "Would you like to install the %s plugin?"
+#~ msgstr "プラグイン %s をインストールしてもよろしいですか？"
+
+#~ msgid ""
+#~ "This song cannot be played. The %s plugin is required to play the song."
+#~ msgstr "この曲は再生できません。再生するには %s プラグインが必要です。"
+
+#~ msgid "Install Plugin"
+#~ msgstr "プラグインをインストール"
+
+#~ msgid "Title:"
+#~ msgstr "タイトル:"
+
+#~ msgid "Artist:"
+#~ msgstr "アーティスト:"
+
+#~ msgid "Album:"
+#~ msgstr "アルバム:"
+
+#~ msgid "Album Artist:"
+#~ msgstr "アルバムアーティスト:"
+
+#~ msgid "Composer:"
+#~ msgstr "作曲者:"
+
+#~ msgid "Grouping:"
+#~ msgstr "グループ:"
+
+#~ msgid "Genre:"
+#~ msgstr "ジャンル:"
+
+#~ msgid "Year:"
+#~ msgstr "年:"
+
+#~ msgid "Track:"
+#~ msgstr "トラック:"
+
+#~ msgid "Disc:"
+#~ msgstr "ディスク:"
+
+#~ msgid "Rating:"
+#~ msgstr "評価:"
+
+#~ msgid "Comment:"
+#~ msgstr "コメント:"
+
+#~ msgid "Close"
+#~ msgstr "閉じる"
+
+#~ msgid "Issues while importing from %s"
+#~ msgstr "%s からのインポート中に不具合が発生しました"
+
+#~ msgid "Unable to import %d item. The file may be damaged."
+#~ msgid_plural "Unable to import %d items. The files may be damaged."
+#~ msgstr[0] ""
+#~ "%d個の項目をインポートできませんでした。ファイルが壊れている可能性がありま"
+#~ "す。"
+
+#~ msgid "Move all corrupted files to trash"
+#~ msgstr "すべての破損したファイルをゴミ箱に移動"
+
+#~ msgid "del"
+#~ msgstr "削除"
+
+#~ msgid "File Location"
+#~ msgstr "ファイルの場所"
+
+#~ msgid "Select individual files to move to trash:"
+#~ msgstr "ゴミ箱に移動するファイルを個別に選択:"
+
+#~ msgid "Move to Trash"
+#~ msgstr "ゴミ箱に移動"
+
+#~ msgid "Ignore"
+#~ msgstr "無視"
+
+#~ msgid "Select Music Folder…"
+#~ msgstr "ミュージックフォルダーを選択…"
+
+#~ msgid "Music Folder Location"
+#~ msgstr "ミュージックフォルダーの場所"
+
+#~ msgid "Library Management"
+#~ msgstr "ライブラリの管理"
+
+#~ msgid "Keep Music folder organized:"
+#~ msgstr "ミュージックフォルダーを整理しておく:"
+
+#~ msgid "Write metadata to file:"
+#~ msgstr "ファイルにメタデータを書き込む:"
+
+#~ msgid "Copy imported files to Library:"
+#~ msgstr "インポートされたファイルをライブラリにコピー:"
+
+#~ msgid "Desktop Integration"
+#~ msgstr "デスクトップとの統合"
+
+#~ msgid "Continue playback when closed:"
+#~ msgstr "閉じたときに再生を続ける:"
+
+#~ msgid "Remove %d Song From Library?"
+#~ msgid_plural "Remove %d Songs From Library?"
+#~ msgstr[0] "ライブラリから%d曲を削除しますか？"
+
+#~ msgid "Remove \"%s\" From Library?"
+#~ msgstr "ライブラリから \"%s\" を削除しますか？"
+
+#~ msgid ""
+#~ "This will remove the song from your library and from any device synced "
+#~ "automatically."
+#~ msgid_plural ""
+#~ "This will remove the songs from your library and from any device synced "
+#~ "automatically."
+#~ msgstr[0] ""
+#~ "この操作はライブラリと自動的に同期されたすべてのデバイスから曲を削除しま"
+#~ "す。"
+
+#~ msgid "Remove from Library"
+#~ msgstr "ライブラリから削除"
+
+#~ msgid "Set Music Folder?"
+#~ msgstr "ミュージックフォルダーを設定しますか？"
+
+#~ msgid ""
+#~ "Are you sure you want to set the music folder to %s? This will reset your "
+#~ "library and remove your playlists."
+#~ msgstr ""
+#~ "ミュージックフォルダーを %s に設定してもよろしいですか？　この操作はライブ"
+#~ "ラリを初期化し、プレイリストを削除します。"
+
+#~ msgid "Export Playlists"
+#~ msgstr "プレイリストをエクスポート"
+
+#~ msgid "Set Music Folder"
+#~ msgstr "ミュージックフォルダーを設定"
+
+#~ msgid "Playlist Title"
+#~ msgstr "プレイリストのタイトル"
+
+#~ msgid "any"
+#~ msgstr "いずれか"
+
+#~ msgid "all"
+#~ msgstr "すべて"
+
+#~ msgid "Match"
+#~ msgstr "次の"
+
+#~ msgid "of the following:"
+#~ msgstr "が一致:"
+
+#~ msgid "Add"
+#~ msgstr "追加"
+
+#~ msgid "Limit to"
+#~ msgstr "上限"
+
+#~ msgid "items"
+#~ msgstr "項目"
+
+#~ msgid "Name of Playlist"
+#~ msgstr "プレイリストの名前"
+
+#~ msgid "Rules"
+#~ msgstr "ルール"
+
+#~ msgid "Options"
+#~ msgstr "オプション"
+
+#~ msgid "Smart Playlist Editor"
+#~ msgstr "スマートプレイリストエディター"
+
+#~ msgid "Remove"
+#~ msgstr "削除"
+
+#~ msgid "Album"
+#~ msgstr "アルバム"
+
+#~ msgid "Artist"
+#~ msgstr "アーティスト"
+
+#~ msgid "Bitrate"
+#~ msgstr "ビットレート"
+
+#~ msgid "Comment"
+#~ msgstr "コメント"
+
+#~ msgid "Composer"
+#~ msgstr "作曲者"
+
+#~ msgid "Date Added"
+#~ msgstr "追加日時"
+
+#~ msgid "Genre"
+#~ msgstr "ジャンル"
+
+#~ msgid "Grouping"
+#~ msgstr "グループ"
+
+#~ msgid "Last Played"
+#~ msgstr "最終再生日時"
+
+#~ msgid "Length"
+#~ msgstr "時間"
+
+#~ msgid "Playcount"
+#~ msgstr "再生回数"
+
+#~ msgid "Rating"
+#~ msgstr "評価"
+
+#~ msgid "Skipcount"
+#~ msgstr "スキップ数"
+
+#~ msgid "Title"
+#~ msgstr "タイトル"
+
+#~ msgid "Year"
+#~ msgstr "発売年"
+
+#~ msgid "URI"
+#~ msgstr "URI"
+
+#~ msgid "is"
+#~ msgstr "が次である"
+
+#~ msgid "contains"
+#~ msgstr "が次を含む"
+
+#~ msgid "does not contain"
+#~ msgstr "が次を含まない"
+
+#~ msgid "is exactly"
+#~ msgstr "が完全に一致"
+
+#~ msgid "is at most"
+#~ msgstr "が多くても"
+
+#~ msgid "is at least"
+#~ msgstr "が少なくとも"
+
+#~ msgid "is within"
+#~ msgstr "の中に"
+
+#~ msgid "is before"
+#~ msgstr "が次より前"
+
+#~ msgid "seconds"
+#~ msgstr "秒"
+
+#~ msgid "days ago"
+#~ msgstr "日前"
+
+#~ msgid "kbps"
+#~ msgstr "kbps"
+
+#~ msgid "Sync will remove %i item from %s"
+#~ msgid_plural "Sync will remove %i items from %s"
+#~ msgstr[0] "同期によって%i個の項目が %s から削除されます"
+
+#~ msgid ""
+#~ "If you continue to sync, media will be removed from %s since they are not "
+#~ "on the sync list. Would you like to import them to your library first?"
+#~ msgstr ""
+#~ "同期を続行すると、メディアが同期リストにないので %s から削除されます。ライ"
+#~ "ブラリにまずメディアをインポートしますか？"
+
+#~ msgid "Continue Syncing"
+#~ msgstr "同期を続行"
+
+#~ msgid "Import"
+#~ msgstr "インポート"
+
+#~ msgid "Importing music from %s…"
+#~ msgstr "%s から曲をインポートしています…"
+
+#~ msgid "Adding files to library…"
+#~ msgstr "ファイルをライブラリに追加しています…"
+
+#~ msgid "<b>Importing</b> music to library…"
+#~ msgstr "曲をライブラリに<b>インポートしています</b>…"
+
+#~ msgid "All music files are already in your library"
+#~ msgstr "すべての音楽ファイルがすでにライブラリにあります"
+
+#~ msgid "No files were imported."
+#~ msgstr "ファイルはインポートされませんでした。"
+
+#~ msgid "Rescanning music for changes. This may take a while…"
+#~ msgstr "変更があった曲を再スキャンしています。これには少し時間がかかります…"
+
+#~ msgid "Added to your queue:"
+#~ msgstr "キューに追加しました:"
+
+#~ msgid "%d Track"
+#~ msgid_plural "%d Tracks"
+#~ msgstr[0] "%dトラック"
+
+#~ msgid "Favorite Songs"
+#~ msgstr "お気に入りの曲"
+
+#~ msgid "Recently Added"
+#~ msgstr "最近追加された項目"
+
+#~ msgid "Recent Favorites"
+#~ msgstr "最近のお気に入り"
+
+#~ msgid "Never Played"
+#~ msgstr "再生していない曲"
+
+#~ msgid "Over Played"
+#~ msgstr "よく再生する曲"
+
+#~ msgid "Not Recently Played"
+#~ msgstr "最近再生されていない曲"
+
+#~ msgid "History"
+#~ msgstr "再生履歴"
+
+#~ msgid "Playlists"
+#~ msgstr "プレイリスト"
+
+#~ msgid "Device Name:"
+#~ msgstr "デバイス名:"
+
+#~ msgid "Device Name"
+#~ msgstr "デバイス名"
+
+#~ msgid "Automatically sync when plugged in:"
+#~ msgstr "接続時に自動的に同期:"
+
+#~ msgid "Sync:"
+#~ msgstr "同期:"
+
+#~ msgid "Sync"
+#~ msgstr "同期"
+
+#~ msgid "All Music"
+#~ msgstr "すべての曲"
+
+#~ msgid "Sync Failed"
+#~ msgstr "同期に失敗しました"
+
+#~ msgid ""
+#~ "The playlist named %s is used to sync device %s, but could not be found."
+#~ msgstr ""
+#~ "%s というプレイリストがデバイス %s との同期に使われますが、見つかりません"
+#~ "でした。"
+
+#~ msgid "Cannot Sync"
+#~ msgstr "同期できません"
+
+#~ msgid ""
+#~ "Cannot sync device with selected sync settings. Not enough space on disk"
+#~ msgstr ""
+#~ "ディスク容量が不足しているため、選択された設定ではデバイスと同期できません"
+
+#~ msgid "Device is already doing an operation."
+#~ msgstr "デバイスはすでに操作を行っています。"
+
+#~ msgid "Cancelling…"
+#~ msgstr "キャンセルしています…"
+
+#~ msgid "Device operation has been cancelled and will stop after this media."
+#~ msgstr "デバイスの操作は中止され、このメディア以降は停止されます。"
+
+#~ msgid "No Results"
+#~ msgstr "検索結果はありません"
+
+#~ msgid "Try another search"
+#~ msgstr "ほかの検索用語を試してみてください"
+
+#~ msgid "Genres"
+#~ msgstr "ジャンル"
+
+#~ msgid "Artists"
+#~ msgstr "アーティスト"
+
+#~ msgid "Albums"
+#~ msgstr "アルバム"
+
+#~ msgid "Years"
+#~ msgstr "年"
+
+#~ msgid "Ratings"
+#~ msgstr "評価"
+
+#~ msgid "Composers"
+#~ msgstr "作曲者"
+
+#~ msgid "Groupings"
+#~ msgstr "グループ"
+
+#~ msgid "All Genres"
+#~ msgstr "すべてのジャンル"
+
+#~ msgid "All %i Genres"
+#~ msgstr "全%iジャンル"
+
+#~ msgid "No Genres"
+#~ msgstr "ジャンルなし"
+
+#~ msgid "All Artists"
+#~ msgstr "すべてのアーティスト"
+
+#~ msgid "All %i Artists"
+#~ msgstr "全%iアーティスト"
+
+#~ msgid "No Artists"
+#~ msgstr "アーティストなし"
+
+#~ msgid "All Albums"
+#~ msgstr "すべてのアルバム"
+
+#~ msgid "All %i Albums"
+#~ msgstr "全%iアルバム"
+
+#~ msgid "No Albums"
+#~ msgstr "アルバムなし"
+
+#~ msgid "All %i Years"
+#~ msgstr "全%i年"
+
+#~ msgid "No Years"
+#~ msgstr "年なし"
+
+#~ msgid "All Ratings"
+#~ msgstr "すべての評価"
+
+#~ msgid "No Ratings"
+#~ msgstr "評価なし"
+
+#~ msgid "All Groupings"
+#~ msgstr "すべてのグループ"
+
+#~ msgid "All %i Groupings"
+#~ msgstr "全%iグループ"
+
+#~ msgid "No Groupings"
+#~ msgstr "グループなし"
+
+#~ msgid "All Composers"
+#~ msgstr "すべての作曲者"
+
+#~ msgid "All %i Composers"
+#~ msgstr "全%i作曲者"
+
+#~ msgid "No Composers"
+#~ msgstr "作曲者なし"
+
+#~ msgid "Automatic"
+#~ msgstr "自動"
+
+#~ msgid "On Left"
+#~ msgstr "左へ表示"
+
+#~ msgid "On Top"
+#~ msgstr "上へ表示"
+
+#~ msgid "Unrated"
+#~ msgstr "評価なし"
+
+#~ msgid "%u Star"
+#~ msgid_plural "%u Stars"
+#~ msgstr[0] "スター%u個"
+
+#~ msgid "%u kbps"
+#~ msgstr "%u kbps"
+
+#~ msgid "Never"
+#~ msgstr "なし"
+
+#~ msgctxt "List column title"
+#~ msgid "#"
+#~ msgstr "#"
+
+#~ msgctxt "List column title"
+#~ msgid "Track"
+#~ msgstr "トラック"
+
+#~ msgctxt "List column title"
+#~ msgid "Title"
+#~ msgstr "タイトル"
+
+#~ msgctxt "List column title"
+#~ msgid "Length"
+#~ msgstr "再生時間"
+
+#~ msgctxt "List column title"
+#~ msgid "Artist"
+#~ msgstr "アーティスト"
+
+#~ msgctxt "List column title"
+#~ msgid "Album"
+#~ msgstr "アルバム"
+
+#~ msgctxt "List column title"
+#~ msgid "Album Artist"
+#~ msgstr "アルバムアーティスト"
+
+#~ msgctxt "List column title"
+#~ msgid "Composer"
+#~ msgstr "作曲者"
+
+#~ msgctxt "List column title"
+#~ msgid "Genre"
+#~ msgstr "ジャンル"
+
+#~ msgctxt "List column title"
+#~ msgid "Year"
+#~ msgstr "発売年"
+
+#~ msgctxt "List column title"
+#~ msgid "Grouping"
+#~ msgstr "グループ"
+
+#~ msgctxt "List column title"
+#~ msgid "Bitrate"
+#~ msgstr "ビットレート"
+
+#~ msgctxt "List column title"
+#~ msgid "Rating"
+#~ msgstr "評価"
+
+#~ msgctxt "List column title"
+#~ msgid "Plays"
+#~ msgstr "再生回数"
+
+#~ msgctxt "List column title"
+#~ msgid "Skips"
+#~ msgstr "スキップ回数"
+
+#~ msgctxt "List column title"
+#~ msgid "Date Added"
+#~ msgstr "追加日時"
+
+#~ msgctxt "List column title"
+#~ msgid "Last Played"
+#~ msgstr "最終再生日時"
+
+#~ msgctxt "List column title (beats per minute)"
+#~ msgid "BPM"
+#~ msgstr "拍/分"
+
+#~ msgctxt "List column title (file location)"
+#~ msgid "Location"
+#~ msgstr "場所"
+
+#~ msgctxt "List column title"
+#~ msgid "File Size"
+#~ msgstr "ファイルサイズ"
+
+#~ msgid "Autosize Columns"
+#~ msgstr "カラムを自動調整"
+
+#~ msgid "1234 kbps"
+#~ msgstr "1234 kbps"
+
+#~ msgid "Sample List String"
+#~ msgstr "一覧の幅設定のための文字列"
+
+#~ msgid "Get Some Tunes"
+#~ msgstr "曲を追加しましょう"
+
+#~ msgid "Add music to your library."
+#~ msgstr "曲をライブラリに追加してください。"
+
+#~ msgid "Import music from a source into your library."
+#~ msgstr "曲をソースからライブラリにインポートします。"
+
+#~ msgid "Change Music Folder"
+#~ msgstr "ミュージックフォルダーを変更"
+
+#~ msgid "Load music from a folder, a network or an external disk."
+#~ msgstr "フォルダー、ネットワークや外部ディスクから曲を読み込みます。"
+
+#~ msgid "Import your Music"
+#~ msgstr "曲をインポート"
+
+#~ msgid "Import all your Music from %s into your library."
+#~ msgstr "すべての曲を %s からライブラリにインポートします。"
+
+#~ msgid "Select Music Folder"
+#~ msgstr "ミュージックフォルダーを選択"
+
+#~ msgid "No Songs"
+#~ msgstr "曲がありません"
+
+#~ msgid "Updating playlist. Please wait."
+#~ msgstr "プレイリストを更新しています。お待ちください。"
+
+#~ msgid ""
+#~ "To add songs to this playlist, use the <b>secondary click</b> on an item "
+#~ "and choose <b>Add to Playlist</b>."
+#~ msgstr ""
+#~ "プレイリストに曲を追加するには、項目上で<b>副ボタンをクリック</b>して<b>プ"
+#~ "レイリストに追加</b>を選択します。"
+
+#~ msgid "Edit Smart Playlist"
+#~ msgstr "スマートプレイリストを編集"
+
+#~ msgid ""
+#~ "This playlist will be automatically populated with songs that match its "
+#~ "rules. To modify these rules, use the <b>secondary click</b> on it in the "
+#~ "sidebar and click on <b>Edit</b>. Optionally, you can click on the button "
+#~ "below."
+#~ msgstr ""
+#~ "プレイリストの規則に一致する曲が自動的にここに移動されます。規則を変更する"
+#~ "には、サイドバー上で<b>副ボタンをクリック</b>して、<b>編集</b>をクリックし"
+#~ "ます。必要に応じて、以下のボタンをクリックすることができます。"
+
+#~ msgid "No media"
+#~ msgstr "メディアがありません"
+
+#~ msgid "Set new album cover"
+#~ msgstr "新しいアルバムカバーを設定"
+
+#~ msgid "Image files"
+#~ msgstr "画像ファイル"
+
+#~ msgid "_Open"
+#~ msgstr "開く(_O)"
+
+#~ msgid "_Cancel"
+#~ msgstr "キャンセル(_C)"
+
+#~ msgid "Save preset"
+#~ msgstr "プリセットの保存"
+
+#~ msgid "Off"
+#~ msgstr "オフ"
+
+#~ msgid "%s (Custom)"
+#~ msgstr "%s (カスタム)"
+
+#~ msgid "%s (Custom %i)"
+#~ msgstr "%s (カスタム %i)"
+
+#~ msgid "Custom Preset"
+#~ msgstr "カスタムプリセット"
+
+#~ msgid "Custom Preset %i"
+#~ msgstr "カスタムプリセット%i"
+
+#~ msgid "Scroll to Current Song"
+#~ msgstr "現在の曲へスクロール"
+
+#~ msgid "Show in File Browser…"
+#~ msgstr "ファイルブラウザーで表示…"
+
+#~ msgid "Edit Song Info…"
+#~ msgstr "曲情報を編集…"
+
+#~ msgid "Other Actions"
+#~ msgstr "ほかの操作"
+
+#~ msgctxt "Action item (verb)"
+#~ msgid "Queue"
+#~ msgstr "キュー"
+
+#~ msgid "Add to Playlist"
+#~ msgstr "プレイリストに追加"
+
+#~ msgid "Remove Song…"
+#~ msgstr "曲を削除…"
+
+#~ msgid "Import to Library"
+#~ msgstr "ライブラリにインポート"
+
+#~ msgid "Remove from Library…"
+#~ msgstr "ライブラリから削除…"
+
+#~ msgid "Remove from Device"
+#~ msgstr "デバイスから削除"
+
+#~ msgid "Remove from Queue"
+#~ msgstr "キューから削除"
+
+#~ msgid "New Playlist…"
+#~ msgstr "新しいプレイリスト…"
+
+#~ msgid "Import %i of %i selected songs"
+#~ msgstr "選択された%i / %i曲をインポート"
+
+#~ msgid "Import %i song"
+#~ msgid_plural "Import %i songs"
+#~ msgstr[0] "%i曲をインポート"
+
+#~ msgid "Delete Current"
+#~ msgstr "現在の曲を削除"
+
+#~ msgid "Rename"
+#~ msgstr "名前を変更"
+
+#~ msgid "Edit…"
+#~ msgstr "編集…"
+
+#~ msgid "Save as Playlist"
+#~ msgstr "プレイリストとして保存"
+
+#~ msgid "Export…"
+#~ msgstr "エクスポート…"
+
+#~ msgid "Eject"
+#~ msgstr "取り出す"
+
+#~ msgid "New Playlist"
+#~ msgstr "新しいプレイリスト"
+
+#~ msgid "New Smart Playlist"
+#~ msgstr "新しいスマートプレイリスト"
+
+#~ msgid "Import Playlists"
+#~ msgstr "プレイリストをインポート"
+
+#~ msgid "Library"
+#~ msgstr "ライブラリ"
+
+#~ msgid "Devices"
+#~ msgstr "デバイス"
+
+#~ msgid "Network"
+#~ msgstr "ネットワーク"
+
+#~ msgid "Add Playlist"
+#~ msgstr "プレイリストを追加"
+
+#~ msgid "Add Smart Playlist"
+#~ msgstr "スマートプレイリストを追加"
+
+#~ msgid "Add Playlist…"
+#~ msgstr "プレイリストを追加…"
+
+#~ msgid "Equalizer: %s"
+#~ msgstr "イコライザー: %s"
+
+#~ msgid "Enable Repeat"
+#~ msgstr "リピートを有効にする"
+
+#~ msgid "Disable Repeat"
+#~ msgstr "リピートを無効にする"
+
+#~ msgid "Disable Shuffle"
+#~ msgstr "シャッフルを無効にする"
+
+#~ msgid "View as albums"
+#~ msgstr "アルバム表示"
+
+#~ msgid "View as list"
+#~ msgstr "リスト表示"
+
+#~ msgid "View in columns"
+#~ msgstr "カラム表示"
+
+#~ msgid "No similar songs found"
+#~ msgstr "同様な楽曲が見つかりませんでした"
+
+#~ msgid ""
+#~ "There are no songs similar to the current song in your library. Make sure "
+#~ "all song info is correct and you are connected to the Internet. Some "
+#~ "songs may not have matches."
+#~ msgstr ""
+#~ "ライブラリの現在の曲に似た曲はありません。すべての曲情報が正しいこと、イン"
+#~ "ターネットに接続していることを確認してください。一致する曲がないこともあり"
+#~ "ます。"
+
+#~ msgid "Similar"
+#~ msgstr "同様な楽曲"
+
+#~ msgid "media"
+#~ msgstr "メディア"
+
+#~ msgid "Similar Media"
+#~ msgstr "同様なメディア"
+
+#~ msgid "Audio CD Invalid"
+#~ msgstr "無効なオーディオ CD"
+
+#~ msgid "Impossible to read the contents of this Audio CD"
+#~ msgstr "このオーディオ CD の内容を読み取ることはできません"
+
+#~ msgid "Could not find Music Folder"
+#~ msgstr "ミュージックフォルダーが見つかりませんでした"
+
+#~ msgid ""
+#~ "Please make sure that your music folder is accessible and mounted before "
+#~ "importing the CD."
+#~ msgstr ""
+#~ "CD をインポートする前にミュージックフォルダーがアクセス可能でマウントされ"
+#~ "ているか確認してください。"
+
+#~ msgid ""
+#~ "The Application could not find any songs on the CD. No songs can be "
+#~ "imported"
+#~ msgstr "CD に曲を見つけられませんでした。曲をインポートできません"
+
+#~ msgid "Song imported from Audio CD."
+#~ msgstr "オーディオ CD から曲がインポートされました。"
+
+#~ msgid "%i songs imported from Audio CD."
+#~ msgstr "%i 曲がオーディオ CD からインポートされました。"
+
+#~ msgid "Importing track %u: %s"
+#~ msgstr "トラック %u をインポートしています: %s"
+
+#~ msgid "CD import will be <b>cancelled</b> after current import."
+#~ msgstr "CD のインポートは現在のインポートの後に<b>キャンセル</b>されます。"
+
+#~ msgid "Could not import this CD"
+#~ msgstr "この CD をインポートできませんでした"
+
+#~ msgid "An Error Occurred"
+#~ msgstr "エラーが発生しました"
+
+#~ msgid "Could not load this Audio CD."
+#~ msgstr "このオーディオ CD を読み込むことができませんでした。"
+
+#~ msgid "Importation of a song from Audio CD finished."
+#~ msgstr "オーディオ CD から 1 曲のインポートが完了しました。"
+
+#~ msgid "Importation of %i songs from Audio CD finished."
+#~ msgstr "オーディオ CD から %i 曲のインポートが完了しました。"
+
+#~ msgid "An error occured during the Import of this CD"
+#~ msgstr "この CD のインポート中にエラーが発生しました"
+
+#~ msgid "Disk:"
+#~ msgstr "ディスク:"
+
+#~ msgid "%s has imported your library."
+#~ msgstr "%s がライブラリにインポートされました。"
+
+#~ msgid "Unable to import %d items from %s"
+#~ msgstr "%d 個の項目を %s からインポートすることができません"
+
+#~ msgid "Remove from %s"
+#~ msgstr "%s から削除"
+
+#~ msgid "Remove \"%s\" From %s?"
+#~ msgstr "\"%s\" を %s から削除しますか？"
+
+#~ msgid "No Albums Found."
+#~ msgstr "アルバムが見つかりませんでした。"
+
+#~ msgid "No Songs Found."
+#~ msgstr "曲が見つかりませんでした。"
+
+#~ msgid "%u second"
+#~ msgid_plural "%u seconds"
+#~ msgstr[0] "%u 秒"
+
+#~ msgid "%u minute"
+#~ msgid_plural "%u minutes"
+#~ msgstr[0] "%u 分"
+
+#~ msgctxt "minutes and seconds"
+#~ msgid "%s and %s"
+#~ msgstr "%s%s"
+
+#~ msgid "%u day"
+#~ msgid_plural "%u days"
+#~ msgstr[0] "%u 日"
+
+#~ msgid "%u hour"
+#~ msgid_plural "%u hours"
+#~ msgstr[0] "%u 時間"
+
+#~ msgctxt "days, hours and minutes"
+#~ msgid "%s, %s and %s"
+#~ msgstr "%s %s%s"
+
+#~ msgctxt "days and hours"
+#~ msgid "%s and %s"
+#~ msgstr "%s %s"
+
+#~ msgctxt "days and minutes"
+#~ msgid "%s and %s"
+#~ msgstr "%s %s"
+
+#~ msgctxt "hours and minutes"
+#~ msgid "%s and %s"
+#~ msgstr "%s%s"
+
+#~ msgid "Song"
+#~ msgstr "楽曲"
+
+#~ msgid "Repeat Artist"
+#~ msgstr "アーティストリピート"
+
+#~ msgid "All"
+#~ msgstr "すべて"
+
+#~ msgid "Hide"
+#~ msgstr "非表示"
+
+#~ msgid "Show Info Panel"
+#~ msgstr "情報パネルを表示"
+
+#~ msgid "Show"
+#~ msgstr "表示"
+
+#~ msgid "Hide Info Panel"
+#~ msgstr "情報パネルを隠す"
+
+#~ msgid "Free"
+#~ msgstr "空き"
+
+#~ msgid "Using %s of %s (%.2f%)"
+#~ msgstr "%s 中 %s 使っています (%.2f%)"
+
+#~ msgid "General"
+#~ msgstr "一般"
+
+#~ msgid "Import from Device"
+#~ msgstr "デバイスから取り込む"
+
+#~ msgid "Import media from %s"
+#~ msgstr "%s からメディアを取り込む"
+
+#~ msgid ""
+#~ "The following files were found on %s, but are not in your library. Check "
+#~ "all the files you would like to import."
+#~ msgstr ""
+#~ "以下のファイルは %s 上に発見されましたが、ライブラリーにありません。すべて"
+#~ "のインポートしたいファイルをクリックしてください。"
+
+#~ msgid "Import all media"
+#~ msgstr "全てのメディアを取り込む"
+
+#~ msgid "Don't Import"
+#~ msgstr "取り込まない"
+
+#~ msgid "Import %i items from %s"
+#~ msgstr "%i アイテムを %s から取り込む"
+
+#~ msgid "Import %s from %s"
+#~ msgstr "%s を %s から取り込む"
+
+#~ msgid "ID"
+#~ msgstr "ID"
+
+#~ msgid "Select individual media to import:"
+#~ msgstr "取り込むメディアを個別に選択:"
+
+#~ msgid "Check Item"
+#~ msgstr "項目を選択"
+
+#~ msgid "Check Album"
+#~ msgstr "アルバムを選択"
+
+#~ msgid "Check Artist"
+#~ msgstr "アーティストを選択"
+
+#~ msgid "Cannot Import"
+#~ msgstr "取り込みできません"
+
+#~ msgid ""
+#~ "Noise is already doing file operations. Please wait until those finish to "
+#~ "import from %s"
+#~ msgstr ""
+#~ "Noise はすでにファイル操作を行っています。 %s からのインポートが終了するま"
+#~ "でお待ちください"
+
+#~ msgid "Import media to Library"
+#~ msgstr "メディアをライブラリに取り込む"
+
+#~ msgid "Stop Syncing"
+#~ msgstr "同期を中止"
+
+#~ msgid "Sync will remove 1 item from %s"
+#~ msgstr "同期によって %s から1項目が削除されます"
+
+#~ msgid "%u album"
+#~ msgid_plural "%u albums"
+#~ msgstr[0] "%u アルバム"
+
+#~ msgctxt "Title format used on Album View Popup: $ALBUM by $ARTIST"
+#~ msgid "%s by %s"
+#~ msgstr "%s - %s"
+
+#~ msgctxt ""
+#~ "Format used on statusbar: $description, $total_duration, $total_file_size"
+#~ msgid "%s, %s, %s"
+#~ msgstr "%s %s %s"
+
+#~ msgid "OK"
+#~ msgstr "OK"
+
+#~ msgid "No External Songs"
+#~ msgstr "外部の曲がありません"
+
+#~ msgid ""
+#~ "There were no songs found on this device that are not in your library."
+#~ msgstr "ライブラリーではないこのデバイス上に曲は見つかりませんでした。"
+
+#~ msgid "%i track"
+#~ msgid_plural "%i tracks"
+#~ msgstr[0] "%i トラック"
+
+#~ msgid "%u song"
+#~ msgid_plural "%u songs"
+#~ msgstr[0] "%u 曲"
+
+#~ msgctxt "Format used on statusbar: $description, $total_duration"
+#~ msgid "%s, %s"
+#~ msgstr "%s %s"
+
+#~ msgid "translator-credits"
+#~ msgstr ""
+#~ "Launchpad Contributions:\n"
+#~ "  BALLOON a.k.a. Fu-sen. (Keiichi SHIGA) https://launchpad.net/~balloon\n"
+#~ "  Daniel Fore https://launchpad.net/~danrabbit\n"
+#~ "  J.S.Sebastian https://launchpad.net/~j-s-sebastian-x\n"
+#~ "  Joji Bronner https://launchpad.net/~jojiinchrist\n"
+#~ "  Jun Takeda https://launchpad.net/~takeda-jun\n"
+#~ "  Kadopoly https://launchpad.net/~kadopoly\n"
+#~ "  Naoki Kephart https://launchpad.net/~naoki-kephart\n"
+#~ "  Ryo Nakano https://launchpad.net/~uq3-him13de-9spzka7"
+
+#~ msgid "Lyrics fetched from www.lyricsmania.com"
+#~ msgstr "Lyrics は www.lyricsmania.com から呼び出されました"
+
+#~ msgid "Done"
+#~ msgstr "完了"
+
+#~ msgid "Podcast"
+#~ msgstr "ポッドキャスト"
+
+#~ msgid "is not"
+#~ msgstr "が次ではない"
+
+#~ msgid "Add Podcast"
+#~ msgstr "ポッドキャストを追加"
+
+#~ msgid "Download new Episodes"
+#~ msgstr "新しいエピソードをダウンロード"
+
+#~ msgid "Import Stations"
+#~ msgstr "局を追加する"
+
+#~ msgid "Edit"
+#~ msgstr "編集"
+
+#~ msgid "Podcasts"
+#~ msgstr "ポッドキャスト"
+
+#~ msgid "%s Stars"
+#~ msgstr "%s つ星の評価"
+
+#~ msgid "All %i Ratings"
+#~ msgstr "全 %i 評価"
+
+#~ msgid "Track"
+#~ msgstr "トラック"
+
+#~ msgid "Similar to %s"
+#~ msgstr "%s と同様"
+
+#~ msgid "Skips"
+#~ msgstr "スキップ回数"
+
+#~ msgid "Plays"
+#~ msgstr "再生回数"
+
+#~ msgid "BPM"
+#~ msgstr "BPM"
+
+#~ msgid "Device is already being synced."
+#~ msgstr "デバイスは既に同期されています。"
+
+#~ msgid "Rescan Music Folder"
+#~ msgstr "音楽フォルダを再スキャン"
+
+#~ msgid "Change your music folder."
+#~ msgstr "音楽フォルダを変更する。"
+
+#~ msgid "Locate"
+#~ msgstr "見つける"
+
+#~ msgid "<b>Importing</b> music from <b>%s</b> to library."
+#~ msgstr "<b>%s</b>から楽曲をライブラリに<b>取り込み中</b>。"
+
+#~ msgid "Rescanning music folder for changes"
+#~ msgstr "音楽フォルダの変更をスキャン中"
+
+#~ msgid "Unknown Album"
+#~ msgstr "不明なアルバム"
+
+#~ msgid "Unknown Artist"
+#~ msgstr "不明なアーティスト"
+
+#~ msgid "Queue"
+#~ msgstr "再生リスト"
+
+#~ msgid "Please make sure that your music folder is accessible and mounted."
+#~ msgstr ""
+#~ "音楽フォルダがマウントされており、アクセス可能である事を確認して下さい。"
+
+#~ msgid "Import media from device"
+#~ msgstr "デバイスからメディアを取り込む"
+
+#~ msgid "Export..."
+#~ msgstr "書き出し..."
+
+#~ msgid "#"
+#~ msgstr "#"
+
+#~ msgid "All Podcasts"
+#~ msgstr "すべてのポッドキャスト"
+
+#~ msgid "%s is already doing an import"
+#~ msgstr "%s は既に取り込みを実行中です"
+
+#~ msgid "%s could not find any songs on the CD. No songs can be imported"
+#~ msgstr ""
+#~ "%s はCD内に楽曲を見つけることができなかったため、取り込むことができません"
+#~ "でした。"
+
+#~ msgid ""
+#~ "Please wait until %s is finished with the current import before importing "
+#~ "the CD."
+#~ msgstr "%s が現在の取り込みを終えるまで、CDの取り込みをお待ちください。"
+
+#~ msgid "CD Import Complete"
+#~ msgstr "CDの取り込みが完了しました"
+
+#~ msgid "%s has finished importing %i songs from Audio CD."
+#~ msgstr "%s はオーディオCDからの %i 曲 の取り込みを完了しました。"
+
+#~ msgid "Ripping track 1"
+#~ msgstr "トラック 1 をリッピング中"
+
+#~ msgid "Importing track %i"
+#~ msgstr "トラック %i を取り込み中"
+
+#~ msgid "Adding files to library..."
+#~ msgstr "ファイルをライブラリに追加しています..."
+
+#~ msgid "Rescanning music for changes. This may take a while..."
+#~ msgstr ""
+#~ "楽曲の変更を再スキャンしています。この操作は少し時間がかかることがありま"
+#~ "す..."
+
+#~ msgid "Adding music from %s to library..."
+#~ msgstr "%s から楽曲をライブラリに追加しています..."
+
+#~ msgid "Importing music from %s..."
+#~ msgstr "%s から楽曲を取り込んでいます..."
+
+#~ msgid "No songs on CD"
+#~ msgstr "CDに楽曲がありません"
+
+#~ msgid "Unknown Track"
+#~ msgstr "うんこ"
+
+#~ msgid "Unknown Title"
+#~ msgstr "タイトル不明"
+
+#~ msgid "Radio Station"
+#~ msgstr "ラジオ局"
+
+#~ msgid "%d second"
+#~ msgid_plural "%d seconds"
+#~ msgstr[0] "%d 秒"
+
+#~ msgid "%i Star"
+#~ msgid_plural "%i Stars"
+#~ msgstr[0] "%i スター"
+
+#~ msgid "%i kbps"
+#~ msgstr "%i kbps"
+
+#~ msgid "Importing track %i: %s"
+#~ msgstr "トラック %i をインポート中: %s"
+
+#~ msgid ""
+#~ "Noise is already doing file operations. Please wait until those finish to "
+#~ "import from %d"
+#~ msgstr ""
+#~ "Noise はすでにファイル操作を行っています。%s からインポートするこれらの操"
+#~ "作が終わるまでお待ちください"
+
+#~ msgid "Lyrics"
+#~ msgstr "Lyrics"
+
+#~ msgid "Details"
+#~ msgstr "詳細"
+
+#~ msgid "Noise;Audio;Player;MP3;iPod;Play;Playlist;Media;CD;Phone;Songs;"
+#~ msgstr "Noise;Audio;Player;MP3;iPod;Play;Playlist;Media;CD;Phone;Songs;"
+
+#~ msgid "About Noise"
+#~ msgstr "Noise について"
+
+#~ msgid "About Music"
+#~ msgstr "ミュージックについて"
+
+#~ msgid "Editing %s"
+#~ msgstr "%s の編集"
+
+#~ msgid "Listen to music"
+#~ msgstr "音楽を聴きます"
+
+#~ msgid "Editing $NAME by $ARTIST"
+#~ msgstr "$ARTIST による $NAME を編集"
+
+#~ msgid "Reset"
+#~ msgstr "リセット"
+
+#~ msgid "<b>Stats</b>"
+#~ msgstr "<b>統計</b>"
+
+#~ msgid "Notifications:"
+#~ msgstr "通知"
+
+#~ msgid "Desktop Integration:"
+#~ msgstr "デスクトップの統合"
+
+#~ msgid "Library Management:"
+#~ msgstr "ライブラリの管理"
+
+#~ msgid "Album Artist"
+#~ msgstr "アルバムアーティスト"
+
+#~ msgid "Lyrics not found for %s"
+#~ msgstr "%s の Lyrics が見つかりませんでした"
+
+#~ msgid "Music Folder Location:"
+#~ msgstr "ミュージックフォルダーの場所"
+
+#~ msgid "Unsuccessful. Click To Try Again."
+#~ msgstr "失敗しました。クリックしてもう一度実行してください。"
+
+#~ msgid "Click to redo the Last.fm login process"
+#~ msgstr "Last.fm のログインの手順をやり直すためにクリックしてください"
+
+#~ msgid "Scrobbling Already Enabled"
+#~ msgstr "Scrobble はすでに有効です"
+
+#~ msgid "Success!"
+#~ msgstr "完了しました！"
+
+#~ msgid "Give %s Permission"
+#~ msgstr "%s に許可"
+
+#~ msgid "Last.fm"
+#~ msgstr "Last.fm"
+
+#~ msgid "Last.fm Integration"
+#~ msgstr "Last.fm の統合"
+
+#~ msgid "Display Album Art"
+#~ msgstr "アルバムアートを表示"
+
+#~ msgid "There is not enough space on Device to complete the Sync…"
+#~ msgstr "同期を完了するための十分なスペースがデバイス上にありません..."
+
+#~ msgid "Write metadata to file"
+#~ msgstr "ファイルにメタデータを書き込む"

@@ -1,0 +1,447 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-01 10:32+0000\n"
+"PO-Revision-Date: 2020-08-29 21:13+0000\n"
+"Last-Translator: Mejans <farga@mejans.fr>\n"
+"Language-Team: Occitan <https://l10n.phyreos.io/projects/music/music/oc/"
+">\n"
+"Language: oc\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.9.1\n"
+"X-Launchpad-Export-Date: 2017-03-07 05:54+0000\n"
+
+#: src/Application.vala:92 src/Views/NowPlayingView.vala:18
+#: src/Views/NowPlayingView.vala:116
+msgid "Music"
+msgstr "Musica"
+
+#: src/MainWindow.vala:20
+msgid "Shuffle"
+msgstr ""
+
+#: src/MainWindow.vala:26
+msgid "Search titles in playlist"
+msgstr ""
+
+#: src/MainWindow.vala:45
+msgid "Queue is Empty"
+msgstr ""
+
+#: src/MainWindow.vala:46
+msgid "Audio files opened from Files will appear here"
+msgstr ""
+
+#: src/MainWindow.vala:63
+msgid "Open Files…"
+msgstr ""
+
+#: src/MainWindow.vala:167
+#, c-format
+msgid "%d invalid file was not added to the queue"
+msgid_plural "%d invalid files were not added to the queue"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/MainWindow.vala:215
+#, fuzzy
+#| msgid "Image files"
+msgid "All files"
+msgstr "Fichièrs imatge"
+
+#: src/MainWindow.vala:220
+#, fuzzy
+#| msgid "Music"
+msgid "Music files"
+msgstr "Musica"
+
+#: src/MainWindow.vala:229
+#, fuzzy
+#| msgid "_Open"
+msgid "Open"
+msgstr "_Dobrir"
+
+#: src/MainWindow.vala:233
+msgid "Open audio files"
+msgstr ""
+
+#: src/MainWindow.vala:271
+msgid "Repeat None"
+msgstr ""
+
+#: src/MainWindow.vala:275
+msgid "Repeat All"
+msgstr ""
+
+#: src/MainWindow.vala:279
+msgid "Repeat One"
+msgstr ""
+
+#: src/PlaybackManager.vala:136
+#, c-format
+msgid "%d track was added to the queue"
+msgid_plural "%d tracks were added to the queue"
+msgstr[0] ""
+msgstr[1] ""
+
+#. Don't set artist for files without tags
+#: src/PlaybackManager.vala:196
+msgid "Unknown"
+msgstr "Desconegut"
+
+#: src/Views/NowPlayingView.vala:23 src/Views/NowPlayingView.vala:115
+#, fuzzy
+msgid "Not playing"
+msgstr "Lista de lectura novèla"
+
+#: src/Views/NowPlayingView.vala:45
+msgid "Previous"
+msgstr "Precedent"
+
+#: src/Views/NowPlayingView.vala:68
+msgid "Next"
+msgstr "Seguent"
+
+#: src/Views/NowPlayingView.vala:93
+msgid "Play"
+msgstr "Legir"
+
+#: src/Views/NowPlayingView.vala:96
+msgid "Pause"
+msgstr "Metre en pausa"
+
+#~ msgid "Flat"
+#~ msgstr "Plat"
+
+#~ msgid "Classical"
+#~ msgstr "Classic"
+
+#~ msgid "Club"
+#~ msgstr "Club"
+
+#~ msgid "Dance"
+#~ msgstr "Dance"
+
+#~ msgid "Headphones"
+#~ msgstr "Escotadors"
+
+#~ msgid "Large Hall"
+#~ msgstr "Grand Hall"
+
+#~ msgid "Live"
+#~ msgstr "Live"
+
+#~ msgid "Party"
+#~ msgstr "Fèsta"
+
+#~ msgid "Pop"
+#~ msgstr "Pop"
+
+#~ msgid "Reggae"
+#~ msgstr "Reggae"
+
+#~ msgid "Rock"
+#~ msgstr "Rock"
+
+#~ msgid "Soft"
+#~ msgstr "Doç"
+
+#~ msgid "Ska"
+#~ msgstr "Ska"
+
+#~ msgid "Techno"
+#~ msgstr "Techno"
+
+#~ msgid "%s (%d)"
+#~ msgstr "%s (%d)"
+
+#~ msgid "Cancel"
+#~ msgstr "Anullar"
+
+#~ msgid "Playlist"
+#~ msgstr "Lista de lectura"
+
+#~ msgid "Import %s"
+#~ msgstr "Importar %s"
+
+#~ msgid "Audio Player"
+#~ msgstr "Lector àudio"
+
+#~ msgid "Preferences"
+#~ msgstr "Preferéncias"
+
+#~ msgctxt "Name of the playlist"
+#~ msgid "Queue"
+#~ msgstr "Fila"
+
+#~ msgid "File not found"
+#~ msgstr "Impossible de trobar lo fichièr"
+
+#~ msgid "Title:"
+#~ msgstr "Títol:"
+
+#~ msgid "Artist:"
+#~ msgstr "Artista :"
+
+#~ msgid "Album:"
+#~ msgstr "Album :"
+
+#~ msgid "Composer:"
+#~ msgstr "Compositor :"
+
+#~ msgid "Genre:"
+#~ msgstr "Tipe :"
+
+#~ msgid "Year:"
+#~ msgstr "Annada :"
+
+#~ msgid "Disc:"
+#~ msgstr "Disc :"
+
+#~ msgid "Rating:"
+#~ msgstr "Nòta :"
+
+#~ msgid "Comment:"
+#~ msgstr "Comentari :"
+
+#~ msgid "Close"
+#~ msgstr "Tampar"
+
+#~ msgid "Move to Trash"
+#~ msgstr "Desplaçar a l’escobilhièr"
+
+#~ msgid "Ignore"
+#~ msgstr "Ignorar"
+
+#~ msgid "Match"
+#~ msgstr "Correspond"
+
+#~ msgid "Limit to"
+#~ msgstr "Limitar a"
+
+#~ msgid "items"
+#~ msgstr "elements"
+
+#~ msgid "Remove"
+#~ msgstr "Levar"
+
+#~ msgid "Album"
+#~ msgstr "Album"
+
+#~ msgid "Artist"
+#~ msgstr "Artista"
+
+#~ msgid "Bitrate"
+#~ msgstr "Debit"
+
+#~ msgid "Comment"
+#~ msgstr "Comentaris"
+
+#~ msgid "Composer"
+#~ msgstr "Compositor"
+
+#~ msgid "Date Added"
+#~ msgstr "Data d'apondon"
+
+#~ msgid "Genre"
+#~ msgstr "Genre"
+
+#~ msgid "Grouping"
+#~ msgstr "Regropament"
+
+#~ msgid "Last Played"
+#~ msgstr "Darrièra lectura"
+
+#~ msgid "Length"
+#~ msgstr "Longor"
+
+#~ msgid "Rating"
+#~ msgstr "Nòta"
+
+#~ msgid "Year"
+#~ msgstr "Annada"
+
+#~ msgid "URI"
+#~ msgstr "URI"
+
+#~ msgid "contains"
+#~ msgstr "conten"
+
+#~ msgid "does not contain"
+#~ msgstr "conten pas"
+
+#~ msgid "is before"
+#~ msgstr "es abans"
+
+#~ msgid "seconds"
+#~ msgstr "segondas"
+
+#~ msgid "Import"
+#~ msgstr "Importar"
+
+#~ msgid "Recently Added"
+#~ msgstr "Aponduts recentament"
+
+#~ msgid "History"
+#~ msgstr "Istoric"
+
+#~ msgid "Playlists"
+#~ msgstr "Listas de lectura"
+
+#~ msgid "Device Name"
+#~ msgstr "Nom del periferic"
+
+#~ msgid "Sync"
+#~ msgstr "Sinc"
+
+#~ msgid "All Music"
+#~ msgstr "Tota la musica"
+
+#~ msgid "Cancelling…"
+#~ msgstr "Anullacion…"
+
+#~ msgid "No Results"
+#~ msgstr "Pas cap de resultat"
+
+#~ msgid "Genres"
+#~ msgstr "Genres"
+
+#~ msgid "Artists"
+#~ msgstr "Artistas"
+
+#~ msgid "Albums"
+#~ msgstr "Albums"
+
+#~ msgid "Years"
+#~ msgstr "Annadas"
+
+#~ msgid "Automatic"
+#~ msgstr "Automaticament"
+
+#~ msgid "Never"
+#~ msgstr "Pas jamai"
+
+#~ msgctxt "List column title"
+#~ msgid "Track"
+#~ msgstr "Pista"
+
+#~ msgctxt "List column title"
+#~ msgid "Length"
+#~ msgstr "Longor"
+
+#~ msgctxt "List column title"
+#~ msgid "Artist"
+#~ msgstr "Artista"
+
+#~ msgctxt "List column title"
+#~ msgid "Album"
+#~ msgstr "Album"
+
+#~ msgctxt "List column title"
+#~ msgid "Album Artist"
+#~ msgstr "Artista de l'album"
+
+#~ msgctxt "List column title"
+#~ msgid "Composer"
+#~ msgstr "Compositor"
+
+#~ msgctxt "List column title"
+#~ msgid "Genre"
+#~ msgstr "Genre"
+
+#~ msgctxt "List column title"
+#~ msgid "Year"
+#~ msgstr "Annada"
+
+#~ msgctxt "List column title"
+#~ msgid "Grouping"
+#~ msgstr "Regropament"
+
+#~ msgctxt "List column title"
+#~ msgid "Bitrate"
+#~ msgstr "Debit"
+
+#~ msgctxt "List column title"
+#~ msgid "Rating"
+#~ msgstr "Nòta"
+
+#~ msgctxt "List column title"
+#~ msgid "Date Added"
+#~ msgstr "Data d'apondon"
+
+#~ msgctxt "List column title"
+#~ msgid "Last Played"
+#~ msgstr "Darrièra lectura"
+
+#~ msgctxt "List column title (beats per minute)"
+#~ msgid "BPM"
+#~ msgstr "PPM"
+
+#~ msgctxt "List column title (file location)"
+#~ msgid "Location"
+#~ msgstr "Emplaçament"
+
+#~ msgctxt "List column title"
+#~ msgid "File Size"
+#~ msgstr "Talha del fichièr"
+
+#~ msgid "1234 kbps"
+#~ msgstr "1234 kbps"
+
+#~ msgid "No media"
+#~ msgstr "Cap de mèdia"
+
+#~ msgid "_Cancel"
+#~ msgstr "_Anullar"
+
+#~ msgid "Off"
+#~ msgstr "Non"
+
+#~ msgid "Other Actions"
+#~ msgstr "Autras accions"
+
+#~ msgctxt "Action item (verb)"
+#~ msgid "Queue"
+#~ msgstr "Fila"
+
+#~ msgid "Add to Playlist"
+#~ msgstr "Apondre a la lista de lectura"
+
+#~ msgid "Rename"
+#~ msgstr "Renommar"
+
+#~ msgid "Edit…"
+#~ msgstr "Edicion…"
+
+#~ msgid "Export…"
+#~ msgstr "Exportar…"
+
+#~ msgid "Eject"
+#~ msgstr "Ejectar"
+
+#~ msgid "New Playlist"
+#~ msgstr "Lista de lecturas novèla"
+
+#~ msgid "Library"
+#~ msgstr "Bibliotèca"
+
+#~ msgid "Devices"
+#~ msgstr "Periferics"
+
+#~ msgid "Network"
+#~ msgstr "Ret"
+
+#, fuzzy
+#~| msgid "Add to Playlist"
+#~ msgid "Add Playlist…"
+#~ msgstr "Apondre a la lista de lectura"
+
+#~ msgid "View as list"
+#~ msgstr "Afichar en lista"
+
+#~ msgid "Similar"
+#~ msgstr "Semblable"

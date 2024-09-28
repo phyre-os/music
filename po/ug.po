@@ -1,0 +1,1351 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-01 10:32+0000\n"
+"PO-Revision-Date: 2016-12-12 07:21+0000\n"
+"Last-Translator: Daniel Fore <Unknown>\n"
+"Language-Team: \n"
+"Language: ug\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Launchpad-Export-Date: 2017-03-07 05:55+0000\n"
+"X-Generator: Launchpad (build 18330)\n"
+
+#: src/Application.vala:92 src/Views/NowPlayingView.vala:18
+#: src/Views/NowPlayingView.vala:116
+msgid "Music"
+msgstr "مۇزىكا"
+
+#: src/MainWindow.vala:20
+#, fuzzy
+msgid "Shuffle"
+msgstr "خالىغانچە قويۇش"
+
+#: src/MainWindow.vala:26
+msgid "Search titles in playlist"
+msgstr ""
+
+#: src/MainWindow.vala:45
+msgid "Queue is Empty"
+msgstr ""
+
+#: src/MainWindow.vala:46
+msgid "Audio files opened from Files will appear here"
+msgstr ""
+
+#: src/MainWindow.vala:63
+#, fuzzy
+#| msgid "Other Files"
+msgid "Open Files…"
+msgstr "باشقا ھۆججەتلەر"
+
+#: src/MainWindow.vala:167
+#, c-format
+msgid "%d invalid file was not added to the queue"
+msgid_plural "%d invalid files were not added to the queue"
+msgstr[0] ""
+
+#: src/MainWindow.vala:215
+#, fuzzy
+#| msgid "All Years"
+msgid "All files"
+msgstr "بارلىق يىللار"
+
+#: src/MainWindow.vala:220
+#, fuzzy
+#| msgid "Music"
+msgid "Music files"
+msgstr "مۇزىكا"
+
+#: src/MainWindow.vala:229
+msgid "Open"
+msgstr "ئىچىش"
+
+#: src/MainWindow.vala:233
+msgid "Open audio files"
+msgstr ""
+
+#: src/MainWindow.vala:271
+#, fuzzy
+msgid "Repeat None"
+msgstr "ناخشىنى تەكرارلاش"
+
+#: src/MainWindow.vala:275
+#, fuzzy
+msgid "Repeat All"
+msgstr "ئالبومنى تەكرارلاش"
+
+#: src/MainWindow.vala:279
+#, fuzzy
+msgid "Repeat One"
+msgstr "ناخشىنى تەكرارلاش"
+
+#: src/PlaybackManager.vala:136
+#, c-format
+msgid "%d track was added to the queue"
+msgid_plural "%d tracks were added to the queue"
+msgstr[0] ""
+
+#. Don't set artist for files without tags
+#: src/PlaybackManager.vala:196
+msgid "Unknown"
+msgstr "نامەلۇم"
+
+#: src/Views/NowPlayingView.vala:23 src/Views/NowPlayingView.vala:115
+#, fuzzy
+msgid "Not playing"
+msgstr "يىڭى قويۇش تىزىملىكى"
+
+#: src/Views/NowPlayingView.vala:45
+msgid "Previous"
+msgstr "ئالدىنقىسى"
+
+#: src/Views/NowPlayingView.vala:68
+msgid "Next"
+msgstr "كىيىنكىسى"
+
+#: src/Views/NowPlayingView.vala:93
+msgid "Play"
+msgstr "قويۇش"
+
+#: src/Views/NowPlayingView.vala:96
+msgid "Pause"
+msgstr "توختىتىش"
+
+#~ msgid "Importing <b>$NAME</b> by <b>$ARTIST</b> to library…"
+#~ msgstr ""
+#~ "<b>$ARTIST</b> نىڭ <b>$NAME</b> ناملىق ناخشىسىنى ئامبارغا "
+#~ "كىرگۈزۈۋاتىدۇ...."
+
+#~ msgid "$NAME on $ALBUM"
+#~ msgstr "$NAME  پلاستىنكا $NAME  دا"
+
+#~ msgid "$NAME by $ARTIST"
+#~ msgstr "$NAME نى ئورۇنلىغۇچى $ARTIST"
+
+#~ msgid "$NAME by $ARTIST on $ALBUM"
+#~ msgstr "$NAME $ARTIST نىڭ $ALBUM ناملىق ئالبومىدا"
+
+#~ msgid "Flat"
+#~ msgstr "تەكشى تىزماق"
+
+#~ msgid "Classical"
+#~ msgstr "كىلاسسىك"
+
+#~ msgid "Club"
+#~ msgstr "كۇلۇب"
+
+#~ msgid "Dance"
+#~ msgstr "ئۇسسۇل"
+
+#~ msgid "Full Bass"
+#~ msgstr "بوم پەس ئاۋاز"
+
+#~ msgid "Full Treble"
+#~ msgstr "ياڭراق يۇقىرى ئاۋاز"
+
+#~ msgid "Full Bass + Treble"
+#~ msgstr "پەس ئاۋاز + يۇقىرى ئاۋاز"
+
+#~ msgid "Headphones"
+#~ msgstr "تىڭشىغۇچ"
+
+#~ msgid "Large Hall"
+#~ msgstr "مۇزىكا زالى"
+
+#~ msgid "Live"
+#~ msgstr "كونسىرت"
+
+#~ msgid "Party"
+#~ msgstr "يىغىلىش"
+
+#~ msgid "Pop"
+#~ msgstr "Pop"
+
+#~ msgid "Reggae"
+#~ msgstr "Reggae"
+
+#~ msgid "Rock"
+#~ msgstr "Rock"
+
+#~ msgid "Soft"
+#~ msgstr "Soft"
+
+#~ msgid "Ska"
+#~ msgstr "Ska"
+
+#~ msgid "Soft Rock"
+#~ msgstr "Soft Rock"
+
+#~ msgid "Techno"
+#~ msgstr "سۈنئىي ئاۋاز"
+
+#~ msgid " (%d)"
+#~ msgstr " (%d)"
+
+#~ msgid "%s (%d)"
+#~ msgstr "%s (%d)"
+
+#~ msgid "%s (%i)"
+#~ msgstr "%s (%i)"
+
+#~ msgid "MPEG Version 3.0 Extended (*.m3u)"
+#~ msgstr "MPEG قىستۇرمىسى 3.0 نەشىرى (*.m3u)"
+
+#~ msgid "Shoutcast Playlist Version 2.0 (*.pls)"
+#~ msgstr "Shoutcast قويغۇچىسى 2.0 نەشىرى (*.pls)"
+
+#~ msgid "Export Playlist"
+#~ msgstr "قويۇش تىزىملىكىنى چىقىرىش"
+
+#~ msgid "Save"
+#~ msgstr "ساقلاش"
+
+#~ msgid "Cancel"
+#~ msgstr "ئەمەلدىن قالدۇرۇش"
+
+#~ msgid "Playlist"
+#~ msgstr "قويۇش تىزىملىكى"
+
+#~ msgid "Import %s"
+#~ msgstr "%s چىقىرىش"
+
+#~ msgid "Unrecognized playlist file. Import failed."
+#~ msgstr "قويۇش تىزىملىكى ھۆججىتىنى تونۇيالمىدى،كىرگۈزۈش مەغلۇپ بولدى."
+
+#~ msgid "%m/%e/%Y %l:%M %p"
+#~ msgstr "%Y%m/%e/ %l:%M %p"
+
+#~ msgid "Empty device!"
+#~ msgstr "قۇرۇق ئۈسكۈنە!"
+
+#~ msgid "This device does not contain any music."
+#~ msgstr "بۇ ئۈسكۈنىدە ھىچقانداق مۇزىكا يوق."
+
+#~ msgid "Android Phone"
+#~ msgstr "ئاندرويىد تېلىفونى"
+
+#~ msgid "Audio Player"
+#~ msgstr "ئاۋاز ھۆججىتى قويغۇچىسى"
+
+#~ msgid "Adding <b>$NAME</b> by <b>$ARTIST</b> to $DEVICE"
+#~ msgstr "<b>$ARTIST</b> بويىچە <b>$NAME</b> نى $DEVICE قا قىتىش"
+
+#~ msgid "Syncing <b>%s</b>…"
+#~ msgstr "<b>%s</b> نى ماس قەدەمگە كەلتۈرۈۋاتىدۇ...."
+
+#~ msgid "Removing <b>$NAME</b> by <b>$ARTIST</b> from $DEVICE"
+#~ msgstr "<b>$ARTIST</b> بويىچە <b>$NAME</b> نى $DEVICE دىن ئۆچۈرۈش"
+
+#~ msgid "Removing from <b>%s</b>…"
+#~ msgstr "<b>%s</b> دىن ئۆچۈرىۋاتىدۇ...."
+
+#~ msgid "Finishing sync process…"
+#~ msgstr "ماس قەدەمگە كەلتۈرۈش جەريانىنى تاماملاۋاتىدۇ...."
+
+#~ msgid "Cancelling Sync…"
+#~ msgstr "ماس قەدەمگە كەلتۈرۈشنى ئەمەلدىن قالدۇرۇۋاتىدۇ...."
+
+#~ msgid "Import Complete"
+#~ msgstr "كىرگۈزۈش تاماملاندى"
+
+#~ msgid "<b>Copying</b> files to <b>Music Folder</b>…"
+#~ msgstr "ھۆججەتلەرنى <b>مۇزىكا مۇندەرىجىسى</b>گە <b>كۆچۈرىۋاتىدۇ</b>...."
+
+#~ msgid "Import to Library…"
+#~ msgstr "ئامبارغا كىرگۈزۈۋاتىدۇ...."
+
+#~ msgid "Preferences"
+#~ msgstr "مايىللىق"
+
+#~ msgid "Search Music"
+#~ msgstr "مۇزىكا ئىزدەش"
+
+#~ msgid "No songs in Queue"
+#~ msgstr "سەپتە ناخشا يوق"
+
+#~ msgid ""
+#~ "To add songs to the queue, use the <b>secondary click</b> on an item and "
+#~ "choose <b>Queue</b>. When a song finishes, the queued songs will be "
+#~ "played first before the next song in the currently playing list."
+#~ msgstr ""
+#~ "مۇزىكىنى سەپكە قوشماقچى بولسىڭىز مۇزىكىنى تاللاپ مائۇسنىڭ ئوڭ كۇنۇپكىسىنى "
+#~ "چىكىپ <b>سەپكە قىتىش</b>نى تاللاڭ.قويۇلىۋاتقان مۇزىكا ئاخىرلاشقاندىن "
+#~ "كىيىن سەپنىڭ بىشىدىكى مۇزىكىدىن باشلاپ قويىلىدۇ."
+
+#~ msgid "No songs in History"
+#~ msgstr "قويۇش تارىخىدا مۇزىكا يوق"
+
+#~ msgid ""
+#~ "After a part of a song has been played, it is added to the history list.\n"
+#~ "You can use this list to see all the songs you have played during the "
+#~ "current session."
+#~ msgstr ""
+#~ "بىر مۇزىكىنىڭ مەلۇم بىرقىسمى قويۇلغاندىن كىيىن مەزكۇر مۇزىكا قويۇش "
+#~ "تارىخىغا قىتىلىدۇ.\n"
+#~ "قويۇش تارىخى تىزىملىكىدىن ئىلگىرى قويغان بارلىق مۇزىكىلارنى كۆرەلەيسىز."
+
+#~ msgid "Import Music"
+#~ msgstr "مۇزىكىنى كىرگۈزۈش"
+
+#~ msgctxt "Name of the playlist"
+#~ msgid "Queue"
+#~ msgstr "سەپ"
+
+#~ msgid "File not found"
+#~ msgstr "ھۆججەت تىپىلمىدى"
+
+#~ msgid "The music file for <b>%s</b> by <b>%s</b> could not be found."
+#~ msgstr "<b>%s</b> ئورۇنلىغان <b>%s</b> ناملىق ناخشىنىڭ ھۆججىتى تىپىلمىدى."
+
+#, fuzzy
+#~| msgid "%i music files could not be found?"
+#~ msgid "%i music files could not be found."
+#~ msgstr "%i ناملىق مۇزىكىنىڭ ھۆججىتى تىپىلمىدى؟"
+
+#~ msgid "Rescan Library"
+#~ msgstr "ئامبارنى قايتا ئاختۇرۇش"
+
+#~ msgid "Remove Song"
+#~ msgstr "ناخشىنى ئۆچۈرۈش"
+
+#~ msgid "Find Song"
+#~ msgstr "ناخشا ئىزدەش"
+
+#~ msgid "Choose Music Folder"
+#~ msgstr "مۇزىكا مۇندەرىجىسىنى تاقاش"
+
+#, fuzzy
+#~ msgid "Would you like to install the %s plugin?"
+#~ msgstr "%s قىستۇرمىسىنى ئورنىتامسىز؟\n"
+
+#, fuzzy
+#~ msgid ""
+#~ "This song cannot be played. The %s plugin is required to play the song."
+#~ msgstr ""
+#~ "\n"
+#~ "بۇ ناخشىنى قويغىلى بولمىدى. بۇ ناخشىنى قويۇش ئۈچۈن %s قىستۇرمىسىنى "
+#~ "ئورنىتىشىڭىز كىرەك."
+
+#~ msgid "Install Plugin"
+#~ msgstr "قىستۇرمىنى ئورنىتىش"
+
+#~ msgid "Title:"
+#~ msgstr "ئسىمى："
+
+#~ msgid "Artist:"
+#~ msgstr "ئورۇنلىغۇچى："
+
+#~ msgid "Album:"
+#~ msgstr "ئالبوم："
+
+#~ msgid "Album Artist:"
+#~ msgstr "ئالبومنىڭ ئورۇنلىغۇچىسى："
+
+#~ msgid "Composer:"
+#~ msgstr "مۇزىكىسىنى ئىشلىگۈچى："
+
+#~ msgid "Grouping:"
+#~ msgstr "گۇرۇپپا"
+
+#~ msgid "Genre:"
+#~ msgstr "ئىقىم："
+
+#~ msgid "Year:"
+#~ msgstr "يىل："
+
+#~ msgid "Track:"
+#~ msgstr "پارچە："
+
+#~ msgid "Rating:"
+#~ msgstr "نومۇر："
+
+#~ msgid "Comment:"
+#~ msgstr "نومۇر："
+
+#~ msgid "Close"
+#~ msgstr "تاقاش"
+
+#, fuzzy
+#~ msgid "Issues while importing from %s"
+#~ msgstr "%s مۇزىكا كىرگۈزۈۋاتىدۇ....."
+
+#, fuzzy
+#~ msgid "Unable to import %d item. The file may be damaged."
+#~ msgid_plural "Unable to import %d items. The files may be damaged."
+#~ msgstr[0] ""
+#~ "%s %d نى كىرگۈزەلمىدى.بۇ ھۆججەتلەر بەلكىم بۇزۇلغان بولىشى مۇمكىن."
+
+#~ msgid "Move all corrupted files to trash"
+#~ msgstr "ھەممە بۇزۇلغان ھۆججەتلەرنى ئەخلەت چېلىكىگە تاشلاش"
+
+#~ msgid "del"
+#~ msgstr "ئۆچۈرۈش"
+
+#~ msgid "File Location"
+#~ msgstr "ھۆججەت ئورنى"
+
+#~ msgid "Select individual files to move to trash:"
+#~ msgstr "يەككە ھۆججەتنى تاللاپ ئەخلەت چېلىكىگە تاشلاڭ:"
+
+#~ msgid "Move to Trash"
+#~ msgstr "ئەخلەت چېلىكىگە تاشلاش"
+
+#~ msgid "Ignore"
+#~ msgstr "نەزەردىن ساقىت قىلىش"
+
+#~ msgid "Select Music Folder…"
+#~ msgstr "مۇزىكا مۇندەرىجىسىنى تاللاڭ...."
+
+#~ msgid "Music Folder Location"
+#~ msgstr "مۇزىكا مۇندەرىجىسىنىڭ ئورنى"
+
+#~ msgid "Library Management"
+#~ msgstr "ئامبار باشقۇرۇش"
+
+#~ msgid "Keep Music folder organized:"
+#~ msgstr "مۇزىكا مۇندەرىجىسىنىڭ تەرتىپىنى ساقلاش:"
+
+#~ msgid "Write metadata to file:"
+#~ msgstr "ئانا ئۇچۇرنى ھۆججەتكە يىزىش:"
+
+#~ msgid "Copy imported files to Library:"
+#~ msgstr "كىرگۈزۈلگەن ھۆججەتلەرنى ئامبارغا كۆچۈرۈش："
+
+#~ msgid "Desktop Integration"
+#~ msgstr "ئۈستەليۈزىنى توپلاشتۇرۇش"
+
+#~ msgid "Continue playback when closed:"
+#~ msgstr "تاقالغاندىن كىيىن ئارقا ئۈستەلدە داۋاملىق قويۇش："
+
+#, fuzzy
+#~ msgid "Remove %d Song From Library?"
+#~ msgid_plural "Remove %d Songs From Library?"
+#~ msgstr[0] "%s دىن %d ناخشىنى ئۆچۈرۈش"
+
+#, fuzzy
+#~ msgid "Remove \"%s\" From Library?"
+#~ msgstr "ئامباردىن چىقىرىۋىتىش"
+
+#, fuzzy
+#~ msgid ""
+#~ "This will remove the song from your library and from any device synced "
+#~ "automatically."
+#~ msgid_plural ""
+#~ "This will remove the songs from your library and from any device synced "
+#~ "automatically."
+#~ msgstr[0] ""
+#~ "بۇ مەشغۇلات ناخشا ئامبىرىڭىزدىكى ۋە باشقا ھەرقانداق  % بىلەن ئاپتوماتىك "
+#~ "ماس قەدەمگە كەلتۈرۈلگەن ئۈسكۈندىكى ناخشىلارنى ئۆچۈرىدۇ."
+
+#~ msgid "Remove from Library"
+#~ msgstr "ئامباردىن چىقىرىۋىتىش"
+
+#~ msgid "Set Music Folder?"
+#~ msgstr "مۇزىكا مۇندەرىجىسىنى تەڭشەمسىز؟"
+
+#~ msgid ""
+#~ "Are you sure you want to set the music folder to %s? This will reset your "
+#~ "library and remove your playlists."
+#~ msgstr ""
+#~ "مۇزىكا مۇندەرىجىسىنى راسىتتىنلا %s غا تەڭشەمسىز؟بۇ مەشغۇلات سىزنىڭ "
+#~ "ئامبىرىڭىزنى ئەسلىگە قايتۇرىدۇ ۋە قويۇش تىزىملىكلىرىڭىزنى ئۆچۈرىدۇ."
+
+#~ msgid "Export Playlists"
+#~ msgstr "قويۇش تىزىملىكلىرىنى چىقىرىش"
+
+#~ msgid "Set Music Folder"
+#~ msgstr "مۇزىكا مۇندەرىجىسىنى تەڭشەش"
+
+#~ msgid "Playlist Title"
+#~ msgstr "قويۇش تىزىملىكى ئىسمى"
+
+#~ msgid "any"
+#~ msgstr "ھەرقاندىقى"
+
+#~ msgid "all"
+#~ msgstr "ھەممىسى"
+
+#~ msgid "Match"
+#~ msgstr "ماس كەلگەنلىرى"
+
+#~ msgid "of the following:"
+#~ msgstr "تۆۋەندىكىلىرى："
+
+#~ msgid "Add"
+#~ msgstr "قىتىش"
+
+#~ msgid "Limit to"
+#~ msgstr "قىلىپ چەكلەش"
+
+#~ msgid "items"
+#~ msgstr "تۈرلەر"
+
+#~ msgid "Name of Playlist"
+#~ msgstr "قويۇش تىزىملىكى ئىسمى"
+
+#~ msgid "Rules"
+#~ msgstr "قائىدىلەر"
+
+#~ msgid "Options"
+#~ msgstr "تاللاشلار"
+
+#~ msgid "Smart Playlist Editor"
+#~ msgstr "ئەقلىي ئىقتىدارلىق قويۇش تىزىملىكى تەھرىرلىگۈچىسى"
+
+#~ msgid "Remove"
+#~ msgstr "ئۆچۈرۈش"
+
+#~ msgid "Album"
+#~ msgstr "ئالبوم"
+
+#~ msgid "Artist"
+#~ msgstr "ئورۇنلىغۇچى"
+
+#~ msgid "Bitrate"
+#~ msgstr "بىت تېزلىك نىسبىتى"
+
+#~ msgid "Comment"
+#~ msgstr "ئىزاھ"
+
+#~ msgid "Composer"
+#~ msgstr "مۇزىكىسىنى ئىشلىگۈچى"
+
+#~ msgid "Date Added"
+#~ msgstr "قىتىلغان چىسلاسى"
+
+#~ msgid "Genre"
+#~ msgstr "ئىقىم"
+
+#~ msgid "Grouping"
+#~ msgstr "گۇرۇپپا"
+
+#~ msgid "Last Played"
+#~ msgstr "ئالدىنقى قېتىم قويۇلغىنى"
+
+#~ msgid "Length"
+#~ msgstr "ئۇزۇنلىقى"
+
+#~ msgid "Playcount"
+#~ msgstr "قويۇلۇش قېتىم سانى"
+
+#~ msgid "Rating"
+#~ msgstr "نومۇرى"
+
+#~ msgid "Skipcount"
+#~ msgstr "ئاتلاپ ئۆتۈش قېتىم سانى"
+
+#~ msgid "Title"
+#~ msgstr "ئىسمى"
+
+#~ msgid "Year"
+#~ msgstr "يىل"
+
+#~ msgid "contains"
+#~ msgstr "ئۆز ئىچىگە ئالغانلىرى"
+
+#~ msgid "does not contain"
+#~ msgstr "ئۆز ئىچىگە ئالمىغانلىرى"
+
+#~ msgid "is exactly"
+#~ msgstr "نەق"
+
+#~ msgid "is at most"
+#~ msgstr "تۆۋىنىدە"
+
+#~ msgid "is at least"
+#~ msgstr "يۇقىرىسىدا"
+
+#~ msgid "is within"
+#~ msgstr "كەينىدە"
+
+#~ msgid "is before"
+#~ msgstr "ئالدىدا"
+
+#~ msgid "seconds"
+#~ msgstr "سىكۇنت"
+
+#~ msgid "days ago"
+#~ msgstr "كۈن بۇرۇن"
+
+#~ msgid "kbps"
+#~ msgstr "kb/سىكۇنت"
+
+#, fuzzy
+#~ msgid "Sync will remove %i item from %s"
+#~ msgid_plural "Sync will remove %i items from %s"
+#~ msgstr[0] "ماس قەدەمگە كەلتۈرۈش %s دىن %i  تۈرنى ئۆچۈرىدۇ"
+
+#~ msgid ""
+#~ "If you continue to sync, media will be removed from %s since they are not "
+#~ "on the sync list. Would you like to import them to your library first?"
+#~ msgstr ""
+#~ "ئەگەر داۋاملىق ماس قەدەمگە كەلتۈرسىڭىز مېدىئا %s دىن ئۆچۈرىلىدۇ، چۈنكى ئۇ "
+#~ "ماس قەدەمگە كەلتۈرۈش تىزىملىكىدە يوق.ئاۋۋال بۇ تۈرلەرنى مۇزىكا "
+#~ "ئامبىرىڭىزغا كىرگۈزەمسىز؟"
+
+#~ msgid "Continue Syncing"
+#~ msgstr "ماس قەدەمگە كەلتۈرۈشنى داۋاملاشتۇرۇش"
+
+#~ msgid "Import"
+#~ msgstr "كىرگۈزۈش"
+
+#~ msgid "Importing music from %s…"
+#~ msgstr "%s مۇزىكا كىرگۈزۈۋاتىدۇ....."
+
+#~ msgid "Adding files to library…"
+#~ msgstr "ئامبارغا مۇزىكا قىتىۋاتىدۇ...."
+
+#~ msgid "<b>Importing</b> music to library…"
+#~ msgstr "ئامبارغا مۇزىكا <b>قىتىۋاتىدۇ</b>...."
+
+#~ msgid "All music files are already in your library"
+#~ msgstr "ھەممە مۇزىكا ھۆججەتلىرى مۇزىكا ئامبىرىڭىزدا"
+
+#~ msgid "No files were imported."
+#~ msgstr "ھىچقانداق ھۆججەت كىرگۈزۈلمىدى."
+
+#~ msgid "Rescanning music for changes. This may take a while…"
+#~ msgstr ""
+#~ "مۇزىكا ئۆزگەرتىشلىرىنى قايتا تەكشۈرۈۋاتىدۇ. بۇ ئازراق ۋاقىت ئىلىشى "
+#~ "مۇمكىن...."
+
+#~ msgid "Added to your queue:"
+#~ msgstr "سەپكە قىتىلغىنى:"
+
+#~ msgid "%d Track"
+#~ msgid_plural "%d Tracks"
+#~ msgstr[0] "%d پارچە"
+
+#~ msgid "Favorite Songs"
+#~ msgstr "ياقتۇرىدىغان ناخشىلار"
+
+#~ msgid "Recently Added"
+#~ msgstr "يىقىندا قىتىلغىنى"
+
+#~ msgid "Recent Favorites"
+#~ msgstr "يىقىندىكى ياقتۇرغانلىرى"
+
+#~ msgid "Never Played"
+#~ msgstr "ئەسلا قويۇلمىغانلىرى"
+
+#~ msgid "Over Played"
+#~ msgstr "قويۇلۇپ باققىنى"
+
+#~ msgid "Not Recently Played"
+#~ msgstr "يىقىندا قويۇلمىغىنى"
+
+#~ msgid "History"
+#~ msgstr "تارىخ"
+
+#~ msgid "Playlists"
+#~ msgstr "قويۇش تىزىملىكلىرى"
+
+#~ msgid "Device Name:"
+#~ msgstr "ئۈسكۈنە ئىسمى:"
+
+#~ msgid "Device Name"
+#~ msgstr "ئۈسكۈنە ئىسمى"
+
+#~ msgid "Automatically sync when plugged in:"
+#~ msgstr "قىستۇرۇلغان ۋاقىتتا ئاپتوماتىك ماس قەدەمگە كەلتۈرۈش:"
+
+#~ msgid "Sync:"
+#~ msgstr "ماس قەدەم:"
+
+#~ msgid "Sync"
+#~ msgstr "ماس قەدەمدە قويۇش"
+
+#~ msgid "All Music"
+#~ msgstr "بارلىق مۇزىكىلار"
+
+#~ msgid "Sync Failed"
+#~ msgstr "ماس قەدەمگە كەلتۈرۈش مەغلۇپ بولدى"
+
+#~ msgid ""
+#~ "The playlist named %s is used to sync device %s, but could not be found."
+#~ msgstr ""
+#~ "ئۈسكۈنە %s بىلەن ماس قەدەمگە كەلتۈرۈلىدىغان قويۇش تىزىملىكى %s تىپىلمىدى."
+
+#~ msgid "Cannot Sync"
+#~ msgstr "ماس قەدەمگە كەلتۈرگىلى بولمىدى"
+
+#~ msgid ""
+#~ "Cannot sync device with selected sync settings. Not enough space on disk"
+#~ msgstr ""
+#~ "تاللانغان ماس قەدەمگە كەلتۈرۈش تەڭشەكلىرى بىلەن ئۈسكۈنىنى ماس قەدەمگە "
+#~ "كەلتۈرگىلى بولمىدى. دىسكىدا يىتەرلىك بوشلۇق يوق."
+
+#~ msgid "Device is already doing an operation."
+#~ msgstr "ئۈسكۈنە باشقا بىر مەشغۇلاتنى ئىجرا قىلىۋاتىدۇ."
+
+#~ msgid "Cancelling…"
+#~ msgstr "ئەمەلدىن قالدۇرۇۋاتىدۇ...."
+
+#~ msgid "Device operation has been cancelled and will stop after this media."
+#~ msgstr ""
+#~ "ئۈسكۈنە مەشغۇلاتى ئەمەلدىن قالدۇرۇلدى، نۆۋەتتىكى مېدىئا ئاخىرلاشقاندىن "
+#~ "كىيىن توختايدۇ."
+
+#, fuzzy
+#~ msgid "No Results"
+#~ msgstr "نومۇر يوق"
+
+#~ msgid "Genres"
+#~ msgstr "ئىقىملار"
+
+#~ msgid "Artists"
+#~ msgstr "ناخشىچىلار"
+
+#~ msgid "Albums"
+#~ msgstr "ئالبوملار"
+
+#~ msgid "Years"
+#~ msgstr "يىللار"
+
+#~ msgid "Ratings"
+#~ msgstr "نومۇرلار"
+
+#~ msgid "Composers"
+#~ msgstr "كومپوزىتورلار"
+
+#~ msgid "Groupings"
+#~ msgstr "گۇرۇپپىلار"
+
+#~ msgid "All Genres"
+#~ msgstr "بارلىق ئىقىملار"
+
+#~ msgid "All %i Genres"
+#~ msgstr "بارلىق %i ئىقىملار"
+
+#~ msgid "No Genres"
+#~ msgstr "ئىقىم يوق"
+
+#~ msgid "All Artists"
+#~ msgstr "بارلىق ناخشىچىلار"
+
+#~ msgid "All %i Artists"
+#~ msgstr "بارلىق %i ناخشىچىلار"
+
+#~ msgid "No Artists"
+#~ msgstr "ناخشىچى يوق"
+
+#~ msgid "All Albums"
+#~ msgstr "بارلىق ئالبوملار"
+
+#~ msgid "All %i Albums"
+#~ msgstr "بارلىق %i ئالبوملار"
+
+#~ msgid "No Albums"
+#~ msgstr "ئالبوم يوق"
+
+#~ msgid "All %i Years"
+#~ msgstr "بارلىق %i يىللار"
+
+#~ msgid "No Years"
+#~ msgstr "يىل يوق"
+
+#~ msgid "All Ratings"
+#~ msgstr "بارلىق نومۇرلار"
+
+#~ msgid "No Ratings"
+#~ msgstr "نومۇر يوق"
+
+#~ msgid "All Groupings"
+#~ msgstr "بارلىق گۇرۇپپىلار"
+
+#~ msgid "All %i Groupings"
+#~ msgstr "بارلىق %i گۇرۇپپىلار"
+
+#~ msgid "No Groupings"
+#~ msgstr "گۇرۇپپا يوق"
+
+#~ msgid "All Composers"
+#~ msgstr "بارلىق كومپوزىتورلار"
+
+#~ msgid "All %i Composers"
+#~ msgstr "بارلىق %i كومپوزىتورلار"
+
+#~ msgid "No Composers"
+#~ msgstr "كومپوزىتور يوق"
+
+#~ msgid "Automatic"
+#~ msgstr "ئاپتوماتىك"
+
+#~ msgid "On Left"
+#~ msgstr "سولدا"
+
+#~ msgid "On Top"
+#~ msgstr "ئۈستىدە"
+
+#~ msgid "Unrated"
+#~ msgstr "نومۇر قويۇلمىغان"
+
+#~ msgid "Never"
+#~ msgstr "ئەسلا"
+
+#~ msgctxt "List column title"
+#~ msgid "#"
+#~ msgstr "#"
+
+#~ msgctxt "List column title"
+#~ msgid "Track"
+#~ msgstr "پارچە"
+
+#~ msgctxt "List column title"
+#~ msgid "Title"
+#~ msgstr "ئىسمى"
+
+#~ msgctxt "List column title"
+#~ msgid "Length"
+#~ msgstr "ئۇزۇنلۇقى"
+
+#~ msgctxt "List column title"
+#~ msgid "Artist"
+#~ msgstr "ئورۇنلىغۇچى"
+
+#~ msgctxt "List column title"
+#~ msgid "Album"
+#~ msgstr "ئالبوم"
+
+#~ msgctxt "List column title"
+#~ msgid "Album Artist"
+#~ msgstr "ئالبومنىڭ ئورۇنلىغۇچىسى"
+
+#~ msgctxt "List column title"
+#~ msgid "Composer"
+#~ msgstr "مۇزىكىسىنى ئىشلىگۈچى"
+
+#~ msgctxt "List column title"
+#~ msgid "Genre"
+#~ msgstr "ئىقىم"
+
+#~ msgctxt "List column title"
+#~ msgid "Year"
+#~ msgstr "يىلى"
+
+#~ msgctxt "List column title"
+#~ msgid "Grouping"
+#~ msgstr "گۇرۇپپا"
+
+#~ msgctxt "List column title"
+#~ msgid "Bitrate"
+#~ msgstr "بىت تېزلىك نىسبىتى"
+
+#~ msgctxt "List column title"
+#~ msgid "Rating"
+#~ msgstr "نومور"
+
+#~ msgctxt "List column title"
+#~ msgid "Plays"
+#~ msgstr "قويماق"
+
+#~ msgctxt "List column title"
+#~ msgid "Skips"
+#~ msgstr "ئاتلاپ ئۆتمەك"
+
+#~ msgctxt "List column title"
+#~ msgid "Date Added"
+#~ msgstr "قىتىلغان چىسلاسى"
+
+#~ msgctxt "List column title"
+#~ msgid "Last Played"
+#~ msgstr "ئالدىنقى قىتىم قويۇلغان ۋاقتى"
+
+#~ msgctxt "List column title (beats per minute)"
+#~ msgid "BPM"
+#~ msgstr "BPM"
+
+#~ msgctxt "List column title (file location)"
+#~ msgid "Location"
+#~ msgstr "ئورنى"
+
+#~ msgctxt "List column title"
+#~ msgid "File Size"
+#~ msgstr "ھۆججەت چوڭلۇقى"
+
+#~ msgid "Autosize Columns"
+#~ msgstr "سىتوننىڭ چوڭ-كىچىكلىكىنى ئاپتوماتىك تەڭشەش"
+
+#~ msgid "1234 kbps"
+#~ msgstr "1234 kb/سىكۇنت"
+
+#~ msgid "Sample List String"
+#~ msgstr "ئۈلگە تىزىملىك ھەرپ-بەلگىلىرى"
+
+#~ msgid "Get Some Tunes"
+#~ msgstr "ناخشا تىزىملىكىگە ئىرىشىش"
+
+#~ msgid "Add music to your library."
+#~ msgstr "مۇزىكا ئامبىرىڭىزغا مۇزىكا قىتىڭ."
+
+#~ msgid "Import music from a source into your library."
+#~ msgstr "مۇزىكا مەنبەسىنى تاللاپ مۇزىكا ئامبىرىڭىزغا قىتىڭ."
+
+#~ msgid "Change Music Folder"
+#~ msgstr "مۇزىكا مۇندەرىجىسىنى ئۆزگەرتىش"
+
+#~ msgid "Load music from a folder, a network or an external disk."
+#~ msgstr "مۇندەرىجىدىن، توردىن ياكى سىرتقى دىسكىدىن مۇزىكا يۈكلەش."
+
+#~ msgid "Import your Music"
+#~ msgstr "مۇزىكىڭىزنى كىرگۈزۈڭ"
+
+#~ msgid "Import all your Music from %s into your library."
+#~ msgstr "%sدىن مۇزىكا ئامبىرىڭىزغا مۇزىكىڭىزنى كىرگۈزۈڭ."
+
+#~ msgid "Select Music Folder"
+#~ msgstr "مۇزىكا مۇندەرىجىسىنى تاللاڭ"
+
+#~ msgid "No Songs"
+#~ msgstr "ناخشا يوق"
+
+#~ msgid "Updating playlist. Please wait."
+#~ msgstr "قويۇش تىزىملىكىنى يىڭىلاۋاتىدۇ، سەل ساقلاڭ."
+
+#~ msgid ""
+#~ "To add songs to this playlist, use the <b>secondary click</b> on an item "
+#~ "and choose <b>Add to Playlist</b>."
+#~ msgstr ""
+#~ "ناخشىنى تاللاپ مائۇسنىڭ <b>/ئوڭ كۇنۇپكىسىنى بىسىپ</b>چىققان كۆزنەكتىن "
+#~ "<b>مۇزىكا قويغۇچقا قىتىش</b>نى تاللاپ ناخشىنى مۇزىكا قويغۇچقا قىتىڭ."
+
+#~ msgid "Edit Smart Playlist"
+#~ msgstr "ئەقلىي ئىقتىدارلىق قويۇش تىزىملىكىنى تەھرىرلەش"
+
+#~ msgid ""
+#~ "This playlist will be automatically populated with songs that match its "
+#~ "rules. To modify these rules, use the <b>secondary click</b> on it in the "
+#~ "sidebar and click on <b>Edit</b>. Optionally, you can click on the button "
+#~ "below."
+#~ msgstr ""
+#~ "بۇ قويۇش تىزىملىكى ئۆزىنىڭ قائىدىسىگە ئاساسەن ناخشىلارنىڭ مودىلىق "
+#~ "دەرىجىسىنى تىزىپ چىقىدۇ. ئەگەر بۇ قائىدىلەرنى ئۆزگەرتمەكچى بولسىڭىز "
+#~ "ياندىكى ستوننى تاللاپ <b>ئوڭنى بىسىپ</b>چىققان كۆزنەكتىن <b>تەھرىرلەش</"
+#~ "b>نى بىسىڭ. ياكى تۆۋەندىكى كۇنۇپكىنى باسسىڭىزمۇ بولىدۇ."
+
+#~ msgid "No media"
+#~ msgstr "مېدىئا يوق"
+
+#~ msgid "Set new album cover"
+#~ msgstr "يىڭى ئالبوم مۇقاۋىسىنى تەڭشەڭ"
+
+#~ msgid "Image files"
+#~ msgstr "رەسىم ھۆججەتلىرى"
+
+#~ msgid "_Open"
+#~ msgstr "ئىچىش(_O)"
+
+#~ msgid "_Cancel"
+#~ msgstr "ئەمەلدىن قالدۇرۇش(_C)"
+
+#~ msgid "Save preset"
+#~ msgstr "ئالدىن تەڭشەكنى ساقلاش"
+
+#~ msgid "Off"
+#~ msgstr "تاقاش"
+
+#~ msgid "%s (Custom)"
+#~ msgstr "%s (ئۆزگەرتىش)"
+
+#~ msgid "%s (Custom %i)"
+#~ msgstr "%s (ئۆزگەرتىش%i)"
+
+#~ msgid "Custom Preset"
+#~ msgstr "ئالدىن تەڭشەكنى ئۆزگەرتىش"
+
+#~ msgid "Custom Preset %i"
+#~ msgstr "ئالدىن تەڭشەك %i نى ئۆزگەرتىش"
+
+#~ msgid "Scroll to Current Song"
+#~ msgstr "نۆۋەتتىكى ناخشىغا ئاتلاش"
+
+#, fuzzy
+#~ msgid "Show in File Browser…"
+#~ msgstr "ھۆججەت كۆرگۈچتە كۆرسىتىش"
+
+#, fuzzy
+#~ msgid "Edit Song Info…"
+#~ msgstr "ناخشا ئۇچۇرىنى تەھرىرلەش"
+
+#, fuzzy
+#~ msgid "Other Actions"
+#~ msgstr "باشقىلار"
+
+#~ msgctxt "Action item (verb)"
+#~ msgid "Queue"
+#~ msgstr "سەپ"
+
+#~ msgid "Add to Playlist"
+#~ msgstr "قويۇش تىزىملىكىگە قىتىش"
+
+#, fuzzy
+#~ msgid "Remove Song…"
+#~ msgstr "ناخشىنى ئۆچۈرۈش"
+
+#~ msgid "Import to Library"
+#~ msgstr "ئامبارغا كىرگۈزۈش"
+
+#, fuzzy
+#~ msgid "Remove from Library…"
+#~ msgstr "ئامباردىن چىقىرىۋىتىش"
+
+#~ msgid "Remove from Device"
+#~ msgstr "ئۈسكۈنىدىنى چىقىرىۋىتىش"
+
+#~ msgid "Remove from Queue"
+#~ msgstr "سەپتىن چىقىرىۋىتىش"
+
+#~ msgid "New Playlist…"
+#~ msgstr "يىڭى قويۇش تىزىملىكى قۇرۇش"
+
+#~ msgid "Import %i of %i selected songs"
+#~ msgstr "%i نىڭ %i دىن تاللانغان ناخشىلىرىنى كىرگۈزۈش"
+
+#~ msgid "Import %i song"
+#~ msgid_plural "Import %i songs"
+#~ msgstr[0] "ناخشا %i نى كىرگۈزۈش"
+
+#~ msgid "Delete Current"
+#~ msgstr "نۆۋەتتىكىسىنى ئۆچۈرۈش"
+
+#~ msgid "Rename"
+#~ msgstr "قايتىدىن ئىسىم قويۇش"
+
+#~ msgid "Edit…"
+#~ msgstr "تەھرىرلەش...."
+
+#~ msgid "Save as Playlist"
+#~ msgstr "قويۇش تىزىملىكى قىلىپ ساقلاش"
+
+#~ msgid "Export…"
+#~ msgstr "چىقىرىش...."
+
+#~ msgid "Eject"
+#~ msgstr "چىقىرىش"
+
+#~ msgid "New Playlist"
+#~ msgstr "يىڭى قويۇش تىزىملىكى قۇرۇش"
+
+#~ msgid "New Smart Playlist"
+#~ msgstr "يىڭى ئەقلىي ئىقتىدارلىق قويۇش تىزىملىكى قويۇش"
+
+#~ msgid "Import Playlists"
+#~ msgstr "قويۇش تىزىملىكىنى كىرگۈزۈش"
+
+#~ msgid "Library"
+#~ msgstr "ئامبار"
+
+#~ msgid "Devices"
+#~ msgstr "ئۈسكۈنىلەر"
+
+#~ msgid "Network"
+#~ msgstr "تور"
+
+#~ msgid "Add Playlist"
+#~ msgstr "قويۇش تىزىملىكى قىتىش"
+
+#~ msgid "Add Smart Playlist"
+#~ msgstr "ئەقلىي ئىقتىدارلىق قويۇش تىزىملىكى قىتىش"
+
+#, fuzzy
+#~| msgid "Add Playlist"
+#~ msgid "Add Playlist…"
+#~ msgstr "قويۇش تىزىملىكى قىتىش"
+
+#~ msgid "Equalizer: %s"
+#~ msgstr "تەڭپۇڭلاشتۇرغۇچى:  %s"
+
+#~ msgid "Enable Repeat"
+#~ msgstr "تەكرار قويۇش"
+
+#~ msgid "Disable Repeat"
+#~ msgstr "تەكرارلاشنى چەكلەش"
+
+#~ msgid "Disable Shuffle"
+#~ msgstr "خالىغانچە قويۇشنى چەكلەش"
+
+#, fuzzy
+#~ msgid "View as albums"
+#~ msgstr "ئالبوم كۆرۈنۈشى"
+
+#, fuzzy
+#~ msgid "View as list"
+#~ msgstr "تىزىملىك كۆرۈنۈشى"
+
+#, fuzzy
+#~ msgid "View in columns"
+#~ msgstr "قاتار كۆرۈنۈشى"
+
+#~ msgid "No similar songs found"
+#~ msgstr "ئوخشايدىغان ناخشا تىپىلمىدى"
+
+#~ msgid ""
+#~ "There are no songs similar to the current song in your library. Make sure "
+#~ "all song info is correct and you are connected to the Internet. Some "
+#~ "songs may not have matches."
+#~ msgstr ""
+#~ "سىزنىڭ نۆۋەتتىكى مۇزىكا ئامبىرىڭىزدىكى ناخشىغا ئوخشايدىغان ناخشا "
+#~ "تىپىلمىدى.ھەممە ناخشا ئۇچۇرىنىڭ توغرىلىقىغا ۋە كومپيۇتىرنىڭ تورغا "
+#~ "ئۇلانغانلىقىغا كاپالەتلىك قىلىڭ. بەزى ناخشىلار ماس كەلمىگەن بولىشى مۇمكىن."
+
+#~ msgid "Similar"
+#~ msgstr "ئوخشايدىغان"
+
+#~ msgid "media"
+#~ msgstr "مېدىئا"
+
+#~ msgid "Similar Media"
+#~ msgstr "ئوخشايدىغان مېدىئا"
+
+#~ msgid "Audio CD Invalid"
+#~ msgstr "ئاۋاز ھۆججىتى CD سى ئىناۋەتسىز"
+
+#~ msgid "Impossible to read the contents of this Audio CD"
+#~ msgstr "بۇ ئاۋاز ھۆججىتى CD دىن مەزمۇننى ئوقۇغىلى بولمىدى"
+
+#~ msgid "Could not find Music Folder"
+#~ msgstr "مۇزىكا مۇندەرىجىسى تىپىلمىدى"
+
+#~ msgid ""
+#~ "Please make sure that your music folder is accessible and mounted before "
+#~ "importing the CD."
+#~ msgstr ""
+#~ "مۇزىكا مۇندەرىجىسىنىڭ زىيارەت قىلغىلى بولىشىغا ۋە كىرگۈزۈشتىن بۇرۇن  "
+#~ "CDنىڭ چىتىلغانلىقىغا كاپالەتلىك قىلىڭ."
+
+#~ msgid ""
+#~ "The Application could not find any songs on the CD. No songs can be "
+#~ "imported"
+#~ msgstr ""
+#~ "مەزكۇر ئەپ بۇ  CD دا ھىچقانداق ناخشا تاپالمىدى.كىرگۈزگىلى بولىدىغان ناخشا "
+#~ "يوق."
+
+#~ msgid "CD import will be <b>cancelled</b> after current import."
+#~ msgstr ""
+#~ "CD دىن كىرگۈزۈش نۆۋەتتىكى كىرگۈزۈشتىن كىيىن <b>ئەمەلدىن قالدۇرۇلىدۇ</b>."
+
+#, fuzzy
+#~ msgid "An Error Occurred"
+#~ msgstr "بىر خاتالىق كۆرۈلدى"
+
+#, fuzzy
+#~ msgid "Could not load this Audio CD."
+#~ msgstr "CD ئاۋاز ھۆججىتىنى يۈكلەش جەريانىدا بىر خاتالىق كۆرۈلدى."
+
+#~ msgid "Importation of a song from Audio CD finished."
+#~ msgstr "ئاۋاز ھۆججىتى  CD دىن بىر ناخشىنى كىرگۈزۈش تامام بولدى."
+
+#~ msgid "Importation of %i songs from Audio CD finished."
+#~ msgstr "ئاۋاز ھۆججىتى  CD دىن %i ناخشىنى كىرگۈزۈش تامام بولدى."
+
+#~ msgid "An error occured during the Import of this CD"
+#~ msgstr "بۇ CD نى كىرگۈزۈش جەريانىدا بىر خاتالىق كۆرۈلدى"
+
+#~ msgid "Disk:"
+#~ msgstr "دىسكا："
+
+#~ msgid "%s has imported your library."
+#~ msgstr "%s ئامبارغا كىرگۈزۈلدى。"
+
+#, fuzzy
+#~ msgid "Unable to import %d items from %s"
+#~ msgstr "%s دىن %d تۈرنى كىرگۈزگىلى بولمىدى"
+
+#~ msgid "Remove from %s"
+#~ msgstr "%s دىن ئۆچۈرۈش"
+
+#~ msgid "Remove \"%s\" From %s?"
+#~ msgstr "%s دىن \"%s\" نى ئۆچۈرەمسىز؟"
+
+#~ msgid "No Albums Found."
+#~ msgstr "ئالبوم تىپىلمىدى."
+
+#~ msgid "No Songs Found."
+#~ msgstr "ناخشا تىپىلمىدى"
+
+#~ msgid "%u second"
+#~ msgid_plural "%u seconds"
+#~ msgstr[0] "%u سىكۇنت"
+
+#~ msgid "%u minute"
+#~ msgid_plural "%u minutes"
+#~ msgstr[0] "%u مىنۇت"
+
+#~ msgctxt "minutes and seconds"
+#~ msgid "%s and %s"
+#~ msgstr "%s مىنۇت %s سىكۇنت"
+
+#~ msgid "%u day"
+#~ msgid_plural "%u days"
+#~ msgstr[0] "%u كۈن"
+
+#~ msgid "%u hour"
+#~ msgid_plural "%u hours"
+#~ msgstr[0] "%u سائەت"
+
+#~ msgctxt "days, hours and minutes"
+#~ msgid "%s, %s and %s"
+#~ msgstr "%s كۈن %s سائەت %s مىنۇت"
+
+#~ msgctxt "days and hours"
+#~ msgid "%s and %s"
+#~ msgstr "%s كۈن %s سائەت"
+
+#~ msgctxt "days and minutes"
+#~ msgid "%s and %s"
+#~ msgstr "%s كۈن %s مىنۇت"
+
+#~ msgctxt "hours and minutes"
+#~ msgid "%s and %s"
+#~ msgstr "%s سائەت %s مىنۇت"
+
+#~ msgid "Song"
+#~ msgstr "ناخشا"
+
+#~ msgid "Repeat Artist"
+#~ msgstr "ئورۇنلىغۇچىنى تەكرارلاش"
+
+#~ msgid "All"
+#~ msgstr "بارلىق"
+
+#~ msgid "Hide"
+#~ msgstr "يوشۇرۇش"
+
+#~ msgid "Show Info Panel"
+#~ msgstr "ئۇچۇر تاختىسىنى كۆرسىتىش"
+
+#~ msgid "Show"
+#~ msgstr "كۆرسىتىش"
+
+#~ msgid "Hide Info Panel"
+#~ msgstr "ئۇچۇر تاختىسىنى يوشۇرۇش"
+
+#~ msgid "Free"
+#~ msgstr "بىكار"
+
+#~ msgid "Using %s of %s (%.2f%)"
+#~ msgstr "%s نىڭ %s نى ئىشلىتىۋاتىدۇ (%.2f%)"
+
+#~ msgid "General"
+#~ msgstr "ئادەتتىكى"
+
+#~ msgid "Import from Device"
+#~ msgstr "ئۈسكۈنىدىن كىرگۈزۈش"
+
+#~ msgid "Import media from %s"
+#~ msgstr "%s دىن مېدىئا كىرگۈزۈش"
+
+#~ msgid ""
+#~ "The following files were found on %s, but are not in your library. Check "
+#~ "all the files you would like to import."
+#~ msgstr ""
+#~ "تۆۋەندىكى ھۆججەتلەر %s دە بار، لىكىن سىزنىڭ ئامبىرىڭىزدا يوق. كىرگۈزمەكچى "
+#~ "بولغان ھۆججەتلىرىڭىزنى تاللاڭ."
+
+#~ msgid "Import all media"
+#~ msgstr "ھەممە مېدىئالارنى كىرگۈزۈش"
+
+#~ msgid "Don't Import"
+#~ msgstr "كىرگۈزمەسلىك"
+
+#~ msgid "Import %i items from %s"
+#~ msgstr "%i تۈرنى %s دىن كىرگۈزۈش"
+
+#~ msgid "Import %s from %s"
+#~ msgstr "%s نى %s دىن كىرگۈزۈش"
+
+#~ msgid "ID"
+#~ msgstr "ID"
+
+#~ msgid "Select individual media to import:"
+#~ msgstr "كىرگۈزىدىغان يەككە مېدىئانى تاللاڭ："
+
+#~ msgid "Check Item"
+#~ msgstr "تۈر تەكشۈرۈش"
+
+#~ msgid "Check Album"
+#~ msgstr "ئالبوم تەكشۈرۈش"
+
+#~ msgid "Check Artist"
+#~ msgstr "ئورۇنلىغۇچى تەكشۈرۈش"
+
+#~ msgid "Cannot Import"
+#~ msgstr "كىرگۈزگىلى بولمىدى"
+
+#~ msgid "Import media to Library"
+#~ msgstr "ئامبارغا مېدىئا كىرگۈزۈش"
+
+#~ msgid "Stop Syncing"
+#~ msgstr "ماس قەدەمگە كەلتۈرۈشنى توختىتىش"
+
+#~ msgid "Sync will remove 1 item from %s"
+#~ msgstr "ماس قەدەمگە كەلتۈرۈش %s دىن بىر تۈرنى ئۆچۈرىدۇ"
+
+#~ msgid "%u album"
+#~ msgid_plural "%u albums"
+#~ msgstr[0] "%u ئالبوم"
+
+#~ msgctxt "Title format used on Album View Popup: $ALBUM by $ARTIST"
+#~ msgid "%s by %s"
+#~ msgstr "%s  %s ئورۇنلىغان"
+
+#~ msgctxt ""
+#~ "Format used on statusbar: $description, $total_duration, $total_file_size"
+#~ msgid "%s, %s, %s"
+#~ msgstr "%s, %s, %s"
+
+#~ msgid "OK"
+#~ msgstr "ھەئە"
+
+#~ msgid "No External Songs"
+#~ msgstr "سىرىتقى ناخشا يوق"
+
+#~ msgid ""
+#~ "There were no songs found on this device that are not in your library."
+#~ msgstr "بۇ ئۈسكۈنىدە سىزنىڭ ناخشا ئامبىرىڭىزدا يوق ناخشا تىپىلمىدى."
+
+#~ msgid "%i track"
+#~ msgid_plural "%i tracks"
+#~ msgstr[0] "%i پارچە"
+
+#~ msgid "%u song"
+#~ msgid_plural "%u songs"
+#~ msgstr[0] "%u پارچە ناخشا"
+
+#~ msgctxt "Format used on statusbar: $description, $total_duration"
+#~ msgid "%s, %s"
+#~ msgstr "%s, %s"
+
+#~ msgid "translator-credits"
+#~ msgstr ""
+#~ "Launchpad Contributions:\n"
+#~ "  Daniel Fore https://launchpad.net/~danrabbit\n"
+#~ "  ablimet https://launchpad.net/~ablimet"
+
+#~ msgid "Lyrics fetched from www.lyricsmania.com"
+#~ msgstr "www.lyricsmania.com تەمىنلىگەن ناخشا تىكىسىتى"
+
+#~ msgid "%d second"
+#~ msgid_plural "%d seconds"
+#~ msgstr[0] "%d سىكۇنت"
+
+#~ msgid "%i Star"
+#~ msgid_plural "%i Stars"
+#~ msgstr[0] "%i چولپان"
+
+#~ msgid "%i kbps"
+#~ msgstr "%i kb/سىكۇنت"
+
+#~ msgid ""
+#~ "Noise is already doing file operations. Please wait until those finish to "
+#~ "import from %d"
+#~ msgstr ""
+#~ "ئاۋاز ئۈسكۈنىسى ھۆججەت مەشغۇلاتى قىلىۋاتىدۇ، %d دىن كىرگۈزۈش تاماملانغىچە "
+#~ "ساقلاڭ."
+
+#~ msgid "Importing track %i: %s"
+#~ msgstr "%i: %s ناخشىنى كىرگۈزۈۋاتىدۇ"

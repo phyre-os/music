@@ -1,0 +1,19 @@
+app-id: io.phyre.music
+runtime: io.phyre.Platform
+runtime-version: '8'
+sdk: io.phyre.Sdk
+command: io.phyre.music
+finish-args:
+  - '--share=ipc'
+  - '--socket=fallback-x11'
+  - '--socket=wayland'
+  - '--socket=pulseaudio'
+  - '--device=dri'
+  - '--filesystem=xdg-music:ro'
+
+modules:
+  - name: music
+    buildsystem: meson
+    sources:
+      - type: dir
+        path: .

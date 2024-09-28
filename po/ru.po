@@ -1,0 +1,1937 @@
+# Russian translation for beat-box
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the beat-box package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: beat-box\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-01 10:32+0000\n"
+"PO-Revision-Date: 2024-08-09 19:16+0000\n"
+"Last-Translator: кубик круглый <megarainbow29@gmail.com>\n"
+"Language-Team: Russian <https://l10n.phyreos.io/projects/music/music/ru/"
+">\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.6.2\n"
+"X-Launchpad-Export-Date: 2017-03-07 05:54+0000\n"
+
+#: src/Application.vala:92 src/Views/NowPlayingView.vala:18
+#: src/Views/NowPlayingView.vala:116
+msgid "Music"
+msgstr "Музыка"
+
+#: src/MainWindow.vala:20
+msgid "Shuffle"
+msgstr "В случайном порядке"
+
+#: src/MainWindow.vala:26
+msgid "Search titles in playlist"
+msgstr "Поиск по названиям в плейлисте"
+
+#: src/MainWindow.vala:45
+msgid "Queue is Empty"
+msgstr "Очередь пуста"
+
+#: src/MainWindow.vala:46
+msgid "Audio files opened from Files will appear here"
+msgstr "Открытые вами аудиофайлы появятся здесь"
+
+#: src/MainWindow.vala:63
+msgid "Open Files…"
+msgstr "Открыть файлы…"
+
+#: src/MainWindow.vala:167
+#, c-format
+msgid "%d invalid file was not added to the queue"
+msgid_plural "%d invalid files were not added to the queue"
+msgstr[0] "%d недействительный файл не был добавлен в очередь"
+msgstr[1] "%d недействительных файла не были добавлены в очередь"
+msgstr[2] "%d недействительных файлов не были добавлены в очередь"
+
+#: src/MainWindow.vala:215
+msgid "All files"
+msgstr "Все файлы"
+
+#: src/MainWindow.vala:220
+msgid "Music files"
+msgstr "Аудиофайлы"
+
+#: src/MainWindow.vala:229
+msgid "Open"
+msgstr "Открыть"
+
+#: src/MainWindow.vala:233
+msgid "Open audio files"
+msgstr "Открыть аудиофайлы"
+
+#: src/MainWindow.vala:271
+msgid "Repeat None"
+msgstr "Не повторять"
+
+#: src/MainWindow.vala:275
+msgid "Repeat All"
+msgstr "Повторять всё"
+
+#: src/MainWindow.vala:279
+msgid "Repeat One"
+msgstr "Повторять этот трек"
+
+#: src/PlaybackManager.vala:136
+#, c-format
+msgid "%d track was added to the queue"
+msgid_plural "%d tracks were added to the queue"
+msgstr[0] "%d трек был добавлен в очередь"
+msgstr[1] "%d трека было добавлено в очередь"
+msgstr[2] "%d треков было добавлено в очередь"
+
+#. Don't set artist for files without tags
+#: src/PlaybackManager.vala:196
+msgid "Unknown"
+msgstr "Неизвестный"
+
+#: src/Views/NowPlayingView.vala:23 src/Views/NowPlayingView.vala:115
+msgid "Not playing"
+msgstr "Не играет"
+
+#: src/Views/NowPlayingView.vala:45
+msgid "Previous"
+msgstr "Назад"
+
+#: src/Views/NowPlayingView.vala:68
+msgid "Next"
+msgstr "Далее"
+
+#: src/Views/NowPlayingView.vala:93
+msgid "Play"
+msgstr "Воспроизвести"
+
+#: src/Views/NowPlayingView.vala:96
+msgid "Pause"
+msgstr "Пауза"
+
+#~ msgid "Importing <b>$NAME</b> by <b>$ARTIST</b> to library…"
+#~ msgstr ""
+#~ "Импортирование <b>$NAME</b> в исполнении <b>$ARTIST</b> в библиотеку…"
+
+#~ msgid "$NAME on $ALBUM"
+#~ msgstr "$NAME на $ALBUM"
+
+#~ msgid "$NAME by $ARTIST"
+#~ msgstr "$NAME в исполнении $ARTIST"
+
+#~ msgid "$NAME by $ARTIST on $ALBUM"
+#~ msgstr "$NAME из альбома $ALBUM в исполнении $ARTIST"
+
+#~ msgid "Flat"
+#~ msgstr "Простой"
+
+#~ msgid "Classical"
+#~ msgstr "Классическая музыка"
+
+#~ msgid "Club"
+#~ msgstr "Клубная музыка"
+
+#~ msgid "Dance"
+#~ msgstr "Танцевальная музыка"
+
+#~ msgid "Full Bass"
+#~ msgstr "Усиление низких частот"
+
+#~ msgid "Full Treble"
+#~ msgstr "Усиление высоких частот"
+
+#~ msgid "Full Bass + Treble"
+#~ msgstr "Усиление низких и высоких частот"
+
+#~ msgid "Headphones"
+#~ msgstr "Наушники"
+
+#~ msgid "Large Hall"
+#~ msgstr "Большой зал"
+
+#~ msgid "Live"
+#~ msgstr "Живое исполнение"
+
+#~ msgid "Party"
+#~ msgstr "Вечеринка"
+
+#~ msgid "Pop"
+#~ msgstr "Поп-музыка"
+
+#~ msgid "Reggae"
+#~ msgstr "Регги"
+
+#~ msgid "Rock"
+#~ msgstr "Рок"
+
+#~ msgid "Soft"
+#~ msgstr "Мягкая музыка"
+
+#~ msgid "Ska"
+#~ msgstr "Ска"
+
+#~ msgid "Soft Rock"
+#~ msgstr "Софт-рок"
+
+#~ msgid "Techno"
+#~ msgstr "Техно"
+
+#~ msgid " (%d)"
+#~ msgstr " (%d)"
+
+#~ msgid "%s (%d)"
+#~ msgstr "%s (%d)"
+
+#~ msgid "%s (%i)"
+#~ msgstr "%s (%i)"
+
+#~ msgid "MPEG Version 3.0 Extended (*.m3u)"
+#~ msgstr "Расширенная версия MPEG 3.0 (*.m3u)"
+
+#~ msgid "Shoutcast Playlist Version 2.0 (*.pls)"
+#~ msgstr "Список воспроизведения Shoutcast версии 2.0 (*.pls)"
+
+#~ msgid "Export Playlist"
+#~ msgstr "Экспорт списка воспроизведения"
+
+#~ msgid "Save"
+#~ msgstr "Сохранить"
+
+#~ msgid "Cancel"
+#~ msgstr "Отменить"
+
+#~ msgid "Playlist"
+#~ msgstr "Список воспроизведения"
+
+#~ msgid "Import %s"
+#~ msgstr "Импортировать %s"
+
+#~ msgid "Unrecognized playlist file. Import failed."
+#~ msgstr "Файл списка воспроизведения не распознан. Импорт не удался."
+
+#~ msgid "%m/%e/%Y %l:%M %p"
+#~ msgstr "%m/%e/%Y %l:%M %p"
+
+#~ msgid "Empty device!"
+#~ msgstr "Пустое устройство!"
+
+#~ msgid "This device does not contain any music."
+#~ msgstr "В устройстве нет музыкальных файлов."
+
+#~ msgid "Android Phone"
+#~ msgstr "Телефон на Android"
+
+#~ msgid "Audio Player"
+#~ msgstr "Аудио-плеер"
+
+#~ msgid "Adding <b>$NAME</b> by <b>$ARTIST</b> to $DEVICE"
+#~ msgstr "Добавление <b>$NAME</b> в исполнении <b>$ARTIST</b> на $DEVICE"
+
+#~ msgid "Syncing <b>%s</b>…"
+#~ msgstr "Синхронизация <b>%s</b>…"
+
+#~ msgid "Removing <b>$NAME</b> by <b>$ARTIST</b> from $DEVICE"
+#~ msgstr "Удаление <b>$NAME</b> в исполнении <b>$ARTIST</b> из $DEVICE"
+
+#~ msgid "Removing from <b>%s</b>…"
+#~ msgstr "Удаление из <b>%s</b>…"
+
+#~ msgid "Finishing sync process…"
+#~ msgstr "Завершение процесса синхронизации…"
+
+#~ msgid "Cancelling Sync…"
+#~ msgstr "Отмена синхронизации…"
+
+#~ msgid "Import Complete"
+#~ msgstr "Импортирование завершено"
+
+#~ msgid "Your Library Has Been Imported."
+#~ msgstr "Ваша библиотека была импортирована."
+
+#~ msgid "<b>Copying</b> files to <b>Music Folder</b>…"
+#~ msgstr "<b>Копирование</b> файлов в <b>папку с музыкой</b>…"
+
+#~ msgid "Import to Library…"
+#~ msgstr "Импортировать в билиотеку…"
+
+#~ msgid "Preferences"
+#~ msgstr "Настройки"
+
+#~ msgid "Search Music"
+#~ msgstr "Поиск музыки"
+
+#~ msgid "No songs in Queue"
+#~ msgstr "Нет композиций в очереди"
+
+#~ msgid ""
+#~ "To add songs to the queue, use the <b>secondary click</b> on an item and "
+#~ "choose <b>Queue</b>. When a song finishes, the queued songs will be "
+#~ "played first before the next song in the currently playing list."
+#~ msgstr ""
+#~ "Чтобы добавить композиции в очередь, щёлкните <b>правой кнопкой мыши</b> "
+#~ "по элементу и выберите пункт <b>Добавить в очередь</b>. Когда композиция "
+#~ "закончится, композиции в очереди будут воспроизведены перед следующей "
+#~ "песней в текущем списке воспроизведения."
+
+#~ msgid "No songs in History"
+#~ msgstr "Нет композиций в журнале"
+
+#~ msgid ""
+#~ "After a part of a song has been played, it is added to the history list.\n"
+#~ "You can use this list to see all the songs you have played during the "
+#~ "current session."
+#~ msgstr ""
+#~ "После того, как часть композиции проиграна, она добавлена в журнал.\n"
+#~ "Можно использовать журнал, чтобы увидеть все композиции, воспроизведённые "
+#~ "за этот сеанс."
+
+#~ msgid "Import Music"
+#~ msgstr "Импорт музыки"
+
+#~ msgctxt "Name of the playlist"
+#~ msgid "Queue"
+#~ msgstr "Очередь"
+
+#~ msgid "File not found"
+#~ msgstr "Файл не найден"
+
+#~ msgid "The music file for <b>%s</b> by <b>%s</b> could not be found."
+#~ msgstr "Композиция <b>%s</b> в исполнении <b>%s</b> не найдена."
+
+#~ msgid "%i music files could not be found."
+#~ msgstr "Не найдено %i композиций."
+
+#~ msgid "Rescan Library"
+#~ msgstr "Сканировать библиотеку заново"
+
+#~ msgid "Remove Song"
+#~ msgstr "Удалить композицию"
+
+#~ msgid "Find Song"
+#~ msgstr "Поиск музыки"
+
+#~ msgid "Choose Music Folder"
+#~ msgstr "Выберите папку с музыкой"
+
+#~ msgid "Would you like to install the %s plugin?"
+#~ msgstr "Вы хотите установить плагин %s?"
+
+#~ msgid ""
+#~ "This song cannot be played. The %s plugin is required to play the song."
+#~ msgstr "Воспроизведение композиции невозможно. Требуется плагин %s."
+
+#~ msgid "Install Plugin"
+#~ msgstr "Установить плагин"
+
+#~ msgid "Title:"
+#~ msgstr "Название:"
+
+#~ msgid "Artist:"
+#~ msgstr "Исполнитель:"
+
+#~ msgid "Album:"
+#~ msgstr "Альбом:"
+
+#~ msgid "Album Artist:"
+#~ msgstr "Исполнитель альбома:"
+
+#~ msgid "Composer:"
+#~ msgstr "Композитор:"
+
+#~ msgid "Grouping:"
+#~ msgstr "Группа:"
+
+#~ msgid "Genre:"
+#~ msgstr "Жанр:"
+
+#~ msgid "Year:"
+#~ msgstr "Год:"
+
+#~ msgid "Track:"
+#~ msgstr "Композиция:"
+
+#~ msgid "Disc:"
+#~ msgstr "Диск:"
+
+#~ msgid "Rating:"
+#~ msgstr "Оценка:"
+
+#~ msgid "Comment:"
+#~ msgstr "Комментарий:"
+
+#~ msgid "Close"
+#~ msgstr "Закрыть"
+
+#~ msgid "Issues while importing from %s"
+#~ msgstr "Ошибки при импорте из %s"
+
+#~ msgid "Unable to import %d item. The file may be damaged."
+#~ msgid_plural "Unable to import %d items. The files may be damaged."
+#~ msgstr[0] ""
+#~ "Не удалось импортировать %d элементов. Этот файл может быть поврежден."
+#~ msgstr[1] ""
+#~ "Не удалось импортировать %d элемента. Эти файлы могут быть повреждены."
+#~ msgstr[2] ""
+#~ "Не удалось импортировать %d элементов. Эти файлы могут быть повреждены."
+
+#~ msgid "Move all corrupted files to trash"
+#~ msgstr "Переместить все повреждённые файлы в корзину"
+
+#~ msgid "del"
+#~ msgstr "удалить"
+
+#~ msgid "File Location"
+#~ msgstr "Расположение файла"
+
+#~ msgid "Select individual files to move to trash:"
+#~ msgstr "Выбрать отдельные файлы для перемещения в корзину:"
+
+#~ msgid "Move to Trash"
+#~ msgstr "Переместить в корзину"
+
+#~ msgid "Ignore"
+#~ msgstr "Игнорировать"
+
+#~ msgid "Select Music Folder…"
+#~ msgstr "Выберите папку с музыкой…"
+
+#~ msgid "Music Folder Location"
+#~ msgstr "Расположение папки с музыкой"
+
+#~ msgid "Library Management"
+#~ msgstr "Управление библиотекой"
+
+#~ msgid "Keep Music folder organized:"
+#~ msgstr "Сохранять структуру папки с музыкой:"
+
+#~ msgid "Write metadata to file:"
+#~ msgstr "Записать метаданные в файл:"
+
+#~ msgid "Copy imported files to Library:"
+#~ msgstr "Копировать импортированные файлы в библиотеку:"
+
+#~ msgid "Desktop Integration"
+#~ msgstr "Интеграция с окружением"
+
+#~ msgid "Continue playback when closed:"
+#~ msgstr "Продолжить воспроизведение после закрытия:"
+
+#~ msgid "Remove %d Song From Library?"
+#~ msgid_plural "Remove %d Songs From Library?"
+#~ msgstr[0] "Удалить %d композицию из библиотеки?"
+#~ msgstr[1] "Удалить %d композиции из библиотеки?"
+#~ msgstr[2] "Удалить %d композиций из библиотеки?"
+
+#~ msgid "Remove \"%s\" From Library?"
+#~ msgstr "Удалить «%s» из библиотеки?"
+
+#~ msgid ""
+#~ "This will remove the song from your library and from any device synced "
+#~ "automatically."
+#~ msgid_plural ""
+#~ "This will remove the songs from your library and from any device synced "
+#~ "automatically."
+#~ msgstr[0] ""
+#~ "Это удалит композицию из вашей библиотеки и всех устройств "
+#~ "синхронизированных автоматически."
+#~ msgstr[1] ""
+#~ "Это удалит композиции из вашей библиотеки и всех устройств "
+#~ "синхронизированных автоматически."
+#~ msgstr[2] ""
+#~ "Это удалит композиции из вашей библиотеки и всех устройств "
+#~ "синхронизированных автоматически."
+
+#~ msgid "Remove from Library"
+#~ msgstr "Удалить из библиотеки"
+
+#~ msgid "Set Music Folder?"
+#~ msgstr "Обозначить папку, как содержащую музыку?"
+
+#~ msgid ""
+#~ "Are you sure you want to set the music folder to %s? This will reset your "
+#~ "library and remove your playlists."
+#~ msgstr ""
+#~ "Вы уверены, что хотите назначить %s папкой с музыкой? Это сбросит "
+#~ "сведения о вашей библиотеке и удалит Ваши списки воспроизведения."
+
+#~ msgid "Export Playlists"
+#~ msgstr "Экспортировать списки воспроизведения"
+
+#~ msgid "Set Music Folder"
+#~ msgstr "Выбрать папку с музыкой"
+
+#~ msgid "Playlist Title"
+#~ msgstr "Название списка воспроизведения"
+
+#~ msgid "any"
+#~ msgstr "любым"
+
+#~ msgid "all"
+#~ msgstr "всем"
+
+#~ msgid "Match"
+#~ msgstr "Композиции соответствуют"
+
+#~ msgid "of the following:"
+#~ msgstr "из следующих правил:"
+
+#~ msgid "Add"
+#~ msgstr "Добавить"
+
+#~ msgid "Limit to"
+#~ msgstr "Ограничить до"
+
+#~ msgid "items"
+#~ msgstr "элементы"
+
+#~ msgid "Name of Playlist"
+#~ msgstr "Название списка воспроизведения"
+
+#~ msgid "Rules"
+#~ msgstr "Правила"
+
+#~ msgid "Options"
+#~ msgstr "Опции"
+
+#~ msgid "Smart Playlist Editor"
+#~ msgstr "Редактор динамических списков воспроизведения"
+
+#~ msgid "Remove"
+#~ msgstr "Удалить"
+
+#~ msgid "Album"
+#~ msgstr "Альбом"
+
+#~ msgid "Artist"
+#~ msgstr "Исполнитель"
+
+#~ msgid "Bitrate"
+#~ msgstr "Битрейт"
+
+#~ msgid "Comment"
+#~ msgstr "Примечание"
+
+#~ msgid "Composer"
+#~ msgstr "Композитор"
+
+#~ msgid "Date Added"
+#~ msgstr "Дата добавления"
+
+#~ msgid "Genre"
+#~ msgstr "Жанр"
+
+#~ msgid "Grouping"
+#~ msgstr "Группа"
+
+#~ msgid "Last Played"
+#~ msgstr "Последнее воспроизведение"
+
+#~ msgid "Length"
+#~ msgstr "Длина"
+
+#~ msgid "Playcount"
+#~ msgstr "Счётчик воспроизведений"
+
+#~ msgid "Rating"
+#~ msgstr "Оценка"
+
+#~ msgid "Skipcount"
+#~ msgstr "Счётчик пропусков"
+
+#~ msgid "Title"
+#~ msgstr "Название"
+
+#~ msgid "Year"
+#~ msgstr "Год"
+
+#~ msgid "URI"
+#~ msgstr "URI"
+
+#~ msgid "is"
+#~ msgstr "является"
+
+#~ msgid "contains"
+#~ msgstr "содержит"
+
+#~ msgid "does not contain"
+#~ msgstr "не содержит"
+
+#~ msgid "is exactly"
+#~ msgstr "равно"
+
+#~ msgid "is at most"
+#~ msgstr "не более"
+
+#~ msgid "is at least"
+#~ msgstr "не менее"
+
+#~ msgid "is within"
+#~ msgstr "после"
+
+#~ msgid "is before"
+#~ msgstr "до"
+
+#~ msgid "seconds"
+#~ msgstr "секунд"
+
+#~ msgid "days ago"
+#~ msgstr "дней назад"
+
+#~ msgid "kbps"
+#~ msgstr "кбит/с"
+
+#~ msgid "Sync will remove %i item from %s"
+#~ msgid_plural "Sync will remove %i items from %s"
+#~ msgstr[0] "Синхронизация удалит %i элемент из %s"
+#~ msgstr[1] "Синхронизация удалит %i элемента из %s"
+#~ msgstr[2] "Синхронизация удалит %i элементов из %s"
+
+#~ msgid ""
+#~ "If you continue to sync, media will be removed from %s since they are not "
+#~ "on the sync list. Would you like to import them to your library first?"
+#~ msgstr ""
+#~ "Если вы продолжите синхронизацию, данные будут удалены с %s, поскольку "
+#~ "они не находятся в списке синхронизации. Хотите ли вы сначала "
+#~ "импортировать их в свою библиотеку?"
+
+#~ msgid "Continue Syncing"
+#~ msgstr "Продолжить синхронизацию"
+
+#~ msgid "Import"
+#~ msgstr "Импортировать"
+
+#~ msgid "Importing music from %s…"
+#~ msgstr "Импортирование музыки из %s…"
+
+#~ msgid "Adding files to library…"
+#~ msgstr "Добавление файлов в библиотеку…"
+
+#~ msgid "<b>Importing</b> music to library…"
+#~ msgstr "<b>Импортирование</b> музыки в библиотеку…"
+
+#~ msgid "All music files are already in your library"
+#~ msgstr "Все музыкальные файлы уже находятся в вашей медиатеке"
+
+#~ msgid "No files were imported."
+#~ msgstr "Файлы не были импортированы."
+
+#~ msgid "Rescanning music for changes. This may take a while…"
+#~ msgstr ""
+#~ "Повторное сканирование музыки на изменения. Это может занять некоторое "
+#~ "время…"
+
+#~ msgid "Added to your queue:"
+#~ msgstr "Добавлено в очередь:"
+
+#~ msgid "%d Track"
+#~ msgid_plural "%d Tracks"
+#~ msgstr[0] "%d композиция"
+#~ msgstr[1] "%d композиции"
+#~ msgstr[2] "%d композиций"
+
+#~ msgid "Favorite Songs"
+#~ msgstr "Любимые композиции"
+
+#~ msgid "Recently Added"
+#~ msgstr "Недавно добавленные"
+
+#~ msgid "Recent Favorites"
+#~ msgstr "Последние понравившиеся"
+
+#~ msgid "Never Played"
+#~ msgstr "Не воспроизводившиеся ранее"
+
+#~ msgid "Over Played"
+#~ msgstr "Часто воспроизводившиеся"
+
+#~ msgid "Not Recently Played"
+#~ msgstr "Воспроизведённые давно"
+
+#~ msgid "History"
+#~ msgstr "История"
+
+#~ msgid "Playlists"
+#~ msgstr "Списки воспроизведения"
+
+#~ msgid "Device Name:"
+#~ msgstr "Название устройства:"
+
+#~ msgid "Device Name"
+#~ msgstr "Название устройства"
+
+#~ msgid "Automatically sync when plugged in:"
+#~ msgstr "Автоматически синхронизировать при подключении:"
+
+#~ msgid "Sync:"
+#~ msgstr "Синхронизировать:"
+
+#~ msgid "Sync"
+#~ msgstr "Синхронизация"
+
+#~ msgid "All Music"
+#~ msgstr "Вся музыка"
+
+#~ msgid "Sync Failed"
+#~ msgstr "Синхронизация не удалась"
+
+#~ msgid ""
+#~ "The playlist named %s is used to sync device %s, but could not be found."
+#~ msgstr ""
+#~ "Список воспроизведения %s используется для синхронизации с устройством "
+#~ "%s, но не был найден."
+
+#~ msgid "Cannot Sync"
+#~ msgstr "Невозможно синхронизировать"
+
+#~ msgid ""
+#~ "Cannot sync device with selected sync settings. Not enough space on disk"
+#~ msgstr ""
+#~ "Невозможно синхронизировать устройство при выбранных параметрах. "
+#~ "Недостаточно места на диске"
+
+#~ msgid "Device is already doing an operation."
+#~ msgstr "Устройство уже занято."
+
+#~ msgid "Cancelling…"
+#~ msgstr "Отмена…"
+
+#~ msgid "Device operation has been cancelled and will stop after this media."
+#~ msgstr "Операция с устройством была отменена и будет остановлена."
+
+#~ msgid "No Results"
+#~ msgstr "Нет результатов"
+
+#~ msgid "Try another search"
+#~ msgstr "Попробуйте другой запрос"
+
+#~ msgid "Genres"
+#~ msgstr "Жанры"
+
+#~ msgid "Artists"
+#~ msgstr "Исполнители"
+
+#~ msgid "Albums"
+#~ msgstr "Альбомы"
+
+#~ msgid "Years"
+#~ msgstr "Годы"
+
+#~ msgid "Ratings"
+#~ msgstr "Оценки"
+
+#~ msgid "Composers"
+#~ msgstr "Композиторы"
+
+#~ msgid "Groupings"
+#~ msgstr "Группы"
+
+#~ msgid "All Genres"
+#~ msgstr "Все жанры"
+
+#~ msgid "All %i Genres"
+#~ msgstr "Все %i жанров"
+
+#~ msgid "No Genres"
+#~ msgstr "Нет жанров"
+
+#~ msgid "All Artists"
+#~ msgstr "Все исполнители"
+
+#~ msgid "All %i Artists"
+#~ msgstr "Все %i исполнителей"
+
+#~ msgid "No Artists"
+#~ msgstr "Нет исполнителей"
+
+#~ msgid "All Albums"
+#~ msgstr "Все альбомы"
+
+#~ msgid "All %i Albums"
+#~ msgstr "Все %i альбомов"
+
+#~ msgid "No Albums"
+#~ msgstr "Нет альбомов"
+
+#~ msgid "All %i Years"
+#~ msgstr "Все %i годов"
+
+#~ msgid "No Years"
+#~ msgstr "Нет годов"
+
+#~ msgid "All Ratings"
+#~ msgstr "Все оценки"
+
+#~ msgid "No Ratings"
+#~ msgstr "Нет оценок"
+
+#~ msgid "All Groupings"
+#~ msgstr "Все группы"
+
+#~ msgid "All %i Groupings"
+#~ msgstr "Все %i групп"
+
+#~ msgid "No Groupings"
+#~ msgstr "Нет групп"
+
+#~ msgid "All Composers"
+#~ msgstr "Все композиторы"
+
+#~ msgid "All %i Composers"
+#~ msgstr "Все %i композиторы"
+
+#~ msgid "No Composers"
+#~ msgstr "Нет композиторов"
+
+#~ msgid "Automatic"
+#~ msgstr "Автоматически"
+
+#~ msgid "On Left"
+#~ msgstr "Слева"
+
+#~ msgid "On Top"
+#~ msgstr "Сверху"
+
+#~ msgid "Unrated"
+#~ msgstr "Без оценки"
+
+#~ msgid "%u Star"
+#~ msgid_plural "%u Stars"
+#~ msgstr[0] "%u звезда"
+#~ msgstr[1] "%u звезды"
+#~ msgstr[2] "%u звёзд"
+
+#~ msgid "%u kbps"
+#~ msgstr "%u кбит/с"
+
+#~ msgid "Never"
+#~ msgstr "Никогда"
+
+#~ msgctxt "List column title"
+#~ msgid "#"
+#~ msgstr "#"
+
+#~ msgctxt "List column title"
+#~ msgid "Track"
+#~ msgstr "Композиция"
+
+#~ msgctxt "List column title"
+#~ msgid "Title"
+#~ msgstr "Название"
+
+#~ msgctxt "List column title"
+#~ msgid "Length"
+#~ msgstr "Длительность"
+
+#~ msgctxt "List column title"
+#~ msgid "Artist"
+#~ msgstr "Исполнитель"
+
+#~ msgctxt "List column title"
+#~ msgid "Album"
+#~ msgstr "Альбом"
+
+#~ msgctxt "List column title"
+#~ msgid "Album Artist"
+#~ msgstr "Исполнитель альбома"
+
+#~ msgctxt "List column title"
+#~ msgid "Composer"
+#~ msgstr "Композитор"
+
+#~ msgctxt "List column title"
+#~ msgid "Genre"
+#~ msgstr "Жанр"
+
+#~ msgctxt "List column title"
+#~ msgid "Year"
+#~ msgstr "Год"
+
+#~ msgctxt "List column title"
+#~ msgid "Grouping"
+#~ msgstr "Группа"
+
+#~ msgctxt "List column title"
+#~ msgid "Bitrate"
+#~ msgstr "Битрейт"
+
+#~ msgctxt "List column title"
+#~ msgid "Rating"
+#~ msgstr "Оценка"
+
+#~ msgctxt "List column title"
+#~ msgid "Plays"
+#~ msgstr "Воспроизведения"
+
+#~ msgctxt "List column title"
+#~ msgid "Skips"
+#~ msgstr "Пропуски"
+
+#~ msgctxt "List column title"
+#~ msgid "Date Added"
+#~ msgstr "Дата добавления"
+
+#~ msgctxt "List column title"
+#~ msgid "Last Played"
+#~ msgstr "Последнее воспроизведение"
+
+#~ msgctxt "List column title (beats per minute)"
+#~ msgid "BPM"
+#~ msgstr "Уд./мин."
+
+#~ msgctxt "List column title (file location)"
+#~ msgid "Location"
+#~ msgstr "Расположение"
+
+#~ msgctxt "List column title"
+#~ msgid "File Size"
+#~ msgstr "Размер файла"
+
+#~ msgid "Autosize Columns"
+#~ msgstr "Авторазмер столбцов"
+
+#~ msgid "1234 kbps"
+#~ msgstr "1234 Кбит/сек"
+
+#~ msgid "Sample List String"
+#~ msgstr "Простой список"
+
+#~ msgid "Get Some Tunes"
+#~ msgstr "Настройтесь на мелодию"
+
+#~ msgid "Add music to your library."
+#~ msgstr "Добавьте музыку в вашу библиотеку."
+
+#~ msgid "Import music from a source into your library."
+#~ msgstr "Импортируйте музыку из источника в вашу медиатеку."
+
+#~ msgid "Change Music Folder"
+#~ msgstr "Выбор папки с музыкой"
+
+#~ msgid "Load music from a folder, a network or an external disk."
+#~ msgstr "Загрузите музыку из папки, сети или с внешнего носителя."
+
+#~ msgid "Import your Music"
+#~ msgstr "Импортируйте свою музыку"
+
+#~ msgid "Import all your Music from %s into your library."
+#~ msgstr "Импортировать всю вашу музыку из %s в вашу библиотеку."
+
+#~ msgid "Select Music Folder"
+#~ msgstr "Выберите папку с музыкой"
+
+#~ msgid "No Songs"
+#~ msgstr "Нет композиций"
+
+#~ msgid "Updating playlist. Please wait."
+#~ msgstr "Обновление списка произведения. Пожалуйста, подождите."
+
+#~ msgid ""
+#~ "To add songs to this playlist, use the <b>secondary click</b> on an item "
+#~ "and choose <b>Add to Playlist</b>."
+#~ msgstr ""
+#~ "Чтобы добавить композиции в список воспроизведения, щёлкните <b>правой "
+#~ "кнопкой мыши</b> по элементу и выберите пункт <b>Добавить в список "
+#~ "воспроизведения</b>."
+
+#~ msgid "Edit Smart Playlist"
+#~ msgstr "Изменить динамический список воспроизведения"
+
+#~ msgid ""
+#~ "This playlist will be automatically populated with songs that match its "
+#~ "rules. To modify these rules, use the <b>secondary click</b> on it in the "
+#~ "sidebar and click on <b>Edit</b>. Optionally, you can click on the button "
+#~ "below."
+#~ msgstr ""
+#~ "В этот список воспроизведения автоматически помещаются композиции, "
+#~ "соответствующие его правилам. Чтобы изменить правила, щёлкните <b>правой "
+#~ "кнопкой мыши</b> по элементу на боковой панели и выберите пункт "
+#~ "<b>Изменить</b>. Кроме того, можно щёлкнуть по кнопке ниже."
+
+#~ msgid "No media"
+#~ msgstr "Нет диска"
+
+#~ msgid "Set new album cover"
+#~ msgstr "Установить новую обложку альбома"
+
+#~ msgid "Image files"
+#~ msgstr "Изображения"
+
+#~ msgid "_Open"
+#~ msgstr "_Открыть"
+
+#~ msgid "_Cancel"
+#~ msgstr "_Отменить"
+
+#~ msgid "Save preset"
+#~ msgstr "Сохранить профиль"
+
+#~ msgid "Off"
+#~ msgstr "Выкл."
+
+#~ msgid "%s (Custom)"
+#~ msgstr "%s (Пользовательский)"
+
+#~ msgid "%s (Custom %i)"
+#~ msgstr "%s (Пользовательский %i)"
+
+#~ msgid "Custom Preset"
+#~ msgstr "Пользовательский профиль"
+
+#~ msgid "Custom Preset %i"
+#~ msgstr "Пользовательский профиль %i"
+
+#~ msgid "Scroll to Current Song"
+#~ msgstr "Прокрутить до текущей композиции"
+
+#~ msgid "Show in File Browser…"
+#~ msgstr "Показать в файловом менеджере…"
+
+#~ msgid "Edit Song Info…"
+#~ msgstr "Редактировать информацию о композиции…"
+
+#~ msgid "Other Actions"
+#~ msgstr "Другие действия"
+
+#~ msgctxt "Action item (verb)"
+#~ msgid "Queue"
+#~ msgstr "Добавить в очередь"
+
+#~ msgid "Add to Playlist"
+#~ msgstr "Добавить в список воспроизведения"
+
+#~ msgid "Remove Song…"
+#~ msgstr "Удалить композицию…"
+
+#~ msgid "Import to Library"
+#~ msgstr "Импорт в библиотеку"
+
+#~ msgid "Remove from Library…"
+#~ msgstr "Удалить из библиотеки…"
+
+#~ msgid "Remove from Device"
+#~ msgstr "Удалить с устройства"
+
+#~ msgid "Remove from Queue"
+#~ msgstr "Удалить из очереди"
+
+#~ msgid "New Playlist…"
+#~ msgstr "Новый список воспроизведения…"
+
+#~ msgid "Import %i of %i selected songs"
+#~ msgstr "Импортировать %i из %i выбранных композиций"
+
+#~ msgid "Import %i song"
+#~ msgid_plural "Import %i songs"
+#~ msgstr[0] "Импортирование %i композиции"
+#~ msgstr[1] "Импортирование %i композиций"
+#~ msgstr[2] "Импортирование %i композиций"
+
+#~ msgid "Delete Current"
+#~ msgstr "Удалить текущий"
+
+#~ msgid "Rename"
+#~ msgstr "Переименовать"
+
+#~ msgid "Edit…"
+#~ msgstr "Редактировать…"
+
+#~ msgid "Save as Playlist"
+#~ msgstr "Сохранить как список воспроизведения"
+
+#~ msgid "Export…"
+#~ msgstr "Экспортировать…"
+
+#~ msgid "Eject"
+#~ msgstr "Извлечь"
+
+#~ msgid "New Playlist"
+#~ msgstr "Новый список воспроизведения"
+
+#~ msgid "New Smart Playlist"
+#~ msgstr "Новый динамический список воспроизведения"
+
+#~ msgid "Import Playlists"
+#~ msgstr "Импортировать списки воспроизведения"
+
+#~ msgid "Library"
+#~ msgstr "Библиотека"
+
+#~ msgid "Devices"
+#~ msgstr "Устройства"
+
+#~ msgid "Network"
+#~ msgstr "Сеть"
+
+#~ msgid "Add Playlist"
+#~ msgstr "Добавить список воспроизведения"
+
+#~ msgid "Add Smart Playlist"
+#~ msgstr "Добавить динамический список воспроизведения"
+
+#~ msgid "Add Playlist…"
+#~ msgstr "Добавить список воспроизведения…"
+
+#~ msgid "Equalizer: %s"
+#~ msgstr "Эквалайзер: %s"
+
+#~ msgid "Enable Repeat"
+#~ msgstr "Включить повтор"
+
+#~ msgid "Disable Repeat"
+#~ msgstr "Отключить повтор"
+
+#~ msgid "Disable Shuffle"
+#~ msgstr "Отключить воспроизведение в случайном порядке"
+
+#~ msgid "View as albums"
+#~ msgstr "Просмотр в виде значков"
+
+#~ msgid "View as list"
+#~ msgstr "Просмотр в виде списка"
+
+#~ msgid "View in columns"
+#~ msgstr "Просмотр в виде колонок"
+
+#~ msgid "No similar songs found"
+#~ msgstr "Похожие композиции не найдены"
+
+#~ msgid ""
+#~ "There are no songs similar to the current song in your library. Make sure "
+#~ "all song info is correct and you are connected to the Internet. Some "
+#~ "songs may not have matches."
+#~ msgstr ""
+#~ "Нет композиций, похожих на текущую композицию в вашей медиатеке. "
+#~ "Убедитесь, что вся информация о композиции является верной и вы "
+#~ "подключены к Интернету. Некоторые композиции могут не иметь схожих."
+
+#~ msgid "Similar"
+#~ msgstr "Похожие"
+
+#~ msgid "media"
+#~ msgstr "медиа"
+
+#~ msgid "Similar Media"
+#~ msgstr "Похожие композиции"
+
+#~ msgid "Audio CD Invalid"
+#~ msgstr "Неверный компакт-диск"
+
+#~ msgid "Impossible to read the contents of this Audio CD"
+#~ msgstr "Невозможно прочитать содержимое этого компакт-диска"
+
+#~ msgid "Could not find Music Folder"
+#~ msgstr "Не удалось найти папку с музыкой"
+
+#~ msgid ""
+#~ "Please make sure that your music folder is accessible and mounted before "
+#~ "importing the CD."
+#~ msgstr ""
+#~ "Пожалуйста, убедитесь, что ваша папка с музыкой доступна и подключена "
+#~ "перед импортированием компакт-диска."
+
+#~ msgid ""
+#~ "The Application could not find any songs on the CD. No songs can be "
+#~ "imported"
+#~ msgstr ""
+#~ "Приложение не смогло найти ни одной композиции на компакт-диске. Ничего "
+#~ "не импортировано"
+
+#~ msgid "Song imported from Audio CD."
+#~ msgstr "Композиция импортирована со звукового компакт-диска."
+
+#~ msgid "%i songs imported from Audio CD."
+#~ msgstr "%s композиций импортировано со звукового компакт-диска."
+
+#~ msgid "Importing track %u: %s"
+#~ msgstr "Импортирование композиции %u: %s"
+
+#~ msgid "CD import will be <b>cancelled</b> after current import."
+#~ msgstr ""
+#~ "Импорт с компакт-диска будет <b>отменён</b> после текущего импортирования."
+
+#~ msgid "Could not import this CD"
+#~ msgstr "Не удалось импортировать этот компакт-диск"
+
+#~ msgid "An Error Occurred"
+#~ msgstr "Произошла ошибка"
+
+#~ msgid "Could not load this Audio CD."
+#~ msgstr "Не удалось загрузить этот звуковой компакт-диск."
+
+#~ msgid "Importation of a song from Audio CD finished."
+#~ msgstr "Импорт композиций с компакт-диска закончен."
+
+#~ msgid "Importation of %i songs from Audio CD finished."
+#~ msgstr "Импорт %i песен с компакт-диска закончен."
+
+#~ msgid "An error occured during the Import of this CD"
+#~ msgstr "Произошла ошибка во время импортирования композиций с компакт-диска"
+
+#~ msgid "There was an error while loading this Audio CD."
+#~ msgstr "Ошибка при загрузке этого компакт-диска."
+
+#~ msgid "Disk:"
+#~ msgstr "Диск:"
+
+#~ msgid "%s has imported your library."
+#~ msgstr "%s элементов импортировано в вашу медиатеку."
+
+#~ msgid "Unable to import %d items from %s"
+#~ msgstr "Невозможно импортировать %d элементов из %s"
+
+#~ msgid "Remove from %s"
+#~ msgstr "Удалить из %s"
+
+#~ msgid "Remove \"%s\" From %s?"
+#~ msgstr "Удалить «%s» из %s?"
+
+#~ msgid "No Albums Found."
+#~ msgstr "Альбомы не найдены."
+
+#~ msgid "No Songs Found."
+#~ msgstr "Композиции не найдены."
+
+#~ msgid "%u second"
+#~ msgid_plural "%u seconds"
+#~ msgstr[0] "%u секунда"
+#~ msgstr[1] "%u секунды"
+#~ msgstr[2] "%u секунд"
+
+#~ msgid "%u minute"
+#~ msgid_plural "%u minutes"
+#~ msgstr[0] "%u минута"
+#~ msgstr[1] "%u минуты"
+#~ msgstr[2] "%u минут"
+
+#~ msgctxt "minutes and seconds"
+#~ msgid "%s and %s"
+#~ msgstr "%s и %s"
+
+#~ msgid "%u day"
+#~ msgid_plural "%u days"
+#~ msgstr[0] "%u день"
+#~ msgstr[1] "%u дня"
+#~ msgstr[2] "%u дней"
+
+#~ msgid "%u hour"
+#~ msgid_plural "%u hours"
+#~ msgstr[0] "%u час"
+#~ msgstr[1] "%u часа"
+#~ msgstr[2] "%u часов"
+
+#~ msgctxt "days, hours and minutes"
+#~ msgid "%s, %s and %s"
+#~ msgstr "%s, %s и %s"
+
+#~ msgctxt "days and hours"
+#~ msgid "%s and %s"
+#~ msgstr "%s и %s"
+
+#~ msgctxt "days and minutes"
+#~ msgid "%s and %s"
+#~ msgstr "%s и %s"
+
+#~ msgctxt "hours and minutes"
+#~ msgid "%s and %s"
+#~ msgstr "%s и %s"
+
+#~ msgid "Song"
+#~ msgstr "Композиция"
+
+#~ msgid "Repeat Artist"
+#~ msgstr "Повторять композиции исполнителя"
+
+#~ msgid "All"
+#~ msgstr "Всё"
+
+#~ msgid "Hide"
+#~ msgstr "Скрыть"
+
+#~ msgid "Show Info Panel"
+#~ msgstr "Показать дополнительную информацию"
+
+#~ msgid "Show"
+#~ msgstr "Показать"
+
+#~ msgid "Hide Info Panel"
+#~ msgstr "Скрыть дополнительную информацию"
+
+#~ msgid "Free"
+#~ msgstr "Свободно"
+
+#~ msgid "Using %s of %s (%.2f%)"
+#~ msgstr "Использовано %s из %s (%.2f%)"
+
+#~ msgid "General"
+#~ msgstr "Общие"
+
+#~ msgid "Import from Device"
+#~ msgstr "Импортировать с устройства"
+
+#~ msgid "Import media from %s"
+#~ msgstr "Импорт данных из %s"
+
+#~ msgid ""
+#~ "The following files were found on %s, but are not in your library. Check "
+#~ "all the files you would like to import."
+#~ msgstr ""
+#~ "Следующие файлы были найдены на устройстве %s, но отсутствуют в "
+#~ "медиатеке. Отметьте все файлы, которые вы хотите импортировать."
+
+#~ msgid "Import all media"
+#~ msgstr "Импортировать все данные"
+
+#~ msgid "Don't Import"
+#~ msgstr "Не импортировать"
+
+#~ msgid "Import %i items from %s"
+#~ msgstr "Импортировать %i объектов из %s"
+
+#~ msgid "Import %s from %s"
+#~ msgstr "Импортировать %s из %s"
+
+#~ msgid "ID"
+#~ msgstr "ID"
+
+#~ msgid "Select individual media to import:"
+#~ msgstr "Выберите отдельные файлы для импорта:"
+
+#~ msgid "Check Item"
+#~ msgstr "Отметить элемент"
+
+#~ msgid "Check Album"
+#~ msgstr "Отметить альбом"
+
+#~ msgid "Check Artist"
+#~ msgstr "Отметить исполнителя"
+
+#~ msgid "Cannot Import"
+#~ msgstr "Невозможно импортировать"
+
+#~ msgid ""
+#~ "Noise is already doing file operations. Please wait until those finish to "
+#~ "import from %s"
+#~ msgstr ""
+#~ "Noise уже выполняет операции с файлами. Пожалуйста, подождите пока не "
+#~ "закончится импортирование из %s"
+
+#~ msgid "Import media to Library"
+#~ msgstr "Импорт данных в медиатеку"
+
+#~ msgid "Stop Syncing"
+#~ msgstr "Остановить синхронизацию"
+
+#~ msgid "Sync will remove 1 item from %s"
+#~ msgstr "Синхронизация удалит 1 элемент из %s"
+
+#~ msgid "%u album"
+#~ msgid_plural "%u albums"
+#~ msgstr[0] "%u альбом"
+#~ msgstr[1] "%u альбома"
+#~ msgstr[2] "%u альбомов"
+
+#~ msgctxt "Title format used on Album View Popup: $ALBUM by $ARTIST"
+#~ msgid "%s by %s"
+#~ msgstr "%s в исполнении %s"
+
+#~ msgctxt ""
+#~ "Format used on statusbar: $description, $total_duration, $total_file_size"
+#~ msgid "%s, %s, %s"
+#~ msgstr "%s, %s, %s"
+
+#~ msgid "OK"
+#~ msgstr "OK"
+
+#~ msgid "No External Songs"
+#~ msgstr "Нет внешних композиций"
+
+#~ msgid ""
+#~ "There were no songs found on this device that are not in your library."
+#~ msgstr "На устройстве нет композиций, отсутствующих в медиатеке."
+
+#~ msgid "%i track"
+#~ msgid_plural "%i tracks"
+#~ msgstr[0] "%i композиция"
+#~ msgstr[1] "%i композиции"
+#~ msgstr[2] "%i композиций"
+
+#~ msgid "%u song"
+#~ msgid_plural "%u songs"
+#~ msgstr[0] "%u композиция"
+#~ msgstr[1] "%u композиции"
+#~ msgstr[2] "%u композиций"
+
+#~ msgctxt "Format used on statusbar: $description, $total_duration"
+#~ msgid "%s, %s"
+#~ msgstr "%s, %s"
+
+#~ msgid "translator-credits"
+#~ msgstr ""
+#~ "Launchpad Contributions:\n"
+#~ "  0crash0 https://launchpad.net/~0crash0\n"
+#~ "  Aleksey Kabanov https://launchpad.net/~ak099\n"
+#~ "  Alex Ra https://launchpad.net/~asd667\n"
+#~ "  Alexander Kovalenko https://launchpad.net/~darko-nerivar\n"
+#~ "  Alexandr Anciferov https://launchpad.net/~jooow\n"
+#~ "  Andrey Stomakhin https://launchpad.net/~stomandrey\n"
+#~ "  Artem Anufrij https://launchpad.net/~artem-anufrij\n"
+#~ "  Denis Lets https://launchpad.net/~denislets\n"
+#~ "  Eugene Marshal https://launchpad.net/~lowrider\n"
+#~ "  Gigabye https://launchpad.net/~gkc90953\n"
+#~ "  Gladyr Aleksandr https://launchpad.net/~gladyra\n"
+#~ "  Ivlev Denis https://launchpad.net/~den4ik\n"
+#~ "  Khayrullo https://launchpad.net/~khayrullomirzaev\n"
+#~ "  Kirill Ivaha https://launchpad.net/~kirill-ivaha\n"
+#~ "  Maxim Taranov https://launchpad.net/~png2378\n"
+#~ "  Mike Orlov https://launchpad.net/~mike-orlv\n"
+#~ "  Mor1din https://launchpad.net/~post--box\n"
+#~ "  Mukusev Vladimir https://launchpad.net/~damon95\n"
+#~ "  Nikita Putko https://launchpad.net/~ktototam98\n"
+#~ "  Oleg https://launchpad.net/~oopseekoleg\n"
+#~ "  Sergey \"Shnatsel\" Davidoff https://launchpad.net/~shnatsel\n"
+#~ "  Sergii Cynailo https://launchpad.net/~funeral20\n"
+#~ "  Tema Kosakov https://launchpad.net/~kosakov\n"
+#~ "  Victor Martinez https://launchpad.net/~victored\n"
+#~ "  Vinni.Buh https://launchpad.net/~a-vinni-buh\n"
+#~ "  VitalD https://launchpad.net/~vkontakte-vit\n"
+#~ "  Vovk Vladimir https://launchpad.net/~vladimir-vovk-at\n"
+#~ "  Yuly Nesterov https://launchpad.net/~inpr1se\n"
+#~ "  anton https://launchpad.net/~antonshramko\n"
+#~ "  hobagos https://launchpad.net/~hobagos\n"
+#~ "  maximko https://launchpad.net/~maximko\n"
+#~ "  Глория Хрусталёва https://launchpad.net/~gloriya\n"
+#~ "  Дмитрий Мурашкин https://launchpad.net/~mr-dimur\n"
+#~ "  Николай https://launchpad.net/~nicolai-andr12\n"
+#~ "  Николай Авдеев (NickKolok, Nikolay Avdeev) https://launchpad.net/"
+#~ "~nickkolok\n"
+#~ "  Сулейман https://launchpad.net/~umudov-s-i13\n"
+#~ "  михаил https://launchpad.net/~ded-mixei"
+
+#~ msgid "Lyrics fetched from www.lyricsmania.com"
+#~ msgstr "Тексты взяты с www.lyricsmania.com"
+
+#~ msgid "Add Podcast"
+#~ msgstr "Добавить подкаст"
+
+#~ msgid "Download new Episodes"
+#~ msgstr "Загрузить новые выпуски"
+
+#~ msgid "Edit"
+#~ msgstr "Изменить"
+
+#~ msgid "Export..."
+#~ msgstr "Экспортировать..."
+
+#~ msgid "Podcasts"
+#~ msgstr "Подкасты"
+
+#~ msgid "#"
+#~ msgstr "№"
+
+#~ msgid "Track"
+#~ msgstr "Композиция"
+
+#~ msgid "BPM"
+#~ msgstr "Уд./мин."
+
+#~ msgid "Done"
+#~ msgstr "Готово"
+
+#~ msgid "Podcast"
+#~ msgstr "Подкаст"
+
+#~ msgid "%s is already doing an import"
+#~ msgstr "%s уже делает импорт"
+
+#~ msgid "CD Import Complete"
+#~ msgstr "CD Импорт Завершен"
+
+#~ msgid "Ripping track 1"
+#~ msgstr "Копирование трека 1"
+
+#~ msgid "Importing track %i"
+#~ msgstr "Импорт трека %i"
+
+#~ msgid "Category"
+#~ msgstr "Категория"
+
+#~ msgid "Station"
+#~ msgstr "Станция"
+
+#~ msgid "Episode"
+#~ msgstr "Эпизод"
+
+#~ msgid "Name"
+#~ msgstr "Имя"
+
+#~ msgid "Date"
+#~ msgstr "Дата"
+
+#~ msgid "Unknown Album"
+#~ msgstr "Неизвестный альбом"
+
+#~ msgid "Unknown Artist"
+#~ msgstr "Неизвестный исполнитель"
+
+#~ msgid "Equalizer"
+#~ msgstr "Эквалайзер"
+
+#~ msgid "Import Stations"
+#~ msgstr "Импорт станций"
+
+#~ msgid "Not Imported Files"
+#~ msgstr "Не импортированные файлы"
+
+#~ msgid "Do Nothing"
+#~ msgstr "Не использовать"
+
+#~ msgid "Success!"
+#~ msgstr "Завершено!"
+
+#~ msgid "Adding files to library..."
+#~ msgstr "Добавление файлов в библиотеку..."
+
+#~ msgid "Last.fm Integration"
+#~ msgstr "Интеграция с Last.fm"
+
+#~ msgid "Recently Played"
+#~ msgstr "Недавно воспроизведённые"
+
+#~ msgid "Rescanning music for changes. This may take a while..."
+#~ msgstr ""
+#~ "Повторное сканирование для поиска изменений. Это может занять некоторое "
+#~ "время..."
+
+#~ msgid "Adding music from %s to library..."
+#~ msgstr "Добавление музыки из «%s» в библиотеку..."
+
+#~ msgid "Rescan Music Folder"
+#~ msgstr "Сканировать папку с музыкой заново"
+
+#~ msgid "Unheard Podcasts"
+#~ msgstr "Непрослушанные подкасты"
+
+#~ msgid "Show Equalizer"
+#~ msgstr "Показать эквалайзер"
+
+#~ msgid "Hide Equalizer"
+#~ msgstr "Скрыть эквалайзер"
+
+#~ msgid "Please make sure that your music folder is accessible and mounted."
+#~ msgstr ""
+#~ "Убедитесь, что папка с музыкой доступна, а устройство, на котором она "
+#~ "находится, монтировано."
+
+#~ msgid "<b>Importing</b> music from <b>%s</b> to library."
+#~ msgstr "<b>Импорт</b> музыки из «<b>%s</b>» в библиотеку."
+
+#~ msgid " by "
+#~ msgstr " в исполнении "
+
+#~ msgid ""
+#~ "Import from device has been cancelled. Operation will stop after this "
+#~ "media."
+#~ msgstr ""
+#~ "Импорт файлов с устройства был отменён. Операция с этим устройством будет "
+#~ "прекращена."
+
+#~ msgid "1 Star"
+#~ msgstr "1 звезда"
+
+#~ msgid "%s Stars"
+#~ msgstr "%s звезд(ы)"
+
+#~ msgid "Cancelling Sync"
+#~ msgstr "Отмена синхронизации"
+
+#~ msgid "Cancelling Import"
+#~ msgstr "Отмена импорта"
+
+#~ msgid ""
+#~ "Device Sync has been cancelled. Operation will stop after this media."
+#~ msgstr ""
+#~ "Синхронизация с устройством была отменена. Операция с этим устройством "
+#~ "будет прекращена."
+
+#~ msgid "All %i Ratings"
+#~ msgstr "Все %i оценок"
+
+#~ msgid "Pulser"
+#~ msgstr "Генератор импульсов"
+
+#~ msgid "%i kbps"
+#~ msgstr "%i кбит/с"
+
+#~ msgid "Import this song"
+#~ msgstr "Импортировать эту композицию"
+
+#~ msgid "Import %i songs"
+#~ msgstr "Импортировать %i композиций"
+
+#~ msgid "Device is already being synced."
+#~ msgstr "Устройство уже синхронизируется."
+
+#~ msgid "All Podcasts"
+#~ msgstr "Все подкасты"
+
+#~ msgid ""
+#~ "%s could not find songs similar to %s by %s in your library. Make sure "
+#~ "all song info is correct and you are connected to the Internet. Some "
+#~ "songs may not have matches."
+#~ msgstr ""
+#~ "%s не удалось найти композиции, похожие на «%s» в исполнении %s, в "
+#~ "библиотеке. Убедитесь, что вся информация верна и есть подключение к "
+#~ "Интернету. Для некоторых песен может не быть соответствий."
+
+#~ msgid "%s by %s"
+#~ msgstr "%s в исполнении %s"
+
+#~ msgid ""
+#~ "In this view, %s will automatically find songs similar to the one you're "
+#~ "playing. You can then start playing those songs, or save them as a "
+#~ "playlist for later."
+#~ msgstr ""
+#~ "В этом режиме просмотра, %s автоматически найдёт композиции, похожие на "
+#~ "текущую. Затем можно начать их воспроизведение или сохранить в виде "
+#~ "списка."
+
+#~ msgid "Similar Song View"
+#~ msgstr "Похожие композиции"
+
+#~ msgid "Finding songs similar to %s by %s"
+#~ msgstr "Получение сведений композициях, похожих на «%s» в исполнении %s"
+
+#~ msgid "Fetching similar songs"
+#~ msgstr "Получение сведений о похожих композициях"
+
+#~ msgid "Similar to %s"
+#~ msgstr "Похожие на %s"
+
+#~ msgid "%i albums"
+#~ msgstr "%i альбомов"
+
+#~ msgid "1 album"
+#~ msgstr "1 альбом"
+
+#~ msgid "All the songs in this device are already in your library."
+#~ msgstr "Все композиции на устройстве уже находятся в библиотеке"
+
+#~ msgid "%s can't seem to find your music."
+#~ msgstr "Возможно, %s не нашло музыку."
+
+#~ msgid "Change your music folder."
+#~ msgstr "Изменить расположение папки с музыкой."
+
+#~ msgid "Locate"
+#~ msgstr "Местоположение"
+
+#~ msgid "Import media from device"
+#~ msgstr "Импортировать данные с устройства"
+
+#~ msgid "%i songs"
+#~ msgstr "%i композиций"
+
+#~ msgid "1 song"
+#~ msgstr "1 композиция"
+
+#~ msgid "1 track"
+#~ msgstr "1 дорожка"
+
+#~ msgid "%i tracks"
+#~ msgstr "%i дорожек"
+
+#~ msgid "%i hours"
+#~ msgstr "%i часов"
+
+#~ msgid "1 day"
+#~ msgstr "1 день"
+
+#~ msgid "1 hour"
+#~ msgstr "1 час"
+
+#~ msgid "%i minutes"
+#~ msgstr "%i минут"
+
+#~ msgid "1 second"
+#~ msgstr "1 секунда"
+
+#~ msgid "%s seconds"
+#~ msgstr "%s секунд"
+
+#~ msgid "%s and %s"
+#~ msgstr "%s и %s"
+
+#~ msgid "1 minute"
+#~ msgstr "1 минута"
+
+#~ msgid "%i days"
+#~ msgstr "%i дней"
+
+#~ msgid "%s, %s and %s"
+#~ msgstr "%s, %s и %s"
+
+#~ msgid "Remove Media"
+#~ msgstr "Отключить устройство"
+
+#~ msgid "Lyrics"
+#~ msgstr "Текст композиции"
+
+#~ msgid "Metadata"
+#~ msgstr "Метаданные"
+
+#~ msgid ""
+#~ "The plugin for media type %s is not installed.\n"
+#~ "What would you like to do?"
+#~ msgstr ""
+#~ "Плагин для воспроизведения формата «%s» не установлен.\n"
+#~ "Каковы дальнейшие действия?"
+
+#~ msgid ""
+#~ "The music file for %s by %s could not be found. What would you like to do?"
+#~ msgstr ""
+#~ "Файл с композицией «%s» в исполнении %s не был найден. Каковы дальнейшие "
+#~ "действия?"
+
+#~ msgid "Could not find media file"
+#~ msgstr "Не удалось найти файл"
+
+#~ msgid "%i media files could not be found. What would you like to do?"
+#~ msgstr "%i файлов не были найдены. Каковы дальнейшие действия?"
+
+#~ msgid "Locate Media"
+#~ msgstr "Расположение данных"
+
+#~ msgid "Editing %s"
+#~ msgstr "Изменение %s"
+
+#~ msgid "Media Type"
+#~ msgstr "Вид данных"
+
+#~ msgid "Lyrics not found for \"%s\" by \"%s\""
+#~ msgstr "Текст композиции «%s» в исполнении %s не найден"
+
+#~ msgid "Try again"
+#~ msgstr "Повторить снова"
+
+#~ msgid "Editing %i songs"
+#~ msgstr "Изменение %i композиций"
+
+#~ msgid "Album Artist"
+#~ msgstr "Исполнитель альбома"
+
+#~ msgid "Audiobook"
+#~ msgstr "Аудиокнига"
+
+#~ msgid ""
+#~ "This will remove the %s from your library and from any device that "
+#~ "automatically syncs with %s."
+#~ msgstr ""
+#~ "Это действие удалит «%s» из библиотеки и со всех устройств, для которых "
+#~ "задана автоматическая синхронизация с «%s»."
+
+#~ msgid ""
+#~ "You must wait until previous file operations finish before setting your "
+#~ "music folder"
+#~ msgstr ""
+#~ "Перед установки папки с музыкой необходимо подождать, пока предыдущие "
+#~ "операции с файлами завершатся."
+
+#~ msgid "The name %s is already in use"
+#~ msgstr "Название «%s» уже используется"
+
+#~ msgid "Date Released"
+#~ msgstr "Дата выхода"
+
+#~ msgid "is not"
+#~ msgstr "не является"
+
+#~ msgid "Radio Station"
+#~ msgstr "Радиостанция"
+
+#~ msgid "Rescanning music folder for changes"
+#~ msgstr "Повторное сканирование папки с музыкой для поиска изменений"
+
+#~ msgid " on "
+#~ msgstr " из альбома "
+
+#~ msgid "%s could not find any songs on the CD. No songs can be imported"
+#~ msgstr ""
+#~ "%s не может найти музыкальные композиции на компакт-диске. Нет файлов для "
+#~ "импортирования"
+
+#~ msgid "No songs on CD"
+#~ msgstr "Нет композиций на компакт-диске"
+
+#~ msgid "%s has finished importing %i songs from Audio CD."
+#~ msgstr "%s завершил импорт %i композиций с компакт-диска."
+
+#~ msgid "Editing %s by %s"
+#~ msgstr "Изменение сведений о «%s» исполнителя %s"
+
+#~ msgid "Queue"
+#~ msgstr "Добавить в очередь"
+
+#~ msgid "Enable Scrobbling"
+#~ msgstr "Задействовать скробблинг"
+
+#~ msgid "Complete login"
+#~ msgstr "Завершить вход"
+
+#~ msgid "Unsuccessful. Click to try again."
+#~ msgstr "Не выполнено. Щёлкните для повтора."
+
+#~ msgid "Copy files to music folder when added to library"
+#~ msgstr "Копировать файлы в музыкальную папку, после добавления в медиатеку"
+
+#~ msgid "Automatically download new podcast episodes"
+#~ msgstr "Автоматически загружать новые эпизоды подкастов"
+
+#~ msgid "Keep music folder organized"
+#~ msgstr "Сохранять классификацию в папке с музыкой"
+
+#~ msgid "Write metadata to file"
+#~ msgstr "Записывать метаданные в файл"
+
+#~ msgid "Click to redo the Last.fm Login Process"
+#~ msgstr "Щёлкните, чтобы повторить процесс входа на Last.fm"
+
+#~ msgid "Scrobbling already Enabled"
+#~ msgstr "Скробблинг зайдествован"
+
+#~ msgid "Click on the button to edit playlist rules"
+#~ msgstr "Щёлкните на кнопке для редактирования правил списка воспроизведения"
+
+#~ msgid "%i items"
+#~ msgstr "%i элементa(ов)"
+
+#~ msgid "1 item"
+#~ msgstr "1 объект"
+
+#~ msgid ""
+#~ "To allow for Last.fm integration, you must give permission to %s. You "
+#~ "only need to do this once."
+#~ msgstr ""
+#~ "Если вы хотите разрешить интеграцию Last.fm, вам необходимо задать "
+#~ "полномочия %s. Это необходимо сделать единожды."
+
+#~ msgid "Unknown Track"
+#~ msgstr "Неизвестная дорожка"
+
+#~ msgid "Unknown Title"
+#~ msgstr "Неизвестная композиция"
+
+#~ msgid "Required GStreamer plugin not installed"
+#~ msgstr "Необходимый плагин GStreamer не установлен"
+
+#~ msgid "Last.fm"
+#~ msgstr "Last.fm"
+
+#~ msgid "%d second"
+#~ msgid_plural "%d seconds"
+#~ msgstr[0] "%d секунда"
+#~ msgstr[1] "%d секунды"
+#~ msgstr[2] "%d секунд"
+
+#~ msgid "Importing music from %s..."
+#~ msgstr "Импорт музыки из «%s»..."
+
+#~ msgid "Remove %d %s from %s?"
+#~ msgstr "Удалить %d %s из «%s»?"
+
+#~ msgid "Plays"
+#~ msgstr "Число прослушиваний"
+
+#~ msgid "Skips"
+#~ msgstr "Число пропусков"
+
+#~ msgid ""
+#~ "Please wait until %s is finished with the current import before importing "
+#~ "the CD."
+#~ msgstr ""
+#~ "Пожалуйста, подождите, пока %s закончит текущую операцию импорта, прежде "
+#~ "чем импортировать композиции с компакт-диска."
+
+#~ msgid "Click to redo the Last.fm login process"
+#~ msgstr "Щёлкните, чтобы повторить вход в Last.fm"
+
+#~ msgid "Display Album Art"
+#~ msgstr "Отображать обложки альбомов"
+
+#~ msgid "Lyrics not found for %s"
+#~ msgstr "Не найден текст для %s"
+
+#~ msgid "Unsuccessful. Click To Try Again."
+#~ msgstr "Неудача. Нажмите, чтобы попробовать снова."
+
+#~ msgid "Scrobbling Already Enabled"
+#~ msgstr "Скробблинг уже используется"
+
+#~ msgid "Complete Login"
+#~ msgstr "Выполните вход"
+
+#~ msgid "Music Player"
+#~ msgstr "Музыкальный проигрыватель"
+
+#~ msgid "Listen to music"
+#~ msgstr "Слушайте музыку"
+
+#~ msgid ""
+#~ "Noise is already doing file operations. Please wait until those finish to "
+#~ "import from %d"
+#~ msgstr ""
+#~ "Noise уже выполняет операции с файлами. Пожалуйста, подождите пока не "
+#~ "закончится импортирование из %d"
+
+#~ msgid "Editing $NAME by $ARTIST"
+#~ msgstr "Редактирование $NAME в исполнении $ARTIST"
+
+#~ msgid "Library Management:"
+#~ msgstr "Управление медиатекой:"
+
+#~ msgid "Music Folder Location:"
+#~ msgstr "Местоположение папки с музыкой:"
+
+#~ msgid "Desktop Integration:"
+#~ msgstr "Интеграция с рабочим столом:"
+
+#~ msgid "%i Star"
+#~ msgid_plural "%i Stars"
+#~ msgstr[0] "%i звезда"
+#~ msgstr[1] "%i звезды"
+#~ msgstr[2] "%i звёзд"
+
+#~ msgid "Importing track %i: %s"
+#~ msgstr "Импортирование композиции %i: %s"
+
+#~ msgid "There is not enough space on Device to complete the Sync…"
+#~ msgstr "Недостаточно места на Устройстве для завершения синхронизации ..."
+
+#~ msgid "Give %s Permission"
+#~ msgstr "Дать %s разрешение"
+
+#~ msgid "Noise;Audio;Player;MP3;iPod;Play;Playlist;Media;CD;Phone;Songs;"
+#~ msgstr "Noise;Audio;Player;MP3;iPod;Play;Playlist;Media;CD;Phone;Songs;"
+
+#~ msgid "<b>Stats</b>"
+#~ msgstr "<b>Статистика</b>"
+
+#~ msgid "Notifications:"
+#~ msgstr "Уведомления:"
+
+#~ msgid "Reset"
+#~ msgstr "Сбросить"
+
+#~ msgid "Details"
+#~ msgstr "Подробности"
+
+#~ msgid "About Noise"
+#~ msgstr "О программе"
+
+#~ msgid "About Music"
+#~ msgstr "О программе"

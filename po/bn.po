@@ -1,0 +1,387 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-01 10:32+0000\n"
+"PO-Revision-Date: 2018-01-11 08:45+0000\n"
+"Last-Translator: Subhadeep Jasu <subhajasu@gmail.com>\n"
+"Language-Team: Bengali <https://weblate.phyreos.io/projects/music/music/"
+"bn/>\n"
+"Language: bn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.18\n"
+"X-Launchpad-Export-Date: 2017-03-07 05:51+0000\n"
+
+#: src/Application.vala:92 src/Views/NowPlayingView.vala:18
+#: src/Views/NowPlayingView.vala:116
+msgid "Music"
+msgstr ""
+
+#: src/MainWindow.vala:20
+#, fuzzy
+msgid "Shuffle"
+msgstr "শফেল সক্ষম করুন"
+
+#: src/MainWindow.vala:26
+msgid "Search titles in playlist"
+msgstr ""
+
+#: src/MainWindow.vala:45
+msgid "Queue is Empty"
+msgstr ""
+
+#: src/MainWindow.vala:46
+msgid "Audio files opened from Files will appear here"
+msgstr ""
+
+#: src/MainWindow.vala:63
+msgid "Open Files…"
+msgstr ""
+
+#: src/MainWindow.vala:167
+#, c-format
+msgid "%d invalid file was not added to the queue"
+msgid_plural "%d invalid files were not added to the queue"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/MainWindow.vala:215
+msgid "All files"
+msgstr ""
+
+#: src/MainWindow.vala:220
+msgid "Music files"
+msgstr ""
+
+#: src/MainWindow.vala:229
+msgid "Open"
+msgstr "খুলুন"
+
+#: src/MainWindow.vala:233
+msgid "Open audio files"
+msgstr ""
+
+#: src/MainWindow.vala:271
+#, fuzzy
+msgid "Repeat None"
+msgstr "গান পুনরাবৃত্তি করুন"
+
+#: src/MainWindow.vala:275
+#, fuzzy
+msgid "Repeat All"
+msgstr "অ্যালবাম পুনরাবৃত্তি করুন"
+
+#: src/MainWindow.vala:279
+#, fuzzy
+msgid "Repeat One"
+msgstr "গান পুনরাবৃত্তি করুন"
+
+#: src/PlaybackManager.vala:136
+#, c-format
+msgid "%d track was added to the queue"
+msgid_plural "%d tracks were added to the queue"
+msgstr[0] ""
+msgstr[1] ""
+
+#. Don't set artist for files without tags
+#: src/PlaybackManager.vala:196
+msgid "Unknown"
+msgstr "অচেনা"
+
+#: src/Views/NowPlayingView.vala:23 src/Views/NowPlayingView.vala:115
+#, fuzzy
+msgid "Not playing"
+msgstr "নতুন সংগীত-তালিকা"
+
+#: src/Views/NowPlayingView.vala:45
+msgid "Previous"
+msgstr ""
+
+#: src/Views/NowPlayingView.vala:68
+msgid "Next"
+msgstr ""
+
+#: src/Views/NowPlayingView.vala:93
+msgid "Play"
+msgstr ""
+
+#: src/Views/NowPlayingView.vala:96
+msgid "Pause"
+msgstr ""
+
+#~ msgid "Importing <b>$NAME</b> by <b>$ARTIST</b> to library…"
+#~ msgstr "<b>$ARTIST</b>রচিত<b>$NAME</b>গানটি আমদানি করা হচ্ছে…"
+
+#~ msgid "$NAME on $ALBUM"
+#~ msgstr "$ALBUM এলবামে $NAME"
+
+#~ msgid "$NAME by $ARTIST"
+#~ msgstr "$ARTIST রচিত $NAME"
+
+#~ msgid "$NAME by $ARTIST on $ALBUM"
+#~ msgstr "$ALBUM থেকে $ARTIST রচিত $NAME"
+
+#~ msgid "Flat"
+#~ msgstr "চেপ্টা"
+
+#~ msgid "Classical"
+#~ msgstr "ক্লাসিক্যাল"
+
+#~ msgid "Club"
+#~ msgstr "ক্লাব"
+
+#~ msgid "Dance"
+#~ msgstr "ডান্স"
+
+#~ msgid "Full Bass"
+#~ msgstr "সম্পূর্ণ খাদের স্বর"
+
+#~ msgid "Full Treble"
+#~ msgstr "সম্পূর্ণ উচ্চ স্বর"
+
+#~ msgid "Full Bass + Treble"
+#~ msgstr "সম্পূর্ণ উচ্চ + নিচু স্বর"
+
+#~ msgid "Headphones"
+#~ msgstr "হেডফোনেস"
+
+#~ msgid "Large Hall"
+#~ msgstr "বড় হল"
+
+#~ msgid "Live"
+#~ msgstr "লাইভ"
+
+#~ msgid "Party"
+#~ msgstr "পার্টি"
+
+#~ msgid "Pop"
+#~ msgstr "পপ"
+
+#~ msgid "Reggae"
+#~ msgstr "রেগে"
+
+#~ msgid "Rock"
+#~ msgstr "রক"
+
+#~ msgid "Soft"
+#~ msgstr "কোমল"
+
+#~ msgid "Ska"
+#~ msgstr "স্কা"
+
+#~ msgid "Soft Rock"
+#~ msgstr "সফ্ট রক"
+
+#~ msgid "Techno"
+#~ msgstr "টেকনো"
+
+#~ msgid "Export Playlist"
+#~ msgstr "সংগীত-তালিকা রপ্তানি করুন"
+
+#~ msgid "Save"
+#~ msgstr "সংরক্ষণ করুন"
+
+#~ msgid "Cancel"
+#~ msgstr "বাতিল করুন"
+
+#~ msgid "Playlist"
+#~ msgstr "সঙ্গীত-তালিকা"
+
+#~ msgid "Import %s"
+#~ msgstr "%s আমদানি করুন"
+
+#~ msgid "Unrecognized playlist file. Import failed."
+#~ msgstr "অচেনা প্লেলিস্ট (সংগীত-তালিকা) ফাইল। আমদানি করা সম্ভব হয়নি।"
+
+#~ msgid "Remove"
+#~ msgstr "অপসারণ"
+
+#~ msgid "Album"
+#~ msgstr "অ্যালবাম"
+
+#~ msgid "Artist"
+#~ msgstr "সংগীতকার"
+
+#~ msgid "Playlists"
+#~ msgstr "সংগীত-তালিকা"
+
+#~ msgid "Sync"
+#~ msgstr "সিঙ্ক্রোনাইজ"
+
+#~ msgid "Automatic"
+#~ msgstr "স্বয়ংক্রিয়"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Artist"
+#~ msgstr "সংগীতকার"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Album"
+#~ msgstr "অ্যালবাম"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Album Artist"
+#~ msgstr "সংগীতকার"
+
+#, fuzzy
+#~ msgctxt "List column title"
+#~ msgid "Plays"
+#~ msgstr "সঙ্গীত-তালিকা"
+
+#~ msgid "Save preset"
+#~ msgstr "প্রিসেট সংরক্ষণ করুন"
+
+#~ msgid "Off"
+#~ msgstr "বন্ধ"
+
+#~ msgid "Custom Preset"
+#~ msgstr "কাস্টম প্রিসেট"
+
+#~ msgid "Custom Preset %i"
+#~ msgstr "কাস্টম প্রিসেট %i"
+
+#, fuzzy
+#~ msgid "Remove Song…"
+#~ msgstr "গান পুনরাবৃত্তি করুন"
+
+#~ msgid "Import to Library"
+#~ msgstr "লাইব্রেরিতে আমদানি করুন"
+
+#, fuzzy
+#~ msgid "Remove from Library…"
+#~ msgstr "লাইব্রেরিতে আমদানি করুন"
+
+#~ msgid "Rename"
+#~ msgstr "নামান্তর"
+
+#~ msgid "Edit…"
+#~ msgstr "সম্পাদন…"
+
+#~ msgid "Save as Playlist"
+#~ msgstr "সঙ্গীত-তালিকা হিসাবে সংরক্ষণ করুন"
+
+#~ msgid "Export…"
+#~ msgstr "রপ্তানি…"
+
+#~ msgid "Eject"
+#~ msgstr "বার করুন"
+
+#~ msgid "New Playlist"
+#~ msgstr "নতুন সংগীত-তালিকা"
+
+#~ msgid "New Smart Playlist"
+#~ msgstr "নতুন বুদ্ধিমান সংগীত-তালিকা"
+
+#~ msgid "Import Playlists"
+#~ msgstr "সংগীত-তালিকা আমদানি করুন"
+
+#~ msgid "Library"
+#~ msgstr "লাইব্রেরি"
+
+#~ msgid "Devices"
+#~ msgstr "ডিভাইসগুলি"
+
+#~ msgid "Network"
+#~ msgstr "নেটওয়ার্ক"
+
+#~ msgid "Add Playlist"
+#~ msgstr "সংগীত-তালিকা যোগ করুন"
+
+#~ msgid "Add Smart Playlist"
+#~ msgstr "বুদ্ধিমান সংগীত-তালিকা যোগ করুন"
+
+#, fuzzy
+#~| msgid "Add Playlist"
+#~ msgid "Add Playlist…"
+#~ msgstr "সংগীত-তালিকা যোগ করুন"
+
+#~ msgid "Equalizer: %s"
+#~ msgstr "ইকুয়ালাইজার: %s"
+
+#~ msgid "Enable Repeat"
+#~ msgstr "পুনরাবৃত্তি সক্ষম করুন"
+
+#~ msgid "Disable Repeat"
+#~ msgstr "পুনরাবৃত্তি বন্ধ করুন"
+
+#~ msgid "Disable Shuffle"
+#~ msgstr "শফেল বন্ধ করুন"
+
+#, fuzzy
+#~ msgid "View as albums"
+#~ msgstr "অ্যালবাম হিসেবে দেখুন"
+
+#, fuzzy
+#~ msgid "View as list"
+#~ msgstr "তালিকা হিসেবে দেখুন"
+
+#, fuzzy
+#~ msgid "View in columns"
+#~ msgstr "স্তম্ভাকার শ্রেণী হিসেবে দেখুন"
+
+#~ msgid "%u second"
+#~ msgid_plural "%u seconds"
+#~ msgstr[0] "এক সেকেন্ড"
+#~ msgstr[1] "%u সেকেন্ড"
+
+#~ msgid "%u minute"
+#~ msgid_plural "%u minutes"
+#~ msgstr[0] "এক মিনিট"
+#~ msgstr[1] "%u মিনিট"
+
+#~ msgctxt "minutes and seconds"
+#~ msgid "%s and %s"
+#~ msgstr "%s আর %s"
+
+#~ msgid "%u day"
+#~ msgid_plural "%u days"
+#~ msgstr[0] "এক দিন"
+#~ msgstr[1] "%u দিন"
+
+#~ msgid "%u hour"
+#~ msgid_plural "%u hours"
+#~ msgstr[0] "এক ঘন্টা"
+#~ msgstr[1] "%u ঘন্টা"
+
+#~ msgctxt "days, hours and minutes"
+#~ msgid "%s, %s and %s"
+#~ msgstr "%s, %s আর %s"
+
+#~ msgctxt "days and hours"
+#~ msgid "%s and %s"
+#~ msgstr "%s আর %s"
+
+#~ msgctxt "days and minutes"
+#~ msgid "%s and %s"
+#~ msgstr "%s আর %s"
+
+#~ msgctxt "hours and minutes"
+#~ msgid "%s and %s"
+#~ msgstr "%s আর %s"
+
+#~ msgid "Song"
+#~ msgstr "সংগীত"
+
+#~ msgid "Repeat Artist"
+#~ msgstr "সংগীতকার পুনরাবৃত্তি করুন"
+
+#~ msgid "All"
+#~ msgstr "সব"
+
+#~ msgid "Hide"
+#~ msgstr "লুকান"
+
+#~ msgid "Show Info Panel"
+#~ msgstr "ইনফো প্যানেল দেখুন"
+
+#~ msgid "Show"
+#~ msgstr "দেখুন"
+
+#~ msgid "Hide Info Panel"
+#~ msgstr "ইনফো প্যানেল লুকান"

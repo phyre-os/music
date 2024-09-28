@@ -1,0 +1,262 @@
+# Ukrainian translation for beat-box
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the beat-box package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: beat-box\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-01 10:32+0000\n"
+"PO-Revision-Date: 2024-09-02 20:05+0000\n"
+"Last-Translator: Ihor Hordiichuk <igor_ck@outlook.com>\n"
+"Language-Team: Ukrainian <https://l10n.phyreos.io/projects/music/extra/uk/"
+">\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.6.2\n"
+"X-Launchpad-Export-Date: 2017-03-07 05:56+0000\n"
+
+#: data/music.metainfo.xml.in:10 data/music.desktop.in:6
+msgid "Music"
+msgstr "Музика"
+
+#: data/music.metainfo.xml.in:11
+msgid "Queue and play local audio files"
+msgstr "Черга та відтворення локальних аудіофайлів"
+
+#: data/music.metainfo.xml.in:13
+msgid ""
+"Quickly queue up and listen to your local music files without any extra "
+"frills. See embedded album artwork. Control playback with media keys or in "
+"the system audio indicator."
+msgstr ""
+"Швидко додавайте в чергу і слухайте свої локальні музичні файли без зайвих "
+"дій. Переглядайте вбудовану обкладинку альбому. Керуйте відтворенням за "
+"допомогою медіаклавіш або через системний аудіоіндикатор."
+
+#: data/music.metainfo.xml.in:18
+msgid "Quickly queue up your favorite tracks"
+msgstr "Швидке створення черги з улюблених доріжок"
+
+#: data/music.metainfo.xml.in:59 data/music.metainfo.xml.in:70
+#: data/music.metainfo.xml.in:84
+msgid "Improvements:"
+msgstr "Поліпшення:"
+
+#: data/music.metainfo.xml.in:61
+msgid "Toolbar shows a shadow when the view is scrolled"
+msgstr "Панель інструментів показує тінь під час гортання"
+
+#: data/music.metainfo.xml.in:62
+msgid "Open audio files from within Music"
+msgstr "Відкриття аудіофайлів у застосунку Музика"
+
+#: data/music.metainfo.xml.in:63 data/music.metainfo.xml.in:73
+#: data/music.metainfo.xml.in:106
+msgid "Updated translations"
+msgstr "Оновлено переклади"
+
+#: data/music.metainfo.xml.in:72
+msgid "Open folders in the filemanager with Music"
+msgstr "Відкривайте теки у файловому менеджері за допомогою застосунку Музика"
+
+#: data/music.metainfo.xml.in:86
+msgid "For tracks without a title, use the file name instead of the whole URI"
+msgstr "Для доріжок без назви використовується назва файлу, а не весь URI"
+
+#: data/music.metainfo.xml.in:87
+msgid "Skip invalid files instead of stopping playback"
+msgstr "Пропуск неприпустимих файлів замість припинення відтворення"
+
+#: data/music.metainfo.xml.in:88
+msgid "Next and Repeat buttons always work regardless of repeat mode"
+msgstr ""
+"Кнопки «Далі» та «Повторити» працюватимуть завжди, незалежно від режиму "
+"повтору"
+
+#: data/music.metainfo.xml.in:89
+msgid ""
+"Now available in Catalan, Dutch, Finnish, French, German, Hebrew, Hungarian, "
+"Japanese, Korean, Kurdish, Marathi, Norwegian Bokmål, Polish, Portuguese, "
+"Russian, Simplified Chinese, Turkish, and Ukrainian"
+msgstr ""
+"Відтепер доступний каталонською, нідерландською, фінською, французькою, "
+"німецькою, івритом, угорською, японською, корейською, курдською, маратхі, "
+"норвезькою букмол, польською, португальською, російською, спрощеною "
+"китайською, турецькою, українською та японською мовами"
+
+#: data/music.metainfo.xml.in:99
+msgid "Complete rewrite"
+msgstr "Повністю перероблено"
+
+#: data/music.metainfo.xml.in:105
+msgid "Drop support for Last.FM"
+msgstr "Завершено підтримку Last.FM"
+
+#: data/music.desktop.in:7
+msgid "Listen to music"
+msgstr "Прослуховування музики"
+
+#: data/music.desktop.in:9
+msgid "Noise;Audio;Player;MP3;Play;Playlist;Media;Songs;"
+msgstr ""
+"Noise;Audio;Аудіо;Player;Програвач;MP3;Play;Відтворення;Playlist;Добірка;"
+"Список відтворення;Плейліст;Медіа;Media;Songs;Пісні;"
+
+#~ msgid "Phyre Ltd."
+#~ msgstr "Phyre Ltd."
+
+#~ msgid "Fix an issue with saving smart playlists"
+#~ msgstr "Виправлено проблему зі збереженням розумних списків відтворення"
+
+#~ msgid "Drop support for CD-ROM"
+#~ msgstr "Завершено підтримку CD-ROM"
+
+#~ msgid "Dark style support"
+#~ msgstr "Підтримка темного стилю"
+
+#~ msgid "Minor visual improvements"
+#~ msgstr "Незначні покращення вигляду"
+
+#~ msgid "Music Player"
+#~ msgstr "Музичний програвач"
+
+#~ msgid "Drag and drop whole folders into the queue"
+#~ msgstr "Перетягування цілих тек до черги"
+
+#~ msgid "Fix removing items from the queue"
+#~ msgstr "Виправлено ваду вилучення елементів із черги"
+
+#~ msgid "Fix equalizer sliders not properly disabled sometimes"
+#~ msgstr "Виправлено повзунки еквалайзера, які іноді неправильно вимикаються"
+
+#~ msgid "Performance improvements"
+#~ msgstr "Поліпшено швидкодію"
+
+#~ msgid "Removed old gsignond vapi"
+#~ msgstr "Вилучено старий gsignond vapi"
+
+#~ msgid "LibraryWindow: Use Granite.MessageDialog for showing alerts"
+#~ msgstr ""
+#~ "LibraryWindow: Використання Granite.MessageDialog для показу сповіщень"
+
+#~ msgid "PlaylistsUtils: Use Gtk.FileChooserNative"
+#~ msgstr "PlaylistsUtils: Використання Gtk.FileChooserNative"
+
+#~ msgid "Accurately remember window size"
+#~ msgstr "Точне запам'ятовування розміру вікна"
+
+#~ msgid "Scale album art properly at high resolutions"
+#~ msgstr ""
+#~ "Правильне масштабування обкладинок альбомів з високою роздільною здатністю"
+
+#~ msgid ""
+#~ "Accurately select Music Folder Location for directories with spaces in "
+#~ "name"
+#~ msgstr ""
+#~ "Точний вибір розташування музичної теки для каталогів з пробілами в назві"
+
+#~ msgid "New MediaKeyListener path for gnome-settings-daemon"
+#~ msgstr "Новий шлях MediaKeyListener для gnome-settings-daemon"
+
+#~ msgid "AlbumView: double-click to play album"
+#~ msgstr "AlbumView: двічі клацніть, щоб відтворити альбом"
+
+#~ msgid "Associate with s3m files"
+#~ msgstr "Пов'язування з файлами s3m"
+
+#~ msgid "Queue fixes"
+#~ msgstr "Чергові виправлення"
+
+#~ msgid "Properly restore playlists"
+#~ msgstr "Правильне відновлення списків відтворення"
+
+#~ msgid "Always respect custom music folder setting"
+#~ msgstr "Запам'ятовування власних налаштувань музичної теки"
+
+#~ msgid "Minor bug fixes"
+#~ msgstr "Незначні виправлення"
+
+#~ msgid "Fix list and column view sorting"
+#~ msgstr "Виправлено впорядкування подання списком та стовпчиком"
+
+#~ msgid "Add orange accent color"
+#~ msgstr "Додано основний жовтогарячий колір"
+
+#~ msgid "Add shortcut accels to tooltips"
+#~ msgstr "Додано комбінацію клавіш для доступу до підказок"
+
+#~ msgid "Various UI changes"
+#~ msgstr "Різні зміни зовнішнього вигляду"
+
+#~ msgid "Shuffle fixes"
+#~ msgstr "Виправлення у випадковому порядку"
+
+#~ msgid "Initial MPRIS support"
+#~ msgstr "Початок підтримки MPRIS"
+
+#~ msgid "Detect library changes at startup."
+#~ msgstr "Виявлення змін у бібліотеці під час запуску."
+
+#~ msgid "Support searching by URI"
+#~ msgstr "Підтримка пошуку за URI"
+
+#~ msgid "Change the queue mechanism to make it less confusing."
+#~ msgstr "Змінено механізм черги, щоб зробити його менш заплутаним."
+
+#~ msgid "Improve equalizer style."
+#~ msgstr "Покращено стиль еквалайзера."
+
+#~ msgid "Minor bug fixes."
+#~ msgstr "Незначні виправлення."
+
+#~ msgid "Add rounded bottom window corner."
+#~ msgstr "Додано закруглені нижні кути вікна."
+
+#~ msgid "New translations"
+#~ msgstr "Нові переклади"
+
+#~ msgid "Release for Loki."
+#~ msgstr "Випуск для Loki."
+
+#~ msgid "Add support for Opus Ogg"
+#~ msgstr "Додано підтримку Opus Ogg"
+
+#~ msgid "Fix Ctrl+Q support for non-Latin keyboard layouts"
+#~ msgstr "Виправлено підтримку Ctrl + Q для розкладок клавіатури не латинкою"
+
+#~ msgid "Reorganize media edition layout"
+#~ msgstr "Перероблено макет медіа видання"
+
+#~ msgid "Port grid to support HiDPI displays"
+#~ msgstr "Сітка портів для підтримки дисплеїв HiDPI"
+
+#~ msgid "Update icons to latest elementary icon release"
+#~ msgstr "Оновлено піктограми до нового стилю піктограм elementary"
+
+#~ msgid "Respect privacy mode"
+#~ msgstr "Дотримання режиму приватності"
+
+#~ msgid "The official elementary music player"
+#~ msgstr "Офіційний музичний програвач elementryOS"
+
+#~ msgid ""
+#~ "Music is a fast and beautiful audio player with a focus on music and "
+#~ "libraries. It handles external devices and album art."
+#~ msgstr ""
+#~ "Музика — швидкий та красивий програвач зосереджений на музиці та "
+#~ "бібліотеках. Підтримує зовнішні пристрої та обкладинки альбомів."
+
+#~ msgid "io.phyre.music"
+#~ msgstr "io.phyre.music"
+
+#~ msgid "multimedia-audio-player"
+#~ msgstr "multimedia-audio-player"
+
+#~ msgid "About Music"
+#~ msgstr "Про Музику"
